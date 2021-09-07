@@ -1,0 +1,2492 @@
+[
+  {
+    "kotoba": "怪味",
+    "yomi": "ガイウェイ",
+    "link": "/word/%E6%80%AA%E5%91%B3_%28%E3%82%AC%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%29/#jn-278835"
+  },
+  {
+    "kotoba": "具合",
+    "yomi": "ぐ‐あい",
+    "link": "/word/%E5%85%B7%E5%90%88_%28%E3%81%90%E3%81%82%E3%81%84%29/#jn-60070"
+  },
+  {
+    "kotoba": "具案",
+    "yomi": "ぐ‐あん",
+    "link": "/word/%E5%85%B7%E6%A1%88/#jn-60106"
+  },
+  {
+    "kotoba": "愚案",
+    "yomi": "ぐ‐あん",
+    "link": "/word/%E6%84%9A%E6%A1%88/#jn-60107"
+  },
+  {
+    "kotoba": "愚暗",
+    "yomi": "ぐ‐あん",
+    "link": "/word/%E6%84%9A%E6%9A%97/#jn-60109"
+  },
+  {
+    "kotoba": "愚意",
+    "yomi": "ぐ‐い",
+    "link": "/word/%E6%84%9A%E6%84%8F/#jn-60118"
+  },
+  {
+    "kotoba": "五一",
+    "yomi": "ぐ‐いち",
+    "link": "/word/%E4%BA%94%E4%B8%80/#jn-60185"
+  },
+  {
+    "kotoba": "五一三六",
+    "yomi": "ぐいち‐さぶろく",
+    "link": "/word/%E4%BA%94%E4%B8%80%E4%B8%89%E5%85%AD/#jn-60191"
+  },
+  {
+    "kotoba": "寓意",
+    "yomi": "ぐう‐い",
+    "link": "/word/%E5%AF%93%E6%84%8F/#jn-60276"
+  },
+  {
+    "kotoba": "寓意小説",
+    "yomi": "ぐうい‐しょうせつ",
+    "link": "/word/%E5%AF%93%E6%84%8F%E5%B0%8F%E8%AA%AC/#jn-60279"
+  },
+  {
+    "kotoba": "偶因",
+    "yomi": "ぐう‐いん",
+    "link": "/word/%E5%81%B6%E5%9B%A0/#jn-60281"
+  },
+  {
+    "kotoba": "偶因論",
+    "yomi": "ぐういん‐ろん",
+    "link": "/word/%E5%81%B6%E5%9B%A0%E8%AB%96/#jn-60282"
+  },
+  {
+    "kotoba": "偶詠",
+    "yomi": "ぐう‐えい",
+    "link": "/word/%E5%81%B6%E8%A9%A0/#jn-60285"
+  },
+  {
+    "kotoba": "隅角",
+    "yomi": "ぐう‐かく",
+    "link": "/word/%E9%9A%85%E8%A7%92_%28%E3%81%90%E3%81%86%E3%81%8B%E3%81%8F%29/#jn-60293"
+  },
+  {
+    "kotoba": "偶感",
+    "yomi": "ぐう‐かん",
+    "link": "/word/%E5%81%B6%E6%84%9F/#jn-60298"
+  },
+  {
+    "kotoba": "偶関数",
+    "yomi": "ぐう‐かんすう",
+    "link": "/word/%E5%81%B6%E9%96%A2%E6%95%B0/#jn-60305"
+  },
+  {
+    "kotoba": "偶奇性",
+    "yomi": "ぐうき‐せい",
+    "link": "/word/%E5%81%B6%E5%A5%87%E6%80%A7/#jn-60321"
+  },
+  {
+    "kotoba": "寓居",
+    "yomi": "ぐう‐きょ",
+    "link": "/word/%E5%AF%93%E5%B1%85/#jn-60344"
+  },
+  {
+    "kotoba": "偶吟",
+    "yomi": "ぐう‐ぎん",
+    "link": "/word/%E5%81%B6%E5%90%9F/#jn-60350"
+  },
+  {
+    "kotoba": "郡家",
+    "yomi": "ぐう‐け",
+    "link": "/word/%E9%83%A1%E5%AE%B6_%28%E3%81%90%E3%82%93%E3%81%91%29/#jn-60367"
+  },
+  {
+    "kotoba": "藕花",
+    "yomi": "ぐう‐げ",
+    "link": "/word/%E8%97%95%E8%8A%B1/#jn-60368"
+  },
+  {
+    "kotoba": "寓言",
+    "yomi": "ぐう‐げん",
+    "link": "/word/%E5%AF%93%E8%A8%80/#jn-60377"
+  },
+  {
+    "kotoba": "寓言法",
+    "yomi": "ぐうげん‐ほう",
+    "link": "/word/%E5%AF%93%E8%A8%80%E6%B3%95/#jn-60378"
+  },
+  {
+    "kotoba": "偶語",
+    "yomi": "ぐう‐ご",
+    "link": "/word/%E5%81%B6%E8%AA%9E/#jn-60380"
+  },
+  {
+    "kotoba": "偶合",
+    "yomi": "ぐう‐ごう",
+    "link": "/word/%E5%81%B6%E5%90%88/#jn-60383"
+  },
+  {
+    "kotoba": "偶作",
+    "yomi": "ぐう‐さく",
+    "link": "/word/%E5%81%B6%E4%BD%9C/#jn-60391"
+  },
+  {
+    "kotoba": "藕糸",
+    "yomi": "ぐう‐し",
+    "link": "/word/%E8%97%95%E7%B3%B8/#jn-60398"
+  },
+  {
+    "kotoba": "宮社",
+    "yomi": "ぐう‐しゃ",
+    "link": "/word/%E5%AE%AE%E7%A4%BE/#jn-60405"
+  },
+  {
+    "kotoba": "寓舎",
+    "yomi": "ぐう‐しゃ",
+    "link": "/word/%E5%AF%93%E8%88%8E/#jn-60406"
+  },
+  {
+    "kotoba": "寓宗",
+    "yomi": "ぐう‐しゅう",
+    "link": "/word/%E5%AF%93%E5%AE%97/#jn-60414"
+  },
+  {
+    "kotoba": "寓所",
+    "yomi": "ぐう‐しょ",
+    "link": "/word/%E5%AF%93%E6%89%80/#jn-60417"
+  },
+  {
+    "kotoba": "宮司",
+    "yomi": "ぐう‐じ",
+    "link": "/word/%E5%AE%AE%E5%8F%B8_%28%E3%81%90%E3%81%86%E3%81%98%29/#jn-60399"
+  },
+  {
+    "kotoba": "宮寺",
+    "yomi": "ぐう‐じ",
+    "link": "/word/%E5%AE%AE%E5%AF%BA_%28%E3%81%90%E3%81%86%E3%81%98%29/#jn-60400"
+  },
+  {
+    "kotoba": "窮子喩",
+    "yomi": "ぐうじ‐ゆ",
+    "link": "/word/%E7%AA%AE%E5%AD%90%E5%96%A9/#jn-60411"
+  },
+  {
+    "kotoba": "偶人",
+    "yomi": "ぐう‐じん",
+    "link": "/word/%E5%81%B6%E4%BA%BA/#jn-60423"
+  },
+  {
+    "kotoba": "偶数",
+    "yomi": "ぐう‐すう",
+    "link": "/word/%E5%81%B6%E6%95%B0/#jn-60430"
+  },
+  {
+    "kotoba": "偶成",
+    "yomi": "ぐう‐せい",
+    "link": "/word/%E5%81%B6%E6%88%90/#jn-60436"
+  },
+  {
+    "kotoba": "寓生",
+    "yomi": "ぐう‐せい",
+    "link": "/word/%E5%AF%93%E7%94%9F/#jn-60437"
+  },
+  {
+    "kotoba": "偶然",
+    "yomi": "ぐう‐ぜん",
+    "link": "/word/%E5%81%B6%E7%84%B6/#jn-60444"
+  },
+  {
+    "kotoba": "偶然性",
+    "yomi": "ぐうぜん‐せい",
+    "link": "/word/%E5%81%B6%E7%84%B6%E6%80%A7/#jn-60445"
+  },
+  {
+    "kotoba": "偶然発生",
+    "yomi": "ぐうぜん‐はっせい",
+    "link": "/word/%E5%81%B6%E7%84%B6%E7%99%BA%E7%94%9F/#jn-60448"
+  },
+  {
+    "kotoba": "偶然発生説",
+    "yomi": "ぐうぜん‐はっせいせつ",
+    "link": "/word/%E5%81%B6%E7%84%B6%E7%99%BA%E7%94%9F%E8%AA%AC/#jn-286843"
+  },
+  {
+    "kotoba": "偶然変異",
+    "yomi": "ぐうぜん‐へんい",
+    "link": "/word/%E5%81%B6%E7%84%B6%E5%A4%89%E7%95%B0/#jn-60449"
+  },
+  {
+    "kotoba": "偶然論",
+    "yomi": "ぐうぜん‐ろん",
+    "link": "/word/%E5%81%B6%E7%84%B6%E8%AB%96/#jn-60450"
+  },
+  {
+    "kotoba": "偶像",
+    "yomi": "ぐう‐ぞう",
+    "link": "/word/%E5%81%B6%E5%83%8F/#jn-60455"
+  },
+  {
+    "kotoba": "偶像化",
+    "yomi": "ぐうぞう‐か",
+    "link": "/word/%E5%81%B6%E5%83%8F%E5%8C%96/#jn-60456"
+  },
+  {
+    "kotoba": "偶像視",
+    "yomi": "ぐうぞう‐し",
+    "link": "/word/%E5%81%B6%E5%83%8F%E8%A6%96/#jn-60460"
+  },
+  {
+    "kotoba": "偶像崇拝",
+    "yomi": "ぐうぞう‐すうはい",
+    "link": "/word/%E5%81%B6%E5%83%8F%E5%B4%87%E6%8B%9D/#jn-60461"
+  },
+  {
+    "kotoba": "偶像破壊",
+    "yomi": "ぐうぞう‐はかい",
+    "link": "/word/%E5%81%B6%E5%83%8F%E7%A0%B4%E5%A3%8A/#jn-60465"
+  },
+  {
+    "kotoba": "偶中",
+    "yomi": "ぐう‐ちゅう",
+    "link": "/word/%E5%81%B6%E4%B8%AD/#jn-60478"
+  },
+  {
+    "kotoba": "偶蹄類",
+    "yomi": "ぐうてい‐るい",
+    "link": "/word/%E5%81%B6%E8%B9%84%E9%A1%9E/#jn-60509"
+  },
+  {
+    "kotoba": "偶発",
+    "yomi": "ぐう‐はつ",
+    "link": "/word/%E5%81%B6%E7%99%BA/#jn-60541"
+  },
+  {
+    "kotoba": "偶発債務",
+    "yomi": "ぐうはつ‐さいむ",
+    "link": "/word/%E5%81%B6%E7%99%BA%E5%82%B5%E5%8B%99/#jn-60542"
+  },
+  {
+    "kotoba": "偶発資本",
+    "yomi": "ぐうはつ‐しほん",
+    "link": "/word/%E5%81%B6%E7%99%BA%E8%B3%87%E6%9C%AC/#jn-242669"
+  },
+  {
+    "kotoba": "偶発症",
+    "yomi": "ぐうはつ‐しょう",
+    "link": "/word/%E5%81%B6%E7%99%BA%E7%97%87/#jn-242670"
+  },
+  {
+    "kotoba": "偶発戦争",
+    "yomi": "ぐうはつ‐せんそう",
+    "link": "/word/%E5%81%B6%E7%99%BA%E6%88%A6%E4%BA%89/#jn-60543"
+  },
+  {
+    "kotoba": "偶発損失",
+    "yomi": "ぐうはつ‐そんしつ",
+    "link": "/word/%E5%81%B6%E7%99%BA%E6%90%8D%E5%A4%B1/#jn-286846"
+  },
+  {
+    "kotoba": "偶発損失引当金",
+    "yomi": "ぐうはつそんしつ‐ひきあてきん",
+    "link": "/word/%E5%81%B6%E7%99%BA%E6%90%8D%E5%A4%B1%E5%BC%95%E5%BD%93%E9%87%91/#jn-286847"
+  },
+  {
+    "kotoba": "偶発的所見",
+    "yomi": "ぐうはつてき‐しょけん",
+    "link": "/word/%E5%81%B6%E7%99%BA%E7%9A%84%E6%89%80%E8%A6%8B/#jn-268103"
+  },
+  {
+    "kotoba": "偶発犯",
+    "yomi": "ぐうはつ‐はん",
+    "link": "/word/%E5%81%B6%E7%99%BA%E7%8A%AF/#jn-60544"
+  },
+  {
+    "kotoba": "偶発実生",
+    "yomi": "ぐうはつ‐みしょう",
+    "link": "/word/%E5%81%B6%E7%99%BA%E5%AE%9F%E7%94%9F/#jn-295994"
+  },
+  {
+    "kotoba": "寓目",
+    "yomi": "ぐう‐もく",
+    "link": "/word/%E5%AF%93%E7%9B%AE/#jn-60577"
+  },
+  {
+    "kotoba": "偶有",
+    "yomi": "ぐう‐ゆう",
+    "link": "/word/%E5%81%B6%E6%9C%89/#jn-60590"
+  },
+  {
+    "kotoba": "偶有性",
+    "yomi": "ぐうゆう‐せい",
+    "link": "/word/%E5%81%B6%E6%9C%89%E6%80%A7/#jn-60591"
+  },
+  {
+    "kotoba": "偶有的属性",
+    "yomi": "ぐうゆうてき‐ぞくせい",
+    "link": "/word/%E5%81%B6%E6%9C%89%E7%9A%84%E5%B1%9E%E6%80%A7/#jn-60592"
+  },
+  {
+    "kotoba": "偶力",
+    "yomi": "ぐう‐りょく",
+    "link": "/word/%E5%81%B6%E5%8A%9B/#jn-60612"
+  },
+  {
+    "kotoba": "偶列",
+    "yomi": "ぐう‐れつ",
+    "link": "/word/%E5%81%B6%E5%88%97/#jn-60637"
+  },
+  {
+    "kotoba": "寓話",
+    "yomi": "ぐう‐わ",
+    "link": "/word/%E5%AF%93%E8%A9%B1/#jn-60649"
+  },
+  {
+    "kotoba": "寓話集",
+    "yomi": "ぐうわしゅう",
+    "link": "/word/%E5%AF%93%E8%A9%B1%E9%9B%86/#jn-270830"
+  },
+  {
+    "kotoba": "愚詠",
+    "yomi": "ぐ‐えい",
+    "link": "/word/%E6%84%9A%E8%A9%A0/#jn-60655"
+  },
+  {
+    "kotoba": "阮朝王宮",
+    "yomi": "げんちょう‐おうきゅう",
+    "link": "/word/%E9%98%AE%E6%9C%9D%E7%8E%8B%E5%AE%AE/#jn-273104"
+  },
+  {
+    "kotoba": "愚管抄",
+    "yomi": "ぐかんしょう",
+    "link": "/word/%E6%84%9A%E7%AE%A1%E6%8A%84/#jn-60766"
+  },
+  {
+    "kotoba": "弘願",
+    "yomi": "ぐ‐がん",
+    "link": "/word/%E5%BC%98%E9%A1%98/#jn-60763"
+  },
+  {
+    "kotoba": "具眼",
+    "yomi": "ぐ‐がん",
+    "link": "/word/%E5%85%B7%E7%9C%BC/#jn-60764"
+  },
+  {
+    "kotoba": "虞姫",
+    "yomi": "ぐ‐き",
+    "link": "/word/person/%E8%99%9E%E5%A7%AB/#jn-60780"
+  },
+  {
+    "kotoba": "愚挙",
+    "yomi": "ぐ‐きょ",
+    "link": "/word/%E6%84%9A%E6%8C%99/#jn-60806"
+  },
+  {
+    "kotoba": "弘経",
+    "yomi": "ぐ‐きょう",
+    "link": "/word/%E5%BC%98%E7%B5%8C/#jn-60816"
+  },
+  {
+    "kotoba": "弘経大士",
+    "yomi": "ぐきょう‐だいし",
+    "link": "/word/%E5%BC%98%E7%B5%8C%E5%A4%A7%E5%A3%AB/#jn-60823"
+  },
+  {
+    "kotoba": "愚兄",
+    "yomi": "ぐ‐けい",
+    "link": "/word/%E6%84%9A%E5%85%84/#jn-60899"
+  },
+  {
+    "kotoba": "愚計",
+    "yomi": "ぐ‐けい",
+    "link": "/word/%E6%84%9A%E8%A8%88/#jn-60900"
+  },
+  {
+    "kotoba": "弘決外典抄",
+    "yomi": "ぐけつげてんしょう",
+    "link": "/word/%E5%BC%98%E6%B1%BA%E5%A4%96%E5%85%B8%E6%8A%84/#jn-60910"
+  },
+  {
+    "kotoba": "愚見",
+    "yomi": "ぐ‐けん",
+    "link": "/word/%E6%84%9A%E8%A6%8B/#jn-60922"
+  },
+  {
+    "kotoba": "具現",
+    "yomi": "ぐ‐げん",
+    "link": "/word/%E5%85%B7%E7%8F%BE/#jn-60923"
+  },
+  {
+    "kotoba": "愚公",
+    "yomi": "ぐ‐こう",
+    "link": "/word/%E6%84%9A%E5%85%AC/#jn-60933"
+  },
+  {
+    "kotoba": "愚考",
+    "yomi": "ぐ‐こう",
+    "link": "/word/%E6%84%9A%E8%80%83/#jn-60935"
+  },
+  {
+    "kotoba": "愚行",
+    "yomi": "ぐ‐こう",
+    "link": "/word/%E6%84%9A%E8%A1%8C/#jn-60936"
+  },
+  {
+    "kotoba": "愚稿",
+    "yomi": "ぐ‐こう",
+    "link": "/word/%E6%84%9A%E7%A8%BF/#jn-60937"
+  },
+  {
+    "kotoba": "供御",
+    "yomi": "く‐ご",
+    "link": "/word/%E4%BE%9B%E5%BE%A1_%28%E3%81%8F%E3%81%94%29/#jn-60926"
+  },
+  {
+    "kotoba": "供祭",
+    "yomi": "ぐ‐さい",
+    "link": "/word/%E4%BE%9B%E7%A5%AD/#jn-60966"
+  },
+  {
+    "kotoba": "救済",
+    "yomi": "ぐ‐さい",
+    "link": "/word/%E6%95%91%E6%B8%88_%28%E3%81%90%E3%81%95%E3%81%84%29/#jn-60967"
+  },
+  {
+    "kotoba": "救済",
+    "yomi": "ぐさい",
+    "link": "/word/person/%E6%95%91%E6%B8%88/#jn-60968"
+  },
+  {
+    "kotoba": "愚才",
+    "yomi": "ぐ‐さい",
+    "link": "/word/%E6%84%9A%E6%89%8D/#jn-60969"
+  },
+  {
+    "kotoba": "愚妻",
+    "yomi": "ぐ‐さい",
+    "link": "/word/%E6%84%9A%E5%A6%BB/#jn-60970"
+  },
+  {
+    "kotoba": "愚作",
+    "yomi": "ぐ‐さく",
+    "link": "/word/%E6%84%9A%E4%BD%9C/#jn-61020"
+  },
+  {
+    "kotoba": "愚策",
+    "yomi": "ぐ‐さく",
+    "link": "/word/%E6%84%9A%E7%AD%96/#jn-61021"
+  },
+  {
+    "kotoba": "愚札",
+    "yomi": "ぐ‐さつ",
+    "link": "/word/%E6%84%9A%E6%9C%AD/#jn-61053"
+  },
+  {
+    "kotoba": "愚察",
+    "yomi": "ぐ‐さつ",
+    "link": "/word/%E6%84%9A%E5%AF%9F/#jn-61054"
+  },
+  {
+    "kotoba": "具材",
+    "yomi": "ぐ‐ざい",
+    "link": "/word/%E5%85%B7%E6%9D%90/#jn-60971"
+  },
+  {
+    "kotoba": "五四",
+    "yomi": "ぐ‐し",
+    "link": "/word/%E4%BA%94%E5%9B%9B/#jn-61215"
+  },
+  {
+    "kotoba": "愚姉",
+    "yomi": "ぐ‐し",
+    "link": "/word/%E6%84%9A%E5%A7%89/#jn-61216"
+  },
+  {
+    "kotoba": "虞氏",
+    "yomi": "ぐ‐し",
+    "link": "/word/person/%E8%99%9E%E6%B0%8F/#jn-61217"
+  },
+  {
+    "kotoba": "具志川",
+    "yomi": "ぐしかわ",
+    "link": "/word/%E5%85%B7%E5%BF%97%E5%B7%9D/#jn-61243"
+  },
+  {
+    "kotoba": "具志川市",
+    "yomi": "ぐしかわ‐し",
+    "link": "/word/%E5%85%B7%E5%BF%97%E5%B7%9D%E5%B8%82/#jn-61244"
+  },
+  {
+    "kotoba": "愚者",
+    "yomi": "ぐ‐しゃ",
+    "link": "/word/%E6%84%9A%E8%80%85/#jn-61311"
+  },
+  {
+    "kotoba": "愚者列伝",
+    "yomi": "ぐしゃれつでん",
+    "link": "/word/%E6%84%9A%E8%80%85%E5%88%97%E4%BC%9D/#jn-278993"
+  },
+  {
+    "kotoba": "虞舜",
+    "yomi": "ぐ‐しゅん",
+    "link": "/word/person/%E8%99%9E%E8%88%9C/#jn-61368"
+  },
+  {
+    "kotoba": "具書",
+    "yomi": "ぐ‐しょ",
+    "link": "/word/%E5%85%B7%E6%9B%B8/#jn-61372"
+  },
+  {
+    "kotoba": "愚書",
+    "yomi": "ぐ‐しょ",
+    "link": "/word/%E6%84%9A%E6%9B%B8/#jn-61373"
+  },
+  {
+    "kotoba": "具象",
+    "yomi": "ぐ‐しょう",
+    "link": "/word/%E5%85%B7%E8%B1%A1/#jn-61383"
+  },
+  {
+    "kotoba": "具象的",
+    "yomi": "ぐしょう‐てき",
+    "link": "/word/%E5%85%B7%E8%B1%A1%E7%9A%84/#jn-61394"
+  },
+  {
+    "kotoba": "供進",
+    "yomi": "ぐ‐しん",
+    "link": "/word/%E4%BE%9B%E9%80%B2_%28%E3%81%90%E3%81%97%E3%82%93%29/#jn-61437"
+  },
+  {
+    "kotoba": "具申",
+    "yomi": "ぐ‐しん",
+    "link": "/word/%E5%85%B7%E7%94%B3/#jn-61438"
+  },
+  {
+    "kotoba": "愚心",
+    "yomi": "ぐ‐しん",
+    "link": "/word/%E6%84%9A%E5%BF%83/#jn-61439"
+  },
+  {
+    "kotoba": "愚臣",
+    "yomi": "ぐ‐しん",
+    "link": "/word/%E6%84%9A%E8%87%A3/#jn-61440"
+  },
+  {
+    "kotoba": "愚身",
+    "yomi": "ぐ‐しん",
+    "link": "/word/%E6%84%9A%E8%BA%AB/#jn-61441"
+  },
+  {
+    "kotoba": "愚神礼讃",
+    "yomi": "ぐしんらいさん",
+    "link": "/word/%E6%84%9A%E7%A5%9E%E7%A4%BC%E8%AE%83/#jn-61444"
+  },
+  {
+    "kotoba": "愚女",
+    "yomi": "ぐ‐じょ",
+    "link": "/word/%E6%84%9A%E5%A5%B3/#jn-61374"
+  },
+  {
+    "kotoba": "具状",
+    "yomi": "ぐ‐じょう",
+    "link": "/word/%E5%85%B7%E7%8A%B6/#jn-61384"
+  },
+  {
+    "kotoba": "郡上",
+    "yomi": "ぐじょう",
+    "link": "/word/%E9%83%A1%E4%B8%8A/#jn-61385"
+  },
+  {
+    "kotoba": "郡上市",
+    "yomi": "ぐじょう‐し",
+    "link": "/word/%E9%83%A1%E4%B8%8A%E5%B8%82/#jn-61388"
+  },
+  {
+    "kotoba": "郡上節",
+    "yomi": "ぐじょう‐ぶし",
+    "link": "/word/%E9%83%A1%E4%B8%8A%E7%AF%80/#jn-61399"
+  },
+  {
+    "kotoba": "愚人",
+    "yomi": "ぐ‐じん",
+    "link": "/word/%E6%84%9A%E4%BA%BA_%28%E3%81%90%E3%81%98%E3%82%93%29/#jn-61442"
+  },
+  {
+    "kotoba": "愚図",
+    "yomi": "ぐず",
+    "link": "/word/%E6%84%9A%E5%9B%B3/#jn-61453"
+  },
+  {
+    "kotoba": "弘通",
+    "yomi": "ぐ‐ずう",
+    "link": "/word/%E5%BC%98%E9%80%9A_%28%E3%81%90%E3%81%9A%E3%81%86%29/#jn-61463"
+  },
+  {
+    "kotoba": "愚図愚図",
+    "yomi": "ぐず‐ぐず",
+    "link": "/word/%E6%84%9A%E5%9B%B3%E6%84%9A%E5%9B%B3/#jn-61481"
+  },
+  {
+    "kotoba": "具墨",
+    "yomi": "ぐ‐ずみ",
+    "link": "/word/%E5%85%B7%E5%A2%A8/#jn-61552"
+  },
+  {
+    "kotoba": "救世",
+    "yomi": "く‐せ",
+    "link": "/word/%E6%95%91%E4%B8%96_%28%E3%81%8F%E3%81%9B%29/#jn-61621"
+  },
+  {
+    "kotoba": "愚生",
+    "yomi": "ぐ‐せい",
+    "link": "/word/%E6%84%9A%E7%94%9F/#jn-61627"
+  },
+  {
+    "kotoba": "虞世南",
+    "yomi": "ぐ‐せいなん",
+    "link": "/word/person/%E8%99%9E%E4%B8%96%E5%8D%97/#jn-61632"
+  },
+  {
+    "kotoba": "愚説",
+    "yomi": "ぐ‐せつ",
+    "link": "/word/%E6%84%9A%E8%AA%AC/#jn-61653"
+  },
+  {
+    "kotoba": "愚拙",
+    "yomi": "ぐ‐せつ",
+    "link": "/word/%E6%84%9A%E6%8B%99/#jn-61654"
+  },
+  {
+    "kotoba": "供饌",
+    "yomi": "ぐ‐せん",
+    "link": "/word/%E4%BE%9B%E9%A5%8C/#jn-61676"
+  },
+  {
+    "kotoba": "弘誓",
+    "yomi": "ぐ‐ぜい",
+    "link": "/word/%E5%BC%98%E8%AA%93/#jn-61628"
+  },
+  {
+    "kotoba": "貢税",
+    "yomi": "ぐ‐ぜい",
+    "link": "/word/%E8%B2%A2%E7%A8%8E/#jn-61629"
+  },
+  {
+    "kotoba": "虞芮",
+    "yomi": "ぐ‐ぜい",
+    "link": "/word/%E8%99%9E%E8%8A%AE/#jn-61630"
+  },
+  {
+    "kotoba": "弘誓相",
+    "yomi": "ぐぜい‐そう",
+    "link": "/word/%E5%BC%98%E8%AA%93%E7%9B%B8/#jn-61631"
+  },
+  {
+    "kotoba": "弘誓房",
+    "yomi": "ぐぜい‐ぼう",
+    "link": "/word/%E5%BC%98%E8%AA%93%E6%88%BF/#jn-61638"
+  },
+  {
+    "kotoba": "貢税料所",
+    "yomi": "ぐぜい‐りょうしょ",
+    "link": "/word/%E8%B2%A2%E7%A8%8E%E6%96%99%E6%89%80/#jn-61639"
+  },
+  {
+    "kotoba": "供僧",
+    "yomi": "ぐ‐そう",
+    "link": "/word/%E4%BE%9B%E5%83%A7/#jn-61689"
+  },
+  {
+    "kotoba": "具相",
+    "yomi": "ぐ‐そう",
+    "link": "/word/%E5%85%B7%E7%9B%B8/#jn-61690"
+  },
+  {
+    "kotoba": "愚草",
+    "yomi": "ぐ‐そう",
+    "link": "/word/%E6%84%9A%E8%8D%89/#jn-61691"
+  },
+  {
+    "kotoba": "愚僧",
+    "yomi": "ぐ‐そう",
+    "link": "/word/%E6%84%9A%E5%83%A7/#jn-61692"
+  },
+  {
+    "kotoba": "具足",
+    "yomi": "ぐ‐そく",
+    "link": "/word/%E5%85%B7%E8%B6%B3/#jn-61699"
+  },
+  {
+    "kotoba": "愚息",
+    "yomi": "ぐ‐そく",
+    "link": "/word/%E6%84%9A%E6%81%AF/#jn-61700"
+  },
+  {
+    "kotoba": "具足親",
+    "yomi": "ぐそく‐おや",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E8%A6%AA/#jn-61701"
+  },
+  {
+    "kotoba": "具足戒",
+    "yomi": "ぐそく‐かい",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E6%88%92/#jn-61702"
+  },
+  {
+    "kotoba": "具足帷子",
+    "yomi": "ぐそく‐かたびら",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E5%B8%B7%E5%AD%90/#jn-61703"
+  },
+  {
+    "kotoba": "具足金",
+    "yomi": "ぐそく‐がね",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E9%87%91/#jn-61704"
+  },
+  {
+    "kotoba": "具足師",
+    "yomi": "ぐそく‐し",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E5%B8%AB/#jn-61705"
+  },
+  {
+    "kotoba": "具足鯛",
+    "yomi": "ぐそく‐だい",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E9%AF%9B/#jn-61706"
+  },
+  {
+    "kotoba": "具足煮",
+    "yomi": "ぐそく‐に",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E7%85%AE/#jn-61707"
+  },
+  {
+    "kotoba": "具足羽織",
+    "yomi": "ぐそく‐ばおり",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E7%BE%BD%E7%B9%94/#jn-61708"
+  },
+  {
+    "kotoba": "具足櫃",
+    "yomi": "ぐそく‐びつ",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E6%AB%83/#jn-61709"
+  },
+  {
+    "kotoba": "具足奉行",
+    "yomi": "ぐそく‐ぶぎょう",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E5%A5%89%E8%A1%8C/#jn-61711"
+  },
+  {
+    "kotoba": "具足武者",
+    "yomi": "ぐそく‐むしゃ",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E6%AD%A6%E8%80%85/#jn-61712"
+  },
+  {
+    "kotoba": "具足餅",
+    "yomi": "ぐそく‐もち",
+    "link": "/word/%E5%85%B7%E8%B6%B3%E9%A4%85/#jn-61713"
+  },
+  {
+    "kotoba": "愚存",
+    "yomi": "ぐ‐ぞん",
+    "link": "/word/%E6%84%9A%E5%AD%98/#jn-61730"
+  },
+  {
+    "kotoba": "具体",
+    "yomi": "ぐ‐たい",
+    "link": "/word/%E5%85%B7%E4%BD%93/#jn-61739"
+  },
+  {
+    "kotoba": "具体案",
+    "yomi": "ぐたい‐あん",
+    "link": "/word/%E5%85%B7%E4%BD%93%E6%A1%88/#jn-256873"
+  },
+  {
+    "kotoba": "具体化",
+    "yomi": "ぐたい‐か",
+    "link": "/word/%E5%85%B7%E4%BD%93%E5%8C%96/#jn-61740"
+  },
+  {
+    "kotoba": "具体概念",
+    "yomi": "ぐたい‐がいねん",
+    "link": "/word/%E5%85%B7%E4%BD%93%E6%A6%82%E5%BF%B5/#jn-61741"
+  },
+  {
+    "kotoba": "具体性",
+    "yomi": "ぐたい‐せい",
+    "link": "/word/%E5%85%B7%E4%BD%93%E6%80%A7/#jn-61744"
+  },
+  {
+    "kotoba": "具体的",
+    "yomi": "ぐたい‐てき",
+    "link": "/word/%E5%85%B7%E4%BD%93%E7%9A%84/#jn-61745"
+  },
+  {
+    "kotoba": "具体的真理",
+    "yomi": "ぐたいてき‐しんり",
+    "link": "/word/%E5%85%B7%E4%BD%93%E7%9A%84%E7%9C%9F%E7%90%86/#jn-61746"
+  },
+  {
+    "kotoba": "具沢山",
+    "yomi": "ぐ‐だくさん",
+    "link": "/word/%E5%85%B7%E6%B2%A2%E5%B1%B1/#jn-296002"
+  },
+  {
+    "kotoba": "愚知",
+    "yomi": "ぐ‐ち",
+    "link": "/word/%E6%84%9A%E7%9F%A5/#jn-61937"
+  },
+  {
+    "kotoba": "愚痴",
+    "yomi": "ぐ‐ち",
+    "link": "/word/%E6%84%9A%E7%97%B4/#jn-61938"
+  },
+  {
+    "kotoba": "愚痴話",
+    "yomi": "ぐち‐ばなし",
+    "link": "/word/%E6%84%9A%E7%97%B4%E8%A9%B1/#jn-62116"
+  },
+  {
+    "kotoba": "愚衷",
+    "yomi": "ぐ‐ちゅう",
+    "link": "/word/%E6%84%9A%E8%A1%B7/#jn-62173"
+  },
+  {
+    "kotoba": "愚中周及",
+    "yomi": "ぐちゅう‐しゅうきゅう",
+    "link": "/word/person/%E6%84%9A%E4%B8%AD%E5%91%A8%E5%8F%8A/#jn-62175"
+  },
+  {
+    "kotoba": "具注暦",
+    "yomi": "ぐちゅう‐れき",
+    "link": "/word/%E5%85%B7%E6%B3%A8%E6%9A%A6/#jn-62177"
+  },
+  {
+    "kotoba": "愚直",
+    "yomi": "ぐ‐ちょく",
+    "link": "/word/%E6%84%9A%E7%9B%B4/#jn-62183"
+  },
+  {
+    "kotoba": "具陳",
+    "yomi": "ぐ‐ちん",
+    "link": "/word/%E5%85%B7%E9%99%B3/#jn-62197"
+  },
+  {
+    "kotoba": "弘通",
+    "yomi": "ぐ‐つう",
+    "link": "/word/%E5%BC%98%E9%80%9A_%28%E3%81%90%E3%81%A4%E3%81%86%29/#jn-62209"
+  },
+  {
+    "kotoba": "愚弟",
+    "yomi": "ぐ‐てい",
+    "link": "/word/%E6%84%9A%E5%BC%9F/#jn-62372"
+  },
+  {
+    "kotoba": "愚答",
+    "yomi": "ぐ‐とう",
+    "link": "/word/%E6%84%9A%E7%AD%94/#jn-62394"
+  },
+  {
+    "kotoba": "具徳",
+    "yomi": "ぐ‐とく",
+    "link": "/word/%E5%85%B7%E5%BE%B3/#jn-62415"
+  },
+  {
+    "kotoba": "愚禿",
+    "yomi": "ぐ‐とく",
+    "link": "/word/%E6%84%9A%E7%A6%BF/#jn-62416"
+  },
+  {
+    "kotoba": "愚禿鈔",
+    "yomi": "ぐとくしょう",
+    "link": "/word/%E6%84%9A%E7%A6%BF%E9%88%94/#jn-62418"
+  },
+  {
+    "kotoba": "求道",
+    "yomi": "ぐ‐どう",
+    "link": "/word/%E6%B1%82%E9%81%93_%28%E3%81%90%E3%81%A9%E3%81%86%29/#jn-62395"
+  },
+  {
+    "kotoba": "愚堂東寔",
+    "yomi": "ぐどう‐とうしょく",
+    "link": "/word/person/%E6%84%9A%E5%A0%82%E6%9D%B1%E5%AF%94/#jn-62402"
+  },
+  {
+    "kotoba": "愚鈍",
+    "yomi": "ぐ‐どん",
+    "link": "/word/%E6%84%9A%E9%88%8D/#jn-62432"
+  },
+  {
+    "kotoba": "五二",
+    "yomi": "ぐ‐に",
+    "link": "/word/%E4%BA%94%E4%BA%8C/#jn-62457"
+  },
+  {
+    "kotoba": "愚人",
+    "yomi": "ぐ‐にん",
+    "link": "/word/%E6%84%9A%E4%BA%BA_%28%E3%81%90%E3%81%AB%E3%82%93%29/#jn-62588"
+  },
+  {
+    "kotoba": "倶発",
+    "yomi": "ぐ‐はつ",
+    "link": "/word/%E5%80%B6%E7%99%BA/#jn-62637"
+  },
+  {
+    "kotoba": "虞犯少年",
+    "yomi": "ぐはん‐しょうねん",
+    "link": "/word/%E8%99%9E%E7%8A%AF%E5%B0%91%E5%B9%B4/#jn-62649"
+  },
+  {
+    "kotoba": "具縛",
+    "yomi": "ぐ‐ばく",
+    "link": "/word/%E5%85%B7%E7%B8%9B/#jn-62635"
+  },
+  {
+    "kotoba": "愚筆",
+    "yomi": "ぐ‐ひつ",
+    "link": "/word/%E6%84%9A%E7%AD%86/#jn-62711"
+  },
+  {
+    "kotoba": "狗賓",
+    "yomi": "ぐ‐ひん",
+    "link": "/word/%E7%8B%97%E8%B3%93/#jn-62755"
+  },
+  {
+    "kotoba": "具備",
+    "yomi": "ぐ‐び",
+    "link": "/word/%E5%85%B7%E5%82%99/#jn-62676"
+  },
+  {
+    "kotoba": "虞美人",
+    "yomi": "ぐ‐びじん",
+    "link": "/word/person/%E8%99%9E%E7%BE%8E%E4%BA%BA/#jn-62697"
+  },
+  {
+    "kotoba": "虞美人草",
+    "yomi": "ぐびじん‐そう",
+    "link": "/word/%E8%99%9E%E7%BE%8E%E4%BA%BA%E8%8D%89/#jn-62698"
+  },
+  {
+    "kotoba": "虞美人草",
+    "yomi": "ぐびじんそう",
+    "link": "/word/%E8%99%9E%E7%BE%8E%E4%BA%BA%E8%8D%89/#jn-62699"
+  },
+  {
+    "kotoba": "愚夫",
+    "yomi": "ぐ‐ふ",
+    "link": "/word/%E6%84%9A%E5%A4%AB/#jn-62759"
+  },
+  {
+    "kotoba": "愚父",
+    "yomi": "ぐ‐ふ",
+    "link": "/word/%E6%84%9A%E7%88%B6/#jn-62760"
+  },
+  {
+    "kotoba": "愚婦",
+    "yomi": "ぐ‐ふ",
+    "link": "/word/%E6%84%9A%E5%A9%A6/#jn-62761"
+  },
+  {
+    "kotoba": "颶風",
+    "yomi": "ぐ‐ふう",
+    "link": "/word/%E9%A2%B6%E9%A2%A8/#jn-62767"
+  },
+  {
+    "kotoba": "弘福寺",
+    "yomi": "ぐふく‐じ",
+    "link": "/word/%E5%BC%98%E7%A6%8F%E5%AF%BA/#jn-62769"
+  },
+  {
+    "kotoba": "倶不戴天",
+    "yomi": "ぐ‐ふたいてん",
+    "link": "/word/%E5%80%B6%E4%B8%8D%E6%88%B4%E5%A4%A9/#jn-62773"
+  },
+  {
+    "kotoba": "求不得苦",
+    "yomi": "ぐふとく‐く",
+    "link": "/word/%E6%B1%82%E4%B8%8D%E5%BE%97%E8%8B%A6/#jn-62780"
+  },
+  {
+    "kotoba": "弘布",
+    "yomi": "ぐ‐ぶ",
+    "link": "/word/%E5%BC%98%E5%B8%83_%28%E3%81%90%E3%81%B6%29/#jn-62762"
+  },
+  {
+    "kotoba": "供奉",
+    "yomi": "ぐ‐ぶ",
+    "link": "/word/%E4%BE%9B%E5%A5%89/#jn-62763"
+  },
+  {
+    "kotoba": "供奉僧",
+    "yomi": "ぐぶ‐そう",
+    "link": "/word/%E4%BE%9B%E5%A5%89%E5%83%A7/#jn-62772"
+  },
+  {
+    "kotoba": "供仏",
+    "yomi": "く‐ぶつ",
+    "link": "/word/%E4%BE%9B%E4%BB%8F/#jn-62775"
+  },
+  {
+    "kotoba": "愚物",
+    "yomi": "ぐ‐ぶつ",
+    "link": "/word/%E6%84%9A%E7%89%A9/#jn-62776"
+  },
+  {
+    "kotoba": "弘法",
+    "yomi": "ぐ‐ほう",
+    "link": "/word/%E5%BC%98%E6%B3%95/#jn-62802"
+  },
+  {
+    "kotoba": "求法",
+    "yomi": "ぐ‐ほう",
+    "link": "/word/%E6%B1%82%E6%B3%95/#jn-62803"
+  },
+  {
+    "kotoba": "弘法寺",
+    "yomi": "ぐほう‐じ",
+    "link": "/word/%E5%BC%98%E6%B3%95%E5%AF%BA/#jn-62804"
+  },
+  {
+    "kotoba": "愚母",
+    "yomi": "ぐ‐ぼ",
+    "link": "/word/%E6%84%9A%E6%AF%8D/#jn-62797"
+  },
+  {
+    "kotoba": "愚妹",
+    "yomi": "ぐ‐まい",
+    "link": "/word/%E6%84%9A%E5%A6%B9/#jn-62846"
+  },
+  {
+    "kotoba": "愚昧",
+    "yomi": "ぐ‐まい",
+    "link": "/word/%E6%84%9A%E6%98%A7/#jn-62847"
+  },
+  {
+    "kotoba": "茱萸",
+    "yomi": "ぐみ",
+    "link": "/word/%E8%8C%B1%E8%90%B8_%28%E3%81%90%E3%81%BF%29/#jn-62952"
+  },
+  {
+    "kotoba": "茱萸酒",
+    "yomi": "ぐみ‐ざけ",
+    "link": "/word/%E8%8C%B1%E8%90%B8%E9%85%92/#jn-63004"
+  },
+  {
+    "kotoba": "茱萸袋",
+    "yomi": "ぐみ‐ぶくろ",
+    "link": "/word/%E8%8C%B1%E8%90%B8%E8%A2%8B/#jn-63045"
+  },
+  {
+    "kotoba": "弘明寺",
+    "yomi": "ぐみょう‐じ",
+    "link": "/word/%E5%BC%98%E6%98%8E%E5%AF%BA/#jn-63056"
+  },
+  {
+    "kotoba": "愚民",
+    "yomi": "ぐ‐みん",
+    "link": "/word/%E6%84%9A%E6%B0%91/#jn-63061"
+  },
+  {
+    "kotoba": "愚民観",
+    "yomi": "ぐみん‐かん",
+    "link": "/word/%E6%84%9A%E6%B0%91%E8%A6%B3/#jn-249803"
+  },
+  {
+    "kotoba": "愚民政策",
+    "yomi": "ぐみん‐せいさく",
+    "link": "/word/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/#jn-63063"
+  },
+  {
+    "kotoba": "工面",
+    "yomi": "く‐めん",
+    "link": "/word/%E5%B7%A5%E9%9D%A2/#jn-63093"
+  },
+  {
+    "kotoba": "愚蒙",
+    "yomi": "ぐ‐もう",
+    "link": "/word/%E6%84%9A%E8%92%99/#jn-63122"
+  },
+  {
+    "kotoba": "供物",
+    "yomi": "く‐もつ",
+    "link": "/word/%E4%BE%9B%E7%89%A9/#jn-63151"
+  },
+  {
+    "kotoba": "愚問",
+    "yomi": "ぐ‐もん",
+    "link": "/word/%E6%84%9A%E5%95%8F/#jn-63208"
+  },
+  {
+    "kotoba": "愚問愚答",
+    "yomi": "ぐもん‐ぐとう",
+    "link": "/word/%E6%84%9A%E5%95%8F%E6%84%9A%E7%AD%94/#jn-63209"
+  },
+  {
+    "kotoba": "愚問賢注",
+    "yomi": "ぐもんけんちゅう",
+    "link": "/word/%E6%84%9A%E5%95%8F%E8%B3%A2%E6%B3%A8/#jn-63210"
+  },
+  {
+    "kotoba": "求聞持法",
+    "yomi": "ぐもんじ‐ほう",
+    "link": "/word/%E6%B1%82%E8%81%9E%E6%8C%81%E6%B3%95/#jn-63211"
+  },
+  {
+    "kotoba": "具有",
+    "yomi": "ぐ‐ゆう",
+    "link": "/word/%E5%85%B7%E6%9C%89/#jn-63241"
+  },
+  {
+    "kotoba": "屈輪",
+    "yomi": "ぐり",
+    "link": "/word/%E5%B1%88%E8%BC%AA/#jn-63844"
+  },
+  {
+    "kotoba": "屈輪屈輪",
+    "yomi": "ぐり‐ぐり",
+    "link": "/word/%E5%B1%88%E8%BC%AA%E5%B1%88%E8%BC%AA/#jn-64022"
+  },
+  {
+    "kotoba": "愚慮",
+    "yomi": "ぐ‐りょ",
+    "link": "/word/%E6%84%9A%E6%85%AE/#jn-64240"
+  },
+  {
+    "kotoba": "屈輪玉",
+    "yomi": "ぐりん‐だま",
+    "link": "/word/%E5%B1%88%E8%BC%AA%E7%8E%89/#jn-64259"
+  },
+  {
+    "kotoba": "愚劣",
+    "yomi": "ぐ‐れつ",
+    "link": "/word/%E6%84%9A%E5%8A%A3/#jn-64686"
+  },
+  {
+    "kotoba": "紅蓮",
+    "yomi": "ぐ‐れん",
+    "link": "/word/%E7%B4%85%E8%93%AE/#jn-64765"
+  },
+  {
+    "kotoba": "紅蓮地獄",
+    "yomi": "ぐれん‐じごく",
+    "link": "/word/%E7%B4%85%E8%93%AE%E5%9C%B0%E7%8D%84/#jn-64768"
+  },
+  {
+    "kotoba": "愚連隊",
+    "yomi": "ぐれん‐たい",
+    "link": "/word/%E6%84%9A%E9%80%A3%E9%9A%8A/#jn-64774"
+  },
+  {
+    "kotoba": "愚弄",
+    "yomi": "ぐ‐ろう",
+    "link": "/word/%E6%84%9A%E5%BC%84/#jn-64813"
+  },
+  {
+    "kotoba": "愚老",
+    "yomi": "ぐ‐ろう",
+    "link": "/word/%E6%84%9A%E8%80%81/#jn-64814"
+  },
+  {
+    "kotoba": "愚論",
+    "yomi": "ぐ‐ろん",
+    "link": "/word/%E6%84%9A%E8%AB%96/#jn-65319"
+  },
+  {
+    "kotoba": "具合",
+    "yomi": "ぐ‐わい",
+    "link": "/word/%E5%85%B7%E5%90%88_%28%E3%81%90%E3%82%8F%E3%81%84%29/#jn-65332"
+  },
+  {
+    "kotoba": "軍衣",
+    "yomi": "ぐん‐い",
+    "link": "/word/%E8%BB%8D%E8%A1%A3/#jn-65447"
+  },
+  {
+    "kotoba": "軍医",
+    "yomi": "ぐん‐い",
+    "link": "/word/%E8%BB%8D%E5%8C%BB/#jn-65448"
+  },
+  {
+    "kotoba": "軍営",
+    "yomi": "ぐん‐えい",
+    "link": "/word/%E8%BB%8D%E5%96%B6/#jn-65451"
+  },
+  {
+    "kotoba": "群泳",
+    "yomi": "ぐん‐えい",
+    "link": "/word/%E7%BE%A4%E6%B3%B3/#jn-65452"
+  },
+  {
+    "kotoba": "軍役",
+    "yomi": "ぐん‐えき",
+    "link": "/word/%E8%BB%8D%E5%BD%B9_%28%E3%81%90%E3%82%93%E3%81%88%E3%81%8D%29/#jn-65453"
+  },
+  {
+    "kotoba": "郡王",
+    "yomi": "ぐん‐おう",
+    "link": "/word/%E9%83%A1%E7%8E%8B/#jn-65457"
+  },
+  {
+    "kotoba": "軍靴",
+    "yomi": "ぐん‐か",
+    "link": "/word/%E8%BB%8D%E9%9D%B4/#jn-65462"
+  },
+  {
+    "kotoba": "軍歌",
+    "yomi": "ぐん‐か",
+    "link": "/word/%E8%BB%8D%E6%AD%8C/#jn-65463"
+  },
+  {
+    "kotoba": "軍拡",
+    "yomi": "ぐん‐かく",
+    "link": "/word/%E8%BB%8D%E6%8B%A1/#jn-65468"
+  },
+  {
+    "kotoba": "群鶴",
+    "yomi": "ぐん‐かく",
+    "link": "/word/%E7%BE%A4%E9%B6%B4/#jn-65469"
+  },
+  {
+    "kotoba": "軍監",
+    "yomi": "ぐん‐かん",
+    "link": "/word/%E8%BB%8D%E7%9B%A3_%28%E3%81%90%E3%82%93%E3%81%8B%E3%82%93%29/#jn-65476"
+  },
+  {
+    "kotoba": "軍艦",
+    "yomi": "ぐん‐かん",
+    "link": "/word/%E8%BB%8D%E8%89%A6/#jn-65477"
+  },
+  {
+    "kotoba": "軍艦旗",
+    "yomi": "ぐんかん‐き",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E6%97%97/#jn-65478"
+  },
+  {
+    "kotoba": "軍艦島",
+    "yomi": "ぐんかん‐じま",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E5%B3%B6/#jn-65479"
+  },
+  {
+    "kotoba": "軍艦操練所",
+    "yomi": "ぐんかん‐そうれんじょ",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E6%93%8D%E7%B7%B4%E6%89%80/#jn-65480"
+  },
+  {
+    "kotoba": "軍艦鳥",
+    "yomi": "ぐんかん‐どり",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E9%B3%A5/#jn-65481"
+  },
+  {
+    "kotoba": "軍艦部",
+    "yomi": "ぐんかん‐ぶ",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E9%83%A8/#jn-268180"
+  },
+  {
+    "kotoba": "軍艦奉行",
+    "yomi": "ぐんかん‐ぶぎょう",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E5%A5%89%E8%A1%8C/#jn-65482"
+  },
+  {
+    "kotoba": "軍艦茉莉",
+    "yomi": "ぐんかんまり",
+    "link": "/word/%E8%BB%8D%E8%89%A6%E8%8C%89%E8%8E%89/#jn-268181"
+  },
+  {
+    "kotoba": "郡衙",
+    "yomi": "ぐん‐が",
+    "link": "/word/%E9%83%A1%E8%A1%99/#jn-65464"
+  },
+  {
+    "kotoba": "軍学",
+    "yomi": "ぐん‐がく",
+    "link": "/word/%E8%BB%8D%E5%AD%A6/#jn-65470"
+  },
+  {
+    "kotoba": "軍楽",
+    "yomi": "ぐん‐がく",
+    "link": "/word/%E8%BB%8D%E6%A5%BD/#jn-65471"
+  },
+  {
+    "kotoba": "軍学共同",
+    "yomi": "ぐんがく‐きょうどう",
+    "link": "/word/%E8%BB%8D%E5%AD%A6%E5%85%B1%E5%90%8C/#jn-296024"
+  },
+  {
+    "kotoba": "軍学者",
+    "yomi": "ぐんがく‐しゃ",
+    "link": "/word/%E8%BB%8D%E5%AD%A6%E8%80%85/#jn-65472"
+  },
+  {
+    "kotoba": "軍楽隊",
+    "yomi": "ぐんがく‐たい",
+    "link": "/word/%E8%BB%8D%E6%A5%BD%E9%9A%8A/#jn-65473"
+  },
+  {
+    "kotoba": "軍紀",
+    "yomi": "ぐん‐き",
+    "link": "/word/%E8%BB%8D%E7%B4%80/#jn-65488"
+  },
+  {
+    "kotoba": "軍記",
+    "yomi": "ぐん‐き",
+    "link": "/word/%E8%BB%8D%E8%A8%98/#jn-65489"
+  },
+  {
+    "kotoba": "軍旗",
+    "yomi": "ぐん‐き",
+    "link": "/word/%E8%BB%8D%E6%97%97/#jn-65490"
+  },
+  {
+    "kotoba": "軍毅",
+    "yomi": "ぐん‐き",
+    "link": "/word/%E8%BB%8D%E6%AF%85/#jn-65491"
+  },
+  {
+    "kotoba": "軍機",
+    "yomi": "ぐん‐き",
+    "link": "/word/%E8%BB%8D%E6%A9%9F/#jn-65492"
+  },
+  {
+    "kotoba": "群起",
+    "yomi": "ぐん‐き",
+    "link": "/word/%E7%BE%A4%E8%B5%B7/#jn-65493"
+  },
+  {
+    "kotoba": "軍旗祭",
+    "yomi": "ぐんき‐さい",
+    "link": "/word/%E8%BB%8D%E6%97%97%E7%A5%AD/#jn-65496"
+  },
+  {
+    "kotoba": "軍機処",
+    "yomi": "ぐんき‐しょ",
+    "link": "/word/%E8%BB%8D%E6%A9%9F%E5%87%A6/#jn-65497"
+  },
+  {
+    "kotoba": "軍機保護法",
+    "yomi": "ぐんきほご‐ほう",
+    "link": "/word/%E8%BB%8D%E6%A9%9F%E4%BF%9D%E8%AD%B7%E6%B3%95/#jn-65498"
+  },
+  {
+    "kotoba": "軍記物",
+    "yomi": "ぐんき‐もの",
+    "link": "/word/%E8%BB%8D%E8%A8%98%E7%89%A9/#jn-65499"
+  },
+  {
+    "kotoba": "軍記物語",
+    "yomi": "ぐんき‐ものがたり",
+    "link": "/word/%E8%BB%8D%E8%A8%98%E7%89%A9%E8%AA%9E/#jn-65500"
+  },
+  {
+    "kotoba": "軍記物語研究",
+    "yomi": "ぐんきものがたりけんきゅう",
+    "link": "/word/%E8%BB%8D%E8%A8%98%E7%89%A9%E8%AA%9E%E7%A0%94%E7%A9%B6/#jn-296025"
+  },
+  {
+    "kotoba": "群居",
+    "yomi": "ぐん‐きょ",
+    "link": "/word/%E7%BE%A4%E5%B1%85/#jn-65501"
+  },
+  {
+    "kotoba": "軍議",
+    "yomi": "ぐん‐ぎ",
+    "link": "/word/%E8%BB%8D%E8%AD%B0/#jn-65494"
+  },
+  {
+    "kotoba": "群議",
+    "yomi": "ぐん‐ぎ",
+    "link": "/word/%E7%BE%A4%E8%AD%B0/#jn-65495"
+  },
+  {
+    "kotoba": "郡家",
+    "yomi": "ぐん‐け",
+    "link": "/word/%E9%83%A1%E5%AE%B6_%28%E3%81%90%E3%82%93%E3%81%91%29/#jn-65506"
+  },
+  {
+    "kotoba": "軍鶏",
+    "yomi": "ぐん‐けい",
+    "link": "/word/%E8%BB%8D%E9%B6%8F_%28%E3%81%90%E3%82%93%E3%81%91%E3%81%84%29/#jn-65507"
+  },
+  {
+    "kotoba": "群系",
+    "yomi": "ぐん‐けい",
+    "link": "/word/%E7%BE%A4%E7%B3%BB/#jn-65508"
+  },
+  {
+    "kotoba": "軍刑法",
+    "yomi": "ぐん‐けいほう",
+    "link": "/word/%E8%BB%8D%E5%88%91%E6%B3%95/#jn-65509"
+  },
+  {
+    "kotoba": "軍犬",
+    "yomi": "ぐん‐けん",
+    "link": "/word/%E8%BB%8D%E7%8A%AC/#jn-65511"
+  },
+  {
+    "kotoba": "郡県制",
+    "yomi": "ぐんけん‐せい",
+    "link": "/word/%E9%83%A1%E7%9C%8C%E5%88%B6/#jn-65513"
+  },
+  {
+    "kotoba": "軍監",
+    "yomi": "ぐん‐げん",
+    "link": "/word/%E8%BB%8D%E7%9B%A3_%28%E3%81%90%E3%82%93%E3%81%92%E3%82%93%29/#jn-65512"
+  },
+  {
+    "kotoba": "軍袴",
+    "yomi": "ぐん‐こ",
+    "link": "/word/%E8%BB%8D%E8%A2%B4/#jn-65515"
+  },
+  {
+    "kotoba": "軍鼓",
+    "yomi": "ぐん‐こ",
+    "link": "/word/%E8%BB%8D%E9%BC%93/#jn-65516"
+  },
+  {
+    "kotoba": "軍功",
+    "yomi": "ぐん‐こう",
+    "link": "/word/%E8%BB%8D%E5%8A%9F/#jn-65522"
+  },
+  {
+    "kotoba": "軍港",
+    "yomi": "ぐん‐こう",
+    "link": "/word/%E8%BB%8D%E6%B8%AF/#jn-65523"
+  },
+  {
+    "kotoba": "群行",
+    "yomi": "ぐん‐こう",
+    "link": "/word/%E7%BE%A4%E8%A1%8C/#jn-65524"
+  },
+  {
+    "kotoba": "軍国",
+    "yomi": "ぐん‐こく",
+    "link": "/word/%E8%BB%8D%E5%9B%BD/#jn-65530"
+  },
+  {
+    "kotoba": "軍国主義",
+    "yomi": "ぐんこく‐しゅぎ",
+    "link": "/word/%E8%BB%8D%E5%9B%BD%E4%B8%BB%E7%BE%A9/#jn-65531"
+  },
+  {
+    "kotoba": "郡国制",
+    "yomi": "ぐんこく‐せい",
+    "link": "/word/%E9%83%A1%E5%9B%BD%E5%88%B6/#jn-65532"
+  },
+  {
+    "kotoba": "群婚",
+    "yomi": "ぐん‐こん",
+    "link": "/word/%E7%BE%A4%E5%A9%9A/#jn-65533"
+  },
+  {
+    "kotoba": "軍産複合体",
+    "yomi": "ぐんさん‐ふくごうたい",
+    "link": "/word/%E8%BB%8D%E7%94%A3%E8%A4%87%E5%90%88%E4%BD%93/#jn-65535"
+  },
+  {
+    "kotoba": "軍財",
+    "yomi": "ぐん‐ざい",
+    "link": "/word/%E8%BB%8D%E8%B2%A1/#jn-286881"
+  },
+  {
+    "kotoba": "軍財抱合",
+    "yomi": "ぐんざい‐ほうごう",
+    "link": "/word/%E8%BB%8D%E8%B2%A1%E6%8A%B1%E5%90%88/#jn-286882"
+  },
+  {
+    "kotoba": "群山",
+    "yomi": "ぐん‐ざん",
+    "link": "/word/%E7%BE%A4%E5%B1%B1_%28%E3%81%90%E3%82%93%E3%81%96%E3%82%93%29/#jn-65534"
+  },
+  {
+    "kotoba": "軍使",
+    "yomi": "ぐん‐し",
+    "link": "/word/%E8%BB%8D%E4%BD%BF/#jn-65554"
+  },
+  {
+    "kotoba": "軍師",
+    "yomi": "ぐん‐し",
+    "link": "/word/%E8%BB%8D%E5%B8%AB/#jn-65555"
+  },
+  {
+    "kotoba": "軍資金",
+    "yomi": "ぐんし‐きん",
+    "link": "/word/%E8%BB%8D%E8%B3%87%E9%87%91/#jn-65566"
+  },
+  {
+    "kotoba": "軍師拳",
+    "yomi": "ぐんし‐けん",
+    "link": "/word/%E8%BB%8D%E5%B8%AB%E6%8B%B3/#jn-65567"
+  },
+  {
+    "kotoba": "軍種",
+    "yomi": "ぐん‐しゅ",
+    "link": "/word/%E8%BB%8D%E7%A8%AE/#jn-253805"
+  },
+  {
+    "kotoba": "群衆",
+    "yomi": "ぐん‐しゅう",
+    "link": "/word/%E7%BE%A4%E8%A1%86/#jn-65589"
+  },
+  {
+    "kotoba": "群集",
+    "yomi": "ぐん‐しゅう",
+    "link": "/word/%E7%BE%A4%E9%9B%86_%28%E3%81%90%E3%82%93%E3%81%97%E3%82%85%E3%81%86%29/#jn-65590"
+  },
+  {
+    "kotoba": "群集劇",
+    "yomi": "ぐんしゅう‐げき",
+    "link": "/word/%E7%BE%A4%E9%9B%86%E5%8A%87/#jn-65591"
+  },
+  {
+    "kotoba": "群集心理",
+    "yomi": "ぐんしゅう‐しんり",
+    "link": "/word/%E7%BE%A4%E9%9B%86%E5%BF%83%E7%90%86/#jn-65592"
+  },
+  {
+    "kotoba": "群集生態学",
+    "yomi": "ぐんしゅう‐せいたいがく",
+    "link": "/word/%E7%BE%A4%E9%9B%86%E7%94%9F%E6%85%8B%E5%AD%A6/#jn-65593"
+  },
+  {
+    "kotoba": "群集人間",
+    "yomi": "ぐんしゅうにんげん",
+    "link": "/word/%E7%BE%A4%E9%9B%86%E4%BA%BA%E9%96%93/#jn-292692"
+  },
+  {
+    "kotoba": "群集墳",
+    "yomi": "ぐんしゅう‐ふん",
+    "link": "/word/%E7%BE%A4%E9%9B%86%E5%A2%B3/#jn-65595"
+  },
+  {
+    "kotoba": "軍縮",
+    "yomi": "ぐん‐しゅく",
+    "link": "/word/%E8%BB%8D%E7%B8%AE/#jn-65596"
+  },
+  {
+    "kotoba": "軍縮会議",
+    "yomi": "ぐんしゅく‐かいぎ",
+    "link": "/word/%E8%BB%8D%E7%B8%AE%E4%BC%9A%E8%AD%B0/#jn-65597"
+  },
+  {
+    "kotoba": "軍書",
+    "yomi": "ぐん‐しょ",
+    "link": "/word/%E8%BB%8D%E6%9B%B8/#jn-65607"
+  },
+  {
+    "kotoba": "群書",
+    "yomi": "ぐん‐しょ",
+    "link": "/word/%E7%BE%A4%E6%9B%B8/#jn-65608"
+  },
+  {
+    "kotoba": "群書一覧",
+    "yomi": "ぐんしょいちらん",
+    "link": "/word/%E7%BE%A4%E6%9B%B8%E4%B8%80%E8%A6%A7/#jn-65609"
+  },
+  {
+    "kotoba": "群小",
+    "yomi": "ぐん‐しょう",
+    "link": "/word/%E7%BE%A4%E5%B0%8F/#jn-65612"
+  },
+  {
+    "kotoba": "軍職",
+    "yomi": "ぐん‐しょく",
+    "link": "/word/%E8%BB%8D%E8%81%B7/#jn-65619"
+  },
+  {
+    "kotoba": "群書索引",
+    "yomi": "ぐんしょさくいん",
+    "link": "/word/%E7%BE%A4%E6%9B%B8%E7%B4%A2%E5%BC%95/#jn-65620"
+  },
+  {
+    "kotoba": "群書治要",
+    "yomi": "ぐんしょちよう",
+    "link": "/word/%E7%BE%A4%E6%9B%B8%E6%B2%BB%E8%A6%81/#jn-65621"
+  },
+  {
+    "kotoba": "群書類従",
+    "yomi": "ぐんしょるいじゅう",
+    "link": "/word/%E7%BE%A4%E6%9B%B8%E9%A1%9E%E5%BE%93/#jn-65623"
+  },
+  {
+    "kotoba": "軍司令官",
+    "yomi": "ぐん‐しれいかん",
+    "link": "/word/%E8%BB%8D%E5%8F%B8%E4%BB%A4%E5%AE%98/#jn-65626"
+  },
+  {
+    "kotoba": "軍司令部",
+    "yomi": "ぐん‐しれいぶ",
+    "link": "/word/%E8%BB%8D%E5%8F%B8%E4%BB%A4%E9%83%A8/#jn-65627"
+  },
+  {
+    "kotoba": "軍神",
+    "yomi": "ぐん‐しん",
+    "link": "/word/%E8%BB%8D%E7%A5%9E_%28%E3%81%90%E3%82%93%E3%81%97%E3%82%93%29/#jn-65632"
+  },
+  {
+    "kotoba": "群臣",
+    "yomi": "ぐん‐しん",
+    "link": "/word/%E7%BE%A4%E8%87%A3/#jn-65633"
+  },
+  {
+    "kotoba": "軍事",
+    "yomi": "ぐん‐じ",
+    "link": "/word/%E8%BB%8D%E4%BA%8B/#jn-65556"
+  },
+  {
+    "kotoba": "軍持",
+    "yomi": "ぐんじ",
+    "link": "/word/%E8%BB%8D%E6%8C%81/#jn-65557"
+  },
+  {
+    "kotoba": "郡司",
+    "yomi": "ぐん‐じ",
+    "link": "/word/%E9%83%A1%E5%8F%B8_%28%E3%81%90%E3%82%93%E3%81%98%29/#jn-65558"
+  },
+  {
+    "kotoba": "軍事衛星",
+    "yomi": "ぐんじ‐えいせい",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E8%A1%9B%E6%98%9F/#jn-65560"
+  },
+  {
+    "kotoba": "軍事基地",
+    "yomi": "ぐんじ‐きち",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0/#jn-65561"
+  },
+  {
+    "kotoba": "軍事基地協定",
+    "yomi": "ぐんじきち‐きょうてい",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%9F%BA%E5%9C%B0%E5%8D%94%E5%AE%9A/#jn-65562"
+  },
+  {
+    "kotoba": "軍事機密",
+    "yomi": "ぐんじ‐きみつ",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E6%A9%9F%E5%AF%86/#jn-65564"
+  },
+  {
+    "kotoba": "軍事境界線",
+    "yomi": "ぐんじ‐きょうかいせん",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%A2%83%E7%95%8C%E7%B7%9A/#jn-280875"
+  },
+  {
+    "kotoba": "軍事教練",
+    "yomi": "ぐんじ‐きょうれん",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E6%95%99%E7%B7%B4/#jn-65565"
+  },
+  {
+    "kotoba": "軍事行動",
+    "yomi": "ぐんじ‐こうどう",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E8%A1%8C%E5%8B%95/#jn-65568"
+  },
+  {
+    "kotoba": "軍事国家",
+    "yomi": "ぐんじ‐こっか",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%9B%BD%E5%AE%B6/#jn-263136"
+  },
+  {
+    "kotoba": "軍事裁判",
+    "yomi": "ぐんじ‐さいばん",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E8%A3%81%E5%88%A4/#jn-65570"
+  },
+  {
+    "kotoba": "郡司成忠",
+    "yomi": "ぐんじ‐しげただ",
+    "link": "/word/person/%E9%83%A1%E5%8F%B8%E6%88%90%E5%BF%A0/#jn-65571"
+  },
+  {
+    "kotoba": "軍事情報包括保護協定",
+    "yomi": "ぐんじじょうほうほうかつほご‐きょうてい",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E6%83%85%E5%A0%B1%E5%8C%85%E6%8B%AC%E4%BF%9D%E8%AD%B7%E5%8D%94%E5%AE%9A/#jn-286883"
+  },
+  {
+    "kotoba": "軍事政権",
+    "yomi": "ぐんじ‐せいけん",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E6%94%BF%E6%A8%A9/#jn-65573"
+  },
+  {
+    "kotoba": "軍事大国",
+    "yomi": "ぐんじ‐たいこく",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%A4%A7%E5%9B%BD/#jn-263137"
+  },
+  {
+    "kotoba": "軍事探偵",
+    "yomi": "ぐんじ‐たんてい",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E6%8E%A2%E5%81%B5/#jn-65574"
+  },
+  {
+    "kotoba": "軍事同盟",
+    "yomi": "ぐんじ‐どうめい",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%90%8C%E7%9B%9F/#jn-65576"
+  },
+  {
+    "kotoba": "軍事封鎖",
+    "yomi": "ぐんじ‐ふうさ",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%B0%81%E9%8E%96/#jn-65577"
+  },
+  {
+    "kotoba": "郡司召",
+    "yomi": "ぐんじ‐めし",
+    "link": "/word/%E9%83%A1%E5%8F%B8%E5%8F%AC/#jn-65578"
+  },
+  {
+    "kotoba": "軍需",
+    "yomi": "ぐん‐じゅ",
+    "link": "/word/%E8%BB%8D%E9%9C%80/#jn-65586"
+  },
+  {
+    "kotoba": "群集",
+    "yomi": "ぐん‐じゅ",
+    "link": "/word/%E7%BE%A4%E9%9B%86_%28%E3%81%90%E3%82%93%E3%81%98%E3%82%85%29/#jn-65587"
+  },
+  {
+    "kotoba": "軍需景気",
+    "yomi": "ぐんじゅ‐けいき",
+    "link": "/word/%E8%BB%8D%E9%9C%80%E6%99%AF%E6%B0%97/#jn-65598"
+  },
+  {
+    "kotoba": "軍需工場",
+    "yomi": "ぐんじゅ‐こうじょう",
+    "link": "/word/%E8%BB%8D%E9%9C%80%E5%B7%A5%E5%A0%B4/#jn-292693"
+  },
+  {
+    "kotoba": "軍需産業",
+    "yomi": "ぐんじゅ‐さんぎょう",
+    "link": "/word/%E8%BB%8D%E9%9C%80%E7%94%A3%E6%A5%AD/#jn-65600"
+  },
+  {
+    "kotoba": "軍需省",
+    "yomi": "ぐんじゅ‐しょう",
+    "link": "/word/%E8%BB%8D%E9%9C%80%E7%9C%81/#jn-65601"
+  },
+  {
+    "kotoba": "軍需品",
+    "yomi": "ぐんじゅ‐ひん",
+    "link": "/word/%E8%BB%8D%E9%9C%80%E5%93%81/#jn-65605"
+  },
+  {
+    "kotoba": "軍事郵便",
+    "yomi": "ぐんじ‐ゆうびん",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E9%83%B5%E4%BE%BF/#jn-65594"
+  },
+  {
+    "kotoba": "軍事郵便",
+    "yomi": "ぐんじゆうびん",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E9%83%B5%E4%BE%BF/#jn-265515"
+  },
+  {
+    "kotoba": "軍事輸送",
+    "yomi": "ぐんじ‐ゆそう",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E8%BC%B8%E9%80%81/#jn-65603"
+  },
+  {
+    "kotoba": "群生",
+    "yomi": "ぐん‐じょう",
+    "link": "/word/%E7%BE%A4%E7%94%9F_%28%E3%81%90%E3%82%93%E3%81%98%E3%82%87%E3%81%86%29/#jn-65613"
+  },
+  {
+    "kotoba": "群青",
+    "yomi": "ぐん‐じょう",
+    "link": "/word/%E7%BE%A4%E9%9D%92/#jn-65614"
+  },
+  {
+    "kotoba": "群青色",
+    "yomi": "ぐんじょう‐いろ",
+    "link": "/word/%E7%BE%A4%E9%9D%92%E8%89%B2/#jn-65615"
+  },
+  {
+    "kotoba": "軍事力",
+    "yomi": "ぐんじ‐りょく",
+    "link": "/word/%E8%BB%8D%E4%BA%8B%E5%8A%9B/#jn-242725"
+  },
+  {
+    "kotoba": "軍人",
+    "yomi": "ぐん‐じん",
+    "link": "/word/%E8%BB%8D%E4%BA%BA_%28%E3%81%90%E3%82%93%E3%81%98%E3%82%93%29/#jn-65635"
+  },
+  {
+    "kotoba": "軍陣",
+    "yomi": "ぐん‐じん",
+    "link": "/word/%E8%BB%8D%E9%99%A3/#jn-65636"
+  },
+  {
+    "kotoba": "軍人皇帝",
+    "yomi": "ぐんじん‐こうてい",
+    "link": "/word/%E8%BB%8D%E4%BA%BA%E7%9A%87%E5%B8%9D/#jn-65637"
+  },
+  {
+    "kotoba": "軍人将棋",
+    "yomi": "ぐんじん‐しょうぎ",
+    "link": "/word/%E8%BB%8D%E4%BA%BA%E5%B0%86%E6%A3%8B/#jn-65638"
+  },
+  {
+    "kotoba": "軍人勅諭",
+    "yomi": "ぐんじん‐ちょくゆ",
+    "link": "/word/%E8%BB%8D%E4%BA%BA%E5%8B%85%E8%AB%AD/#jn-65639"
+  },
+  {
+    "kotoba": "軍帥",
+    "yomi": "ぐん‐すい",
+    "link": "/word/%E8%BB%8D%E5%B8%A5/#jn-65642"
+  },
+  {
+    "kotoba": "軍制",
+    "yomi": "ぐん‐せい",
+    "link": "/word/%E8%BB%8D%E5%88%B6/#jn-65649"
+  },
+  {
+    "kotoba": "軍政",
+    "yomi": "ぐん‐せい",
+    "link": "/word/%E8%BB%8D%E6%94%BF/#jn-65650"
+  },
+  {
+    "kotoba": "群生",
+    "yomi": "ぐん‐せい",
+    "link": "/word/%E7%BE%A4%E7%94%9F_%28%E3%81%90%E3%82%93%E3%81%9B%E3%81%84%29/#jn-65651"
+  },
+  {
+    "kotoba": "群星",
+    "yomi": "ぐん‐せい",
+    "link": "/word/%E7%BE%A4%E6%98%9F/#jn-65652"
+  },
+  {
+    "kotoba": "群棲",
+    "yomi": "ぐん‐せい",
+    "link": "/word/%E7%BE%A4%E6%A3%B2/#jn-65653"
+  },
+  {
+    "kotoba": "群棲",
+    "yomi": "ぐんせい",
+    "link": "/word/%E7%BE%A4%E6%A3%B2/#jn-268182"
+  },
+  {
+    "kotoba": "軍勢",
+    "yomi": "ぐん‐ぜい",
+    "link": "/word/%E8%BB%8D%E5%8B%A2/#jn-65654"
+  },
+  {
+    "kotoba": "軍籍",
+    "yomi": "ぐん‐せき",
+    "link": "/word/%E8%BB%8D%E7%B1%8D/#jn-65656"
+  },
+  {
+    "kotoba": "群籍",
+    "yomi": "ぐん‐せき",
+    "link": "/word/%E7%BE%A4%E7%B1%8D/#jn-65657"
+  },
+  {
+    "kotoba": "軍扇",
+    "yomi": "ぐん‐せん",
+    "link": "/word/%E8%BB%8D%E6%89%87/#jn-65661"
+  },
+  {
+    "kotoba": "軍船",
+    "yomi": "ぐん‐せん",
+    "link": "/word/%E8%BB%8D%E8%88%B9_%28%E3%81%90%E3%82%93%E3%81%9B%E3%82%93%29/#jn-65662"
+  },
+  {
+    "kotoba": "軍曹",
+    "yomi": "ぐん‐そう",
+    "link": "/word/%E8%BB%8D%E6%9B%B9/#jn-65664"
+  },
+  {
+    "kotoba": "軍装",
+    "yomi": "ぐん‐そう",
+    "link": "/word/%E8%BB%8D%E8%A3%85/#jn-65665"
+  },
+  {
+    "kotoba": "群叢",
+    "yomi": "ぐん‐そう",
+    "link": "/word/%E7%BE%A4%E5%8F%A2/#jn-65666"
+  },
+  {
+    "kotoba": "軍足",
+    "yomi": "ぐん‐そく",
+    "link": "/word/%E8%BB%8D%E8%B6%B3/#jn-65670"
+  },
+  {
+    "kotoba": "群速度",
+    "yomi": "ぐん‐そくど",
+    "link": "/word/%E7%BE%A4%E9%80%9F%E5%BA%A6/#jn-65672"
+  },
+  {
+    "kotoba": "軍卒",
+    "yomi": "ぐん‐そつ",
+    "link": "/word/%E8%BB%8D%E5%8D%92/#jn-65673"
+  },
+  {
+    "kotoba": "群像",
+    "yomi": "ぐん‐ぞう",
+    "link": "/word/%E7%BE%A4%E5%83%8F/#jn-65667"
+  },
+  {
+    "kotoba": "群像",
+    "yomi": "ぐんぞう",
+    "link": "/word/%E7%BE%A4%E5%83%8F/#jn-275243"
+  },
+  {
+    "kotoba": "群像劇",
+    "yomi": "ぐんぞう‐げき",
+    "link": "/word/%E7%BE%A4%E5%83%8F%E5%8A%87/#jn-277185"
+  },
+  {
+    "kotoba": "軍属",
+    "yomi": "ぐん‐ぞく",
+    "link": "/word/%E8%BB%8D%E5%B1%9E/#jn-65671"
+  },
+  {
+    "kotoba": "軍体",
+    "yomi": "ぐん‐たい",
+    "link": "/word/%E8%BB%8D%E4%BD%93/#jn-65675"
+  },
+  {
+    "kotoba": "軍隊",
+    "yomi": "ぐん‐たい",
+    "link": "/word/%E8%BB%8D%E9%9A%8A/#jn-65676"
+  },
+  {
+    "kotoba": "群体",
+    "yomi": "ぐん‐たい",
+    "link": "/word/%E7%BE%A4%E4%BD%93/#jn-65677"
+  },
+  {
+    "kotoba": "軍隊",
+    "yomi": "ぐんたい",
+    "link": "/word/%E8%BB%8D%E9%9A%8A/#jn-288883"
+  },
+  {
+    "kotoba": "軍隊蟻",
+    "yomi": "ぐんたい‐あり",
+    "link": "/word/%E8%BB%8D%E9%9A%8A%E8%9F%BB/#jn-265516"
+  },
+  {
+    "kotoba": "軍隊手帳",
+    "yomi": "ぐんたい‐てちょう",
+    "link": "/word/%E8%BB%8D%E9%9A%8A%E6%89%8B%E5%B8%B3/#jn-65681"
+  },
+  {
+    "kotoba": "軍隊病",
+    "yomi": "ぐんたいびょう",
+    "link": "/word/%E8%BB%8D%E9%9A%8A%E7%97%85/#jn-280876"
+  },
+  {
+    "kotoba": "軍代",
+    "yomi": "ぐん‐だい",
+    "link": "/word/%E8%BB%8D%E4%BB%A3/#jn-65678"
+  },
+  {
+    "kotoba": "郡代",
+    "yomi": "ぐん‐だい",
+    "link": "/word/%E9%83%A1%E4%BB%A3/#jn-65679"
+  },
+  {
+    "kotoba": "群大",
+    "yomi": "ぐん‐だい",
+    "link": "/word/%E7%BE%A4%E5%A4%A7/#jn-263139"
+  },
+  {
+    "kotoba": "軍荼利",
+    "yomi": "ぐんだり",
+    "link": "/word/%E8%BB%8D%E8%8D%BC%E5%88%A9/#jn-65683"
+  },
+  {
+    "kotoba": "軍荼利明王",
+    "yomi": "ぐんだり‐みょうおう",
+    "link": "/word/%E8%BB%8D%E8%8D%BC%E5%88%A9%E6%98%8E%E7%8E%8B/#jn-65685"
+  },
+  {
+    "kotoba": "軍団",
+    "yomi": "ぐん‐だん",
+    "link": "/word/%E8%BB%8D%E5%9B%A3/#jn-65687"
+  },
+  {
+    "kotoba": "軍談",
+    "yomi": "ぐん‐だん",
+    "link": "/word/%E8%BB%8D%E8%AB%87/#jn-65688"
+  },
+  {
+    "kotoba": "群団",
+    "yomi": "ぐん‐だん",
+    "link": "/word/%E7%BE%A4%E5%9B%A3/#jn-65689"
+  },
+  {
+    "kotoba": "軍談師",
+    "yomi": "ぐんだん‐し",
+    "link": "/word/%E8%BB%8D%E8%AB%87%E5%B8%AB/#jn-65690"
+  },
+  {
+    "kotoba": "軍談物",
+    "yomi": "ぐんだん‐もの",
+    "link": "/word/%E8%BB%8D%E8%AB%87%E7%89%A9/#jn-65691"
+  },
+  {
+    "kotoba": "群知能",
+    "yomi": "ぐん‐ちのう",
+    "link": "/word/%E7%BE%A4%E7%9F%A5%E8%83%BD/#jn-297687"
+  },
+  {
+    "kotoba": "軍中",
+    "yomi": "ぐん‐ちゅう",
+    "link": "/word/%E8%BB%8D%E4%B8%AD/#jn-65693"
+  },
+  {
+    "kotoba": "軍忠",
+    "yomi": "ぐん‐ちゅう",
+    "link": "/word/%E8%BB%8D%E5%BF%A0/#jn-65694"
+  },
+  {
+    "kotoba": "軍忠状",
+    "yomi": "ぐんちゅう‐じょう",
+    "link": "/word/%E8%BB%8D%E5%BF%A0%E7%8A%B6/#jn-65695"
+  },
+  {
+    "kotoba": "郡長",
+    "yomi": "ぐん‐ちょう",
+    "link": "/word/%E9%83%A1%E9%95%B7/#jn-65697"
+  },
+  {
+    "kotoba": "軍手",
+    "yomi": "ぐん‐て",
+    "link": "/word/%E8%BB%8D%E6%89%8B/#jn-65700"
+  },
+  {
+    "kotoba": "軍刀",
+    "yomi": "ぐん‐とう",
+    "link": "/word/%E8%BB%8D%E5%88%80/#jn-65712"
+  },
+  {
+    "kotoba": "郡稲",
+    "yomi": "ぐん‐とう",
+    "link": "/word/%E9%83%A1%E7%A8%B2/#jn-65713"
+  },
+  {
+    "kotoba": "群党",
+    "yomi": "ぐん‐とう",
+    "link": "/word/%E7%BE%A4%E5%85%9A/#jn-65714"
+  },
+  {
+    "kotoba": "群島",
+    "yomi": "ぐん‐とう",
+    "link": "/word/%E7%BE%A4%E5%B3%B6/#jn-65715"
+  },
+  {
+    "kotoba": "群盗",
+    "yomi": "ぐん‐とう",
+    "link": "/word/%E7%BE%A4%E7%9B%97/#jn-65716"
+  },
+  {
+    "kotoba": "群盗",
+    "yomi": "ぐんとう",
+    "link": "/word/%E7%BE%A4%E7%9B%97/#jn-65717"
+  },
+  {
+    "kotoba": "群島基線",
+    "yomi": "ぐんとう‐きせん",
+    "link": "/word/%E7%BE%A4%E5%B3%B6%E5%9F%BA%E7%B7%9A/#jn-275244"
+  },
+  {
+    "kotoba": "群島理論",
+    "yomi": "ぐんとう‐りろん",
+    "link": "/word/%E7%BE%A4%E5%B3%B6%E7%90%86%E8%AB%96/#jn-65718"
+  },
+  {
+    "kotoba": "郡内",
+    "yomi": "ぐんない",
+    "link": "/word/%E9%83%A1%E5%86%85/#jn-65723"
+  },
+  {
+    "kotoba": "郡内織",
+    "yomi": "ぐんない‐おり",
+    "link": "/word/%E9%83%A1%E5%86%85%E7%B9%94/#jn-65724"
+  },
+  {
+    "kotoba": "郡内縞",
+    "yomi": "ぐんない‐じま",
+    "link": "/word/%E9%83%A1%E5%86%85%E7%B8%9E/#jn-65725"
+  },
+  {
+    "kotoba": "軍馬",
+    "yomi": "ぐん‐ば",
+    "link": "/word/%E8%BB%8D%E9%A6%AC/#jn-65731"
+  },
+  {
+    "kotoba": "軍配",
+    "yomi": "ぐん‐ばい",
+    "link": "/word/%E8%BB%8D%E9%85%8D/#jn-65732"
+  },
+  {
+    "kotoba": "軍配団扇",
+    "yomi": "ぐんばい‐うちわ",
+    "link": "/word/%E8%BB%8D%E9%85%8D%E5%9B%A3%E6%89%87/#jn-65735"
+  },
+  {
+    "kotoba": "軍配薺",
+    "yomi": "ぐんばい‐なずな",
+    "link": "/word/%E8%BB%8D%E9%85%8D%E8%96%BA/#jn-65736"
+  },
+  {
+    "kotoba": "軍配昼顔",
+    "yomi": "ぐんばい‐ひるがお",
+    "link": "/word/%E8%BB%8D%E9%85%8D%E6%98%BC%E9%A1%94/#jn-65737"
+  },
+  {
+    "kotoba": "軍配酸漿",
+    "yomi": "ぐんばい‐ほおずき",
+    "link": "/word/%E8%BB%8D%E9%85%8D%E9%85%B8%E6%BC%BF/#jn-65738"
+  },
+  {
+    "kotoba": "軍配虫",
+    "yomi": "ぐんばい‐むし",
+    "link": "/word/%E8%BB%8D%E9%85%8D%E8%99%AB/#jn-65739"
+  },
+  {
+    "kotoba": "軍閥",
+    "yomi": "ぐん‐ばつ",
+    "link": "/word/%E8%BB%8D%E9%96%A5/#jn-65740"
+  },
+  {
+    "kotoba": "軍閥政治",
+    "yomi": "ぐんばつ‐せいじ",
+    "link": "/word/%E8%BB%8D%E9%96%A5%E6%94%BF%E6%B2%BB/#jn-65743"
+  },
+  {
+    "kotoba": "群発",
+    "yomi": "ぐん‐ぱつ",
+    "link": "/word/%E7%BE%A4%E7%99%BA/#jn-65741"
+  },
+  {
+    "kotoba": "群発地震",
+    "yomi": "ぐんぱつ‐じしん",
+    "link": "/word/%E7%BE%A4%E7%99%BA%E5%9C%B0%E9%9C%87/#jn-65742"
+  },
+  {
+    "kotoba": "群発頭痛",
+    "yomi": "ぐんぱつ‐ずつう",
+    "link": "/word/%E7%BE%A4%E7%99%BA%E9%A0%AD%E7%97%9B/#jn-263140"
+  },
+  {
+    "kotoba": "軍備",
+    "yomi": "ぐん‐び",
+    "link": "/word/%E8%BB%8D%E5%82%99/#jn-65744"
+  },
+  {
+    "kotoba": "軍備拡張",
+    "yomi": "ぐんび‐かくちょう",
+    "link": "/word/%E8%BB%8D%E5%82%99%E6%8B%A1%E5%BC%B5/#jn-65747"
+  },
+  {
+    "kotoba": "軍備管理",
+    "yomi": "ぐんび‐かんり",
+    "link": "/word/%E8%BB%8D%E5%82%99%E7%AE%A1%E7%90%86/#jn-65748"
+  },
+  {
+    "kotoba": "軍備縮小",
+    "yomi": "ぐんび‐しゅくしょう",
+    "link": "/word/%E8%BB%8D%E5%82%99%E7%B8%AE%E5%B0%8F/#jn-65749"
+  },
+  {
+    "kotoba": "軍兵",
+    "yomi": "ぐん‐ぴょう",
+    "link": "/word/%E8%BB%8D%E5%85%B5/#jn-65751"
+  },
+  {
+    "kotoba": "軍費",
+    "yomi": "ぐん‐ぴ",
+    "link": "/word/%E8%BB%8D%E8%B2%BB/#jn-65745"
+  },
+  {
+    "kotoba": "群飛",
+    "yomi": "ぐん‐ぴ",
+    "link": "/word/%E7%BE%A4%E9%A3%9B/#jn-65746"
+  },
+  {
+    "kotoba": "軍費賠償金",
+    "yomi": "ぐんぴ‐ばいしょうきん",
+    "link": "/word/%E8%BB%8D%E8%B2%BB%E8%B3%A0%E5%84%9F%E9%87%91/#jn-65750"
+  },
+  {
+    "kotoba": "軍票",
+    "yomi": "ぐん‐ぴょう",
+    "link": "/word/%E8%BB%8D%E7%A5%A8/#jn-65752"
+  },
+  {
+    "kotoba": "軍部",
+    "yomi": "ぐん‐ぶ",
+    "link": "/word/%E8%BB%8D%E9%83%A8/#jn-65755"
+  },
+  {
+    "kotoba": "郡部",
+    "yomi": "ぐん‐ぶ",
+    "link": "/word/%E9%83%A1%E9%83%A8/#jn-65756"
+  },
+  {
+    "kotoba": "群舞",
+    "yomi": "ぐん‐ぶ",
+    "link": "/word/%E7%BE%A4%E8%88%9E/#jn-65757"
+  },
+  {
+    "kotoba": "軍部大臣現役武官制",
+    "yomi": "ぐんぶだいじん‐げんえきぶかんせい",
+    "link": "/word/%E8%BB%8D%E9%83%A8%E5%A4%A7%E8%87%A3%E7%8F%BE%E5%BD%B9%E6%AD%A6%E5%AE%98%E5%88%B6/#jn-65762"
+  },
+  {
+    "kotoba": "群分離",
+    "yomi": "ぐん‐ぶんり",
+    "link": "/word/%E7%BE%A4%E5%88%86%E9%9B%A2/#jn-273067"
+  },
+  {
+    "kotoba": "軍夫",
+    "yomi": "ぐん‐ぷ",
+    "link": "/word/%E8%BB%8D%E5%A4%AB/#jn-65758"
+  },
+  {
+    "kotoba": "軍服",
+    "yomi": "ぐん‐ぷく",
+    "link": "/word/%E8%BB%8D%E6%9C%8D/#jn-65761"
+  },
+  {
+    "kotoba": "軍帽",
+    "yomi": "ぐん‐ぼう",
+    "link": "/word/%E8%BB%8D%E5%B8%BD/#jn-65765"
+  },
+  {
+    "kotoba": "軍法",
+    "yomi": "ぐん‐ぽう",
+    "link": "/word/%E8%BB%8D%E6%B3%95/#jn-65766"
+  },
+  {
+    "kotoba": "軍鋒",
+    "yomi": "ぐん‐ぽう",
+    "link": "/word/%E8%BB%8D%E9%8B%92/#jn-65767"
+  },
+  {
+    "kotoba": "群峰",
+    "yomi": "ぐん‐ぽう",
+    "link": "/word/%E7%BE%A4%E5%B3%B0/#jn-65768"
+  },
+  {
+    "kotoba": "軍法会議",
+    "yomi": "ぐんぽう‐かいぎ",
+    "link": "/word/%E8%BB%8D%E6%B3%95%E4%BC%9A%E8%AD%B0/#jn-65769"
+  },
+  {
+    "kotoba": "軍法者",
+    "yomi": "ぐんぽう‐しゃ",
+    "link": "/word/%E8%BB%8D%E6%B3%95%E8%80%85/#jn-65770"
+  },
+  {
+    "kotoba": "群馬",
+    "yomi": "ぐんま",
+    "link": "/word/%E7%BE%A4%E9%A6%AC/#jn-65771"
+  },
+  {
+    "kotoba": "群馬医療福祉大学",
+    "yomi": "ぐんま‐いりょうふくしだいがく",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E5%8C%BB%E7%99%82%E7%A6%8F%E7%A5%89%E5%A4%A7%E5%AD%A6/#jn-245903"
+  },
+  {
+    "kotoba": "群馬県",
+    "yomi": "ぐんま‐けん",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E7%9C%8C/#jn-65773"
+  },
+  {
+    "kotoba": "群馬県立近代美術館",
+    "yomi": "ぐんまけんりつ‐きんだいびじゅつかん",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8/#jn-296026"
+  },
+  {
+    "kotoba": "群馬県立県民健康科学大学",
+    "yomi": "ぐんまけんりつ‐けんみんけんこうかがくだいがく",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%AB%8B%E7%9C%8C%E6%B0%91%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6/#jn-245904"
+  },
+  {
+    "kotoba": "群馬県立女子大学",
+    "yomi": "ぐんまけんりつ‐じょしだいがく",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E7%9C%8C%E7%AB%8B%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/#jn-65774"
+  },
+  {
+    "kotoba": "群馬事件",
+    "yomi": "ぐんま‐じけん",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E4%BA%8B%E4%BB%B6/#jn-65775"
+  },
+  {
+    "kotoba": "群馬大学",
+    "yomi": "ぐんま‐だいがく",
+    "link": "/word/%E7%BE%A4%E9%A6%AC%E5%A4%A7%E5%AD%A6/#jn-65776"
+  },
+  {
+    "kotoba": "軍民",
+    "yomi": "ぐん‐みん",
+    "link": "/word/%E8%BB%8D%E6%B0%91/#jn-65778"
+  },
+  {
+    "kotoba": "群民",
+    "yomi": "ぐん‐みん",
+    "link": "/word/%E7%BE%A4%E6%B0%91/#jn-65779"
+  },
+  {
+    "kotoba": "軍務",
+    "yomi": "ぐん‐む",
+    "link": "/word/%E8%BB%8D%E5%8B%99/#jn-65782"
+  },
+  {
+    "kotoba": "群盲",
+    "yomi": "ぐん‐もう",
+    "link": "/word/%E7%BE%A4%E7%9B%B2/#jn-65786"
+  },
+  {
+    "kotoba": "軍門",
+    "yomi": "ぐん‐もん",
+    "link": "/word/%E8%BB%8D%E9%96%80/#jn-65788"
+  },
+  {
+    "kotoba": "軍役",
+    "yomi": "ぐん‐やく",
+    "link": "/word/%E8%BB%8D%E5%BD%B9_%28%E3%81%90%E3%82%93%E3%82%84%E3%81%8F%29/#jn-65790"
+  },
+  {
+    "kotoba": "群遊",
+    "yomi": "ぐん‐ゆう",
+    "link": "/word/%E7%BE%A4%E9%81%8A/#jn-65794"
+  },
+  {
+    "kotoba": "群雄",
+    "yomi": "ぐん‐ゆう",
+    "link": "/word/%E7%BE%A4%E9%9B%84/#jn-65795"
+  },
+  {
+    "kotoba": "群雄割拠",
+    "yomi": "ぐんゆう‐かっきょ",
+    "link": "/word/%E7%BE%A4%E9%9B%84%E5%89%B2%E6%8B%A0/#jn-65796"
+  },
+  {
+    "kotoba": "軍用",
+    "yomi": "ぐん‐よう",
+    "link": "/word/%E8%BB%8D%E7%94%A8/#jn-65797"
+  },
+  {
+    "kotoba": "軍容",
+    "yomi": "ぐん‐よう",
+    "link": "/word/%E8%BB%8D%E5%AE%B9/#jn-65798"
+  },
+  {
+    "kotoba": "群羊",
+    "yomi": "ぐん‐よう",
+    "link": "/word/%E7%BE%A4%E7%BE%8A/#jn-65799"
+  },
+  {
+    "kotoba": "軍用機",
+    "yomi": "ぐんよう‐き",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E6%A9%9F/#jn-65801"
+  },
+  {
+    "kotoba": "軍用金",
+    "yomi": "ぐんよう‐きん",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E9%87%91/#jn-65802"
+  },
+  {
+    "kotoba": "軍用犬",
+    "yomi": "ぐんよう‐けん",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E7%8A%AC/#jn-65803"
+  },
+  {
+    "kotoba": "軍用資源秘密保護法",
+    "yomi": "ぐんようしげんひみつほご‐ほう",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E8%B3%87%E6%BA%90%E7%A7%98%E5%AF%86%E4%BF%9D%E8%AD%B7%E6%B3%95/#jn-270872"
+  },
+  {
+    "kotoba": "軍用地主",
+    "yomi": "ぐんよう‐じぬし",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E5%9C%B0%E4%B8%BB/#jn-245906"
+  },
+  {
+    "kotoba": "軍用地料",
+    "yomi": "ぐんよう‐ちりょう",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E5%9C%B0%E6%96%99/#jn-245907"
+  },
+  {
+    "kotoba": "軍用鳩",
+    "yomi": "ぐんよう‐ばと",
+    "link": "/word/%E8%BB%8D%E7%94%A8%E9%B3%A9/#jn-65804"
+  },
+  {
+    "kotoba": "群落",
+    "yomi": "ぐん‐らく",
+    "link": "/word/%E7%BE%A4%E8%90%BD/#jn-65806"
+  },
+  {
+    "kotoba": "群落帯",
+    "yomi": "ぐんらく‐たい",
+    "link": "/word/%E7%BE%A4%E8%90%BD%E5%B8%AF/#jn-65807"
+  },
+  {
+    "kotoba": "群吏",
+    "yomi": "ぐん‐り",
+    "link": "/word/%E7%BE%A4%E5%90%8F/#jn-65808"
+  },
+  {
+    "kotoba": "軍律",
+    "yomi": "ぐん‐りつ",
+    "link": "/word/%E8%BB%8D%E5%BE%8B/#jn-65810"
+  },
+  {
+    "kotoba": "軍略",
+    "yomi": "ぐん‐りゃく",
+    "link": "/word/%E8%BB%8D%E7%95%A5/#jn-65811"
+  },
+  {
+    "kotoba": "群流星",
+    "yomi": "ぐん‐りゅうせい",
+    "link": "/word/%E7%BE%A4%E6%B5%81%E6%98%9F/#jn-242726"
+  },
+  {
+    "kotoba": "軍旅",
+    "yomi": "ぐん‐りょ",
+    "link": "/word/%E8%BB%8D%E6%97%85/#jn-65812"
+  },
+  {
+    "kotoba": "軍糧",
+    "yomi": "ぐん‐りょう",
+    "link": "/word/%E8%BB%8D%E7%B3%A7/#jn-65813"
+  },
+  {
+    "kotoba": "郡領",
+    "yomi": "ぐん‐りょう",
+    "link": "/word/%E9%83%A1%E9%A0%98/#jn-65814"
+  },
+  {
+    "kotoba": "群僚",
+    "yomi": "ぐん‐りょう",
+    "link": "/word/%E7%BE%A4%E5%83%9A/#jn-65815"
+  },
+  {
+    "kotoba": "軍令",
+    "yomi": "ぐん‐れい",
+    "link": "/word/%E8%BB%8D%E4%BB%A4/#jn-65818"
+  },
+  {
+    "kotoba": "軍令部",
+    "yomi": "ぐんれい‐ぶ",
+    "link": "/word/%E8%BB%8D%E4%BB%A4%E9%83%A8/#jn-65820"
+  },
+  {
+    "kotoba": "軍令部総長",
+    "yomi": "ぐんれいぶ‐そうちょう",
+    "link": "/word/%E8%BB%8D%E4%BB%A4%E9%83%A8%E7%B7%8F%E9%95%B7/#jn-65821"
+  },
+  {
+    "kotoba": "軍歴",
+    "yomi": "ぐん‐れき",
+    "link": "/word/%E8%BB%8D%E6%AD%B4/#jn-285028"
+  },
+  {
+    "kotoba": "軍歴証明書",
+    "yomi": "ぐんれき‐しょうめいしょ",
+    "link": "/word/%E8%BB%8D%E6%AD%B4%E8%A8%BC%E6%98%8E%E6%9B%B8/#jn-285029"
+  },
+  {
+    "kotoba": "群狼",
+    "yomi": "ぐん‐ろう",
+    "link": "/word/%E7%BE%A4%E7%8B%BC/#jn-65826"
+  },
+  {
+    "kotoba": "群緑",
+    "yomi": "ぐん‐ろく",
+    "link": "/word/%E7%BE%A4%E7%B7%91/#jn-65828"
+  },
+  {
+    "kotoba": "群論",
+    "yomi": "ぐん‐ろん",
+    "link": "/word/%E7%BE%A4%E8%AB%96/#jn-65829"
+  }
+]

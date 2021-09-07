@@ -1,0 +1,3682 @@
+[
+  {
+    "kotoba": "搾菜",
+    "yomi": "ザーサイ",
+    "link": "/word/%E6%90%BE%E8%8F%9C/#jn-84309"
+  },
+  {
+    "kotoba": "座位",
+    "yomi": "ざ‐い",
+    "link": "/word/%E5%BA%A7%E4%BD%8D/#jn-84522"
+  },
+  {
+    "kotoba": "罪悪",
+    "yomi": "ざい‐あく",
+    "link": "/word/%E7%BD%AA%E6%82%AA/#jn-84533"
+  },
+  {
+    "kotoba": "罪悪感",
+    "yomi": "ざいあく‐かん",
+    "link": "/word/%E7%BD%AA%E6%82%AA%E6%84%9F/#jn-84534"
+  },
+  {
+    "kotoba": "罪案",
+    "yomi": "ざい‐あん",
+    "link": "/word/%E7%BD%AA%E6%A1%88/#jn-84538"
+  },
+  {
+    "kotoba": "在位",
+    "yomi": "ざい‐い",
+    "link": "/word/%E5%9C%A8%E4%BD%8D/#jn-84541"
+  },
+  {
+    "kotoba": "在院",
+    "yomi": "ざい‐いん",
+    "link": "/word/%E5%9C%A8%E9%99%A2/#jn-84547"
+  },
+  {
+    "kotoba": "罪因",
+    "yomi": "ざい‐いん",
+    "link": "/word/%E7%BD%AA%E5%9B%A0/#jn-84548"
+  },
+  {
+    "kotoba": "在営",
+    "yomi": "ざい‐えい",
+    "link": "/word/%E5%9C%A8%E5%96%B6/#jn-84559"
+  },
+  {
+    "kotoba": "在役",
+    "yomi": "ざい‐えき",
+    "link": "/word/%E5%9C%A8%E5%BD%B9/#jn-84561"
+  },
+  {
+    "kotoba": "在園",
+    "yomi": "ざい‐えん",
+    "link": "/word/%E5%9C%A8%E5%9C%92/#jn-84568"
+  },
+  {
+    "kotoba": "在欧",
+    "yomi": "ざい‐おう",
+    "link": "/word/%E5%9C%A8%E6%AC%A7/#jn-84580"
+  },
+  {
+    "kotoba": "在家",
+    "yomi": "ざい‐か",
+    "link": "/word/%E5%9C%A8%E5%AE%B6_%28%E3%81%96%E3%81%84%E3%81%8B%29/#jn-84597"
+  },
+  {
+    "kotoba": "在荷",
+    "yomi": "ざい‐か",
+    "link": "/word/%E5%9C%A8%E8%8D%B7/#jn-84598"
+  },
+  {
+    "kotoba": "財貨",
+    "yomi": "ざい‐か",
+    "link": "/word/%E8%B2%A1%E8%B2%A8/#jn-84599"
+  },
+  {
+    "kotoba": "罪科",
+    "yomi": "ざい‐か",
+    "link": "/word/%E7%BD%AA%E7%A7%91_%28%E3%81%96%E3%81%84%E3%81%8B%29/#jn-84600"
+  },
+  {
+    "kotoba": "罪過",
+    "yomi": "ざい‐か",
+    "link": "/word/%E7%BD%AA%E9%81%8E/#jn-84601"
+  },
+  {
+    "kotoba": "財界",
+    "yomi": "ざい‐かい",
+    "link": "/word/%E8%B2%A1%E7%95%8C/#jn-84613"
+  },
+  {
+    "kotoba": "罪魁",
+    "yomi": "ざい‐かい",
+    "link": "/word/%E7%BD%AA%E9%AD%81/#jn-84614"
+  },
+  {
+    "kotoba": "財界総理",
+    "yomi": "ざいかい‐そうり",
+    "link": "/word/%E8%B2%A1%E7%95%8C%E7%B7%8F%E7%90%86/#jn-84626"
+  },
+  {
+    "kotoba": "財界太平記",
+    "yomi": "ざいかいたいへいき",
+    "link": "/word/%E8%B2%A1%E7%95%8C%E5%A4%AA%E5%B9%B3%E8%A8%98/#jn-279135"
+  },
+  {
+    "kotoba": "在方",
+    "yomi": "ざい‐かた",
+    "link": "/word/%E5%9C%A8%E6%96%B9/#jn-84652"
+  },
+  {
+    "kotoba": "在官",
+    "yomi": "ざい‐かん",
+    "link": "/word/%E5%9C%A8%E5%AE%98/#jn-84666"
+  },
+  {
+    "kotoba": "在監",
+    "yomi": "ざい‐かん",
+    "link": "/word/%E5%9C%A8%E7%9B%A3/#jn-84667"
+  },
+  {
+    "kotoba": "在外",
+    "yomi": "ざい‐がい",
+    "link": "/word/%E5%9C%A8%E5%A4%96/#jn-84615"
+  },
+  {
+    "kotoba": "在外教育施設",
+    "yomi": "ざいがい‐きょういくしせつ",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E6%95%99%E8%82%B2%E6%96%BD%E8%A8%AD/#jn-242918"
+  },
+  {
+    "kotoba": "在外公館",
+    "yomi": "ざいがい‐こうかん",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E5%85%AC%E9%A4%A8/#jn-84620"
+  },
+  {
+    "kotoba": "在外資産",
+    "yomi": "ざいがい‐しさん",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E8%B3%87%E7%94%A3/#jn-84623"
+  },
+  {
+    "kotoba": "在外正貨",
+    "yomi": "ざいがい‐せいか",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E6%AD%A3%E8%B2%A8/#jn-84624"
+  },
+  {
+    "kotoba": "在外選挙",
+    "yomi": "ざいがい‐せんきょ",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E9%81%B8%E6%8C%99/#jn-84625"
+  },
+  {
+    "kotoba": "在外選挙人証",
+    "yomi": "ざいがい‐せんきょにんしょう",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E9%81%B8%E6%8C%99%E4%BA%BA%E8%A8%BC/#jn-240209"
+  },
+  {
+    "kotoba": "在外選挙人名簿",
+    "yomi": "ざいがい‐せんきょにんめいぼ",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E9%81%B8%E6%8C%99%E4%BA%BA%E5%90%8D%E7%B0%BF/#jn-240210"
+  },
+  {
+    "kotoba": "在外投票",
+    "yomi": "ざいがい‐とうひょう",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E6%8A%95%E7%A5%A8/#jn-84630"
+  },
+  {
+    "kotoba": "在外投票人名簿",
+    "yomi": "ざいがいとうひょうにん‐めいぼ",
+    "link": "/word/%E5%9C%A8%E5%A4%96%E6%8A%95%E7%A5%A8%E4%BA%BA%E5%90%8D%E7%B0%BF/#jn-277300"
+  },
+  {
+    "kotoba": "在学",
+    "yomi": "ざい‐がく",
+    "link": "/word/%E5%9C%A8%E5%AD%A6/#jn-84645"
+  },
+  {
+    "kotoba": "在学費用",
+    "yomi": "ざいがく‐ひよう",
+    "link": "/word/%E5%9C%A8%E5%AD%A6%E8%B2%BB%E7%94%A8/#jn-242920"
+  },
+  {
+    "kotoba": "罪咎",
+    "yomi": "ざい‐きゅう",
+    "link": "/word/%E7%BD%AA%E5%92%8E/#jn-84700"
+  },
+  {
+    "kotoba": "在京",
+    "yomi": "ざい‐きょう",
+    "link": "/word/%E5%9C%A8%E4%BA%AC/#jn-84708"
+  },
+  {
+    "kotoba": "在郷",
+    "yomi": "ざい‐きょう",
+    "link": "/word/%E5%9C%A8%E9%83%B7_%28%E3%81%96%E3%81%84%E3%81%8D%E3%82%87%E3%81%86%29/#jn-84709"
+  },
+  {
+    "kotoba": "在京人",
+    "yomi": "ざいきょう‐にん",
+    "link": "/word/%E5%9C%A8%E4%BA%AC%E4%BA%BA/#jn-84716"
+  },
+  {
+    "kotoba": "在勤",
+    "yomi": "ざい‐きん",
+    "link": "/word/%E5%9C%A8%E5%8B%A4/#jn-84732"
+  },
+  {
+    "kotoba": "在勤手当",
+    "yomi": "ざいきん‐てあて",
+    "link": "/word/%E5%9C%A8%E5%8B%A4%E6%89%8B%E5%BD%93/#jn-84740"
+  },
+  {
+    "kotoba": "財金分離",
+    "yomi": "ざいきん‐ぶんり",
+    "link": "/word/%E8%B2%A1%E9%87%91%E5%88%86%E9%9B%A2/#jn-84743"
+  },
+  {
+    "kotoba": "在勤者",
+    "yomi": "ざいきん‐もの",
+    "link": "/word/%E5%9C%A8%E5%8B%A4%E8%80%85/#jn-84746"
+  },
+  {
+    "kotoba": "罪垢",
+    "yomi": "ざい‐く",
+    "link": "/word/%E7%BD%AA%E5%9E%A2/#jn-84752"
+  },
+  {
+    "kotoba": "在口",
+    "yomi": "ざい‐ぐち",
+    "link": "/word/%E5%9C%A8%E5%8F%A3/#jn-84763"
+  },
+  {
+    "kotoba": "在家",
+    "yomi": "ざい‐け",
+    "link": "/word/%E5%9C%A8%E5%AE%B6_%28%E3%81%96%E3%81%84%E3%81%91%29/#jn-84794"
+  },
+  {
+    "kotoba": "済家",
+    "yomi": "ざい‐け",
+    "link": "/word/%E6%B8%88%E5%AE%B6/#jn-84795"
+  },
+  {
+    "kotoba": "剤形",
+    "yomi": "ざい‐けい",
+    "link": "/word/%E5%89%A4%E5%BD%A2/#jn-84799"
+  },
+  {
+    "kotoba": "財形",
+    "yomi": "ざい‐けい",
+    "link": "/word/%E8%B2%A1%E5%BD%A2/#jn-84800"
+  },
+  {
+    "kotoba": "財形基金保険",
+    "yomi": "ざいけいききん‐ほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E5%9F%BA%E9%87%91%E4%BF%9D%E9%99%BA/#jn-84801"
+  },
+  {
+    "kotoba": "財形給付金保険",
+    "yomi": "ざいけいきゅうふきん‐ほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E7%B5%A6%E4%BB%98%E9%87%91%E4%BF%9D%E9%99%BA/#jn-84802"
+  },
+  {
+    "kotoba": "財形住宅貯蓄積立保険",
+    "yomi": "ざいけいじゅうたくちょちく‐つみたてほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E4%BD%8F%E5%AE%85%E8%B2%AF%E8%93%84%E7%A9%8D%E7%AB%8B%E4%BF%9D%E9%99%BA/#jn-84807"
+  },
+  {
+    "kotoba": "財形貯蓄積立保険",
+    "yomi": "ざいけいちょちく‐つみたてほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E8%B2%AF%E8%93%84%E7%A9%8D%E7%AB%8B%E4%BF%9D%E9%99%BA/#jn-84809"
+  },
+  {
+    "kotoba": "財形年金積立保険",
+    "yomi": "ざいけいねんきん‐つみたてほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E5%B9%B4%E9%87%91%E7%A9%8D%E7%AB%8B%E4%BF%9D%E9%99%BA/#jn-84810"
+  },
+  {
+    "kotoba": "財形年金保険",
+    "yomi": "ざいけいねんきん‐ほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E5%B9%B4%E9%87%91%E4%BF%9D%E9%99%BA/#jn-84811"
+  },
+  {
+    "kotoba": "罪刑法定主義",
+    "yomi": "ざいけい‐ほうていしゅぎ",
+    "link": "/word/%E7%BD%AA%E5%88%91%E6%B3%95%E5%AE%9A%E4%B8%BB%E7%BE%A9/#jn-84813"
+  },
+  {
+    "kotoba": "財形保険",
+    "yomi": "ざいけい‐ほけん",
+    "link": "/word/%E8%B2%A1%E5%BD%A2%E4%BF%9D%E9%99%BA/#jn-84814"
+  },
+  {
+    "kotoba": "在家僧",
+    "yomi": "ざいけ‐そう",
+    "link": "/word/%E5%9C%A8%E5%AE%B6%E5%83%A7/#jn-84817"
+  },
+  {
+    "kotoba": "在家役",
+    "yomi": "ざいけ‐やく",
+    "link": "/word/%E5%9C%A8%E5%AE%B6%E5%BD%B9/#jn-84830"
+  },
+  {
+    "kotoba": "財源",
+    "yomi": "ざい‐げん",
+    "link": "/word/%E8%B2%A1%E6%BA%90/#jn-84840"
+  },
+  {
+    "kotoba": "在庫",
+    "yomi": "ざい‐こ",
+    "link": "/word/%E5%9C%A8%E5%BA%AB/#jn-84873"
+  },
+  {
+    "kotoba": "在校",
+    "yomi": "ざい‐こう",
+    "link": "/word/%E5%9C%A8%E6%A0%A1/#jn-84893"
+  },
+  {
+    "kotoba": "在校生",
+    "yomi": "ざいこう‐せい",
+    "link": "/word/%E5%9C%A8%E6%A0%A1%E7%94%9F/#jn-301756"
+  },
+  {
+    "kotoba": "在庫影響",
+    "yomi": "ざいこ‐えいきょう",
+    "link": "/word/%E5%9C%A8%E5%BA%AB%E5%BD%B1%E9%9F%BF/#jn-84934"
+  },
+  {
+    "kotoba": "在庫管理",
+    "yomi": "ざいこ‐かんり",
+    "link": "/word/%E5%9C%A8%E5%BA%AB%E7%AE%A1%E7%90%86/#jn-84937"
+  },
+  {
+    "kotoba": "在国",
+    "yomi": "ざい‐こく",
+    "link": "/word/%E5%9C%A8%E5%9B%BD/#jn-84943"
+  },
+  {
+    "kotoba": "在国衆",
+    "yomi": "ざいこく‐しゅう",
+    "link": "/word/%E5%9C%A8%E5%9B%BD%E8%A1%86/#jn-84948"
+  },
+  {
+    "kotoba": "在庫調整",
+    "yomi": "ざいこ‐ちょうせい",
+    "link": "/word/%E5%9C%A8%E5%BA%AB%E8%AA%BF%E6%95%B4/#jn-84958"
+  },
+  {
+    "kotoba": "在庫投資",
+    "yomi": "ざいこ‐とうし",
+    "link": "/word/%E5%9C%A8%E5%BA%AB%E6%8A%95%E8%B3%87/#jn-84963"
+  },
+  {
+    "kotoba": "在庫品",
+    "yomi": "ざいこ‐ひん",
+    "link": "/word/%E5%9C%A8%E5%BA%AB%E5%93%81/#jn-84973"
+  },
+  {
+    "kotoba": "在庫率",
+    "yomi": "ざいこ‐りつ",
+    "link": "/word/%E5%9C%A8%E5%BA%AB%E7%8E%87/#jn-84977"
+  },
+  {
+    "kotoba": "罪根",
+    "yomi": "ざい‐こん",
+    "link": "/word/%E7%BD%AA%E6%A0%B9/#jn-84986"
+  },
+  {
+    "kotoba": "在五",
+    "yomi": "ざい‐ご",
+    "link": "/word/person/%E5%9C%A8%E4%BA%94/#jn-84874"
+  },
+  {
+    "kotoba": "在郷",
+    "yomi": "ざい‐ごう",
+    "link": "/word/%E5%9C%A8%E9%83%B7_%28%E3%81%96%E3%81%84%E3%81%94%E3%81%86%29/#jn-84894"
+  },
+  {
+    "kotoba": "罪業",
+    "yomi": "ざい‐ごう",
+    "link": "/word/%E7%BD%AA%E6%A5%AD/#jn-84895"
+  },
+  {
+    "kotoba": "在郷歌",
+    "yomi": "ざいごう‐うた",
+    "link": "/word/%E5%9C%A8%E9%83%B7%E6%AD%8C/#jn-84896"
+  },
+  {
+    "kotoba": "在郷軍人",
+    "yomi": "ざいごう‐ぐんじん",
+    "link": "/word/%E5%9C%A8%E9%83%B7%E8%BB%8D%E4%BA%BA/#jn-84902"
+  },
+  {
+    "kotoba": "在郷軍人病",
+    "yomi": "ざいごうぐんじん‐びょう",
+    "link": "/word/%E5%9C%A8%E9%83%B7%E8%BB%8D%E4%BA%BA%E7%97%85/#jn-84903"
+  },
+  {
+    "kotoba": "在郷者",
+    "yomi": "ざいごう‐もの",
+    "link": "/word/%E5%9C%A8%E9%83%B7%E8%80%85/#jn-84931"
+  },
+  {
+    "kotoba": "在五忌",
+    "yomi": "ざいご‐き",
+    "link": "/word/%E5%9C%A8%E4%BA%94%E5%BF%8C/#jn-250181"
+  },
+  {
+    "kotoba": "在獄",
+    "yomi": "ざい‐ごく",
+    "link": "/word/%E5%9C%A8%E7%8D%84/#jn-84944"
+  },
+  {
+    "kotoba": "在五中将",
+    "yomi": "ざいご‐ちゅうじょう",
+    "link": "/word/person/%E5%9C%A8%E4%BA%94%E4%B8%AD%E5%B0%86/#jn-84957"
+  },
+  {
+    "kotoba": "財産",
+    "yomi": "ざい‐さん",
+    "link": "/word/%E8%B2%A1%E7%94%A3/#jn-85011"
+  },
+  {
+    "kotoba": "財産家",
+    "yomi": "ざいさん‐か",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%AE%B6/#jn-85012"
+  },
+  {
+    "kotoba": "財産勘定",
+    "yomi": "ざいさん‐かんじょう",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%8B%98%E5%AE%9A/#jn-85015"
+  },
+  {
+    "kotoba": "財産管理",
+    "yomi": "ざいさん‐かんり",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%AE%A1%E7%90%86/#jn-250183"
+  },
+  {
+    "kotoba": "財産管理権",
+    "yomi": "ざいさんかんり‐けん",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%AE%A1%E7%90%86%E6%A8%A9/#jn-250184"
+  },
+  {
+    "kotoba": "財産管理制度",
+    "yomi": "ざいさんかんり‐せいど",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/#jn-263283"
+  },
+  {
+    "kotoba": "財産管理等委任契約",
+    "yomi": "ざいさんかんりとう‐いにんけいやく",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%AE%A1%E7%90%86%E7%AD%89%E5%A7%94%E4%BB%BB%E5%A5%91%E7%B4%84/#jn-294466"
+  },
+  {
+    "kotoba": "財産管理人",
+    "yomi": "ざいさんかんり‐にん",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%AE%A1%E7%90%86%E4%BA%BA/#jn-263284"
+  },
+  {
+    "kotoba": "財産区",
+    "yomi": "ざいさん‐く",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%8C%BA/#jn-85016"
+  },
+  {
+    "kotoba": "財産刑",
+    "yomi": "ざいさん‐けい",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%88%91/#jn-85017"
+  },
+  {
+    "kotoba": "財産権",
+    "yomi": "ざいさん‐けん",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E6%A8%A9/#jn-85018"
+  },
+  {
+    "kotoba": "財産罪",
+    "yomi": "ざいさん‐ざい",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%BD%AA/#jn-85019"
+  },
+  {
+    "kotoba": "財産出資",
+    "yomi": "ざいさん‐しゅっし",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%87%BA%E8%B3%87/#jn-85021"
+  },
+  {
+    "kotoba": "財産所得",
+    "yomi": "ざいさん‐しょとく",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E6%89%80%E5%BE%97/#jn-85022"
+  },
+  {
+    "kotoba": "財産税",
+    "yomi": "ざいさん‐ぜい",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%A8%8E/#jn-85023"
+  },
+  {
+    "kotoba": "財産相続",
+    "yomi": "ざいさん‐そうぞく",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%9B%B8%E7%B6%9A/#jn-85024"
+  },
+  {
+    "kotoba": "財産犯",
+    "yomi": "ざいさん‐はん",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%8A%AF/#jn-85025"
+  },
+  {
+    "kotoba": "財産分与",
+    "yomi": "ざいさん‐ぶんよ",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%88%86%E4%B8%8E/#jn-85026"
+  },
+  {
+    "kotoba": "財産分離",
+    "yomi": "ざいさん‐ぶんり",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E5%88%86%E9%9B%A2/#jn-85027"
+  },
+  {
+    "kotoba": "財産法",
+    "yomi": "ざいさん‐ほう",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E6%B3%95/#jn-85028"
+  },
+  {
+    "kotoba": "財産目録",
+    "yomi": "ざいさん‐もくろく",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%9B%AE%E9%8C%B2/#jn-85029"
+  },
+  {
+    "kotoba": "財産留保",
+    "yomi": "ざいさん‐りゅうほ",
+    "link": "/word/%E8%B2%A1%E7%94%A3%E7%95%99%E4%BF%9D/#jn-85030"
+  },
+  {
+    "kotoba": "在在",
+    "yomi": "ざい‐ざい",
+    "link": "/word/%E5%9C%A8%E5%9C%A8/#jn-84997"
+  },
+  {
+    "kotoba": "在在所所",
+    "yomi": "ざいざい‐しょしょ",
+    "link": "/word/%E5%9C%A8%E5%9C%A8%E6%89%80%E6%89%80/#jn-84999"
+  },
+  {
+    "kotoba": "財色",
+    "yomi": "ざい‐しき",
+    "link": "/word/%E8%B2%A1%E8%89%B2/#jn-85062"
+  },
+  {
+    "kotoba": "在室",
+    "yomi": "ざい‐しつ",
+    "link": "/word/%E5%9C%A8%E5%AE%A4/#jn-85074"
+  },
+  {
+    "kotoba": "材質",
+    "yomi": "ざい‐しつ",
+    "link": "/word/%E6%9D%90%E8%B3%AA/#jn-85075"
+  },
+  {
+    "kotoba": "罪質",
+    "yomi": "ざい‐しつ",
+    "link": "/word/%E7%BD%AA%E8%B3%AA/#jn-85076"
+  },
+  {
+    "kotoba": "材質腐朽菌",
+    "yomi": "ざいしつ‐ふきゅうきん",
+    "link": "/word/%E6%9D%90%E8%B3%AA%E8%85%90%E6%9C%BD%E8%8F%8C/#jn-275365"
+  },
+  {
+    "kotoba": "在社",
+    "yomi": "ざい‐しゃ",
+    "link": "/word/%E5%9C%A8%E7%A4%BE/#jn-85079"
+  },
+  {
+    "kotoba": "材種",
+    "yomi": "ざい‐しゅ",
+    "link": "/word/%E6%9D%90%E7%A8%AE/#jn-85091"
+  },
+  {
+    "kotoba": "罪種",
+    "yomi": "ざい‐しゅ",
+    "link": "/word/%E7%BD%AA%E7%A8%AE/#jn-85092"
+  },
+  {
+    "kotoba": "罪囚",
+    "yomi": "ざい‐しゅう",
+    "link": "/word/%E7%BD%AA%E5%9B%9A/#jn-85096"
+  },
+  {
+    "kotoba": "在宿",
+    "yomi": "ざい‐しゅく",
+    "link": "/word/%E5%9C%A8%E5%AE%BF/#jn-85111"
+  },
+  {
+    "kotoba": "在所",
+    "yomi": "ざい‐しょ",
+    "link": "/word/%E5%9C%A8%E6%89%80/#jn-85128"
+  },
+  {
+    "kotoba": "財相",
+    "yomi": "ざい‐しょう",
+    "link": "/word/%E8%B2%A1%E7%9B%B8/#jn-85143"
+  },
+  {
+    "kotoba": "罪証",
+    "yomi": "ざい‐しょう",
+    "link": "/word/%E7%BD%AA%E8%A8%BC/#jn-85144"
+  },
+  {
+    "kotoba": "罪障",
+    "yomi": "ざい‐しょう",
+    "link": "/word/%E7%BD%AA%E9%9A%9C/#jn-85145"
+  },
+  {
+    "kotoba": "在職",
+    "yomi": "ざい‐しょく",
+    "link": "/word/%E5%9C%A8%E8%81%B7/#jn-85179"
+  },
+  {
+    "kotoba": "在職老齢年金制度",
+    "yomi": "ざいしょくろうれいねんきん‐せいど",
+    "link": "/word/%E5%9C%A8%E8%81%B7%E8%80%81%E9%BD%A2%E5%B9%B4%E9%87%91%E5%88%B6%E5%BA%A6/#jn-85181"
+  },
+  {
+    "kotoba": "在所者",
+    "yomi": "ざいしょ‐もの",
+    "link": "/word/%E5%9C%A8%E6%89%80%E8%80%85/#jn-85183"
+  },
+  {
+    "kotoba": "摧邪輪",
+    "yomi": "ざいじゃりん",
+    "link": "/word/%E6%91%A7%E9%82%AA%E8%BC%AA/#jn-85082"
+  },
+  {
+    "kotoba": "在住",
+    "yomi": "ざい‐じゅう",
+    "link": "/word/%E5%9C%A8%E4%BD%8F/#jn-85097"
+  },
+  {
+    "kotoba": "罪状",
+    "yomi": "ざい‐じょう",
+    "link": "/word/%E7%BD%AA%E7%8A%B6/#jn-85147"
+  },
+  {
+    "kotoba": "罪状認否",
+    "yomi": "ざいじょう‐にんぴ",
+    "link": "/word/%E7%BD%AA%E7%8A%B6%E8%AA%8D%E5%90%A6/#jn-85165"
+  },
+  {
+    "kotoba": "座椅子",
+    "yomi": "ざ‐いす",
+    "link": "/word/%E5%BA%A7%E6%A4%85%E5%AD%90/#jn-85214"
+  },
+  {
+    "kotoba": "罪数",
+    "yomi": "ざい‐すう",
+    "link": "/word/%E7%BD%AA%E6%95%B0/#jn-85216"
+  },
+  {
+    "kotoba": "在世",
+    "yomi": "ざい‐せ",
+    "link": "/word/%E5%9C%A8%E4%B8%96_%28%E3%81%96%E3%81%84%E3%81%9B%29/#jn-85225"
+  },
+  {
+    "kotoba": "財施",
+    "yomi": "ざい‐せ",
+    "link": "/word/%E8%B2%A1%E6%96%BD/#jn-85226"
+  },
+  {
+    "kotoba": "在世",
+    "yomi": "ざい‐せい",
+    "link": "/word/%E5%9C%A8%E4%B8%96_%28%E3%81%96%E3%81%84%E3%81%9B%E3%81%84%29/#jn-85235"
+  },
+  {
+    "kotoba": "財政",
+    "yomi": "ざい‐せい",
+    "link": "/word/%E8%B2%A1%E6%94%BF/#jn-85236"
+  },
+  {
+    "kotoba": "財政赤字",
+    "yomi": "ざいせい‐あかじ",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%B5%A4%E5%AD%97/#jn-85237"
+  },
+  {
+    "kotoba": "財政安定化基金",
+    "yomi": "ざいせいあんていか‐ききん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%AE%89%E5%AE%9A%E5%8C%96%E5%9F%BA%E9%87%91/#jn-242922"
+  },
+  {
+    "kotoba": "財政家",
+    "yomi": "ざいせい‐か",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%AE%B6/#jn-85242"
+  },
+  {
+    "kotoba": "財政関税",
+    "yomi": "ざいせい‐かんぜい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E9%96%A2%E7%A8%8E/#jn-85247"
+  },
+  {
+    "kotoba": "財政学",
+    "yomi": "ざいせい‐がく",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%AD%A6/#jn-85244"
+  },
+  {
+    "kotoba": "財政規律",
+    "yomi": "ざいせい‐きりつ",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%A6%8F%E5%BE%8B/#jn-240219"
+  },
+  {
+    "kotoba": "財政検証",
+    "yomi": "ざいせい‐けんしょう",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%A4%9C%E8%A8%BC/#jn-271054"
+  },
+  {
+    "kotoba": "財政健全化計画",
+    "yomi": "ざいせいけんぜんか‐けいかく",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%81%A5%E5%85%A8%E5%8C%96%E8%A8%88%E7%94%BB/#jn-85249"
+  },
+  {
+    "kotoba": "財政健全化団体",
+    "yomi": "ざいせいけんぜんか‐だんたい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%81%A5%E5%85%A8%E5%8C%96%E5%9B%A3%E4%BD%93/#jn-85250"
+  },
+  {
+    "kotoba": "財政健全化法",
+    "yomi": "ざいせいけんぜんか‐ほう",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%81%A5%E5%85%A8%E5%8C%96%E6%B3%95/#jn-85251"
+  },
+  {
+    "kotoba": "財政再建",
+    "yomi": "ざいせい‐さいけん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%86%8D%E5%BB%BA/#jn-85254"
+  },
+  {
+    "kotoba": "財政再建団体",
+    "yomi": "ざいせいさいけん‐だんたい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%86%8D%E5%BB%BA%E5%9B%A3%E4%BD%93/#jn-85255"
+  },
+  {
+    "kotoba": "財政再生基準",
+    "yomi": "ざいせいさいせい‐きじゅん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%86%8D%E7%94%9F%E5%9F%BA%E6%BA%96/#jn-85257"
+  },
+  {
+    "kotoba": "財政再生計画",
+    "yomi": "ざいせいさいせい‐けいかく",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%86%8D%E7%94%9F%E8%A8%88%E7%94%BB/#jn-85258"
+  },
+  {
+    "kotoba": "財政再生団体",
+    "yomi": "ざいせいさいせい‐だんたい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%86%8D%E7%94%9F%E5%9B%A3%E4%BD%93/#jn-85259"
+  },
+  {
+    "kotoba": "財政財産",
+    "yomi": "ざいせい‐ざいさん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%B2%A1%E7%94%A3/#jn-85256"
+  },
+  {
+    "kotoba": "財政資金",
+    "yomi": "ざいせい‐しきん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%B3%87%E9%87%91/#jn-85264"
+  },
+  {
+    "kotoba": "財政支出規模",
+    "yomi": "ざいせいししゅつ‐きぼ",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%94%AF%E5%87%BA%E8%A6%8F%E6%A8%A1/#jn-85265"
+  },
+  {
+    "kotoba": "財政収支",
+    "yomi": "ざいせい‐しゅうし",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%8F%8E%E6%94%AF/#jn-85267"
+  },
+  {
+    "kotoba": "財政出動",
+    "yomi": "ざいせい‐しゅつどう",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%87%BA%E5%8B%95/#jn-85268"
+  },
+  {
+    "kotoba": "財政出動規模",
+    "yomi": "ざいせいしゅつどう‐きぼ",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%87%BA%E5%8B%95%E8%A6%8F%E6%A8%A1/#jn-85269"
+  },
+  {
+    "kotoba": "財政審議会",
+    "yomi": "ざいせい‐しんぎかい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%AF%A9%E8%AD%B0%E4%BC%9A/#jn-289017"
+  },
+  {
+    "kotoba": "財政政策",
+    "yomi": "ざいせい‐せいさく",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%94%BF%E7%AD%96/#jn-85270"
+  },
+  {
+    "kotoba": "財政制度等審議会",
+    "yomi": "ざいせいせいどとう‐しんぎかい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%88%B6%E5%BA%A6%E7%AD%89%E5%AF%A9%E8%AD%B0%E4%BC%9A/#jn-287037"
+  },
+  {
+    "kotoba": "財政調整基金",
+    "yomi": "ざいせいちょうせい‐ききん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%AA%BF%E6%95%B4%E5%9F%BA%E9%87%91/#jn-292808"
+  },
+  {
+    "kotoba": "財政調整基金積立金",
+    "yomi": "ざいせいちょうせいききん‐つみたてきん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%AA%BF%E6%95%B4%E5%9F%BA%E9%87%91%E7%A9%8D%E7%AB%8B%E9%87%91/#jn-292809"
+  },
+  {
+    "kotoba": "財政的児童虐待",
+    "yomi": "ざいせいてき‐じどうぎゃくたい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E7%9A%84%E5%85%90%E7%AB%A5%E8%99%90%E5%BE%85/#jn-283029"
+  },
+  {
+    "kotoba": "財政的幼児虐待",
+    "yomi": "ざいせいてき‐ようじぎゃくたい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E7%9A%84%E5%B9%BC%E5%85%90%E8%99%90%E5%BE%85/#jn-283030"
+  },
+  {
+    "kotoba": "財政投融資",
+    "yomi": "ざいせい‐とうゆうし",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%8A%95%E8%9E%8D%E8%B3%87/#jn-85274"
+  },
+  {
+    "kotoba": "財政投融資特別会計",
+    "yomi": "ざいせいとうゆうし‐とくべつかいけい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%8A%95%E8%9E%8D%E8%B3%87%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88/#jn-85275"
+  },
+  {
+    "kotoba": "財政投融資特別会計国債",
+    "yomi": "ざいせいとうゆうし‐とくべつかいけいこくさい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%8A%95%E8%9E%8D%E8%B3%87%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88%E5%9B%BD%E5%82%B5/#jn-250191"
+  },
+  {
+    "kotoba": "財政特会",
+    "yomi": "ざいせい‐とっかい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E7%89%B9%E4%BC%9A/#jn-85276"
+  },
+  {
+    "kotoba": "財政犯",
+    "yomi": "ざいせい‐はん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E7%8A%AF/#jn-85277"
+  },
+  {
+    "kotoba": "財政法",
+    "yomi": "ざいせい‐ほう",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%B3%95/#jn-85279"
+  },
+  {
+    "kotoba": "財政民主主義",
+    "yomi": "ざいせい‐みんしゅしゅぎ",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9/#jn-85280"
+  },
+  {
+    "kotoba": "財政融資資金",
+    "yomi": "ざいせい‐ゆうししきん",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%9E%8D%E8%B3%87%E8%B3%87%E9%87%91/#jn-85282"
+  },
+  {
+    "kotoba": "財政融資資金特別会計",
+    "yomi": "ざいせいゆうししきん‐とくべつかいけい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%9E%8D%E8%B3%87%E8%B3%87%E9%87%91%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88/#jn-85283"
+  },
+  {
+    "kotoba": "財政融資資金特別会計国債",
+    "yomi": "ざいせいゆうししきん‐とくべつかいけいこくさい",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E8%9E%8D%E8%B3%87%E8%B3%87%E9%87%91%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88%E5%9B%BD%E5%82%B5/#jn-85284"
+  },
+  {
+    "kotoba": "財政力指数",
+    "yomi": "ざいせいりょく‐しすう",
+    "link": "/word/%E8%B2%A1%E6%94%BF%E5%8A%9B%E6%8C%87%E6%95%B0/#jn-265725"
+  },
+  {
+    "kotoba": "在昔",
+    "yomi": "ざい‐せき",
+    "link": "/word/%E5%9C%A8%E6%98%94/#jn-85289"
+  },
+  {
+    "kotoba": "在席",
+    "yomi": "ざい‐せき",
+    "link": "/word/%E5%9C%A8%E5%B8%AD/#jn-85290"
+  },
+  {
+    "kotoba": "在籍",
+    "yomi": "ざい‐せき",
+    "link": "/word/%E5%9C%A8%E7%B1%8D/#jn-85291"
+  },
+  {
+    "kotoba": "材積",
+    "yomi": "ざい‐せき",
+    "link": "/word/%E6%9D%90%E7%A9%8D/#jn-85292"
+  },
+  {
+    "kotoba": "罪責",
+    "yomi": "ざい‐せき",
+    "link": "/word/%E7%BD%AA%E8%B2%AC/#jn-85293"
+  },
+  {
+    "kotoba": "罪跡",
+    "yomi": "ざい‐せき",
+    "link": "/word/%E7%BD%AA%E8%B7%A1/#jn-85294"
+  },
+  {
+    "kotoba": "在籍型出向",
+    "yomi": "ざいせきがた‐しゅっこう",
+    "link": "/word/%E5%9C%A8%E7%B1%8D%E5%9E%8B%E5%87%BA%E5%90%91/#jn-253978"
+  },
+  {
+    "kotoba": "在籍出向",
+    "yomi": "ざいせき‐しゅっこう",
+    "link": "/word/%E5%9C%A8%E7%B1%8D%E5%87%BA%E5%90%91/#jn-253979"
+  },
+  {
+    "kotoba": "在籍専従",
+    "yomi": "ざいせき‐せんじゅう",
+    "link": "/word/%E5%9C%A8%E7%B1%8D%E5%B0%82%E5%BE%93/#jn-85298"
+  },
+  {
+    "kotoba": "在線",
+    "yomi": "ざい‐せん",
+    "link": "/word/%E5%9C%A8%E7%B7%9A/#jn-257289"
+  },
+  {
+    "kotoba": "在俗",
+    "yomi": "ざい‐ぞく",
+    "link": "/word/%E5%9C%A8%E4%BF%97/#jn-85339"
+  },
+  {
+    "kotoba": "在俗僧",
+    "yomi": "ざいぞく‐そう",
+    "link": "/word/%E5%9C%A8%E4%BF%97%E5%83%A7/#jn-85342"
+  },
+  {
+    "kotoba": "座板",
+    "yomi": "ざ‐いた",
+    "link": "/word/%E5%BA%A7%E6%9D%BF/#jn-85345"
+  },
+  {
+    "kotoba": "在隊",
+    "yomi": "ざい‐たい",
+    "link": "/word/%E5%9C%A8%E9%9A%8A/#jn-85353"
+  },
+  {
+    "kotoba": "罪体",
+    "yomi": "ざい‐たい",
+    "link": "/word/%E7%BD%AA%E4%BD%93/#jn-85354"
+  },
+  {
+    "kotoba": "在宅",
+    "yomi": "ざい‐たく",
+    "link": "/word/%E5%9C%A8%E5%AE%85/#jn-85375"
+  },
+  {
+    "kotoba": "在宅医療",
+    "yomi": "ざいたく‐いりょう",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E5%8C%BB%E7%99%82/#jn-85376"
+  },
+  {
+    "kotoba": "在宅介護",
+    "yomi": "ざいたく‐かいご",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E4%BB%8B%E8%AD%B7/#jn-85377"
+  },
+  {
+    "kotoba": "在宅起訴",
+    "yomi": "ざいたく‐きそ",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E8%B5%B7%E8%A8%B4/#jn-85379"
+  },
+  {
+    "kotoba": "在宅教育",
+    "yomi": "ざいたく‐きょういく",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E6%95%99%E8%82%B2/#jn-246176"
+  },
+  {
+    "kotoba": "在宅勤務",
+    "yomi": "ざいたく‐きんむ",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99/#jn-85380"
+  },
+  {
+    "kotoba": "在宅健診",
+    "yomi": "ざいたく‐けんしん",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E5%81%A5%E8%A8%BA/#jn-85382"
+  },
+  {
+    "kotoba": "在宅時医学総合管理料",
+    "yomi": "ざいたくじいがく‐そうごうかんりりょう",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E6%99%82%E5%8C%BB%E5%AD%A6%E7%B7%8F%E5%90%88%E7%AE%A1%E7%90%86%E6%96%99/#jn-265727"
+  },
+  {
+    "kotoba": "在宅避難",
+    "yomi": "ざいたく‐ひなん",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E9%81%BF%E9%9B%A3/#jn-301757"
+  },
+  {
+    "kotoba": "在宅福祉",
+    "yomi": "ざいたく‐ふくし",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E7%A6%8F%E7%A5%89/#jn-85383"
+  },
+  {
+    "kotoba": "在宅不登校",
+    "yomi": "ざいたく‐ふとうこう",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E4%B8%8D%E7%99%BB%E6%A0%A1/#jn-85384"
+  },
+  {
+    "kotoba": "在宅療養支援診療所",
+    "yomi": "ざいたくりょうようしえん‐しんりょうじょ",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E7%99%82%E9%A4%8A%E6%94%AF%E6%8F%B4%E8%A8%BA%E7%99%82%E6%89%80/#jn-250194"
+  },
+  {
+    "kotoba": "在宅療養支援病院",
+    "yomi": "ざいたくりょうようしえん‐びょういん",
+    "link": "/word/%E5%9C%A8%E5%AE%85%E7%99%82%E9%A4%8A%E6%94%AF%E6%8F%B4%E7%97%85%E9%99%A2/#jn-250195"
+  },
+  {
+    "kotoba": "財団",
+    "yomi": "ざい‐だん",
+    "link": "/word/%E8%B2%A1%E5%9B%A3/#jn-85406"
+  },
+  {
+    "kotoba": "財団抵当",
+    "yomi": "ざいだん‐ていとう",
+    "link": "/word/%E8%B2%A1%E5%9B%A3%E6%8A%B5%E5%BD%93/#jn-85413"
+  },
+  {
+    "kotoba": "財団法人",
+    "yomi": "ざいだん‐ほうじん",
+    "link": "/word/%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA/#jn-85416"
+  },
+  {
+    "kotoba": "在地",
+    "yomi": "ざい‐ち",
+    "link": "/word/%E5%9C%A8%E5%9C%B0/#jn-85421"
+  },
+  {
+    "kotoba": "在地判",
+    "yomi": "ざいち‐はん",
+    "link": "/word/%E5%9C%A8%E5%9C%B0%E5%88%A4/#jn-85423"
+  },
+  {
+    "kotoba": "在中",
+    "yomi": "ざい‐ちゅう",
+    "link": "/word/%E5%9C%A8%E4%B8%AD/#jn-85426"
+  },
+  {
+    "kotoba": "在庁",
+    "yomi": "ざい‐ちょう",
+    "link": "/word/%E5%9C%A8%E5%BA%81/#jn-85433"
+  },
+  {
+    "kotoba": "在朝",
+    "yomi": "ざい‐ちょう",
+    "link": "/word/%E5%9C%A8%E6%9C%9D/#jn-85434"
+  },
+  {
+    "kotoba": "在庁官人",
+    "yomi": "ざいちょう‐かんにん",
+    "link": "/word/%E5%9C%A8%E5%BA%81%E5%AE%98%E4%BA%BA/#jn-85436"
+  },
+  {
+    "kotoba": "在廷",
+    "yomi": "ざい‐てい",
+    "link": "/word/%E5%9C%A8%E5%BB%B7/#jn-85452"
+  },
+  {
+    "kotoba": "在廷証人",
+    "yomi": "ざいてい‐しょうにん",
+    "link": "/word/%E5%9C%A8%E5%BB%B7%E8%A8%BC%E4%BA%BA/#jn-85459"
+  },
+  {
+    "kotoba": "在天",
+    "yomi": "ざい‐てん",
+    "link": "/word/%E5%9C%A8%E5%A4%A9/#jn-85484"
+  },
+  {
+    "kotoba": "在島",
+    "yomi": "ざい‐とう",
+    "link": "/word/%E5%9C%A8%E5%B3%B6/#jn-85512"
+  },
+  {
+    "kotoba": "財投",
+    "yomi": "ざい‐とう",
+    "link": "/word/%E8%B2%A1%E6%8A%95/#jn-85513"
+  },
+  {
+    "kotoba": "財投機関",
+    "yomi": "ざいとう‐きかん",
+    "link": "/word/%E8%B2%A1%E6%8A%95%E6%A9%9F%E9%96%A2/#jn-85514"
+  },
+  {
+    "kotoba": "財投機関債",
+    "yomi": "ざいとうきかん‐さい",
+    "link": "/word/%E8%B2%A1%E6%8A%95%E6%A9%9F%E9%96%A2%E5%82%B5/#jn-250196"
+  },
+  {
+    "kotoba": "財投債",
+    "yomi": "ざいとう‐さい",
+    "link": "/word/%E8%B2%A1%E6%8A%95%E5%82%B5/#jn-85517"
+  },
+  {
+    "kotoba": "財投特会",
+    "yomi": "ざいとう‐とっかい",
+    "link": "/word/%E8%B2%A1%E6%8A%95%E7%89%B9%E4%BC%9A/#jn-287042"
+  },
+  {
+    "kotoba": "在特",
+    "yomi": "ざい‐とく",
+    "link": "/word/%E5%9C%A8%E7%89%B9/#jn-85544"
+  },
+  {
+    "kotoba": "在日",
+    "yomi": "ざい‐にち",
+    "link": "/word/%E5%9C%A8%E6%97%A5/#jn-85601"
+  },
+  {
+    "kotoba": "在日米軍",
+    "yomi": "ざいにち‐べいぐん",
+    "link": "/word/%E5%9C%A8%E6%97%A5%E7%B1%B3%E8%BB%8D/#jn-85602"
+  },
+  {
+    "kotoba": "在日米軍駐留経費負担",
+    "yomi": "ざいにちべいぐんちゅうりゅうけいひ‐ふたん",
+    "link": "/word/%E5%9C%A8%E6%97%A5%E7%B1%B3%E8%BB%8D%E9%A7%90%E7%95%99%E7%B5%8C%E8%B2%BB%E8%B2%A0%E6%8B%85/#jn-246182"
+  },
+  {
+    "kotoba": "在日本大韓民国民団",
+    "yomi": "ざいにほん‐だいかんみんこくみんだん",
+    "link": "/word/%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD%E6%B0%91%E5%9B%A3/#jn-85603"
+  },
+  {
+    "kotoba": "在日本朝鮮人総連合会",
+    "yomi": "ざいにほん‐ちょうせんじんそうれんごうかい",
+    "link": "/word/%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%9C%9D%E9%AE%AE%E4%BA%BA%E7%B7%8F%E9%80%A3%E5%90%88%E4%BC%9A/#jn-85604"
+  },
+  {
+    "kotoba": "在任",
+    "yomi": "ざい‐にん",
+    "link": "/word/%E5%9C%A8%E4%BB%BB/#jn-85615"
+  },
+  {
+    "kotoba": "罪人",
+    "yomi": "ざい‐にん",
+    "link": "/word/%E7%BD%AA%E4%BA%BA_%28%E3%81%96%E3%81%84%E3%81%AB%E3%82%93%29/#jn-85616"
+  },
+  {
+    "kotoba": "在任特例",
+    "yomi": "ざいにん‐とくれい",
+    "link": "/word/%E5%9C%A8%E4%BB%BB%E7%89%B9%E4%BE%8B/#jn-242927"
+  },
+  {
+    "kotoba": "財嚢",
+    "yomi": "ざい‐のう",
+    "link": "/word/%E8%B2%A1%E5%9A%A2/#jn-85630"
+  },
+  {
+    "kotoba": "在判",
+    "yomi": "ざい‐はん",
+    "link": "/word/%E5%9C%A8%E5%88%A4/#jn-85687"
+  },
+  {
+    "kotoba": "在藩",
+    "yomi": "ざい‐はん",
+    "link": "/word/%E5%9C%A8%E8%97%A9/#jn-85688"
+  },
+  {
+    "kotoba": "財閥",
+    "yomi": "ざい‐ばつ",
+    "link": "/word/%E8%B2%A1%E9%96%A5/#jn-85674"
+  },
+  {
+    "kotoba": "財閥解体",
+    "yomi": "ざいばつ‐かいたい",
+    "link": "/word/%E8%B2%A1%E9%96%A5%E8%A7%A3%E4%BD%93/#jn-85675"
+  },
+  {
+    "kotoba": "在番",
+    "yomi": "ざい‐ばん",
+    "link": "/word/%E5%9C%A8%E7%95%AA/#jn-85689"
+  },
+  {
+    "kotoba": "在否",
+    "yomi": "ざい‐ひ",
+    "link": "/word/%E5%9C%A8%E5%90%A6/#jn-85721"
+  },
+  {
+    "kotoba": "在府",
+    "yomi": "ざい‐ふ",
+    "link": "/word/%E5%9C%A8%E5%BA%9C/#jn-85750"
+  },
+  {
+    "kotoba": "摧伏",
+    "yomi": "さい‐ぶく",
+    "link": "/word/%E6%91%A7%E4%BC%8F/#jn-85756"
+  },
+  {
+    "kotoba": "采振木",
+    "yomi": "ざいふり‐ぼく",
+    "link": "/word/%E9%87%87%E6%8C%AF%E6%9C%A8/#jn-85763"
+  },
+  {
+    "kotoba": "財物",
+    "yomi": "ざい‐ぶつ",
+    "link": "/word/%E8%B2%A1%E7%89%A9/#jn-85760"
+  },
+  {
+    "kotoba": "在米",
+    "yomi": "ざい‐べい",
+    "link": "/word/%E5%9C%A8%E7%B1%B3_%28%E3%81%96%E3%81%84%E3%81%B9%E3%81%84%29/#jn-85767"
+  },
+  {
+    "kotoba": "財宝",
+    "yomi": "さいほう",
+    "link": "/word/%E8%B2%A1%E5%AE%9D_%28%E3%81%95%E3%81%84%E3%81%BB%E3%81%86%29/#jn-85785"
+  },
+  {
+    "kotoba": "財宝",
+    "yomi": "ざい‐ほう",
+    "link": "/word/%E8%B2%A1%E5%AE%9D_%28%E3%81%96%E3%81%84%E3%81%BB%E3%81%86%29/#jn-85792"
+  },
+  {
+    "kotoba": "罪報",
+    "yomi": "ざい‐ほう",
+    "link": "/word/%E7%BD%AA%E5%A0%B1/#jn-85794"
+  },
+  {
+    "kotoba": "財本",
+    "yomi": "ざい‐ほん",
+    "link": "/word/%E8%B2%A1%E6%9C%AC/#jn-85843"
+  },
+  {
+    "kotoba": "在米",
+    "yomi": "ざい‐まい",
+    "link": "/word/%E5%9C%A8%E7%B1%B3_%28%E3%81%96%E3%81%84%E3%81%BE%E3%81%84%29/#jn-85845"
+  },
+  {
+    "kotoba": "在名",
+    "yomi": "ざい‐みょう",
+    "link": "/word/%E5%9C%A8%E5%90%8D/#jn-85861"
+  },
+  {
+    "kotoba": "在民",
+    "yomi": "ざい‐みん",
+    "link": "/word/%E5%9C%A8%E6%B0%91/#jn-85868"
+  },
+  {
+    "kotoba": "在民部卿家歌合",
+    "yomi": "ざいみんぶのきょうけうたあわせ",
+    "link": "/word/%E5%9C%A8%E6%B0%91%E9%83%A8%E5%8D%BF%E5%AE%B6%E6%AD%8C%E5%90%88/#jn-85873"
+  },
+  {
+    "kotoba": "財務",
+    "yomi": "ざい‐む",
+    "link": "/word/%E8%B2%A1%E5%8B%99/#jn-85878"
+  },
+  {
+    "kotoba": "財務会計",
+    "yomi": "ざいむ‐かいけい",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88/#jn-250205"
+  },
+  {
+    "kotoba": "財務会計基準審議会",
+    "yomi": "ざいむかいけいきじゅん‐しんぎかい",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E5%9F%BA%E6%BA%96%E5%AF%A9%E8%AD%B0%E4%BC%9A/#jn-85879"
+  },
+  {
+    "kotoba": "財務官",
+    "yomi": "ざいむ‐かん",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E5%AE%98/#jn-85880"
+  },
+  {
+    "kotoba": "財務局",
+    "yomi": "ざいむ‐きょく",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E5%B1%80/#jn-85881"
+  },
+  {
+    "kotoba": "財務省",
+    "yomi": "ざいむ‐しょう",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E7%9C%81/#jn-85885"
+  },
+  {
+    "kotoba": "財務省証券",
+    "yomi": "ざいむしょう‐しょうけん",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E7%9C%81%E8%A8%BC%E5%88%B8/#jn-85886"
+  },
+  {
+    "kotoba": "財務諸表",
+    "yomi": "ざいむ‐しょひょう",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E8%AB%B8%E8%A1%A8/#jn-85887"
+  },
+  {
+    "kotoba": "財務大臣",
+    "yomi": "ざいむ‐だいじん",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E5%A4%A7%E8%87%A3/#jn-85888"
+  },
+  {
+    "kotoba": "財務分析",
+    "yomi": "ざいむ‐ぶんせき",
+    "link": "/word/%E8%B2%A1%E5%8B%99%E5%88%86%E6%9E%90/#jn-85893"
+  },
+  {
+    "kotoba": "在銘",
+    "yomi": "ざい‐めい",
+    "link": "/word/%E5%9C%A8%E9%8A%98/#jn-85897"
+  },
+  {
+    "kotoba": "罪名",
+    "yomi": "ざい‐めい",
+    "link": "/word/%E7%BD%AA%E5%90%8D/#jn-85898"
+  },
+  {
+    "kotoba": "材木",
+    "yomi": "ざい‐もく",
+    "link": "/word/%E6%9D%90%E6%9C%A8/#jn-85906"
+  },
+  {
+    "kotoba": "材木岩",
+    "yomi": "ざいもく‐いわ",
+    "link": "/word/%E6%9D%90%E6%9C%A8%E5%B2%A9/#jn-85907"
+  },
+  {
+    "kotoba": "材木座",
+    "yomi": "ざいもく‐ざ",
+    "link": "/word/%E6%9D%90%E6%9C%A8%E5%BA%A7/#jn-85908"
+  },
+  {
+    "kotoba": "材木奉行",
+    "yomi": "ざいもく‐ぶぎょう",
+    "link": "/word/%E6%9D%90%E6%9C%A8%E5%A5%89%E8%A1%8C/#jn-85909"
+  },
+  {
+    "kotoba": "材木屋",
+    "yomi": "ざいもく‐や",
+    "link": "/word/%E6%9D%90%E6%9C%A8%E5%B1%8B/#jn-85910"
+  },
+  {
+    "kotoba": "材木屋風",
+    "yomi": "ざいもくや‐ふう",
+    "link": "/word/%E6%9D%90%E6%9C%A8%E5%B1%8B%E9%A2%A8/#jn-85911"
+  },
+  {
+    "kotoba": "財物",
+    "yomi": "ざい‐もつ",
+    "link": "/word/%E8%B2%A1%E7%89%A9/#jn-85915"
+  },
+  {
+    "kotoba": "在野",
+    "yomi": "ざい‐や",
+    "link": "/word/%E5%9C%A8%E9%87%8E/#jn-85927"
+  },
+  {
+    "kotoba": "財用",
+    "yomi": "ざい‐よう",
+    "link": "/word/%E8%B2%A1%E7%94%A8/#jn-85949"
+  },
+  {
+    "kotoba": "財欲",
+    "yomi": "ざい‐よく",
+    "link": "/word/%E8%B2%A1%E6%AC%B2/#jn-85952"
+  },
+  {
+    "kotoba": "在来",
+    "yomi": "ざい‐らい",
+    "link": "/word/%E5%9C%A8%E6%9D%A5/#jn-85956"
+  },
+  {
+    "kotoba": "在来作物",
+    "yomi": "ざいらい‐さくもつ",
+    "link": "/word/%E5%9C%A8%E6%9D%A5%E4%BD%9C%E7%89%A9/#jn-250207"
+  },
+  {
+    "kotoba": "在来種",
+    "yomi": "ざいらい‐しゅ",
+    "link": "/word/%E5%9C%A8%E6%9D%A5%E7%A8%AE/#jn-85957"
+  },
+  {
+    "kotoba": "在来線",
+    "yomi": "ざいらい‐せん",
+    "link": "/word/%E5%9C%A8%E6%9D%A5%E7%B7%9A/#jn-85958"
+  },
+  {
+    "kotoba": "在来野菜",
+    "yomi": "ざいらい‐やさい",
+    "link": "/word/%E5%9C%A8%E6%9D%A5%E9%87%8E%E8%8F%9C/#jn-250208"
+  },
+  {
+    "kotoba": "在留",
+    "yomi": "ざい‐りゅう",
+    "link": "/word/%E5%9C%A8%E7%95%99/#jn-85971"
+  },
+  {
+    "kotoba": "在留管理制度",
+    "yomi": "ざいりゅうかんり‐せいど",
+    "link": "/word/%E5%9C%A8%E7%95%99%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/#jn-239658"
+  },
+  {
+    "kotoba": "在留期間",
+    "yomi": "ざいりゅう‐きかん",
+    "link": "/word/%E5%9C%A8%E7%95%99%E6%9C%9F%E9%96%93/#jn-283036"
+  },
+  {
+    "kotoba": "在留資格",
+    "yomi": "ざいりゅう‐しかく",
+    "link": "/word/%E5%9C%A8%E7%95%99%E8%B3%87%E6%A0%BC/#jn-85972"
+  },
+  {
+    "kotoba": "在留資格審査",
+    "yomi": "ざいりゅうしかく‐しんさ",
+    "link": "/word/%E5%9C%A8%E7%95%99%E8%B3%87%E6%A0%BC%E5%AF%A9%E6%9F%BB/#jn-283037"
+  },
+  {
+    "kotoba": "在留審査",
+    "yomi": "ざいりゅう‐しんさ",
+    "link": "/word/%E5%9C%A8%E7%95%99%E5%AF%A9%E6%9F%BB/#jn-297810"
+  },
+  {
+    "kotoba": "在留特別許可",
+    "yomi": "ざいりゅう‐とくべつきょか",
+    "link": "/word/%E5%9C%A8%E7%95%99%E7%89%B9%E5%88%A5%E8%A8%B1%E5%8F%AF/#jn-85973"
+  },
+  {
+    "kotoba": "在留邦人",
+    "yomi": "ざいりゅう‐ほうじん",
+    "link": "/word/%E5%9C%A8%E7%95%99%E9%82%A6%E4%BA%BA/#jn-85974"
+  },
+  {
+    "kotoba": "材料",
+    "yomi": "ざい‐りょう",
+    "link": "/word/%E6%9D%90%E6%96%99/#jn-85981"
+  },
+  {
+    "kotoba": "材料科学",
+    "yomi": "ざいりょう‐かがく",
+    "link": "/word/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/#jn-273217"
+  },
+  {
+    "kotoba": "材料強弱学",
+    "yomi": "ざいりょうきょうじゃく‐がく",
+    "link": "/word/%E6%9D%90%E6%96%99%E5%BC%B7%E5%BC%B1%E5%AD%A6/#jn-85982"
+  },
+  {
+    "kotoba": "材料工学",
+    "yomi": "ざいりょう‐こうがく",
+    "link": "/word/%E6%9D%90%E6%96%99%E5%B7%A5%E5%AD%A6/#jn-273218"
+  },
+  {
+    "kotoba": "材料試験",
+    "yomi": "ざいりょう‐しけん",
+    "link": "/word/%E6%9D%90%E6%96%99%E8%A9%A6%E9%A8%93/#jn-85984"
+  },
+  {
+    "kotoba": "材料試験機",
+    "yomi": "ざいりょう‐しけんき",
+    "link": "/word/%E6%9D%90%E6%96%99%E8%A9%A6%E9%A8%93%E6%A9%9F/#jn-85985"
+  },
+  {
+    "kotoba": "材料試験原子炉",
+    "yomi": "ざいりょうしけん‐げんしろ",
+    "link": "/word/%E6%9D%90%E6%96%99%E8%A9%A6%E9%A8%93%E5%8E%9F%E5%AD%90%E7%82%89/#jn-287045"
+  },
+  {
+    "kotoba": "材料試験炉",
+    "yomi": "ざいりょう‐しけんろ",
+    "link": "/word/%E6%9D%90%E6%96%99%E8%A9%A6%E9%A8%93%E7%82%89/#jn-287046"
+  },
+  {
+    "kotoba": "材料情報科学",
+    "yomi": "ざいりょう‐じょうほうかがく",
+    "link": "/word/%E6%9D%90%E6%96%99%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6/#jn-294475"
+  },
+  {
+    "kotoba": "材料費",
+    "yomi": "ざいりょう‐ひ",
+    "link": "/word/%E6%9D%90%E6%96%99%E8%B2%BB/#jn-283038"
+  },
+  {
+    "kotoba": "材料力学",
+    "yomi": "ざいりょう‐りきがく",
+    "link": "/word/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6/#jn-85988"
+  },
+  {
+    "kotoba": "財力",
+    "yomi": "ざい‐りょく",
+    "link": "/word/%E8%B2%A1%E5%8A%9B/#jn-85991"
+  },
+  {
+    "kotoba": "罪累",
+    "yomi": "ざい‐るい",
+    "link": "/word/%E7%BD%AA%E7%B4%AF/#jn-85998"
+  },
+  {
+    "kotoba": "罪例",
+    "yomi": "ざい‐れい",
+    "link": "/word/%E7%BD%AA%E4%BE%8B/#jn-86003"
+  },
+  {
+    "kotoba": "氷割船",
+    "yomi": "ざいわり‐ぶね",
+    "link": "/word/%E6%B0%B7%E5%89%B2%E8%88%B9/#jn-86046"
+  },
+  {
+    "kotoba": "座員",
+    "yomi": "ざ‐いん",
+    "link": "/word/%E5%BA%A7%E5%93%A1/#jn-86052"
+  },
+  {
+    "kotoba": "座隠",
+    "yomi": "ざ‐いん",
+    "link": "/word/%E5%BA%A7%E9%9A%A0/#jn-86053"
+  },
+  {
+    "kotoba": "座右",
+    "yomi": "ざ‐う",
+    "link": "/word/%E5%BA%A7%E5%8F%B3/#jn-86065"
+  },
+  {
+    "kotoba": "蔵王",
+    "yomi": "ざ‐おう",
+    "link": "/word/%E8%94%B5%E7%8E%8B/#jn-86150"
+  },
+  {
+    "kotoba": "蔵王温泉",
+    "yomi": "ざおう‐おんせん",
+    "link": "/word/%E8%94%B5%E7%8E%8B%E6%B8%A9%E6%B3%89/#jn-86152"
+  },
+  {
+    "kotoba": "蔵王国定公園",
+    "yomi": "ざおう‐こくていこうえん",
+    "link": "/word/%E8%94%B5%E7%8E%8B%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92/#jn-86153"
+  },
+  {
+    "kotoba": "蔵王権現",
+    "yomi": "ざおう‐ごんげん",
+    "link": "/word/%E8%94%B5%E7%8E%8B%E6%A8%A9%E7%8F%BE/#jn-86154"
+  },
+  {
+    "kotoba": "蔵王山",
+    "yomi": "ざおう‐さん",
+    "link": "/word/%E8%94%B5%E7%8E%8B%E5%B1%B1/#jn-86155"
+  },
+  {
+    "kotoba": "蔵王堂",
+    "yomi": "ざおう‐どう",
+    "link": "/word/%E8%94%B5%E7%8E%8B%E5%A0%82/#jn-86158"
+  },
+  {
+    "kotoba": "座下",
+    "yomi": "ざ‐か",
+    "link": "/word/%E5%BA%A7%E4%B8%8B/#jn-86206"
+  },
+  {
+    "kotoba": "座客",
+    "yomi": "ざ‐かく",
+    "link": "/word/%E5%BA%A7%E5%AE%A2/#jn-86297"
+  },
+  {
+    "kotoba": "座方",
+    "yomi": "ざ‐かた",
+    "link": "/word/%E5%BA%A7%E6%96%B9/#jn-86389"
+  },
+  {
+    "kotoba": "座棺",
+    "yomi": "ざ‐かん",
+    "link": "/word/%E5%BA%A7%E6%A3%BA/#jn-86608"
+  },
+  {
+    "kotoba": "座臥",
+    "yomi": "ざ‐が",
+    "link": "/word/%E5%BA%A7%E8%87%A5/#jn-86207"
+  },
+  {
+    "kotoba": "座学",
+    "yomi": "ざ‐がく",
+    "link": "/word/%E5%BA%A7%E5%AD%A6/#jn-86298"
+  },
+  {
+    "kotoba": "座頭",
+    "yomi": "ざ‐がしら",
+    "link": "/word/%E5%BA%A7%E9%A0%AD_%28%E3%81%96%E3%81%8C%E3%81%97%E3%82%89%29/#jn-86366"
+  },
+  {
+    "kotoba": "座金物",
+    "yomi": "ざ‐がなもの",
+    "link": "/word/%E5%BA%A7%E9%87%91%E7%89%A9/#jn-86448"
+  },
+  {
+    "kotoba": "座金",
+    "yomi": "ざ‐がね",
+    "link": "/word/%E5%BA%A7%E9%87%91/#jn-86455"
+  },
+  {
+    "kotoba": "座喜味城跡",
+    "yomi": "ざきみぐすく‐あと",
+    "link": "/word/%E5%BA%A7%E5%96%9C%E5%91%B3%E5%9F%8E%E8%B7%A1/#jn-86769"
+  },
+  {
+    "kotoba": "座喜味城跡",
+    "yomi": "ざきみじょう‐あと",
+    "link": "/word/%E5%BA%A7%E5%96%9C%E5%91%B3%E5%9F%8E%E8%B7%A1/#jn-86770"
+  },
+  {
+    "kotoba": "座興",
+    "yomi": "ざ‐きょう",
+    "link": "/word/%E5%BA%A7%E8%88%88/#jn-86790"
+  },
+  {
+    "kotoba": "座業",
+    "yomi": "ざ‐ぎょう",
+    "link": "/word/%E5%BA%A7%E6%A5%AD/#jn-86792"
+  },
+  {
+    "kotoba": "座屈",
+    "yomi": "ざ‐くつ",
+    "link": "/word/%E5%BA%A7%E5%B1%88/#jn-87019"
+  },
+  {
+    "kotoba": "座屈荷重",
+    "yomi": "ざくつ‐かじゅう",
+    "link": "/word/%E5%BA%A7%E5%B1%88%E8%8D%B7%E9%87%8D/#jn-253995"
+  },
+  {
+    "kotoba": "石榴",
+    "yomi": "ざく‐ろ",
+    "link": "/word/%E7%9F%B3%E6%A6%B4_%28%E3%81%96%E3%81%8F%E3%82%8D%29/#jn-87253"
+  },
+  {
+    "kotoba": "石榴石",
+    "yomi": "ざくろ‐いし",
+    "link": "/word/%E7%9F%B3%E6%A6%B4%E7%9F%B3/#jn-87254"
+  },
+  {
+    "kotoba": "石榴口",
+    "yomi": "ざくろ‐ぐち",
+    "link": "/word/%E7%9F%B3%E6%A6%B4%E5%8F%A3/#jn-87255"
+  },
+  {
+    "kotoba": "石榴草",
+    "yomi": "ざくろ‐そう",
+    "link": "/word/%E7%9F%B3%E6%A6%B4%E8%8D%89/#jn-87256"
+  },
+  {
+    "kotoba": "石榴鼻",
+    "yomi": "ざくろ‐ばな",
+    "link": "/word/%E7%9F%B3%E6%A6%B4%E9%BC%BB/#jn-87257"
+  },
+  {
+    "kotoba": "座具",
+    "yomi": "ざ‐ぐ",
+    "link": "/word/%E5%BA%A7%E5%85%B7/#jn-86868"
+  },
+  {
+    "kotoba": "座隅",
+    "yomi": "ざ‐ぐう",
+    "link": "/word/%E5%BA%A7%E9%9A%85/#jn-86882"
+  },
+  {
+    "kotoba": "邪気",
+    "yomi": "ざ‐け",
+    "link": "/word/%E9%82%AA%E6%B0%97_%28%E3%81%96%E3%81%91%29/#jn-87274"
+  },
+  {
+    "kotoba": "雑魚",
+    "yomi": "ざ‐こ",
+    "link": "/word/%E9%9B%91%E9%AD%9A_%28%E3%81%96%E3%81%93%29/#jn-87363"
+  },
+  {
+    "kotoba": "座功",
+    "yomi": "ざ‐こう",
+    "link": "/word/%E5%BA%A7%E5%8A%9F/#jn-87370"
+  },
+  {
+    "kotoba": "座高",
+    "yomi": "ざ‐こう",
+    "link": "/word/%E5%BA%A7%E9%AB%98/#jn-87371"
+  },
+  {
+    "kotoba": "座骨",
+    "yomi": "ざ‐こつ",
+    "link": "/word/%E5%BA%A7%E9%AA%A8/#jn-87385"
+  },
+  {
+    "kotoba": "挫骨",
+    "yomi": "ざ‐こつ",
+    "link": "/word/%E6%8C%AB%E9%AA%A8/#jn-87386"
+  },
+  {
+    "kotoba": "坐骨海綿体筋",
+    "yomi": "ざこつかいめんたい‐きん",
+    "link": "/word/%E5%9D%90%E9%AA%A8%E6%B5%B7%E7%B6%BF%E4%BD%93%E7%AD%8B/#jn-290990"
+  },
+  {
+    "kotoba": "坐骨下枝",
+    "yomi": "ざこつ‐かし",
+    "link": "/word/%E5%9D%90%E9%AA%A8%E4%B8%8B%E6%9E%9D/#jn-290991"
+  },
+  {
+    "kotoba": "坐骨棘",
+    "yomi": "ざこつ‐きょく",
+    "link": "/word/%E5%9D%90%E9%AA%A8%E6%A3%98/#jn-290992"
+  },
+  {
+    "kotoba": "坐骨結節",
+    "yomi": "ざこつ‐けっせつ",
+    "link": "/word/%E5%9D%90%E9%AA%A8%E7%B5%90%E7%AF%80/#jn-290993"
+  },
+  {
+    "kotoba": "坐骨枝",
+    "yomi": "ざこつ‐し",
+    "link": "/word/%E5%9D%90%E9%AA%A8%E6%9E%9D/#jn-290994"
+  },
+  {
+    "kotoba": "座骨神経",
+    "yomi": "ざこつ‐しんけい",
+    "link": "/word/%E5%BA%A7%E9%AA%A8%E7%A5%9E%E7%B5%8C/#jn-87387"
+  },
+  {
+    "kotoba": "座骨神経痛",
+    "yomi": "ざこつ‐しんけいつう",
+    "link": "/word/%E5%BA%A7%E9%AA%A8%E7%A5%9E%E7%B5%8C%E7%97%9B/#jn-87388"
+  },
+  {
+    "kotoba": "坐骨尾骨筋",
+    "yomi": "ざこつびこつ‐きん",
+    "link": "/word/%E5%9D%90%E9%AA%A8%E5%B0%BE%E9%AA%A8%E7%AD%8B/#jn-290995"
+  },
+  {
+    "kotoba": "雑魚寝",
+    "yomi": "ざこ‐ね",
+    "link": "/word/%E9%9B%91%E9%AD%9A%E5%AF%9D/#jn-87389"
+  },
+  {
+    "kotoba": "雑魚場",
+    "yomi": "ざこ‐ば",
+    "link": "/word/%E9%9B%91%E9%AD%9A%E5%A0%B4/#jn-87390"
+  },
+  {
+    "kotoba": "雑喉場",
+    "yomi": "ざこば",
+    "link": "/word/%E9%9B%91%E5%96%89%E5%A0%B4/#jn-87391"
+  },
+  {
+    "kotoba": "座五",
+    "yomi": "ざ‐ご",
+    "link": "/word/%E5%BA%A7%E4%BA%94/#jn-87365"
+  },
+  {
+    "kotoba": "座講釈",
+    "yomi": "ざ‐ごうしゃく",
+    "link": "/word/%E5%BA%A7%E8%AC%9B%E9%87%88/#jn-87372"
+  },
+  {
+    "kotoba": "座作",
+    "yomi": "ざ‐さ",
+    "link": "/word/%E5%BA%A7%E4%BD%9C/#jn-87423"
+  },
+  {
+    "kotoba": "座作進退",
+    "yomi": "ざさ‐しんたい",
+    "link": "/word/%E5%BA%A7%E4%BD%9C%E9%80%B2%E9%80%80/#jn-87504"
+  },
+  {
+    "kotoba": "座不冷秘法",
+    "yomi": "ざさまさぬ‐ひほう",
+    "link": "/word/%E5%BA%A7%E4%B8%8D%E5%86%B7%E7%A7%98%E6%B3%95/#jn-87548"
+  },
+  {
+    "kotoba": "座参",
+    "yomi": "ざ‐さん",
+    "link": "/word/%E5%BA%A7%E5%8F%82/#jn-87614"
+  },
+  {
+    "kotoba": "剉剤",
+    "yomi": "ざ‐ざい",
+    "link": "/word/%E5%89%89%E5%89%A4/#jn-87428"
+  },
+  {
+    "kotoba": "座剤",
+    "yomi": "ざ‐ざい",
+    "link": "/word/%E5%BA%A7%E5%89%A4/#jn-87429"
+  },
+  {
+    "kotoba": "座視",
+    "yomi": "ざ‐し",
+    "link": "/word/%E5%BA%A7%E8%A6%96/#jn-87635"
+  },
+  {
+    "kotoba": "座敷",
+    "yomi": "ざ‐しき",
+    "link": "/word/%E5%BA%A7%E6%95%B7/#jn-87708"
+  },
+  {
+    "kotoba": "座敷行灯",
+    "yomi": "ざしき‐あんどん",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E8%A1%8C%E7%81%AF/#jn-87709"
+  },
+  {
+    "kotoba": "座敷犬",
+    "yomi": "ざしき‐いぬ",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E7%8A%AC/#jn-242937"
+  },
+  {
+    "kotoba": "座敷歌",
+    "yomi": "ざしき‐うた",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E6%AD%8C/#jn-87710"
+  },
+  {
+    "kotoba": "座敷着",
+    "yomi": "ざしき‐ぎ",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E7%9D%80/#jn-87713"
+  },
+  {
+    "kotoba": "座敷芸",
+    "yomi": "ざしき‐げい",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E8%8A%B8/#jn-87714"
+  },
+  {
+    "kotoba": "座敷浄瑠璃",
+    "yomi": "ざしき‐じょうるり",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E6%B5%84%E7%91%A0%E7%92%83/#jn-87715"
+  },
+  {
+    "kotoba": "座敷能",
+    "yomi": "ざしき‐のう",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E8%83%BD/#jn-87719"
+  },
+  {
+    "kotoba": "座敷幟",
+    "yomi": "ざしき‐のぼり",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E5%B9%9F/#jn-87720"
+  },
+  {
+    "kotoba": "座敷牢",
+    "yomi": "ざしき‐ろう",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E7%89%A2/#jn-87725"
+  },
+  {
+    "kotoba": "座敷童",
+    "yomi": "ざしき‐わらし",
+    "link": "/word/%E5%BA%A7%E6%95%B7%E7%AB%A5/#jn-87726"
+  },
+  {
+    "kotoba": "座射",
+    "yomi": "ざ‐しゃ",
+    "link": "/word/%E5%BA%A7%E5%B0%84/#jn-87945"
+  },
+  {
+    "kotoba": "座所",
+    "yomi": "ざ‐しょ",
+    "link": "/word/%E5%BA%A7%E6%89%80/#jn-87966"
+  },
+  {
+    "kotoba": "座商",
+    "yomi": "ざ‐しょう",
+    "link": "/word/%E5%BA%A7%E5%95%86/#jn-87977"
+  },
+  {
+    "kotoba": "座礁",
+    "yomi": "ざ‐しょう",
+    "link": "/word/%E5%BA%A7%E7%A4%81/#jn-87978"
+  },
+  {
+    "kotoba": "挫傷",
+    "yomi": "ざ‐しょう",
+    "link": "/word/%E6%8C%AB%E5%82%B7/#jn-87979"
+  },
+  {
+    "kotoba": "座上",
+    "yomi": "ざ‐じょう",
+    "link": "/word/%E5%BA%A7%E4%B8%8A/#jn-87980"
+  },
+  {
+    "kotoba": "座礁資産",
+    "yomi": "ざしょう‐しさん",
+    "link": "/word/%E5%BA%A7%E7%A4%81%E8%B3%87%E7%94%A3/#jn-289041"
+  },
+  {
+    "kotoba": "座食",
+    "yomi": "ざ‐しょく",
+    "link": "/word/%E5%BA%A7%E9%A3%9F/#jn-87991"
+  },
+  {
+    "kotoba": "座職",
+    "yomi": "ざ‐しょく",
+    "link": "/word/%E5%BA%A7%E8%81%B7/#jn-87992"
+  },
+  {
+    "kotoba": "座乗",
+    "yomi": "ざ‐じょう",
+    "link": "/word/%E5%BA%A7%E4%B9%97/#jn-87982"
+  },
+  {
+    "kotoba": "座主",
+    "yomi": "ざ‐す",
+    "link": "/word/%E5%BA%A7%E4%B8%BB/#jn-88028"
+  },
+  {
+    "kotoba": "座州",
+    "yomi": "ざ‐す",
+    "link": "/word/%E5%BA%A7%E5%B7%9E/#jn-88029"
+  },
+  {
+    "kotoba": "座睡",
+    "yomi": "ざ‐すい",
+    "link": "/word/%E5%BA%A7%E7%9D%A1/#jn-88031"
+  },
+  {
+    "kotoba": "座席",
+    "yomi": "ざ‐せき",
+    "link": "/word/%E5%BA%A7%E5%B8%AD/#jn-88082"
+  },
+  {
+    "kotoba": "座席指定",
+    "yomi": "ざせき‐してい",
+    "link": "/word/%E5%BA%A7%E5%B8%AD%E6%8C%87%E5%AE%9A/#jn-88083"
+  },
+  {
+    "kotoba": "挫折",
+    "yomi": "ざ‐せつ",
+    "link": "/word/%E6%8C%AB%E6%8A%98/#jn-88088"
+  },
+  {
+    "kotoba": "座前",
+    "yomi": "ざ‐ぜん",
+    "link": "/word/%E5%BA%A7%E5%89%8D/#jn-88104"
+  },
+  {
+    "kotoba": "座禅",
+    "yomi": "ざ‐ぜん",
+    "link": "/word/%E5%BA%A7%E7%A6%85/#jn-88105"
+  },
+  {
+    "kotoba": "坐禅三昧経",
+    "yomi": "ざぜんざんまいきょう",
+    "link": "/word/%E5%9D%90%E7%A6%85%E4%B8%89%E6%98%A7%E7%B5%8C/#jn-88106"
+  },
+  {
+    "kotoba": "座禅草",
+    "yomi": "ざぜん‐そう",
+    "link": "/word/%E5%BA%A7%E7%A6%85%E8%8D%89/#jn-88108"
+  },
+  {
+    "kotoba": "座禅衾",
+    "yomi": "ざぜん‐ぶすま",
+    "link": "/word/%E5%BA%A7%E7%A6%85%E8%A1%BE/#jn-88109"
+  },
+  {
+    "kotoba": "座禅豆",
+    "yomi": "ざぜん‐まめ",
+    "link": "/word/%E5%BA%A7%E7%A6%85%E8%B1%86/#jn-88110"
+  },
+  {
+    "kotoba": "坐禅用心記",
+    "yomi": "ざぜんようじんき",
+    "link": "/word/%E5%9D%90%E7%A6%85%E7%94%A8%E5%BF%83%E8%A8%98/#jn-88111"
+  },
+  {
+    "kotoba": "挫創",
+    "yomi": "ざ‐そう",
+    "link": "/word/%E6%8C%AB%E5%89%B5/#jn-88123"
+  },
+  {
+    "kotoba": "痤瘡",
+    "yomi": "ざ‐そう",
+    "link": "/word/%E7%97%A4%E7%98%A1/#jn-88124"
+  },
+  {
+    "kotoba": "座葬",
+    "yomi": "ざ‐そう",
+    "link": "/word/%E5%BA%A7%E8%91%AC/#jn-88122"
+  },
+  {
+    "kotoba": "座像",
+    "yomi": "ざ‐ぞう",
+    "link": "/word/%E5%BA%A7%E5%83%8F/#jn-88125"
+  },
+  {
+    "kotoba": "座卓",
+    "yomi": "ざ‐たく",
+    "link": "/word/%E5%BA%A7%E5%8D%93/#jn-88155"
+  },
+  {
+    "kotoba": "座談",
+    "yomi": "ざ‐だん",
+    "link": "/word/%E5%BA%A7%E8%AB%87/#jn-88198"
+  },
+  {
+    "kotoba": "座談会",
+    "yomi": "ざだん‐かい",
+    "link": "/word/%E5%BA%A7%E8%AB%87%E4%BC%9A/#jn-88199"
+  },
+  {
+    "kotoba": "座中",
+    "yomi": "ざ‐ちゅう",
+    "link": "/word/%E5%BA%A7%E4%B8%AD/#jn-88206"
+  },
+  {
+    "kotoba": "座長",
+    "yomi": "ざ‐ちょう",
+    "link": "/word/%E5%BA%A7%E9%95%B7/#jn-88211"
+  },
+  {
+    "kotoba": "雑家",
+    "yomi": "ざっ‐か",
+    "link": "/word/%E9%9B%91%E5%AE%B6/#jn-88252"
+  },
+  {
+    "kotoba": "雑貨",
+    "yomi": "ざっ‐か",
+    "link": "/word/%E9%9B%91%E8%B2%A8/#jn-88253"
+  },
+  {
+    "kotoba": "雑歌",
+    "yomi": "ざっ‐か",
+    "link": "/word/%E9%9B%91%E6%AD%8C/#jn-88254"
+  },
+  {
+    "kotoba": "雑芥",
+    "yomi": "ざっ‐かい",
+    "link": "/word/%E9%9B%91%E8%8A%A5/#jn-88259"
+  },
+  {
+    "kotoba": "雑感",
+    "yomi": "ざっ‐かん",
+    "link": "/word/%E9%9B%91%E6%84%9F/#jn-88275"
+  },
+  {
+    "kotoba": "雑観",
+    "yomi": "ざっ‐かん",
+    "link": "/word/%E9%9B%91%E8%A6%B3/#jn-88276"
+  },
+  {
+    "kotoba": "雑記",
+    "yomi": "ざっ‐き",
+    "link": "/word/%E9%9B%91%E8%A8%98/#jn-88287"
+  },
+  {
+    "kotoba": "雑器",
+    "yomi": "ざっ‐き",
+    "link": "/word/%E9%9B%91%E5%99%A8/#jn-88288"
+  },
+  {
+    "kotoba": "雑記帳",
+    "yomi": "ざっき‐ちょう",
+    "link": "/word/%E9%9B%91%E8%A8%98%E5%B8%B3/#jn-88295"
+  },
+  {
+    "kotoba": "雑居",
+    "yomi": "ざっ‐きょ",
+    "link": "/word/%E9%9B%91%E5%B1%85/#jn-88308"
+  },
+  {
+    "kotoba": "雑協",
+    "yomi": "ざっ‐きょう",
+    "link": "/word/%E9%9B%91%E5%8D%94/#jn-88310"
+  },
+  {
+    "kotoba": "雑曲",
+    "yomi": "ざっ‐きょく",
+    "link": "/word/%E9%9B%91%E6%9B%B2/#jn-88316"
+  },
+  {
+    "kotoba": "雑居地",
+    "yomi": "ざっきょ‐ち",
+    "link": "/word/%E9%9B%91%E5%B1%85%E5%9C%B0/#jn-88318"
+  },
+  {
+    "kotoba": "雑居房",
+    "yomi": "ざっきょ‐ぼう",
+    "link": "/word/%E9%9B%91%E5%B1%85%E6%88%BF/#jn-88320"
+  },
+  {
+    "kotoba": "雑菌",
+    "yomi": "ざっ‐きん",
+    "link": "/word/%E9%9B%91%E8%8F%8C/#jn-88322"
+  },
+  {
+    "kotoba": "雑犬",
+    "yomi": "ざっ‐けん",
+    "link": "/word/%E9%9B%91%E7%8A%AC/#jn-88343"
+  },
+  {
+    "kotoba": "雑件",
+    "yomi": "ざっ‐けん",
+    "link": "/word/%E9%9B%91%E4%BB%B6/#jn-88344"
+  },
+  {
+    "kotoba": "雑戸",
+    "yomi": "ざっ‐こ",
+    "link": "/word/%E9%9B%91%E6%88%B8/#jn-88346"
+  },
+  {
+    "kotoba": "雑交",
+    "yomi": "ざっ‐こう",
+    "link": "/word/%E9%9B%91%E4%BA%A4/#jn-88351"
+  },
+  {
+    "kotoba": "雑考",
+    "yomi": "ざっ‐こう",
+    "link": "/word/%E9%9B%91%E8%80%83/#jn-88352"
+  },
+  {
+    "kotoba": "雑穀",
+    "yomi": "ざっ‐こく",
+    "link": "/word/%E9%9B%91%E7%A9%80/#jn-88354"
+  },
+  {
+    "kotoba": "雑婚",
+    "yomi": "ざっ‐こん",
+    "link": "/word/%E9%9B%91%E5%A9%9A/#jn-88357"
+  },
+  {
+    "kotoba": "雑載",
+    "yomi": "ざっ‐さい",
+    "link": "/word/%E9%9B%91%E8%BC%89/#jn-88365"
+  },
+  {
+    "kotoba": "雑纂",
+    "yomi": "ざっ‐さん",
+    "link": "/word/%E9%9B%91%E7%BA%82/#jn-88376"
+  },
+  {
+    "kotoba": "雑紙",
+    "yomi": "ざっ‐し",
+    "link": "/word/%E9%9B%91%E7%B4%99/#jn-88383"
+  },
+  {
+    "kotoba": "雑誌",
+    "yomi": "ざっ‐し",
+    "link": "/word/%E9%9B%91%E8%AA%8C/#jn-88384"
+  },
+  {
+    "kotoba": "雑色",
+    "yomi": "ざっ‐しき",
+    "link": "/word/%E9%9B%91%E8%89%B2_%28%E3%81%96%E3%81%A3%E3%81%97%E3%81%8D%29/#jn-88386"
+  },
+  {
+    "kotoba": "雑色官稲",
+    "yomi": "ざっしき‐かんとう",
+    "link": "/word/%E9%9B%91%E8%89%B2%E5%AE%98%E7%A8%B2/#jn-88387"
+  },
+  {
+    "kotoba": "雑色田",
+    "yomi": "ざっしき‐でん",
+    "link": "/word/%E9%9B%91%E8%89%B2%E7%94%B0/#jn-88388"
+  },
+  {
+    "kotoba": "雑誌風書籍",
+    "yomi": "ざっしふう‐しょせき",
+    "link": "/word/%E9%9B%91%E8%AA%8C%E9%A2%A8%E6%9B%B8%E7%B1%8D/#jn-88389"
+  },
+  {
+    "kotoba": "雑修",
+    "yomi": "ざっ‐しゅ",
+    "link": "/word/%E9%9B%91%E4%BF%AE/#jn-88394"
+  },
+  {
+    "kotoba": "雑酒",
+    "yomi": "ざっ‐しゅ",
+    "link": "/word/%E9%9B%91%E9%85%92/#jn-88395"
+  },
+  {
+    "kotoba": "雑種",
+    "yomi": "ざっ‐しゅ",
+    "link": "/word/%E9%9B%91%E7%A8%AE/#jn-88396"
+  },
+  {
+    "kotoba": "雑収入",
+    "yomi": "ざっ‐しゅうにゅう",
+    "link": "/word/%E9%9B%91%E5%8F%8E%E5%85%A5/#jn-88399"
+  },
+  {
+    "kotoba": "雑種強勢",
+    "yomi": "ざっしゅ‐きょうせい",
+    "link": "/word/%E9%9B%91%E7%A8%AE%E5%BC%B7%E5%8B%A2/#jn-88400"
+  },
+  {
+    "kotoba": "雑種細胞",
+    "yomi": "ざっしゅ‐さいぼう",
+    "link": "/word/%E9%9B%91%E7%A8%AE%E7%B4%B0%E8%83%9E/#jn-88401"
+  },
+  {
+    "kotoba": "雑種第一代",
+    "yomi": "ざっしゅ‐だいいちだい",
+    "link": "/word/%E9%9B%91%E7%A8%AE%E7%AC%AC%E4%B8%80%E4%BB%A3/#jn-88402"
+  },
+  {
+    "kotoba": "雑種不稔性",
+    "yomi": "ざっしゅ‐ふねんせい",
+    "link": "/word/%E9%9B%91%E7%A8%AE%E4%B8%8D%E7%A8%94%E6%80%A7/#jn-88403"
+  },
+  {
+    "kotoba": "雑種文化",
+    "yomi": "ざっしゅぶんか",
+    "link": "/word/%E9%9B%91%E7%A8%AE%E6%96%87%E5%8C%96/#jn-275385"
+  },
+  {
+    "kotoba": "雑書",
+    "yomi": "ざっ‐しょ",
+    "link": "/word/%E9%9B%91%E6%9B%B8/#jn-88404"
+  },
+  {
+    "kotoba": "雑掌",
+    "yomi": "ざっ‐しょう",
+    "link": "/word/%E9%9B%91%E6%8E%8C/#jn-88408"
+  },
+  {
+    "kotoba": "雑餉",
+    "yomi": "ざっ‐しょう",
+    "link": "/word/%E9%9B%91%E9%A4%89/#jn-88409"
+  },
+  {
+    "kotoba": "雑掌奉行",
+    "yomi": "ざっしょう‐ぶぎょう",
+    "link": "/word/%E9%9B%91%E6%8E%8C%E5%A5%89%E8%A1%8C/#jn-88411"
+  },
+  {
+    "kotoba": "雑色",
+    "yomi": "ざっ‐しょく",
+    "link": "/word/%E9%9B%91%E8%89%B2_%28%E3%81%96%E3%81%A3%E3%81%97%E3%82%87%E3%81%8F%29/#jn-88412"
+  },
+  {
+    "kotoba": "雑食",
+    "yomi": "ざっ‐しょく",
+    "link": "/word/%E9%9B%91%E9%A3%9F/#jn-88413"
+  },
+  {
+    "kotoba": "雑食性",
+    "yomi": "ざっしょく‐せい",
+    "link": "/word/%E9%9B%91%E9%A3%9F%E6%80%A7/#jn-88414"
+  },
+  {
+    "kotoba": "雑色体",
+    "yomi": "ざっしょく‐たい",
+    "link": "/word/%E9%9B%91%E8%89%B2%E4%BD%93/#jn-287054"
+  },
+  {
+    "kotoba": "雑節",
+    "yomi": "ざっ‐せつ",
+    "link": "/word/%E9%9B%91%E7%AF%80/#jn-88434"
+  },
+  {
+    "kotoba": "雑説",
+    "yomi": "ざっ‐せつ",
+    "link": "/word/%E9%9B%91%E8%AA%AC_%28%E3%81%96%E3%81%A3%E3%81%9B%E3%81%A4%29/#jn-88435"
+  },
+  {
+    "kotoba": "雑訴",
+    "yomi": "ざっ‐そ",
+    "link": "/word/%E9%9B%91%E8%A8%B4/#jn-88439"
+  },
+  {
+    "kotoba": "雑草",
+    "yomi": "ざっ‐そう",
+    "link": "/word/%E9%9B%91%E8%8D%89/#jn-88441"
+  },
+  {
+    "kotoba": "雑草園",
+    "yomi": "ざっそうえん",
+    "link": "/word/%E9%9B%91%E8%8D%89%E5%9C%92/#jn-289044"
+  },
+  {
+    "kotoba": "雑則",
+    "yomi": "ざっ‐そく",
+    "link": "/word/%E9%9B%91%E5%89%87/#jn-88448"
+  },
+  {
+    "kotoba": "雑訴決断所",
+    "yomi": "ざっそ‐けつだんしょ",
+    "link": "/word/%E9%9B%91%E8%A8%B4%E6%B1%BA%E6%96%AD%E6%89%80/#jn-88449"
+  },
+  {
+    "kotoba": "雑卒",
+    "yomi": "ざっ‐そつ",
+    "link": "/word/%E9%9B%91%E5%8D%92/#jn-88451"
+  },
+  {
+    "kotoba": "雑損",
+    "yomi": "ざっ‐そん",
+    "link": "/word/%E9%9B%91%E6%90%8D/#jn-88453"
+  },
+  {
+    "kotoba": "雑損控除",
+    "yomi": "ざっそん‐こうじょ",
+    "link": "/word/%E9%9B%91%E6%90%8D%E6%8E%A7%E9%99%A4/#jn-289045"
+  },
+  {
+    "kotoba": "雑損失",
+    "yomi": "ざつ‐そんしつ",
+    "link": "/word/%E9%9B%91%E6%90%8D%E5%A4%B1/#jn-289046"
+  },
+  {
+    "kotoba": "雑多",
+    "yomi": "ざっ‐た",
+    "link": "/word/%E9%9B%91%E5%A4%9A/#jn-88455"
+  },
+  {
+    "kotoba": "雑体",
+    "yomi": "ざっ‐たい",
+    "link": "/word/%E9%9B%91%E4%BD%93_%28%E3%81%96%E3%81%A3%E3%81%9F%E3%81%84%29/#jn-88456"
+  },
+  {
+    "kotoba": "雑著",
+    "yomi": "ざっ‐ちょ",
+    "link": "/word/%E9%9B%91%E8%91%97/#jn-88467"
+  },
+  {
+    "kotoba": "雑体",
+    "yomi": "ざっ‐てい",
+    "link": "/word/%E9%9B%91%E4%BD%93_%28%E3%81%96%E3%81%A3%E3%81%A6%E3%81%84%29/#jn-88477"
+  },
+  {
+    "kotoba": "雑踏",
+    "yomi": "ざっ‐とう",
+    "link": "/word/%E9%9B%91%E8%B8%8F/#jn-88485"
+  },
+  {
+    "kotoba": "雑俳",
+    "yomi": "ざっ‐ぱい",
+    "link": "/word/%E9%9B%91%E4%BF%B3/#jn-88498"
+  },
+  {
+    "kotoba": "雑輩",
+    "yomi": "ざっ‐ぱい",
+    "link": "/word/%E9%9B%91%E8%BC%A9/#jn-88499"
+  },
+  {
+    "kotoba": "雑駁",
+    "yomi": "ざっ‐ぱく",
+    "link": "/word/%E9%9B%91%E9%A7%81/#jn-88501"
+  },
+  {
+    "kotoba": "雑費",
+    "yomi": "ざっ‐ぴ",
+    "link": "/word/%E9%9B%91%E8%B2%BB/#jn-88507"
+  },
+  {
+    "kotoba": "雑筆",
+    "yomi": "ざっ‐ぴつ",
+    "link": "/word/%E9%9B%91%E7%AD%86/#jn-88511"
+  },
+  {
+    "kotoba": "雑兵",
+    "yomi": "ざっ‐ぴょう",
+    "link": "/word/%E9%9B%91%E5%85%B5/#jn-88514"
+  },
+  {
+    "kotoba": "雑品",
+    "yomi": "ざっ‐ぴん",
+    "link": "/word/%E9%9B%91%E5%93%81/#jn-88517"
+  },
+  {
+    "kotoba": "雑粉",
+    "yomi": "ざっ‐ぷん",
+    "link": "/word/%E9%9B%91%E7%B2%89/#jn-88526"
+  },
+  {
+    "kotoba": "雑袍",
+    "yomi": "ざっ‐ぽう",
+    "link": "/word/%E9%9B%91%E8%A2%8D/#jn-88532"
+  },
+  {
+    "kotoba": "雑報",
+    "yomi": "ざっ‐ぽう",
+    "link": "/word/%E9%9B%91%E5%A0%B1/#jn-88533"
+  },
+  {
+    "kotoba": "雑方家",
+    "yomi": "ざっぽう‐か",
+    "link": "/word/%E9%9B%91%E6%96%B9%E5%AE%B6/#jn-88534"
+  },
+  {
+    "kotoba": "雑本",
+    "yomi": "ざっ‐ぽん",
+    "link": "/word/%E9%9B%91%E6%9C%AC/#jn-88543"
+  },
+  {
+    "kotoba": "雑詠",
+    "yomi": "ざつ‐えい",
+    "link": "/word/%E9%9B%91%E8%A9%A0/#jn-88236"
+  },
+  {
+    "kotoba": "雑役",
+    "yomi": "ざつ‐えき",
+    "link": "/word/%E9%9B%91%E5%BD%B9_%28%E3%81%96%E3%81%A4%E3%81%88%E3%81%8D%29/#jn-88243"
+  },
+  {
+    "kotoba": "雑益",
+    "yomi": "ざつ‐えき",
+    "link": "/word/%E9%9B%91%E7%9B%8A/#jn-88244"
+  },
+  {
+    "kotoba": "雑音",
+    "yomi": "ざつ‐おん",
+    "link": "/word/%E9%9B%91%E9%9F%B3/#jn-88246"
+  },
+  {
+    "kotoba": "雑音電圧",
+    "yomi": "ざつおん‐でんあつ",
+    "link": "/word/%E9%9B%91%E9%9F%B3%E9%9B%BB%E5%9C%A7/#jn-242941"
+  },
+  {
+    "kotoba": "雑株",
+    "yomi": "ざつ‐かぶ",
+    "link": "/word/%E9%9B%91%E6%A0%AA/#jn-88268"
+  },
+  {
+    "kotoba": "雑学",
+    "yomi": "ざつ‐がく",
+    "link": "/word/%E9%9B%91%E5%AD%A6/#jn-88264"
+  },
+  {
+    "kotoba": "雑楽",
+    "yomi": "ざつ‐がく",
+    "link": "/word/%E9%9B%91%E6%A5%BD/#jn-88265"
+  },
+  {
+    "kotoba": "雑狂言",
+    "yomi": "ざつ‐きょうげん",
+    "link": "/word/%E9%9B%91%E7%8B%82%E8%A8%80/#jn-88312"
+  },
+  {
+    "kotoba": "雑技",
+    "yomi": "ざつ‐ぎ",
+    "link": "/word/%E9%9B%91%E6%8A%80/#jn-88290"
+  },
+  {
+    "kotoba": "雑業",
+    "yomi": "ざつ‐ぎょう",
+    "link": "/word/%E9%9B%91%E6%A5%AD/#jn-88311"
+  },
+  {
+    "kotoba": "雑漁業",
+    "yomi": "ざつ‐ぎょぎょう",
+    "link": "/word/%E9%9B%91%E6%BC%81%E6%A5%AD/#jn-88314"
+  },
+  {
+    "kotoba": "雑具",
+    "yomi": "ざつ‐ぐ",
+    "link": "/word/%E9%9B%91%E5%85%B7_%28%E3%81%96%E3%81%A4%E3%81%90%29/#jn-88331"
+  },
+  {
+    "kotoba": "雑芸",
+    "yomi": "ざつ‐げい",
+    "link": "/word/%E9%9B%91%E8%8A%B8/#jn-88340"
+  },
+  {
+    "kotoba": "雑劇",
+    "yomi": "ざつ‐げき",
+    "link": "/word/%E9%9B%91%E5%8A%87/#jn-88341"
+  },
+  {
+    "kotoba": "雑言",
+    "yomi": "ざつ‐ごん",
+    "link": "/word/%E9%9B%91%E8%A8%80_%28%E3%81%96%E3%81%A4%E3%81%94%E3%82%93%29/#jn-88358"
+  },
+  {
+    "kotoba": "雑言古詩",
+    "yomi": "ざつごん‐こし",
+    "link": "/word/%E9%9B%91%E8%A8%80%E5%8F%A4%E8%A9%A9/#jn-88359"
+  },
+  {
+    "kotoba": "雑言体",
+    "yomi": "ざつごん‐たい",
+    "link": "/word/%E9%9B%91%E8%A8%80%E4%BD%93/#jn-88360"
+  },
+  {
+    "kotoba": "雑所得",
+    "yomi": "ざつ‐しょとく",
+    "link": "/word/%E9%9B%91%E6%89%80%E5%BE%97/#jn-88415"
+  },
+  {
+    "kotoba": "雑事",
+    "yomi": "ざつ‐じ",
+    "link": "/word/%E9%9B%91%E4%BA%8B_%28%E3%81%96%E3%81%A4%E3%81%98%29/#jn-88385"
+  },
+  {
+    "kotoba": "雑糅",
+    "yomi": "ざつ‐じゅう",
+    "link": "/word/%E9%9B%91%E7%B3%85/#jn-88398"
+  },
+  {
+    "kotoba": "雑税",
+    "yomi": "ざつ‐ぜい",
+    "link": "/word/%E9%9B%91%E7%A8%8E/#jn-88431"
+  },
+  {
+    "kotoba": "雑然",
+    "yomi": "ざつ‐ぜん",
+    "link": "/word/%E9%9B%91%E7%84%B6/#jn-88437"
+  },
+  {
+    "kotoba": "雑題",
+    "yomi": "ざつ‐だい",
+    "link": "/word/%E9%9B%91%E9%A1%8C/#jn-88457"
+  },
+  {
+    "kotoba": "雑談",
+    "yomi": "ざつ‐だん",
+    "link": "/word/%E9%9B%91%E8%AB%87_%28%E3%81%96%E3%81%A4%E3%81%A0%E3%82%93%29/#jn-88460"
+  },
+  {
+    "kotoba": "雑読",
+    "yomi": "ざつ‐どく",
+    "link": "/word/%E9%9B%91%E8%AA%AD/#jn-88486"
+  },
+  {
+    "kotoba": "雑肉",
+    "yomi": "ざつ‐にく",
+    "link": "/word/%E9%9B%91%E8%82%89/#jn-88491"
+  },
+  {
+    "kotoba": "雑念",
+    "yomi": "ざつ‐ねん",
+    "link": "/word/%E9%9B%91%E5%BF%B5/#jn-88492"
+  },
+  {
+    "kotoba": "雑嚢",
+    "yomi": "ざつ‐のう",
+    "link": "/word/%E9%9B%91%E5%9A%A2/#jn-88493"
+  },
+  {
+    "kotoba": "雑排水",
+    "yomi": "ざつ‐はいすい",
+    "link": "/word/%E9%9B%91%E6%8E%92%E6%B0%B4/#jn-88500"
+  },
+  {
+    "kotoba": "雑物",
+    "yomi": "ざつ‐ぶつ",
+    "link": "/word/%E9%9B%91%E7%89%A9_%28%E3%81%96%E3%81%A4%E3%81%B6%E3%81%A4%29/#jn-88524"
+  },
+  {
+    "kotoba": "雑文",
+    "yomi": "ざつ‐ぶん",
+    "link": "/word/%E9%9B%91%E6%96%87/#jn-88527"
+  },
+  {
+    "kotoba": "雑木",
+    "yomi": "ざつ‐ぼく",
+    "link": "/word/%E9%9B%91%E6%9C%A8_%28%E3%81%96%E3%81%A4%E3%81%BC%E3%81%8F%29/#jn-88535"
+  },
+  {
+    "kotoba": "雑味",
+    "yomi": "ざつ‐み",
+    "link": "/word/%E9%9B%91%E5%91%B3/#jn-257329"
+  },
+  {
+    "kotoba": "雑務",
+    "yomi": "ざつ‐む",
+    "link": "/word/%E9%9B%91%E5%8B%99_%28%E3%81%96%E3%81%A4%E3%82%80%29/#jn-88578"
+  },
+  {
+    "kotoba": "雑務沙汰",
+    "yomi": "ざつむ‐さた",
+    "link": "/word/%E9%9B%91%E5%8B%99%E6%B2%99%E6%B1%B0/#jn-88579"
+  },
+  {
+    "kotoba": "雑毛色",
+    "yomi": "ざつもう‐しょく",
+    "link": "/word/%E9%9B%91%E6%AF%9B%E8%89%B2/#jn-88581"
+  },
+  {
+    "kotoba": "雑用",
+    "yomi": "ざつ‐よう",
+    "link": "/word/%E9%9B%91%E7%94%A8_%28%E3%81%96%E3%81%A4%E3%82%88%E3%81%86%29/#jn-88586"
+  },
+  {
+    "kotoba": "雑徭",
+    "yomi": "ざつ‐よう",
+    "link": "/word/%E9%9B%91%E5%BE%AD/#jn-88587"
+  },
+  {
+    "kotoba": "雑慮",
+    "yomi": "ざつ‐りょ",
+    "link": "/word/%E9%9B%91%E6%85%AE/#jn-88590"
+  },
+  {
+    "kotoba": "雑録",
+    "yomi": "ざつ‐ろく",
+    "link": "/word/%E9%9B%91%E9%8C%B2/#jn-88592"
+  },
+  {
+    "kotoba": "雑話",
+    "yomi": "ざつ‐わ",
+    "link": "/word/%E9%9B%91%E8%A9%B1/#jn-88593"
+  },
+  {
+    "kotoba": "座頭",
+    "yomi": "ざ‐とう",
+    "link": "/word/%E5%BA%A7%E9%A0%AD_%28%E3%81%96%E3%81%A8%E3%81%86%29/#jn-88650"
+  },
+  {
+    "kotoba": "座頭金",
+    "yomi": "ざとう‐がね",
+    "link": "/word/%E5%BA%A7%E9%A0%AD%E9%87%91/#jn-88657"
+  },
+  {
+    "kotoba": "座頭行儀",
+    "yomi": "ざとう‐ぎょうぎ",
+    "link": "/word/%E5%BA%A7%E9%A0%AD%E8%A1%8C%E5%84%80/#jn-88659"
+  },
+  {
+    "kotoba": "座頭鯨",
+    "yomi": "ざとう‐くじら",
+    "link": "/word/%E5%BA%A7%E9%A0%AD%E9%AF%A8/#jn-88662"
+  },
+  {
+    "kotoba": "座頭虫",
+    "yomi": "ざとう‐むし",
+    "link": "/word/%E5%BA%A7%E9%A0%AD%E8%99%AB/#jn-88692"
+  },
+  {
+    "kotoba": "坐道場",
+    "yomi": "ざ‐どうじょう",
+    "link": "/word/%E5%9D%90%E9%81%93%E5%A0%B4/#jn-88673"
+  },
+  {
+    "kotoba": "座人",
+    "yomi": "ざ‐にん",
+    "link": "/word/%E5%BA%A7%E4%BA%BA/#jn-88833"
+  },
+  {
+    "kotoba": "座拝",
+    "yomi": "ざ‐はい",
+    "link": "/word/%E5%BA%A7%E6%8B%9D/#jn-88907"
+  },
+  {
+    "kotoba": "座配",
+    "yomi": "ざ‐はい",
+    "link": "/word/%E5%BA%A7%E9%85%8D/#jn-88908"
+  },
+  {
+    "kotoba": "座標",
+    "yomi": "ざ‐ひょう",
+    "link": "/word/%E5%BA%A7%E6%A8%99/#jn-89013"
+  },
+  {
+    "kotoba": "座標系",
+    "yomi": "ざひょう‐けい",
+    "link": "/word/%E5%BA%A7%E6%A8%99%E7%B3%BB/#jn-89019"
+  },
+  {
+    "kotoba": "座標軸",
+    "yomi": "ざひょう‐じく",
+    "link": "/word/%E5%BA%A7%E6%A8%99%E8%BB%B8/#jn-89020"
+  },
+  {
+    "kotoba": "座標平面",
+    "yomi": "ざひょう‐へいめん",
+    "link": "/word/%E5%BA%A7%E6%A8%99%E5%B9%B3%E9%9D%A2/#jn-89021"
+  },
+  {
+    "kotoba": "座標変換",
+    "yomi": "ざひょう‐へんかん",
+    "link": "/word/%E5%BA%A7%E6%A8%99%E5%A4%89%E6%8F%9B/#jn-89022"
+  },
+  {
+    "kotoba": "座標面",
+    "yomi": "ざひょう‐めん",
+    "link": "/word/%E5%BA%A7%E6%A8%99%E9%9D%A2/#jn-89023"
+  },
+  {
+    "kotoba": "座布団",
+    "yomi": "ざ‐ぶとん",
+    "link": "/word/%E5%BA%A7%E5%B8%83%E5%9B%A3/#jn-89075"
+  },
+  {
+    "kotoba": "座仏",
+    "yomi": "ざ‐ぶつ",
+    "link": "/word/%E5%BA%A7%E4%BB%8F/#jn-294487"
+  },
+  {
+    "kotoba": "座法",
+    "yomi": "ざ‐ほう",
+    "link": "/word/%E5%BA%A7%E6%B3%95/#jn-89164"
+  },
+  {
+    "kotoba": "坐亡",
+    "yomi": "ざ‐ぼう",
+    "link": "/word/%E5%9D%90%E4%BA%A1/#jn-89165"
+  },
+  {
+    "kotoba": "坐忘",
+    "yomi": "ざ‐ぼう",
+    "link": "/word/%E5%9D%90%E5%BF%98/#jn-89166"
+  },
+  {
+    "kotoba": "座箒",
+    "yomi": "ざ‐ぼうき",
+    "link": "/word/%E5%BA%A7%E7%AE%92/#jn-89167"
+  },
+  {
+    "kotoba": "座星",
+    "yomi": "ざ‐ぼし",
+    "link": "/word/%E5%BA%A7%E6%98%9F/#jn-89179"
+  },
+  {
+    "kotoba": "座間",
+    "yomi": "ざま",
+    "link": "/word/%E5%BA%A7%E9%96%93/#jn-89203"
+  },
+  {
+    "kotoba": "座間市",
+    "yomi": "ざま‐し",
+    "link": "/word/%E5%BA%A7%E9%96%93%E5%B8%82/#jn-89226"
+  },
+  {
+    "kotoba": "座間味島",
+    "yomi": "ざまみ‐じま",
+    "link": "/word/%E5%BA%A7%E9%96%93%E5%91%B3%E5%B3%B6/#jn-291000"
+  },
+  {
+    "kotoba": "朱欒",
+    "yomi": "ザンボア",
+    "link": "/word/%E6%9C%B1%E6%AC%92/#jn-92045"
+  },
+  {
+    "kotoba": "挫滅",
+    "yomi": "ざ‐めつ",
+    "link": "/word/%E6%8C%AB%E6%BB%85/#jn-89345"
+  },
+  {
+    "kotoba": "挫滅症候群",
+    "yomi": "ざめつ‐しょうこうぐん",
+    "link": "/word/%E6%8C%AB%E6%BB%85%E7%97%87%E5%80%99%E7%BE%A4/#jn-89346"
+  },
+  {
+    "kotoba": "座面",
+    "yomi": "ざ‐めん",
+    "link": "/word/%E5%BA%A7%E9%9D%A2/#jn-250252"
+  },
+  {
+    "kotoba": "座元",
+    "yomi": "ざ‐もと",
+    "link": "/word/%E5%BA%A7%E5%85%83/#jn-89383"
+  },
+  {
+    "kotoba": "座役",
+    "yomi": "ざ‐やく",
+    "link": "/word/%E5%BA%A7%E5%BD%B9/#jn-89410"
+  },
+  {
+    "kotoba": "座薬",
+    "yomi": "ざ‐やく",
+    "link": "/word/%E5%BA%A7%E8%96%AC/#jn-89411"
+  },
+  {
+    "kotoba": "座右",
+    "yomi": "ざ‐ゆう",
+    "link": "/word/%E5%BA%A7%E5%8F%B3/#jn-89451"
+  },
+  {
+    "kotoba": "座浴",
+    "yomi": "ざ‐よく",
+    "link": "/word/%E5%BA%A7%E6%B5%B4/#jn-89474"
+  },
+  {
+    "kotoba": "粗目",
+    "yomi": "ざら‐め",
+    "link": "/word/%E7%B2%97%E7%9B%AE/#jn-89645"
+  },
+  {
+    "kotoba": "粗目糖",
+    "yomi": "ざらめ‐とう",
+    "link": "/word/%E7%B2%97%E7%9B%AE%E7%B3%96/#jn-89648"
+  },
+  {
+    "kotoba": "粗目雪",
+    "yomi": "ざらめ‐ゆき",
+    "link": "/word/%E7%B2%97%E7%9B%AE%E9%9B%AA/#jn-89649"
+  },
+  {
+    "kotoba": "砂利",
+    "yomi": "ざり",
+    "link": "/word/%E7%A0%82%E5%88%A9/#jn-89671"
+  },
+  {
+    "kotoba": "蝲蛄",
+    "yomi": "ざり‐がに",
+    "link": "/word/%E8%9D%B2%E8%9B%84/#jn-89678"
+  },
+  {
+    "kotoba": "座料",
+    "yomi": "ざ‐りょう",
+    "link": "/word/%E5%BA%A7%E6%96%99/#jn-89705"
+  },
+  {
+    "kotoba": "笊貝",
+    "yomi": "ざる‐がい",
+    "link": "/word/%E7%AC%8A%E8%B2%9D/#jn-89736"
+  },
+  {
+    "kotoba": "笊碁",
+    "yomi": "ざる‐ご",
+    "link": "/word/%E7%AC%8A%E7%A2%81/#jn-89758"
+  },
+  {
+    "kotoba": "笊蕎麦",
+    "yomi": "ざる‐そば",
+    "link": "/word/%E7%AC%8A%E8%95%8E%E9%BA%A6/#jn-89783"
+  },
+  {
+    "kotoba": "笊法",
+    "yomi": "ざる‐ほう",
+    "link": "/word/%E7%AC%8A%E6%B3%95/#jn-89829"
+  },
+  {
+    "kotoba": "笊耳",
+    "yomi": "ざる‐みみ",
+    "link": "/word/%E7%AC%8A%E8%80%B3/#jn-89846"
+  },
+  {
+    "kotoba": "座礼",
+    "yomi": "ざ‐れい",
+    "link": "/word/%E5%BA%A7%E7%A4%BC/#jn-89869"
+  },
+  {
+    "kotoba": "座彔",
+    "yomi": "ざ‐ろく",
+    "link": "/word/%E5%BA%A7%E5%BD%94/#jn-89902"
+  },
+  {
+    "kotoba": "座論",
+    "yomi": "ざ‐ろん",
+    "link": "/word/%E5%BA%A7%E8%AB%96/#jn-89915"
+  },
+  {
+    "kotoba": "座論梅",
+    "yomi": "ざろん‐ばい",
+    "link": "/word/%E5%BA%A7%E8%AB%96%E6%A2%85/#jn-89924"
+  },
+  {
+    "kotoba": "慙恚",
+    "yomi": "ざん‐い",
+    "link": "/word/%E6%85%99%E6%81%9A/#jn-90101"
+  },
+  {
+    "kotoba": "残雨",
+    "yomi": "ざん‐う",
+    "link": "/word/%E6%AE%8B%E9%9B%A8/#jn-90123"
+  },
+  {
+    "kotoba": "残映",
+    "yomi": "ざん‐えい",
+    "link": "/word/%E6%AE%8B%E6%98%A0/#jn-90130"
+  },
+  {
+    "kotoba": "残影",
+    "yomi": "ざん‐えい",
+    "link": "/word/%E6%AE%8B%E5%BD%B1/#jn-90131"
+  },
+  {
+    "kotoba": "残炎",
+    "yomi": "ざん‐えん",
+    "link": "/word/%E6%AE%8B%E7%82%8E/#jn-90146"
+  },
+  {
+    "kotoba": "残煙",
+    "yomi": "ざん‐えん",
+    "link": "/word/%E6%AE%8B%E7%85%99/#jn-90147"
+  },
+  {
+    "kotoba": "残桜",
+    "yomi": "ざん‐おう",
+    "link": "/word/%E6%AE%8B%E6%A1%9C/#jn-90153"
+  },
+  {
+    "kotoba": "残鶯",
+    "yomi": "ざん‐おう",
+    "link": "/word/%E6%AE%8B%E9%B6%AF/#jn-90154"
+  },
+  {
+    "kotoba": "残火",
+    "yomi": "ざん‐か",
+    "link": "/word/%E6%AE%8B%E7%81%AB/#jn-90177"
+  },
+  {
+    "kotoba": "残花",
+    "yomi": "ざん‐か",
+    "link": "/word/%E6%AE%8B%E8%8A%B1/#jn-90178"
+  },
+  {
+    "kotoba": "残壊",
+    "yomi": "ざん‐かい",
+    "link": "/word/%E6%AE%8B%E5%A3%8A/#jn-90198"
+  },
+  {
+    "kotoba": "残懐",
+    "yomi": "ざん‐かい",
+    "link": "/word/%E6%AE%8B%E6%87%90/#jn-90199"
+  },
+  {
+    "kotoba": "慙悔",
+    "yomi": "ざん‐かい",
+    "link": "/word/%E6%85%99%E6%82%94/#jn-90200"
+  },
+  {
+    "kotoba": "斬獲",
+    "yomi": "ざん‐かく",
+    "link": "/word/%E6%96%AC%E7%8D%B2/#jn-90244"
+  },
+  {
+    "kotoba": "残寒",
+    "yomi": "ざん‐かん",
+    "link": "/word/%E6%AE%8B%E5%AF%92/#jn-90360"
+  },
+  {
+    "kotoba": "残簡",
+    "yomi": "ざん‐かん",
+    "link": "/word/%E6%AE%8B%E7%B0%A1/#jn-90361"
+  },
+  {
+    "kotoba": "斬奸",
+    "yomi": "ざん‐かん",
+    "link": "/word/%E6%96%AC%E5%A5%B8/#jn-90362"
+  },
+  {
+    "kotoba": "慙汗",
+    "yomi": "ざん‐かん",
+    "link": "/word/%E6%85%99%E6%B1%97/#jn-90363"
+  },
+  {
+    "kotoba": "讒陥",
+    "yomi": "ざん‐かん",
+    "link": "/word/%E8%AE%92%E9%99%A5/#jn-90364"
+  },
+  {
+    "kotoba": "斬奸状",
+    "yomi": "ざんかん‐じょう",
+    "link": "/word/%E6%96%AC%E5%A5%B8%E7%8A%B6/#jn-90370"
+  },
+  {
+    "kotoba": "残簡零墨",
+    "yomi": "ざんかん‐れいぼく",
+    "link": "/word/%E6%AE%8B%E7%B0%A1%E9%9B%B6%E5%A2%A8/#jn-90374"
+  },
+  {
+    "kotoba": "残害",
+    "yomi": "ざん‐がい",
+    "link": "/word/%E6%AE%8B%E5%AE%B3/#jn-90201"
+  },
+  {
+    "kotoba": "残骸",
+    "yomi": "ざん‐がい",
+    "link": "/word/%E6%AE%8B%E9%AA%B8/#jn-90202"
+  },
+  {
+    "kotoba": "残額",
+    "yomi": "ざん‐がく",
+    "link": "/word/%E6%AE%8B%E9%A1%8D/#jn-90245"
+  },
+  {
+    "kotoba": "巉巌",
+    "yomi": "ざん‐がん",
+    "link": "/word/%E5%B7%89%E5%B7%8C/#jn-90365"
+  },
+  {
+    "kotoba": "慙愧",
+    "yomi": "ざん‐き",
+    "link": "/word/%E6%85%99%E6%84%A7/#jn-90384"
+  },
+  {
+    "kotoba": "讒毀",
+    "yomi": "ざん‐き",
+    "link": "/word/%E8%AE%92%E6%AF%80/#jn-90385"
+  },
+  {
+    "kotoba": "残基",
+    "yomi": "ざん‐き",
+    "link": "/word/%E6%AE%8B%E5%9F%BA/#jn-254023"
+  },
+  {
+    "kotoba": "残丘",
+    "yomi": "ざん‐きゅう",
+    "link": "/word/%E6%AE%8B%E4%B8%98/#jn-90407"
+  },
+  {
+    "kotoba": "残響",
+    "yomi": "ざん‐きょう",
+    "link": "/word/%E6%AE%8B%E9%9F%BF/#jn-90424"
+  },
+  {
+    "kotoba": "残響計",
+    "yomi": "ざんきょう‐けい",
+    "link": "/word/%E6%AE%8B%E9%9F%BF%E8%A8%88/#jn-240266"
+  },
+  {
+    "kotoba": "残響室",
+    "yomi": "ざんきょう‐しつ",
+    "link": "/word/%E6%AE%8B%E9%9F%BF%E5%AE%A4/#jn-281018"
+  },
+  {
+    "kotoba": "残響時間",
+    "yomi": "ざんきょう‐じかん",
+    "link": "/word/%E6%AE%8B%E9%9F%BF%E6%99%82%E9%96%93/#jn-240267"
+  },
+  {
+    "kotoba": "残気量",
+    "yomi": "ざんき‐りょう",
+    "link": "/word/%E6%AE%8B%E6%B0%97%E9%87%8F/#jn-300570"
+  },
+  {
+    "kotoba": "残金",
+    "yomi": "ざん‐きん",
+    "link": "/word/%E6%AE%8B%E9%87%91/#jn-90479"
+  },
+  {
+    "kotoba": "残菊",
+    "yomi": "ざん‐ぎく",
+    "link": "/word/%E6%AE%8B%E8%8F%8A/#jn-90392"
+  },
+  {
+    "kotoba": "残菊物語",
+    "yomi": "ざんぎくものがたり",
+    "link": "/word/%E6%AE%8B%E8%8F%8A%E7%89%A9%E8%AA%9E/#jn-289062"
+  },
+  {
+    "kotoba": "残虐",
+    "yomi": "ざん‐ぎゃく",
+    "link": "/word/%E6%AE%8B%E8%99%90/#jn-90399"
+  },
+  {
+    "kotoba": "残業",
+    "yomi": "ざん‐ぎょう",
+    "link": "/word/%E6%AE%8B%E6%A5%AD/#jn-90425"
+  },
+  {
+    "kotoba": "残曛",
+    "yomi": "ざん‐くん",
+    "link": "/word/%E6%AE%8B%E6%9B%9B/#jn-90529"
+  },
+  {
+    "kotoba": "斬刑",
+    "yomi": "ざん‐けい",
+    "link": "/word/%E6%96%AC%E5%88%91/#jn-90546"
+  },
+  {
+    "kotoba": "残欠",
+    "yomi": "ざん‐けつ",
+    "link": "/word/%E6%AE%8B%E6%AC%A0/#jn-90560"
+  },
+  {
+    "kotoba": "懺悔",
+    "yomi": "ざん‐げ",
+    "link": "/word/%E6%87%BA%E6%82%94_%28%E3%81%96%E3%82%93%E3%81%92%29/#jn-90536"
+  },
+  {
+    "kotoba": "懺悔王",
+    "yomi": "ざんげ‐おう",
+    "link": "/word/person/%E6%87%BA%E6%82%94%E7%8E%8B/#jn-263317"
+  },
+  {
+    "kotoba": "懺悔懺悔",
+    "yomi": "さんげ‐さんげ",
+    "link": "/word/%E6%87%BA%E6%82%94%E6%87%BA%E6%82%94/#jn-90551"
+  },
+  {
+    "kotoba": "残月",
+    "yomi": "ざん‐げつ",
+    "link": "/word/%E6%AE%8B%E6%9C%88/#jn-90561"
+  },
+  {
+    "kotoba": "懺悔録",
+    "yomi": "ざんげろく",
+    "link": "/word/%E6%87%BA%E6%82%94%E9%8C%B2/#jn-90567"
+  },
+  {
+    "kotoba": "讒言",
+    "yomi": "ざん‐げん",
+    "link": "/word/%E8%AE%92%E8%A8%80_%28%E3%81%96%E3%82%93%E3%81%92%E3%82%93%29/#jn-90574"
+  },
+  {
+    "kotoba": "残光",
+    "yomi": "ざん‐こう",
+    "link": "/word/%E6%AE%8B%E5%85%89/#jn-90613"
+  },
+  {
+    "kotoba": "残更",
+    "yomi": "ざん‐こう",
+    "link": "/word/%E6%AE%8B%E6%9B%B4/#jn-90614"
+  },
+  {
+    "kotoba": "残肴",
+    "yomi": "ざん‐こう",
+    "link": "/word/%E6%AE%8B%E8%82%B4/#jn-90615"
+  },
+  {
+    "kotoba": "残香",
+    "yomi": "ざん‐こう",
+    "link": "/word/%E6%AE%8B%E9%A6%99/#jn-90616"
+  },
+  {
+    "kotoba": "讒口",
+    "yomi": "ざん‐こう",
+    "link": "/word/%E8%AE%92%E5%8F%A3/#jn-90617"
+  },
+  {
+    "kotoba": "讒構",
+    "yomi": "ざん‐こう",
+    "link": "/word/%E8%AE%92%E6%A7%8B/#jn-90618"
+  },
+  {
+    "kotoba": "残酷",
+    "yomi": "ざん‐こく",
+    "link": "/word/%E6%AE%8B%E9%85%B7/#jn-90650"
+  },
+  {
+    "kotoba": "残酷物語",
+    "yomi": "ざんこくものがたり",
+    "link": "/word/%E6%AE%8B%E9%85%B7%E7%89%A9%E8%AA%9E/#jn-271097"
+  },
+  {
+    "kotoba": "残痕",
+    "yomi": "ざん‐こん",
+    "link": "/word/%E6%AE%8B%E7%97%95/#jn-90685"
+  },
+  {
+    "kotoba": "塹壕",
+    "yomi": "ざん‐ごう",
+    "link": "/word/%E5%A1%B9%E5%A3%95/#jn-90619"
+  },
+  {
+    "kotoba": "塹壕熱",
+    "yomi": "ざんごう‐ねつ",
+    "link": "/word/%E5%A1%B9%E5%A3%95%E7%86%B1/#jn-90639"
+  },
+  {
+    "kotoba": "残渣",
+    "yomi": "ざん‐さ",
+    "link": "/word/%E6%AE%8B%E6%B8%A3/#jn-90693"
+  },
+  {
+    "kotoba": "残滓",
+    "yomi": "ざん‐さい",
+    "link": "/word/%E6%AE%8B%E6%BB%93_%28%E3%81%96%E3%82%93%E3%81%95%E3%81%84%29/#jn-90709"
+  },
+  {
+    "kotoba": "残債",
+    "yomi": "ざん‐さい",
+    "link": "/word/%E6%AE%8B%E5%82%B5/#jn-90708"
+  },
+  {
+    "kotoba": "惨殺",
+    "yomi": "ざん‐さつ",
+    "link": "/word/%E6%83%A8%E6%AE%BA/#jn-90731"
+  },
+  {
+    "kotoba": "斬殺",
+    "yomi": "ざん‐さつ",
+    "link": "/word/%E6%96%AC%E6%AE%BA/#jn-90732"
+  },
+  {
+    "kotoba": "斬罪",
+    "yomi": "ざん‐ざい",
+    "link": "/word/%E6%96%AC%E7%BD%AA/#jn-90710"
+  },
+  {
+    "kotoba": "残山剰水",
+    "yomi": "ざんざん‐じょうすい",
+    "link": "/word/%E6%AE%8B%E5%B1%B1%E5%89%B0%E6%B0%B4/#jn-90762"
+  },
+  {
+    "kotoba": "残滓",
+    "yomi": "ざん‐し",
+    "link": "/word/%E6%AE%8B%E6%BB%93_%28%E3%81%96%E3%82%93%E3%81%97%29/#jn-90788"
+  },
+  {
+    "kotoba": "惨死",
+    "yomi": "ざん‐し",
+    "link": "/word/%E6%83%A8%E6%AD%BB/#jn-90789"
+  },
+  {
+    "kotoba": "慙死",
+    "yomi": "ざん‐し",
+    "link": "/word/%E6%85%99%E6%AD%BB/#jn-90790"
+  },
+  {
+    "kotoba": "残疾",
+    "yomi": "ざん‐しつ",
+    "link": "/word/%E6%AE%8B%E7%96%BE/#jn-90847"
+  },
+  {
+    "kotoba": "讒者",
+    "yomi": "ざん‐しゃ",
+    "link": "/word/%E8%AE%92%E8%80%85/#jn-90870"
+  },
+  {
+    "kotoba": "斬首",
+    "yomi": "ざん‐しゅ",
+    "link": "/word/%E6%96%AC%E9%A6%96/#jn-90906"
+  },
+  {
+    "kotoba": "残秋",
+    "yomi": "ざん‐しゅう",
+    "link": "/word/%E6%AE%8B%E7%A7%8B/#jn-90921"
+  },
+  {
+    "kotoba": "残春",
+    "yomi": "ざん‐しゅん",
+    "link": "/word/%E6%AE%8B%E6%98%A5/#jn-90999"
+  },
+  {
+    "kotoba": "残暑",
+    "yomi": "ざん‐しょ",
+    "link": "/word/%E6%AE%8B%E6%9A%91/#jn-91008"
+  },
+  {
+    "kotoba": "残照",
+    "yomi": "ざん‐しょう",
+    "link": "/word/%E6%AE%8B%E7%85%A7/#jn-91035"
+  },
+  {
+    "kotoba": "残照",
+    "yomi": "ざんしょう",
+    "link": "/word/%E6%AE%8B%E7%85%A7/#jn-296164"
+  },
+  {
+    "kotoba": "残燭",
+    "yomi": "ざん‐しょく",
+    "link": "/word/%E6%AE%8B%E7%87%AD/#jn-91077"
+  },
+  {
+    "kotoba": "残心",
+    "yomi": "ざん‐しん",
+    "link": "/word/%E6%AE%8B%E5%BF%83/#jn-91125"
+  },
+  {
+    "kotoba": "讒心",
+    "yomi": "ざん‐しん",
+    "link": "/word/%E8%AE%92%E5%BF%83/#jn-91126"
+  },
+  {
+    "kotoba": "讒臣",
+    "yomi": "ざん‐しん",
+    "link": "/word/%E8%AE%92%E8%87%A3/#jn-91127"
+  },
+  {
+    "kotoba": "斬新",
+    "yomi": "ざん‐しん",
+    "link": "/word/%E6%96%AC%E6%96%B0/#jn-91128"
+  },
+  {
+    "kotoba": "暫時",
+    "yomi": "ざん‐じ",
+    "link": "/word/%E6%9A%AB%E6%99%82/#jn-90791"
+  },
+  {
+    "kotoba": "斬人斬馬剣",
+    "yomi": "ざんじんざんばけん",
+    "link": "/word/%E6%96%AC%E4%BA%BA%E6%96%AC%E9%A6%AC%E5%89%A3/#jn-268430"
+  },
+  {
+    "kotoba": "残生",
+    "yomi": "ざん‐せい",
+    "link": "/word/%E6%AE%8B%E7%94%9F/#jn-91201"
+  },
+  {
+    "kotoba": "残星",
+    "yomi": "ざん‐せい",
+    "link": "/word/%E6%AE%8B%E6%98%9F/#jn-91202"
+  },
+  {
+    "kotoba": "残席",
+    "yomi": "ざん‐せき",
+    "link": "/word/%E6%AE%8B%E5%B8%AD/#jn-287082"
+  },
+  {
+    "kotoba": "残積土",
+    "yomi": "ざんせき‐ど",
+    "link": "/word/%E6%AE%8B%E7%A9%8D%E5%9C%9F/#jn-91232"
+  },
+  {
+    "kotoba": "残雪",
+    "yomi": "ざん‐せつ",
+    "link": "/word/%E6%AE%8B%E9%9B%AA/#jn-91244"
+  },
+  {
+    "kotoba": "嶄絶",
+    "yomi": "ざん‐ぜつ",
+    "link": "/word/%E5%B6%84%E7%B5%B6/#jn-91245"
+  },
+  {
+    "kotoba": "残喘",
+    "yomi": "ざん‐ぜん",
+    "link": "/word/%E6%AE%8B%E5%96%98/#jn-91272"
+  },
+  {
+    "kotoba": "嶄然",
+    "yomi": "ざん‐ぜん",
+    "link": "/word/%E5%B6%84%E7%84%B6/#jn-91273"
+  },
+  {
+    "kotoba": "残礎",
+    "yomi": "ざん‐そ",
+    "link": "/word/%E6%AE%8B%E7%A4%8E/#jn-91285"
+  },
+  {
+    "kotoba": "讒訴",
+    "yomi": "ざん‐そ",
+    "link": "/word/%E8%AE%92%E8%A8%B4/#jn-91286"
+  },
+  {
+    "kotoba": "讒奏",
+    "yomi": "ざん‐そう",
+    "link": "/word/%E8%AE%92%E5%A5%8F/#jn-91296"
+  },
+  {
+    "kotoba": "残存",
+    "yomi": "ざん‐そん",
+    "link": "/word/%E6%AE%8B%E5%AD%98/#jn-91328"
+  },
+  {
+    "kotoba": "残樽",
+    "yomi": "ざん‐そん",
+    "link": "/word/%E6%AE%8B%E6%A8%BD/#jn-91329"
+  },
+  {
+    "kotoba": "残存種",
+    "yomi": "ざんそん‐しゅ",
+    "link": "/word/%E6%AE%8B%E5%AD%98%E7%A8%AE/#jn-91330"
+  },
+  {
+    "kotoba": "残存保険金額",
+    "yomi": "ざんそん‐ほけんきんがく",
+    "link": "/word/%E6%AE%8B%E5%AD%98%E4%BF%9D%E9%99%BA%E9%87%91%E9%A1%8D/#jn-294505"
+  },
+  {
+    "kotoba": "残存輸入制限",
+    "yomi": "ざんそん‐ゆにゅうせいげん",
+    "link": "/word/%E6%AE%8B%E5%AD%98%E8%BC%B8%E5%85%A5%E5%88%B6%E9%99%90/#jn-91336"
+  },
+  {
+    "kotoba": "残像",
+    "yomi": "ざん‐ぞう",
+    "link": "/word/%E6%AE%8B%E5%83%8F/#jn-91297"
+  },
+  {
+    "kotoba": "残賊",
+    "yomi": "ざん‐ぞく",
+    "link": "/word/%E6%AE%8B%E8%B3%8A/#jn-91313"
+  },
+  {
+    "kotoba": "残存者利益",
+    "yomi": "ざんぞんしゃ‐りえき",
+    "link": "/word/%E6%AE%8B%E5%AD%98%E8%80%85%E5%88%A9%E7%9B%8A/#jn-246238"
+  },
+  {
+    "kotoba": "残高",
+    "yomi": "ざん‐だか",
+    "link": "/word/%E6%AE%8B%E9%AB%98/#jn-91385"
+  },
+  {
+    "kotoba": "残置",
+    "yomi": "ざん‐ち",
+    "link": "/word/%E6%AE%8B%E7%BD%AE/#jn-91508"
+  },
+  {
+    "kotoba": "暫定",
+    "yomi": "ざん‐てい",
+    "link": "/word/%E6%9A%AB%E5%AE%9A/#jn-91544"
+  },
+  {
+    "kotoba": "暫定規制値",
+    "yomi": "ざんてい‐きせいち",
+    "link": "/word/%E6%9A%AB%E5%AE%9A%E8%A6%8F%E5%88%B6%E5%80%A4/#jn-250284"
+  },
+  {
+    "kotoba": "暫定政権",
+    "yomi": "ざんてい‐せいけん",
+    "link": "/word/%E6%9A%AB%E5%AE%9A%E6%94%BF%E6%A8%A9/#jn-246240"
+  },
+  {
+    "kotoba": "暫定政府",
+    "yomi": "ざんてい‐せいふ",
+    "link": "/word/%E6%9A%AB%E5%AE%9A%E6%94%BF%E5%BA%9C/#jn-246241"
+  },
+  {
+    "kotoba": "暫定税率",
+    "yomi": "ざんてい‐ぜいりつ",
+    "link": "/word/%E6%9A%AB%E5%AE%9A%E7%A8%8E%E7%8E%87/#jn-91555"
+  },
+  {
+    "kotoba": "暫定的",
+    "yomi": "ざんてい‐てき",
+    "link": "/word/%E6%9A%AB%E5%AE%9A%E7%9A%84/#jn-91558"
+  },
+  {
+    "kotoba": "暫定予算",
+    "yomi": "ざんてい‐よさん",
+    "link": "/word/%E6%9A%AB%E5%AE%9A%E4%BA%88%E7%AE%97/#jn-91563"
+  },
+  {
+    "kotoba": "残滴",
+    "yomi": "ざん‐てき",
+    "link": "/word/%E6%AE%8B%E6%BB%B4/#jn-91570"
+  },
+  {
+    "kotoba": "残敵",
+    "yomi": "ざん‐てき",
+    "link": "/word/%E6%AE%8B%E6%95%B5/#jn-91571"
+  },
+  {
+    "kotoba": "残徒",
+    "yomi": "ざん‐と",
+    "link": "/word/%E6%AE%8B%E5%BE%92/#jn-91605"
+  },
+  {
+    "kotoba": "残灯",
+    "yomi": "ざん‐とう",
+    "link": "/word/%E6%AE%8B%E7%81%AF/#jn-91635"
+  },
+  {
+    "kotoba": "残党",
+    "yomi": "ざん‐とう",
+    "link": "/word/%E6%AE%8B%E5%85%9A/#jn-91636"
+  },
+  {
+    "kotoba": "竄匿",
+    "yomi": "ざん‐とく",
+    "link": "/word/%E7%AB%84%E5%8C%BF/#jn-91665"
+  },
+  {
+    "kotoba": "残土",
+    "yomi": "ざん‐ど",
+    "link": "/word/%E6%AE%8B%E5%9C%9F/#jn-91606"
+  },
+  {
+    "kotoba": "竄入",
+    "yomi": "ざん‐にゅう",
+    "link": "/word/%E7%AB%84%E5%85%A5/#jn-91732"
+  },
+  {
+    "kotoba": "残尿",
+    "yomi": "ざん‐にょう",
+    "link": "/word/%E6%AE%8B%E5%B0%BF/#jn-91735"
+  },
+  {
+    "kotoba": "残尿感",
+    "yomi": "ざんにょう‐かん",
+    "link": "/word/%E6%AE%8B%E5%B0%BF%E6%84%9F/#jn-281027"
+  },
+  {
+    "kotoba": "残忍",
+    "yomi": "ざん‐にん",
+    "link": "/word/%E6%AE%8B%E5%BF%8D/#jn-91742"
+  },
+  {
+    "kotoba": "讒佞",
+    "yomi": "ざん‐ねい",
+    "link": "/word/%E8%AE%92%E4%BD%9E/#jn-91758"
+  },
+  {
+    "kotoba": "残年",
+    "yomi": "ざん‐ねん",
+    "link": "/word/%E6%AE%8B%E5%B9%B4/#jn-91762"
+  },
+  {
+    "kotoba": "残念",
+    "yomi": "ざん‐ねん",
+    "link": "/word/%E6%AE%8B%E5%BF%B5/#jn-91763"
+  },
+  {
+    "kotoba": "残念会",
+    "yomi": "ざんねん‐かい",
+    "link": "/word/%E6%AE%8B%E5%BF%B5%E4%BC%9A/#jn-91765"
+  },
+  {
+    "kotoba": "残念無念",
+    "yomi": "ざんねん‐むねん",
+    "link": "/word/%E6%AE%8B%E5%BF%B5%E7%84%A1%E5%BF%B5/#jn-289076"
+  },
+  {
+    "kotoba": "斬馬剣",
+    "yomi": "ざんば‐けん",
+    "link": "/word/%E6%96%AC%E9%A6%AC%E5%89%A3/#jn-91834"
+  },
+  {
+    "kotoba": "斬伐",
+    "yomi": "ざん‐ばつ",
+    "link": "/word/%E6%96%AC%E4%BC%90/#jn-91846"
+  },
+  {
+    "kotoba": "残杯",
+    "yomi": "ざん‐ぱい",
+    "link": "/word/%E6%AE%8B%E6%9D%AF/#jn-91812"
+  },
+  {
+    "kotoba": "惨敗",
+    "yomi": "ざん‐ぱい",
+    "link": "/word/%E6%83%A8%E6%95%97/#jn-91813"
+  },
+  {
+    "kotoba": "残杯冷羹",
+    "yomi": "ざんぱい‐れいこう",
+    "link": "/word/%E6%AE%8B%E6%9D%AF%E5%86%B7%E7%BE%B9/#jn-91822"
+  },
+  {
+    "kotoba": "残杯冷炙",
+    "yomi": "ざんぱい‐れいしゃ",
+    "link": "/word/%E6%AE%8B%E6%9D%AF%E5%86%B7%E7%82%99/#jn-91823"
+  },
+  {
+    "kotoba": "斬髪",
+    "yomi": "ざん‐ぱつ",
+    "link": "/word/%E6%96%AC%E9%AB%AA/#jn-91847"
+  },
+  {
+    "kotoba": "残波岬",
+    "yomi": "ざんぱ‐みさき",
+    "link": "/word/%E6%AE%8B%E6%B3%A2%E5%B2%AC/#jn-242971"
+  },
+  {
+    "kotoba": "残飯",
+    "yomi": "ざん‐ぱん",
+    "link": "/word/%E6%AE%8B%E9%A3%AF/#jn-91865"
+  },
+  {
+    "kotoba": "残品",
+    "yomi": "ざん‐ぴん",
+    "link": "/word/%E6%AE%8B%E5%93%81/#jn-91920"
+  },
+  {
+    "kotoba": "残部",
+    "yomi": "ざん‐ぶ",
+    "link": "/word/%E6%AE%8B%E9%83%A8/#jn-91928"
+  },
+  {
+    "kotoba": "讒誣",
+    "yomi": "ざん‐ぶ",
+    "link": "/word/%E8%AE%92%E8%AA%A3/#jn-91929"
+  },
+  {
+    "kotoba": "残不",
+    "yomi": "ざん‐ぶ",
+    "link": "/word/%E6%AE%8B%E4%B8%8D/#jn-277354"
+  },
+  {
+    "kotoba": "残物",
+    "yomi": "ざん‐ぶつ",
+    "link": "/word/%E6%AE%8B%E7%89%A9/#jn-91963"
+  },
+  {
+    "kotoba": "慙憤",
+    "yomi": "ざん‐ぷん",
+    "link": "/word/%E6%85%99%E6%86%A4/#jn-92004"
+  },
+  {
+    "kotoba": "残兵",
+    "yomi": "ざん‐ぺい",
+    "link": "/word/%E6%AE%8B%E5%85%B5/#jn-92010"
+  },
+  {
+    "kotoba": "残片",
+    "yomi": "ざん‐ぺん",
+    "link": "/word/%E6%AE%8B%E7%89%87/#jn-92037"
+  },
+  {
+    "kotoba": "残編",
+    "yomi": "ざん‐ぺん",
+    "link": "/word/%E6%AE%8B%E7%B7%A8/#jn-92038"
+  },
+  {
+    "kotoba": "讒謗",
+    "yomi": "ざん‐ぼう",
+    "link": "/word/%E8%AE%92%E8%AC%97/#jn-92054"
+  },
+  {
+    "kotoba": "讒謗律",
+    "yomi": "ざんぼう‐りつ",
+    "link": "/word/%E8%AE%92%E8%AC%97%E5%BE%8B/#jn-92075"
+  },
+  {
+    "kotoba": "残本",
+    "yomi": "ざん‐ぽん",
+    "link": "/word/%E6%AE%8B%E6%9C%AC/#jn-92094"
+  },
+  {
+    "kotoba": "槧本",
+    "yomi": "ざん‐ぽん",
+    "link": "/word/%E6%A7%A7%E6%9C%AC/#jn-92095"
+  },
+  {
+    "kotoba": "三昧",
+    "yomi": "ざんまい",
+    "link": "/word/%E4%B8%89%E6%98%A7_%28%E3%81%96%E3%82%93%E3%81%BE%E3%81%84%29/#jn-92108"
+  },
+  {
+    "kotoba": "残務",
+    "yomi": "ざん‐む",
+    "link": "/word/%E6%AE%8B%E5%8B%99/#jn-92172"
+  },
+  {
+    "kotoba": "残夢",
+    "yomi": "ざん‐む",
+    "link": "/word/%E6%AE%8B%E5%A4%A2/#jn-92173"
+  },
+  {
+    "kotoba": "残夜",
+    "yomi": "ざん‐や",
+    "link": "/word/%E6%AE%8B%E5%A4%9C/#jn-92213"
+  },
+  {
+    "kotoba": "残薬",
+    "yomi": "ざん‐やく",
+    "link": "/word/%E6%AE%8B%E8%96%AC/#jn-279195"
+  },
+  {
+    "kotoba": "讒諛",
+    "yomi": "ざん‐ゆ",
+    "link": "/word/%E8%AE%92%E8%AB%9B/#jn-92225"
+  },
+  {
+    "kotoba": "残余",
+    "yomi": "ざん‐よ",
+    "link": "/word/%E6%AE%8B%E4%BD%99/#jn-92236"
+  },
+  {
+    "kotoba": "残陽",
+    "yomi": "ざん‐よう",
+    "link": "/word/%E6%AE%8B%E9%99%BD/#jn-92243"
+  },
+  {
+    "kotoba": "残余財産",
+    "yomi": "ざんよ‐ざいさん",
+    "link": "/word/%E6%AE%8B%E4%BD%99%E8%B2%A1%E7%94%A3/#jn-92258"
+  },
+  {
+    "kotoba": "残留",
+    "yomi": "ざん‐りゅう",
+    "link": "/word/%E6%AE%8B%E7%95%99/#jn-92294"
+  },
+  {
+    "kotoba": "残溜",
+    "yomi": "ざん‐りゅう",
+    "link": "/word/%E6%AE%8B%E6%BA%9C/#jn-92295"
+  },
+  {
+    "kotoba": "残留応力",
+    "yomi": "ざんりゅう‐おうりょく",
+    "link": "/word/%E6%AE%8B%E7%95%99%E5%BF%9C%E5%8A%9B/#jn-92296"
+  },
+  {
+    "kotoba": "残留鉱床",
+    "yomi": "ざんりゅう‐こうしょう",
+    "link": "/word/%E6%AE%8B%E7%95%99%E9%89%B1%E5%BA%8A/#jn-92297"
+  },
+  {
+    "kotoba": "残留孤児",
+    "yomi": "ざんりゅう‐こじ",
+    "link": "/word/%E6%AE%8B%E7%95%99%E5%AD%A4%E5%85%90/#jn-92298"
+  },
+  {
+    "kotoba": "残留磁化",
+    "yomi": "ざんりゅう‐じか",
+    "link": "/word/%E6%AE%8B%E7%95%99%E7%A3%81%E5%8C%96/#jn-92299"
+  },
+  {
+    "kotoba": "残留磁気",
+    "yomi": "ざんりゅう‐じき",
+    "link": "/word/%E6%AE%8B%E7%95%99%E7%A3%81%E6%B0%97/#jn-92300"
+  },
+  {
+    "kotoba": "残留農薬",
+    "yomi": "ざんりゅう‐のうやく",
+    "link": "/word/%E6%AE%8B%E7%95%99%E8%BE%B2%E8%96%AC/#jn-92302"
+  },
+  {
+    "kotoba": "残留放射性物質",
+    "yomi": "ざんりゅう‐ほうしゃせいぶっしつ",
+    "link": "/word/%E6%AE%8B%E7%95%99%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B3%AA/#jn-250293"
+  },
+  {
+    "kotoba": "残留放射能",
+    "yomi": "ざんりゅう‐ほうしゃのう",
+    "link": "/word/%E6%AE%8B%E7%95%99%E6%94%BE%E5%B0%84%E8%83%BD/#jn-250294"
+  },
+  {
+    "kotoba": "残量",
+    "yomi": "ざん‐りょう",
+    "link": "/word/%E6%AE%8B%E9%87%8F/#jn-261004"
+  },
+  {
+    "kotoba": "残涙",
+    "yomi": "ざん‐るい",
+    "link": "/word/%E6%AE%8B%E6%B6%99/#jn-92322"
+  },
+  {
+    "kotoba": "残塁",
+    "yomi": "ざん‐るい",
+    "link": "/word/%E6%AE%8B%E5%A1%81/#jn-92323"
+  }
+]

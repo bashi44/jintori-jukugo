@@ -1,0 +1,284 @@
+.turn {
+  max-width: 600px;
+  text-align: center;
+  margin: 0 auto 30px;
+  .red,
+  .blue {
+    font-weight: 600;
+  }
+  .red {
+    color: #f00;
+    &::before {
+      content: "赤";
+    }
+  }
+  .blue {
+    color: #00f;
+    &::before {
+      content: "青";
+    }
+  }
+}
+
+.field {
+  display: flex;
+  width: 96%;
+  margin: 0 auto 30px;
+  .row {
+    width: 16vw;
+    &:nth-of-type(odd) {
+      padding-top: 6vw;
+    }
+    .cell {
+      position: relative;
+      width: 10vw;
+      height: 10vw;
+      line-height: 10vw;
+      font-size: 5vw;
+      text-align: center;
+      border-top: 1px solid #333;
+      border-bottom: 1px solid #333;
+      margin: 0 auto;
+      & + .cell {
+        margin-top: 2vw;
+      }
+      &::before,
+      &::after {
+        content: "";
+        position: absolute;
+        top: -1px;
+        width: 0;
+        height: 0;
+        border-top: 5vw solid transparent;
+        border-bottom: 5vw solid transparent;
+      }
+      &::before {
+        left: -3vw;
+        border-right: 3vw solid #333;
+      }
+      &.selected,
+      &.selected.red,
+      &.selected.blue {
+        color: #fff !important;
+        background-color: #333;
+        border-color: #333;
+        &::before,
+        .word::before {
+          border-right-color: #333;
+        }
+        &::after,
+        .word::after {
+          border-left-color: #333;
+        }
+      }
+      &.red {
+        color: #fff !important;
+        background-color: #f00;
+        border-color: #f00;
+        &::before,
+        .word::before {
+          border-right-color: #f00;
+        }
+        &::after,
+        .word::after {
+          border-left-color: #f00;
+        }
+      }
+      &.blue {
+        color: #fff;
+        background-color: #00f;
+        border-color: #00f;
+        &::before,
+        .word::before {
+          border-right-color: #00f;
+        }
+        &.after,
+        .word::after {
+          border-left-color: #00f;
+        }
+      }
+      &::after {
+        right: -3vw;
+        border-left: 3vw solid #333;
+      }
+      .word {
+        &::before,
+        &::after {
+          content: "";
+          position: absolute;
+          top: -1px;
+          width: 0;
+          height: 0;
+          border-top: 5vw solid transparent;
+          border-bottom: 5vw solid transparent;
+        }
+        &::before {
+          left: calc(-3vw + 2px);
+          border-right: calc(3vw - 1px) solid #fff;
+        }
+        &::after {
+          right: calc(-3vw + 2px);
+          border-left: calc(3vw - 1px) solid #fff;
+          z-index: 1;
+        }
+      }
+      input {
+        border: none;
+        height: calc(10vw - 2px);
+      }
+      .before,
+      .after {
+        position: absolute;
+        top: -1px;
+        width: 0;
+        height: 0;
+        border-top: 5vw solid transparent;
+        border-bottom: 5vw solid transparent;
+        z-index: 1;
+      }
+      .before {
+        left: calc(-3vw + 2px);
+        border-right: calc(3vw - 1px) solid #fff;
+      }
+      .after {
+        right: calc(-3vw + 2px);
+        border-left: calc(3vw - 1px) solid #fff;
+        z-index: 1;
+      }
+    }
+  }
+}
+
+@media(min-width: 600px) {
+  .field {
+    max-width: 600px;
+    .row {
+      &:nth-of-type(odd) {
+        padding-top: 35px;
+      }
+      .cell {
+        width: 50px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 4rem;
+        & + .cell {
+          margin-top: 10px;
+        }
+        &::before,
+        &::after {
+          border-top-width: 30px;
+          border-bottom-width: 30px;
+        }
+        &::before {
+          left: -25px;
+          border-right-width: 25px;
+        }
+        &::after {
+          right: -25px;
+          border-left-width: 25px;
+        }
+        .word::before,
+        .word::after {
+          top: 0;
+          border-top-width: 29px;
+          border-bottom-width: 29px;
+        }
+        .word::before {
+          left: -24px;
+          border-right-width: 24px;
+        }
+        .word::after {
+          right: -24px;
+          border-left-width: 24px;
+        }
+        input {
+          height: 58px;
+          font-size: 25px;
+        }
+        .before,
+        .after {
+          top: 0;
+          border-top-width: 29px;
+          border-bottom-width: 29px;
+        }
+        .before {
+          left: -24px;
+          border-right-width: 24px;
+        }
+        .after {
+          right: -24px;
+          border-left-width: 24px;
+        }
+      }
+    }
+  }
+}
+
+// 解答
+.answer {
+  display: flex;
+  max-width: 600px;
+  margin: 0 auto 30px;
+  .answer-input {
+    flex: 1;
+    height: 34px;
+    line-height: 34px;
+    border: 1px solid #333;
+    padding: 0 5px;
+    margin-right: 3vw;
+  }
+  input[type="button"] {
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 5px 10px;
+    & + input[type="button"] {
+      margin-left: 3vw;
+    }
+  }
+}
+
+// スコア
+.score {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+  margin: 0 auto;
+  dl {
+    width: 49%;
+    text-align: center;
+    &:nth-of-type(1) {
+      dt {
+        background-color: #f00;
+      }
+      dd {
+        border: 2px solid #f00;
+      }
+    }
+    &:nth-of-type(2) {
+      dt {
+        background-color: #00f;
+      }
+      dd {
+        border: 2px solid #00f;
+      }
+    }
+    dt {
+      color: #fff;
+      padding: 3px 0;
+    }
+    dd {
+      padding: 10px 0;
+      .answered-list {
+        height: 100px;
+        overflow-y: scroll;
+        // スクロールバーを非表示
+        -ms-overflow-style: none;
+        &::-webkit-scrollbar {
+          display: none;
+        }
+        text-align: left;
+        padding: 0 5px;
+      }
+    }
+  }
+}

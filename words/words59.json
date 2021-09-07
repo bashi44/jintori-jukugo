@@ -1,0 +1,4542 @@
+[
+  {
+    "kotoba": "出合相場",
+    "yomi": "であい‐そうば",
+    "link": "/word/%E5%87%BA%E5%90%88%E7%9B%B8%E5%A0%B4/#jn-148960"
+  },
+  {
+    "kotoba": "出足",
+    "yomi": "で‐あし",
+    "link": "/word/%E5%87%BA%E8%B6%B3/#jn-148974"
+  },
+  {
+    "kotoba": "提婆達多",
+    "yomi": "だいばだった",
+    "link": "/word/person/%E6%8F%90%E5%A9%86%E9%81%94%E5%A4%9A/#jn-134224"
+  },
+  {
+    "kotoba": "出居",
+    "yomi": "で‐い",
+    "link": "/word/%E5%87%BA%E5%B1%85_%28%E3%81%A7%E3%81%84%29/#jn-149060"
+  },
+  {
+    "kotoba": "泥絵",
+    "yomi": "でい‐え",
+    "link": "/word/%E6%B3%A5%E7%B5%B5_%28%E3%81%A7%E3%81%84%E3%81%88%29/#jn-149599"
+  },
+  {
+    "kotoba": "泥灰岩",
+    "yomi": "でいかい‐がん",
+    "link": "/word/%E6%B3%A5%E7%81%B0%E5%B2%A9/#jn-149648"
+  },
+  {
+    "kotoba": "泥火山",
+    "yomi": "でい‐かざん",
+    "link": "/word/%E6%B3%A5%E7%81%AB%E5%B1%B1/#jn-149675"
+  },
+  {
+    "kotoba": "泥岩",
+    "yomi": "でい‐がん",
+    "link": "/word/%E6%B3%A5%E5%B2%A9/#jn-149688"
+  },
+  {
+    "kotoba": "泥眼",
+    "yomi": "でい‐がん",
+    "link": "/word/%E6%B3%A5%E7%9C%BC/#jn-149689"
+  },
+  {
+    "kotoba": "泥金",
+    "yomi": "でい‐きん",
+    "link": "/word/%E6%B3%A5%E9%87%91/#jn-149755"
+  },
+  {
+    "kotoba": "梯姑",
+    "yomi": "でい‐ご",
+    "link": "/word/%E6%A2%AF%E5%A7%91/#jn-149815"
+  },
+  {
+    "kotoba": "泥膏",
+    "yomi": "でい‐こう",
+    "link": "/word/%E6%B3%A5%E8%86%8F/#jn-149820"
+  },
+  {
+    "kotoba": "泥鉱",
+    "yomi": "でい‐こう",
+    "link": "/word/%E6%B3%A5%E9%89%B1/#jn-247211"
+  },
+  {
+    "kotoba": "泥砂",
+    "yomi": "でい‐さ",
+    "link": "/word/%E6%B3%A5%E7%A0%82_%28%E3%81%A7%E3%81%84%E3%81%95%29/#jn-149858"
+  },
+  {
+    "kotoba": "泥剤",
+    "yomi": "でい‐ざい",
+    "link": "/word/%E6%B3%A5%E5%89%A4/#jn-149865"
+  },
+  {
+    "kotoba": "出居衆",
+    "yomi": "でい‐し",
+    "link": "/word/%E5%87%BA%E5%B1%85%E8%A1%86_%28%E3%81%A7%E3%81%84%E3%81%97%29/#jn-149896"
+  },
+  {
+    "kotoba": "泥砂",
+    "yomi": "でい‐しゃ",
+    "link": "/word/%E6%B3%A5%E7%A0%82_%28%E3%81%A7%E3%81%84%E3%81%97%E3%82%83%29/#jn-149936"
+  },
+  {
+    "kotoba": "出居衆",
+    "yomi": "でい‐しゅ",
+    "link": "/word/%E5%87%BA%E5%B1%85%E8%A1%86_%28%E3%81%A7%E3%81%84%E3%81%97%E3%82%85%29/#jn-149946"
+  },
+  {
+    "kotoba": "出居衆",
+    "yomi": "でい‐しゅう",
+    "link": "/word/%E5%87%BA%E5%B1%85%E8%A1%86_%28%E3%81%A7%E3%81%84%E3%81%97%E3%82%85%E3%81%86%29/#jn-149953"
+  },
+  {
+    "kotoba": "泥沼",
+    "yomi": "でい‐しょう",
+    "link": "/word/%E6%B3%A5%E6%B2%BC_%28%E3%81%A7%E3%81%84%E3%81%97%E3%82%87%E3%81%86%29/#jn-149987"
+  },
+  {
+    "kotoba": "泥象",
+    "yomi": "でい‐しょう",
+    "link": "/word/%E6%B3%A5%E8%B1%A1/#jn-149988"
+  },
+  {
+    "kotoba": "泥漿",
+    "yomi": "でい‐しょう",
+    "link": "/word/%E6%B3%A5%E6%BC%BF/#jn-254610"
+  },
+  {
+    "kotoba": "泥状",
+    "yomi": "でい‐じょう",
+    "link": "/word/%E6%B3%A5%E7%8A%B6/#jn-149989"
+  },
+  {
+    "kotoba": "泥水",
+    "yomi": "でい‐すい",
+    "link": "/word/%E6%B3%A5%E6%B0%B4_%28%E3%81%A7%E3%81%84%E3%81%99%E3%81%84%29/#jn-150027"
+  },
+  {
+    "kotoba": "泥酔",
+    "yomi": "でい‐すい",
+    "link": "/word/%E6%B3%A5%E9%85%94/#jn-150028"
+  },
+  {
+    "kotoba": "泥線",
+    "yomi": "でい‐せん",
+    "link": "/word/%E6%B3%A5%E7%B7%9A/#jn-150136"
+  },
+  {
+    "kotoba": "泥塑",
+    "yomi": "でい‐そ",
+    "link": "/word/%E6%B3%A5%E5%A1%91/#jn-150145"
+  },
+  {
+    "kotoba": "泥塑人",
+    "yomi": "でいそ‐じん",
+    "link": "/word/%E6%B3%A5%E5%A1%91%E4%BA%BA/#jn-150166"
+  },
+  {
+    "kotoba": "泥炭",
+    "yomi": "でい‐たん",
+    "link": "/word/%E6%B3%A5%E7%82%AD/#jn-150193"
+  },
+  {
+    "kotoba": "泥炭湿地",
+    "yomi": "でいたん‐しっち",
+    "link": "/word/%E6%B3%A5%E7%82%AD%E6%B9%BF%E5%9C%B0/#jn-296608"
+  },
+  {
+    "kotoba": "泥炭地",
+    "yomi": "でいたん‐ち",
+    "link": "/word/%E6%B3%A5%E7%82%AD%E5%9C%B0/#jn-150196"
+  },
+  {
+    "kotoba": "泥団",
+    "yomi": "でい‐だん",
+    "link": "/word/%E6%B3%A5%E5%9B%A3/#jn-150194"
+  },
+  {
+    "kotoba": "泥中",
+    "yomi": "でい‐ちゅう",
+    "link": "/word/%E6%B3%A5%E4%B8%AD/#jn-150213"
+  },
+  {
+    "kotoba": "泥塗",
+    "yomi": "でい‐と",
+    "link": "/word/%E6%B3%A5%E5%A1%97/#jn-150262"
+  },
+  {
+    "kotoba": "泥塔",
+    "yomi": "でい‐とう",
+    "link": "/word/%E6%B3%A5%E5%A1%94/#jn-150271"
+  },
+  {
+    "kotoba": "泥塔法",
+    "yomi": "でいとう‐ほう",
+    "link": "/word/%E6%B3%A5%E5%A1%94%E6%B3%95/#jn-150281"
+  },
+  {
+    "kotoba": "泥土",
+    "yomi": "でい‐ど",
+    "link": "/word/%E6%B3%A5%E5%9C%9F_%28%E3%81%A7%E3%81%84%E3%81%A9%29/#jn-150263"
+  },
+  {
+    "kotoba": "泥濘",
+    "yomi": "でい‐ねい",
+    "link": "/word/%E6%B3%A5%E6%BF%98_%28%E3%81%A7%E3%81%84%E3%81%AD%E3%81%84%29/#jn-150310"
+  },
+  {
+    "kotoba": "泥板岩",
+    "yomi": "でいばん‐がん",
+    "link": "/word/%E6%B3%A5%E6%9D%BF%E5%B2%A9/#jn-150342"
+  },
+  {
+    "kotoba": "泥裡",
+    "yomi": "でい‐り",
+    "link": "/word/%E6%B3%A5%E8%A3%A1/#jn-150470"
+  },
+  {
+    "kotoba": "泥流",
+    "yomi": "でい‐りゅう",
+    "link": "/word/%E6%B3%A5%E6%B5%81/#jn-150491"
+  },
+  {
+    "kotoba": "泥路",
+    "yomi": "でい‐ろ",
+    "link": "/word/%E6%B3%A5%E8%B7%AF/#jn-150535"
+  },
+  {
+    "kotoba": "大太法師",
+    "yomi": "でえたら‐ぼっち",
+    "link": "/word/%E5%A4%A7%E5%A4%AA%E6%B3%95%E5%B8%AB_%28%E3%81%A0%E3%81%84%E3%81%A0%E3%81%BC%E3%81%86%E3%81%97%29/#jn-150633"
+  },
+  {
+    "kotoba": "出女",
+    "yomi": "で‐おんな",
+    "link": "/word/%E5%87%BA%E5%A5%B3/#jn-150752"
+  },
+  {
+    "kotoba": "出方",
+    "yomi": "で‐かた",
+    "link": "/word/%E5%87%BA%E6%96%B9/#jn-150798"
+  },
+  {
+    "kotoba": "出開帳",
+    "yomi": "で‐がいちょう",
+    "link": "/word/%E5%87%BA%E9%96%8B%E5%B8%B3/#jn-150762"
+  },
+  {
+    "kotoba": "出殻繭",
+    "yomi": "でがら‐まゆ",
+    "link": "/word/%E5%87%BA%E6%AE%BB%E7%B9%AD/#jn-150850"
+  },
+  {
+    "kotoba": "出来",
+    "yomi": "で‐き",
+    "link": "/word/%E5%87%BA%E6%9D%A5_%28%E3%81%A7%E3%81%8D%29/#jn-150889"
+  },
+  {
+    "kotoba": "溺愛",
+    "yomi": "でき‐あい",
+    "link": "/word/%E6%BA%BA%E6%84%9B/#jn-150892"
+  },
+  {
+    "kotoba": "出来秋",
+    "yomi": "でき‐あき",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E7%A7%8B/#jn-150897"
+  },
+  {
+    "kotoba": "出来商人",
+    "yomi": "でき‐あきんど",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%95%86%E4%BA%BA/#jn-150898"
+  },
+  {
+    "kotoba": "出来魚",
+    "yomi": "でき‐うお",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E9%AD%9A/#jn-150902"
+  },
+  {
+    "kotoba": "出来具合",
+    "yomi": "でき‐ぐあい",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%85%B7%E5%90%88/#jn-150942"
+  },
+  {
+    "kotoba": "出来婚",
+    "yomi": "でき‐こん",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%A9%9A/#jn-247245"
+  },
+  {
+    "kotoba": "出来心",
+    "yomi": "でき‐ごころ",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%BF%83/#jn-150951"
+  },
+  {
+    "kotoba": "出来事",
+    "yomi": "でき‐ごと",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E4%BA%8B/#jn-150952"
+  },
+  {
+    "kotoba": "溺死",
+    "yomi": "でき‐し",
+    "link": "/word/%E6%BA%BA%E6%AD%BB/#jn-150970"
+  },
+  {
+    "kotoba": "出来出頭",
+    "yomi": "でき‐しゅっとう",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%87%BA%E9%A0%AD/#jn-150985"
+  },
+  {
+    "kotoba": "溺水",
+    "yomi": "でき‐すい",
+    "link": "/word/%E6%BA%BA%E6%B0%B4/#jn-258464"
+  },
+  {
+    "kotoba": "出来高",
+    "yomi": "でき‐だか",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E9%AB%98/#jn-151043"
+  },
+  {
+    "kotoba": "出来高給",
+    "yomi": "できだか‐きゅう",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E9%AB%98%E7%B5%A6/#jn-151044"
+  },
+  {
+    "kotoba": "出来値",
+    "yomi": "でき‐ね",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%80%A4/#jn-151070"
+  },
+  {
+    "kotoba": "出来不出来",
+    "yomi": "でき‐ふでき",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E4%B8%8D%E5%87%BA%E6%9D%A5/#jn-151084"
+  },
+  {
+    "kotoba": "出来分別",
+    "yomi": "でき‐ふんべつ",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%88%86%E5%88%A5/#jn-151085"
+  },
+  {
+    "kotoba": "出来分限",
+    "yomi": "でき‐ぶげん",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%88%86%E9%99%90/#jn-151081"
+  },
+  {
+    "kotoba": "出来物",
+    "yomi": "でき‐ぶつ",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E7%89%A9_%28%E3%81%A7%E3%81%8D%E3%81%B6%E3%81%A4%29/#jn-151082"
+  },
+  {
+    "kotoba": "出来星",
+    "yomi": "でき‐ぼし",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E6%98%9F/#jn-151091"
+  },
+  {
+    "kotoba": "溺没",
+    "yomi": "でき‐ぼつ",
+    "link": "/word/%E6%BA%BA%E6%B2%A1/#jn-151092"
+  },
+  {
+    "kotoba": "出来不申",
+    "yomi": "でき‐もうさず",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E4%B8%8D%E7%94%B3/#jn-151097"
+  },
+  {
+    "kotoba": "出来物",
+    "yomi": "でき‐もの",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E7%89%A9_%28%E3%81%A7%E3%81%8D%E3%82%82%E3%81%AE%29/#jn-151098"
+  },
+  {
+    "kotoba": "出来役",
+    "yomi": "でき‐やく",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E5%BD%B9/#jn-151105"
+  },
+  {
+    "kotoba": "出教授",
+    "yomi": "で‐きょうじゅ",
+    "link": "/word/%E5%87%BA%E6%95%99%E6%8E%88/#jn-151113"
+  },
+  {
+    "kotoba": "溺惑",
+    "yomi": "でき‐わく",
+    "link": "/word/%E6%BA%BA%E6%83%91/#jn-151137"
+  },
+  {
+    "kotoba": "出禁",
+    "yomi": "で‐きん",
+    "link": "/word/%E5%87%BA%E7%A6%81/#jn-275873"
+  },
+  {
+    "kotoba": "出際",
+    "yomi": "で‐ぎわ",
+    "link": "/word/%E5%87%BA%E9%9A%9B/#jn-151136"
+  },
+  {
+    "kotoba": "木偶",
+    "yomi": "でく",
+    "link": "/word/%E6%9C%A8%E5%81%B6_%28%E3%81%A7%E3%81%8F%29/#jn-151142"
+  },
+  {
+    "kotoba": "出癖",
+    "yomi": "で‐ぐせ",
+    "link": "/word/%E5%87%BA%E7%99%96/#jn-151161"
+  },
+  {
+    "kotoba": "出口",
+    "yomi": "で‐ぐち",
+    "link": "/word/%E5%87%BA%E5%8F%A3/#jn-151168"
+  },
+  {
+    "kotoba": "出口",
+    "yomi": "でぐち",
+    "link": "/word/%E5%87%BA%E5%8F%A3/#jn-151169"
+  },
+  {
+    "kotoba": "出口王仁三郎",
+    "yomi": "でぐち‐おにさぶろう",
+    "link": "/word/person/%E5%87%BA%E5%8F%A3%E7%8E%8B%E4%BB%81%E4%B8%89%E9%83%8E/#jn-151170"
+  },
+  {
+    "kotoba": "出口政策",
+    "yomi": "でぐち‐せいさく",
+    "link": "/word/%E5%87%BA%E5%8F%A3%E6%94%BF%E7%AD%96/#jn-151171"
+  },
+  {
+    "kotoba": "出口戦略",
+    "yomi": "でぐち‐せんりゃく",
+    "link": "/word/%E5%87%BA%E5%8F%A3%E6%88%A6%E7%95%A5/#jn-151172"
+  },
+  {
+    "kotoba": "出口調査",
+    "yomi": "でぐち‐ちょうさ",
+    "link": "/word/%E5%87%BA%E5%8F%A3%E8%AA%BF%E6%9F%BB/#jn-151173"
+  },
+  {
+    "kotoba": "出口弁",
+    "yomi": "でぐち‐べん",
+    "link": "/word/%E5%87%BA%E5%8F%A3%E5%BC%81/#jn-151177"
+  },
+  {
+    "kotoba": "出久根達郎",
+    "yomi": "でくね‐たつろう",
+    "link": "/word/person/%E5%87%BA%E4%B9%85%E6%A0%B9%E9%81%94%E9%83%8E/#jn-151197"
+  },
+  {
+    "kotoba": "凸間凹間",
+    "yomi": "でくま‐ひくま",
+    "link": "/word/%E5%87%B8%E9%96%93%E5%87%B9%E9%96%93/#jn-151222"
+  },
+  {
+    "kotoba": "出狂坊",
+    "yomi": "でくる‐ぼう",
+    "link": "/word/%E5%87%BA%E7%8B%82%E5%9D%8A/#jn-151235"
+  },
+  {
+    "kotoba": "出口対策",
+    "yomi": "でぐち‐たいさく",
+    "link": "/word/%E5%87%BA%E5%8F%A3%E5%AF%BE%E7%AD%96/#jn-299640"
+  },
+  {
+    "kotoba": "出組",
+    "yomi": "で‐ぐみ",
+    "link": "/word/%E5%87%BA%E7%B5%84/#jn-151224"
+  },
+  {
+    "kotoba": "出郭",
+    "yomi": "で‐ぐるわ",
+    "link": "/word/%E5%87%BA%E9%83%AD/#jn-151239"
+  },
+  {
+    "kotoba": "出来物",
+    "yomi": "でけ‐もの",
+    "link": "/word/%E5%87%BA%E6%9D%A5%E7%89%A9_%28%E3%81%A7%E3%81%91%E3%82%82%E3%81%AE%29/#jn-151249"
+  },
+  {
+    "kotoba": "出稽古",
+    "yomi": "で‐げいこ",
+    "link": "/word/%E5%87%BA%E7%A8%BD%E5%8F%A4/#jn-151245"
+  },
+  {
+    "kotoba": "出小作",
+    "yomi": "で‐こさく",
+    "link": "/word/%E5%87%BA%E5%B0%8F%E4%BD%9C/#jn-151269"
+  },
+  {
+    "kotoba": "凸助",
+    "yomi": "でこ‐すけ",
+    "link": "/word/%E5%87%B8%E5%8A%A9/#jn-151272"
+  },
+  {
+    "kotoba": "凸坊",
+    "yomi": "でこ‐ぼう",
+    "link": "/word/%E5%87%B8%E5%9D%8A/#jn-151285"
+  },
+  {
+    "kotoba": "凸凹",
+    "yomi": "でこ‐ぼこ",
+    "link": "/word/%E5%87%B8%E5%87%B9_%28%E3%81%A7%E3%81%93%E3%81%BC%E3%81%93%29/#jn-151286"
+  },
+  {
+    "kotoba": "凸凹野郎",
+    "yomi": "でこぼこ‐やろう",
+    "link": "/word/%E5%87%B8%E5%87%B9%E9%87%8E%E9%83%8E/#jn-151287"
+  },
+  {
+    "kotoba": "出庫物",
+    "yomi": "でこ‐もの",
+    "link": "/word/%E5%87%BA%E5%BA%AB%E7%89%A9/#jn-151296"
+  },
+  {
+    "kotoba": "出格子",
+    "yomi": "で‐ごうし",
+    "link": "/word/%E5%87%BA%E6%A0%BC%E5%AD%90/#jn-151262"
+  },
+  {
+    "kotoba": "出小屋",
+    "yomi": "で‐ごや",
+    "link": "/word/%E5%87%BA%E5%B0%8F%E5%B1%8B/#jn-151297"
+  },
+  {
+    "kotoba": "出先",
+    "yomi": "で‐さき",
+    "link": "/word/%E5%87%BA%E5%85%88/#jn-151334"
+  },
+  {
+    "kotoba": "出先機関",
+    "yomi": "でさき‐きかん",
+    "link": "/word/%E5%87%BA%E5%85%88%E6%A9%9F%E9%96%A2/#jn-151335"
+  },
+  {
+    "kotoba": "出作",
+    "yomi": "で‐さく",
+    "link": "/word/%E5%87%BA%E4%BD%9C/#jn-151337"
+  },
+  {
+    "kotoba": "弟子",
+    "yomi": "で‐し",
+    "link": "/word/%E5%BC%9F%E5%AD%90_%28%E3%81%A7%E3%81%97%29/#jn-151349"
+  },
+  {
+    "kotoba": "弟子",
+    "yomi": "でし",
+    "link": "/word/%E5%BC%9F%E5%AD%90_%28%E3%81%A7%E3%81%97%29/#jn-271588"
+  },
+  {
+    "kotoba": "出潮",
+    "yomi": "で‐しお",
+    "link": "/word/%E5%87%BA%E6%BD%AE/#jn-151358"
+  },
+  {
+    "kotoba": "出仕事",
+    "yomi": "で‐しごと",
+    "link": "/word/%E5%87%BA%E4%BB%95%E4%BA%8B/#jn-151378"
+  },
+  {
+    "kotoba": "弟子分",
+    "yomi": "でし‐ぶん",
+    "link": "/word/%E5%BC%9F%E5%AD%90%E5%88%86/#jn-151458"
+  },
+  {
+    "kotoba": "出職",
+    "yomi": "で‐しょく",
+    "link": "/word/%E5%87%BA%E8%81%B7/#jn-151490"
+  },
+  {
+    "kotoba": "出島",
+    "yomi": "でじま",
+    "link": "/word/%E5%87%BA%E5%B3%B6/#jn-151461"
+  },
+  {
+    "kotoba": "出尻",
+    "yomi": "で‐じり",
+    "link": "/word/%E5%87%BA%E5%B0%BB/#jn-151493"
+  },
+  {
+    "kotoba": "出城",
+    "yomi": "で‐じろ",
+    "link": "/word/%E5%87%BA%E5%9F%8E/#jn-151495"
+  },
+  {
+    "kotoba": "出隅",
+    "yomi": "で‐すみ",
+    "link": "/word/%E5%87%BA%E9%9A%85/#jn-151565"
+  },
+  {
+    "kotoba": "出州",
+    "yomi": "で‐ず",
+    "link": "/word/%E5%87%BA%E5%B7%9E/#jn-151502"
+  },
+  {
+    "kotoba": "出銭",
+    "yomi": "で‐せん",
+    "link": "/word/%E5%87%BA%E9%8A%AD/#jn-151588"
+  },
+  {
+    "kotoba": "出店",
+    "yomi": "で‐だな",
+    "link": "/word/%E5%87%BA%E5%BA%97_%28%E3%81%A7%E3%81%A0%E3%81%AA%29/#jn-151619"
+  },
+  {
+    "kotoba": "出鱈目",
+    "yomi": "でたら‐め",
+    "link": "/word/%E5%87%BA%E9%B1%88%E7%9B%AE/#jn-151627"
+  },
+  {
+    "kotoba": "出玉",
+    "yomi": "で‐だま",
+    "link": "/word/%E5%87%BA%E7%8E%89/#jn-151624"
+  },
+  {
+    "kotoba": "出茶屋",
+    "yomi": "で‐ぢゃや",
+    "link": "/word/%E5%87%BA%E8%8C%B6%E5%B1%8B/#jn-151640"
+  },
+  {
+    "kotoba": "畳五",
+    "yomi": "でっ‐く",
+    "link": "/word/%E7%95%B3%E4%BA%94/#jn-151741"
+  },
+  {
+    "kotoba": "涅歯",
+    "yomi": "でっ‐し",
+    "link": "/word/%E6%B6%85%E6%AD%AF/#jn-151806"
+  },
+  {
+    "kotoba": "丁稚",
+    "yomi": "でっ‐ち",
+    "link": "/word/%E4%B8%81%E7%A8%9A/#jn-151855"
+  },
+  {
+    "kotoba": "畳一",
+    "yomi": "でっ‐ち",
+    "link": "/word/%E7%95%B3%E4%B8%80/#jn-151856"
+  },
+  {
+    "kotoba": "丁稚奉公",
+    "yomi": "でっち‐ぼうこう",
+    "link": "/word/%E4%B8%81%E7%A8%9A%E5%A5%89%E5%85%AC/#jn-151860"
+  },
+  {
+    "kotoba": "粘葉装",
+    "yomi": "でっちょう‐そう",
+    "link": "/word/%E7%B2%98%E8%91%89%E8%A3%85/#jn-151865"
+  },
+  {
+    "kotoba": "捏造",
+    "yomi": "でつ‐ぞう",
+    "link": "/word/%E6%8D%8F%E9%80%A0_%28%E3%81%A7%E3%81%A4%E3%81%9E%E3%81%86%29/#jn-151847"
+  },
+  {
+    "kotoba": "出面",
+    "yomi": "で‐づら",
+    "link": "/word/%E5%87%BA%E9%9D%A2_%28%E3%81%A7%E3%81%A5%E3%82%89%29/#jn-152023"
+  },
+  {
+    "kotoba": "出時",
+    "yomi": "で‐どき",
+    "link": "/word/%E5%87%BA%E6%99%82/#jn-152067"
+  },
+  {
+    "kotoba": "出床",
+    "yomi": "で‐どこ",
+    "link": "/word/%E5%87%BA%E5%BA%8A/#jn-152068"
+  },
+  {
+    "kotoba": "出所",
+    "yomi": "で‐どこ",
+    "link": "/word/%E5%87%BA%E6%89%80_%28%E3%81%A7%E3%81%A9%E3%81%93%29/#jn-152069"
+  },
+  {
+    "kotoba": "出所",
+    "yomi": "で‐どころ",
+    "link": "/word/%E5%87%BA%E6%89%80_%28%E3%81%A7%E3%81%A9%E3%81%93%E3%82%8D%29/#jn-152070"
+  },
+  {
+    "kotoba": "出人別",
+    "yomi": "で‐にんべつ",
+    "link": "/word/%E5%87%BA%E4%BA%BA%E5%88%A5/#jn-152157"
+  },
+  {
+    "kotoba": "出端",
+    "yomi": "で‐は",
+    "link": "/word/%E5%87%BA%E7%AB%AF_%28%E3%81%A7%E3%81%AF%29/#jn-152203"
+  },
+  {
+    "kotoba": "出端",
+    "yomi": "で‐はな",
+    "link": "/word/%E5%87%BA%E7%AB%AF_%28%E3%81%A7%E3%81%AF%E3%81%AA%29/#jn-152244"
+  },
+  {
+    "kotoba": "出刃",
+    "yomi": "で‐ば",
+    "link": "/word/%E5%87%BA%E5%88%83/#jn-152206"
+  },
+  {
+    "kotoba": "出場",
+    "yomi": "で‐ば",
+    "link": "/word/%E5%87%BA%E5%A0%B4_%28%E3%81%A7%E3%81%B0%29/#jn-152207"
+  },
+  {
+    "kotoba": "出歯",
+    "yomi": "で‐ば",
+    "link": "/word/%E5%87%BA%E6%AD%AF/#jn-152208"
+  },
+  {
+    "kotoba": "出歯亀",
+    "yomi": "でば‐かめ",
+    "link": "/word/%E5%87%BA%E6%AD%AF%E4%BA%80/#jn-152222"
+  },
+  {
+    "kotoba": "出歯亀",
+    "yomi": "でば‐がめ",
+    "link": "/word/%E5%87%BA%E6%AD%AF%E4%BA%80/#jn-152223"
+  },
+  {
+    "kotoba": "出場所",
+    "yomi": "で‐ばしょ",
+    "link": "/word/%E5%87%BA%E5%A0%B4%E6%89%80/#jn-152230"
+  },
+  {
+    "kotoba": "出機",
+    "yomi": "で‐ばた",
+    "link": "/word/%E5%87%BA%E6%A9%9F/#jn-152236"
+  },
+  {
+    "kotoba": "出花",
+    "yomi": "で‐ばな",
+    "link": "/word/%E5%87%BA%E8%8A%B1/#jn-152248"
+  },
+  {
+    "kotoba": "出鼻",
+    "yomi": "で‐ばな",
+    "link": "/word/%E5%87%BA%E9%BC%BB/#jn-152249"
+  },
+  {
+    "kotoba": "出刃包丁",
+    "yomi": "でば‐ぼうちょう",
+    "link": "/word/%E5%87%BA%E5%88%83%E5%8C%85%E4%B8%81/#jn-152259"
+  },
+  {
+    "kotoba": "出囃子",
+    "yomi": "で‐ばやし",
+    "link": "/word/%E5%87%BA%E5%9B%83%E5%AD%90/#jn-152262"
+  },
+  {
+    "kotoba": "出腹",
+    "yomi": "で‐ばら",
+    "link": "/word/%E5%87%BA%E8%85%B9/#jn-266442"
+  },
+  {
+    "kotoba": "出番",
+    "yomi": "で‐ばん",
+    "link": "/word/%E5%87%BA%E7%95%AA/#jn-152270"
+  },
+  {
+    "kotoba": "出額",
+    "yomi": "で‐びたい",
+    "link": "/word/%E5%87%BA%E9%A1%8D/#jn-152280"
+  },
+  {
+    "kotoba": "出日和",
+    "yomi": "で‐びより",
+    "link": "/word/%E5%87%BA%E6%97%A5%E5%92%8C/#jn-152293"
+  },
+  {
+    "kotoba": "出船",
+    "yomi": "で‐ふね",
+    "link": "/word/%E5%87%BA%E8%88%B9_%28%E3%81%A7%E3%81%B5%E3%81%AD%29/#jn-152329"
+  },
+  {
+    "kotoba": "出無精",
+    "yomi": "で‐ぶしょう",
+    "link": "/word/%E5%87%BA%E7%84%A1%E7%B2%BE/#jn-152318"
+  },
+  {
+    "kotoba": "出臍",
+    "yomi": "で‐べそ",
+    "link": "/word/%E5%87%BA%E8%87%8D/#jn-152358"
+  },
+  {
+    "kotoba": "出穂",
+    "yomi": "で‐ほ",
+    "link": "/word/%E5%87%BA%E7%A9%82_%28%E3%81%A7%E3%81%BB%29/#jn-152371"
+  },
+  {
+    "kotoba": "出放題",
+    "yomi": "で‐ほうだい",
+    "link": "/word/%E5%87%BA%E6%94%BE%E9%A1%8C/#jn-152376"
+  },
+  {
+    "kotoba": "出前",
+    "yomi": "で‐まえ",
+    "link": "/word/%E5%87%BA%E5%89%8D/#jn-152397"
+  },
+  {
+    "kotoba": "出窓",
+    "yomi": "で‐まど",
+    "link": "/word/%E5%87%BA%E7%AA%93/#jn-152427"
+  },
+  {
+    "kotoba": "出丸",
+    "yomi": "で‐まる",
+    "link": "/word/%E5%87%BA%E4%B8%B8/#jn-152442"
+  },
+  {
+    "kotoba": "出水",
+    "yomi": "で‐みず",
+    "link": "/word/%E5%87%BA%E6%B0%B4_%28%E3%81%A7%E3%81%BF%E3%81%9A%29/#jn-152465"
+  },
+  {
+    "kotoba": "出店",
+    "yomi": "で‐みせ",
+    "link": "/word/%E5%87%BA%E5%BA%97_%28%E3%81%A7%E3%81%BF%E3%81%9B%29/#jn-152471"
+  },
+  {
+    "kotoba": "出三斗",
+    "yomi": "で‐みつと",
+    "link": "/word/%E5%87%BA%E4%B8%89%E6%96%97/#jn-152476"
+  },
+  {
+    "kotoba": "出村",
+    "yomi": "で‐むら",
+    "link": "/word/%E5%87%BA%E6%9D%91/#jn-152491"
+  },
+  {
+    "kotoba": "出目",
+    "yomi": "で‐め",
+    "link": "/word/%E5%87%BA%E7%9B%AE/#jn-152494"
+  },
+  {
+    "kotoba": "出目金",
+    "yomi": "でめ‐きん",
+    "link": "/word/%E5%87%BA%E7%9B%AE%E9%87%91/#jn-152496"
+  },
+  {
+    "kotoba": "出目高",
+    "yomi": "でめ‐だか",
+    "link": "/word/%E5%87%BA%E7%9B%AE%E9%AB%98/#jn-152497"
+  },
+  {
+    "kotoba": "出目似鱚",
+    "yomi": "でめ‐にぎす",
+    "link": "/word/%E5%87%BA%E7%9B%AE%E4%BC%BC%E9%B1%9A/#jn-275889"
+  },
+  {
+    "kotoba": "出目米",
+    "yomi": "でめ‐まい",
+    "link": "/word/%E5%87%BA%E7%9B%AE%E7%B1%B3/#jn-152499"
+  },
+  {
+    "kotoba": "出面",
+    "yomi": "で‐めん",
+    "link": "/word/%E5%87%BA%E9%9D%A2_%28%E3%81%A7%E3%82%81%E3%82%93%29/#jn-152502"
+  },
+  {
+    "kotoba": "出物",
+    "yomi": "で‐もの",
+    "link": "/word/%E5%87%BA%E7%89%A9/#jn-152536"
+  },
+  {
+    "kotoba": "出者",
+    "yomi": "で‐もの",
+    "link": "/word/%E5%87%BA%E8%80%85/#jn-152538"
+  },
+  {
+    "kotoba": "出役",
+    "yomi": "で‐やく",
+    "link": "/word/%E5%87%BA%E5%BD%B9_%28%E3%81%A7%E3%82%84%E3%81%8F%29/#jn-152553"
+  },
+  {
+    "kotoba": "出湯",
+    "yomi": "で‐ゆ",
+    "link": "/word/%E5%87%BA%E6%B9%AF/#jn-152557"
+  },
+  {
+    "kotoba": "出様",
+    "yomi": "で‐よう",
+    "link": "/word/%E5%87%BA%E6%A7%98/#jn-152629"
+  },
+  {
+    "kotoba": "出養生",
+    "yomi": "で‐ようじょう",
+    "link": "/word/%E5%87%BA%E9%A4%8A%E7%94%9F/#jn-152630"
+  },
+  {
+    "kotoba": "出羽",
+    "yomi": "でわ",
+    "link": "/word/%E5%87%BA%E7%BE%BD/#jn-152942"
+  },
+  {
+    "kotoba": "出羽三山",
+    "yomi": "でわ‐さんざん",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E4%B8%89%E5%B1%B1/#jn-152946"
+  },
+  {
+    "kotoba": "出羽山地",
+    "yomi": "でわ‐さんち",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E5%B1%B1%E5%9C%B0/#jn-152947"
+  },
+  {
+    "kotoba": "出羽神社",
+    "yomi": "でわ‐じんじゃ",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E7%A5%9E%E7%A4%BE/#jn-152948"
+  },
+  {
+    "kotoba": "出羽守",
+    "yomi": "でわ‐の‐かみ",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E5%AE%88/#jn-271602"
+  },
+  {
+    "kotoba": "出羽国",
+    "yomi": "でわ‐の‐くに",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E5%9B%BD/#jn-273812"
+  },
+  {
+    "kotoba": "出羽柵",
+    "yomi": "でわ‐の‐さく",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E6%9F%B5/#jn-152951"
+  },
+  {
+    "kotoba": "出羽富士",
+    "yomi": "でわ‐ふじ",
+    "link": "/word/%E5%87%BA%E7%BE%BD%E5%AF%8C%E5%A3%AB/#jn-152952"
+  },
+  {
+    "kotoba": "電圧",
+    "yomi": "でん‐あつ",
+    "link": "/word/%E9%9B%BB%E5%9C%A7/#jn-153029"
+  },
+  {
+    "kotoba": "電圧計",
+    "yomi": "でんあつ‐けい",
+    "link": "/word/%E9%9B%BB%E5%9C%A7%E8%A8%88/#jn-153030"
+  },
+  {
+    "kotoba": "電圧降下",
+    "yomi": "でんあつ‐こうか",
+    "link": "/word/%E9%9B%BB%E5%9C%A7%E9%99%8D%E4%B8%8B/#jn-153031"
+  },
+  {
+    "kotoba": "電圧制御発振器",
+    "yomi": "でんあつせいぎょ‐はっしんき",
+    "link": "/word/%E9%9B%BB%E5%9C%A7%E5%88%B6%E5%BE%A1%E7%99%BA%E6%8C%AF%E5%99%A8/#jn-261572"
+  },
+  {
+    "kotoba": "電圧低下",
+    "yomi": "でんあつ‐ていか",
+    "link": "/word/%E9%9B%BB%E5%9C%A7%E4%BD%8E%E4%B8%8B/#jn-263893"
+  },
+  {
+    "kotoba": "電圧崩壊",
+    "yomi": "でんあつ‐ほうかい",
+    "link": "/word/%E9%9B%BB%E5%9C%A7%E5%B4%A9%E5%A3%8A/#jn-266453"
+  },
+  {
+    "kotoba": "電位",
+    "yomi": "でん‐い",
+    "link": "/word/%E9%9B%BB%E4%BD%8D/#jn-153045"
+  },
+  {
+    "kotoba": "臀位",
+    "yomi": "でん‐い",
+    "link": "/word/%E8%87%80%E4%BD%8D/#jn-153046"
+  },
+  {
+    "kotoba": "臀囲",
+    "yomi": "でん‐い",
+    "link": "/word/%E8%87%80%E5%9B%B2/#jn-153047"
+  },
+  {
+    "kotoba": "電位計",
+    "yomi": "でんい‐けい",
+    "link": "/word/%E9%9B%BB%E4%BD%8D%E8%A8%88/#jn-153049"
+  },
+  {
+    "kotoba": "電位降下",
+    "yomi": "でんい‐こうか",
+    "link": "/word/%E9%9B%BB%E4%BD%8D%E9%99%8D%E4%B8%8B/#jn-153050"
+  },
+  {
+    "kotoba": "電位差",
+    "yomi": "でんい‐さ",
+    "link": "/word/%E9%9B%BB%E4%BD%8D%E5%B7%AE/#jn-153052"
+  },
+  {
+    "kotoba": "電位差計",
+    "yomi": "でんいさ‐けい",
+    "link": "/word/%E9%9B%BB%E4%BD%8D%E5%B7%AE%E8%A8%88/#jn-243706"
+  },
+  {
+    "kotoba": "殿宇",
+    "yomi": "でん‐う",
+    "link": "/word/%E6%AE%BF%E5%AE%87/#jn-153064"
+  },
+  {
+    "kotoba": "伝衣",
+    "yomi": "でん‐え",
+    "link": "/word/%E4%BC%9D%E8%A1%A3/#jn-153068"
+  },
+  {
+    "kotoba": "電影",
+    "yomi": "でん‐えい",
+    "link": "/word/%E9%9B%BB%E5%BD%B1/#jn-153070"
+  },
+  {
+    "kotoba": "伝駅",
+    "yomi": "でん‐えき",
+    "link": "/word/%E4%BC%9D%E9%A7%85/#jn-153071"
+  },
+  {
+    "kotoba": "田園",
+    "yomi": "でん‐えん",
+    "link": "/word/%E7%94%B0%E5%9C%92/#jn-153075"
+  },
+  {
+    "kotoba": "田園",
+    "yomi": "でんえん",
+    "link": "/word/%E7%94%B0%E5%9C%92/#jn-153076"
+  },
+  {
+    "kotoba": "田園交響楽",
+    "yomi": "でんえんこうきょうがく",
+    "link": "/word/%E7%94%B0%E5%9C%92%E4%BA%A4%E9%9F%BF%E6%A5%BD/#jn-153077"
+  },
+  {
+    "kotoba": "田園交響曲",
+    "yomi": "でんえんこうきょうきょく",
+    "link": "/word/%E7%94%B0%E5%9C%92%E4%BA%A4%E9%9F%BF%E6%9B%B2/#jn-285698"
+  },
+  {
+    "kotoba": "田園詩人",
+    "yomi": "でんえん‐しじん",
+    "link": "/word/%E7%94%B0%E5%9C%92%E8%A9%A9%E4%BA%BA/#jn-153078"
+  },
+  {
+    "kotoba": "田園小説",
+    "yomi": "でんえん‐しょうせつ",
+    "link": "/word/%E7%94%B0%E5%9C%92%E5%B0%8F%E8%AA%AC/#jn-271603"
+  },
+  {
+    "kotoba": "田園調布",
+    "yomi": "でんえんちょうふ",
+    "link": "/word/%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83/#jn-153079"
+  },
+  {
+    "kotoba": "田園調布学園大学",
+    "yomi": "でんえんちょうふがくえん‐だいがく",
+    "link": "/word/%E7%94%B0%E5%9C%92%E8%AA%BF%E5%B8%83%E5%AD%A6%E5%9C%92%E5%A4%A7%E5%AD%A6/#jn-247298"
+  },
+  {
+    "kotoba": "田園都市",
+    "yomi": "でんえん‐とし",
+    "link": "/word/%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82/#jn-153080"
+  },
+  {
+    "kotoba": "田園風景",
+    "yomi": "でんえんふうけい",
+    "link": "/word/%E7%94%B0%E5%9C%92%E9%A2%A8%E6%99%AF/#jn-269165"
+  },
+  {
+    "kotoba": "田翁",
+    "yomi": "でん‐おう",
+    "link": "/word/%E7%94%B0%E7%BF%81/#jn-153083"
+  },
+  {
+    "kotoba": "伝音難聴",
+    "yomi": "でんおん‐なんちょう",
+    "link": "/word/%E4%BC%9D%E9%9F%B3%E9%9B%A3%E8%81%B4/#jn-153087"
+  },
+  {
+    "kotoba": "田家",
+    "yomi": "でん‐か",
+    "link": "/word/%E7%94%B0%E5%AE%B6/#jn-153108"
+  },
+  {
+    "kotoba": "田暇",
+    "yomi": "でん‐か",
+    "link": "/word/%E7%94%B0%E6%9A%87/#jn-153109"
+  },
+  {
+    "kotoba": "伝花",
+    "yomi": "でん‐か",
+    "link": "/word/%E4%BC%9D%E8%8A%B1/#jn-153110"
+  },
+  {
+    "kotoba": "伝家",
+    "yomi": "でん‐か",
+    "link": "/word/%E4%BC%9D%E5%AE%B6/#jn-153111"
+  },
+  {
+    "kotoba": "殿下",
+    "yomi": "でん‐か",
+    "link": "/word/%E6%AE%BF%E4%B8%8B/#jn-153112"
+  },
+  {
+    "kotoba": "電化",
+    "yomi": "でん‐か",
+    "link": "/word/%E9%9B%BB%E5%8C%96/#jn-153113"
+  },
+  {
+    "kotoba": "電火",
+    "yomi": "でん‐か",
+    "link": "/word/%E9%9B%BB%E7%81%AB/#jn-153114"
+  },
+  {
+    "kotoba": "電荷",
+    "yomi": "でん‐か",
+    "link": "/word/%E9%9B%BB%E8%8D%B7/#jn-153115"
+  },
+  {
+    "kotoba": "電界",
+    "yomi": "でん‐かい",
+    "link": "/word/%E9%9B%BB%E7%95%8C/#jn-153124"
+  },
+  {
+    "kotoba": "電解",
+    "yomi": "でん‐かい",
+    "link": "/word/%E9%9B%BB%E8%A7%A3/#jn-153125"
+  },
+  {
+    "kotoba": "電解液",
+    "yomi": "でんかい‐えき",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E6%B6%B2/#jn-153127"
+  },
+  {
+    "kotoba": "電解液循環型電池",
+    "yomi": "でんかいえきじゅんかんがた‐でんち",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E6%B6%B2%E5%BE%AA%E7%92%B0%E5%9E%8B%E9%9B%BB%E6%B1%A0/#jn-289555"
+  },
+  {
+    "kotoba": "電界強度",
+    "yomi": "でんかい‐きょうど",
+    "link": "/word/%E9%9B%BB%E7%95%8C%E5%BC%B7%E5%BA%A6/#jn-281509"
+  },
+  {
+    "kotoba": "電界結合",
+    "yomi": "でんかい‐けつごう",
+    "link": "/word/%E9%9B%BB%E7%95%8C%E7%B5%90%E5%90%88/#jn-283612"
+  },
+  {
+    "kotoba": "電解研磨",
+    "yomi": "でんかい‐けんま",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E7%A0%94%E7%A3%A8/#jn-153128"
+  },
+  {
+    "kotoba": "電荷移行",
+    "yomi": "でんか‐いこう",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E7%A7%BB%E8%A1%8C/#jn-241035"
+  },
+  {
+    "kotoba": "電解質",
+    "yomi": "でんかい‐しつ",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E8%B3%AA/#jn-153132"
+  },
+  {
+    "kotoba": "電解質溶液",
+    "yomi": "でんかいしつ‐ようえき",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E8%B3%AA%E6%BA%B6%E6%B6%B2/#jn-241036"
+  },
+  {
+    "kotoba": "電解精錬",
+    "yomi": "でんかい‐せいれん",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E7%B2%BE%E9%8C%AC/#jn-247299"
+  },
+  {
+    "kotoba": "電解槽",
+    "yomi": "でんかい‐そう",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E6%A7%BD/#jn-153136"
+  },
+  {
+    "kotoba": "電界通信",
+    "yomi": "でんかい‐つうしん",
+    "link": "/word/%E9%9B%BB%E7%95%8C%E9%80%9A%E4%BF%A1/#jn-283613"
+  },
+  {
+    "kotoba": "電解伝導",
+    "yomi": "でんかい‐でんどう",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E4%BC%9D%E5%B0%8E/#jn-241037"
+  },
+  {
+    "kotoba": "電解電流計",
+    "yomi": "でんかい‐でんりゅうけい",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E9%9B%BB%E6%B5%81%E8%A8%88/#jn-241038"
+  },
+  {
+    "kotoba": "電解透析",
+    "yomi": "でんかい‐とうせき",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E9%80%8F%E6%9E%90/#jn-299654"
+  },
+  {
+    "kotoba": "電荷移動",
+    "yomi": "でんか‐いどう",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E7%A7%BB%E5%8B%95/#jn-241039"
+  },
+  {
+    "kotoba": "電解銅",
+    "yomi": "でんかい‐どう",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E9%8A%85/#jn-254668"
+  },
+  {
+    "kotoba": "電荷移動錯体",
+    "yomi": "でんかいどう‐さくたい",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E7%A7%BB%E5%8B%95%E9%8C%AF%E4%BD%93/#jn-241040"
+  },
+  {
+    "kotoba": "電解腐食",
+    "yomi": "でんかい‐ふしょく",
+    "link": "/word/%E9%9B%BB%E8%A7%A3%E8%85%90%E9%A3%9F/#jn-153144"
+  },
+  {
+    "kotoba": "電界放出",
+    "yomi": "でんかい‐ほうしゅつ",
+    "link": "/word/%E9%9B%BB%E7%95%8C%E6%94%BE%E5%87%BA/#jn-266455"
+  },
+  {
+    "kotoba": "電界紡糸",
+    "yomi": "でんかい‐ぼうし",
+    "link": "/word/%E9%9B%BB%E7%95%8C%E7%B4%A1%E7%B3%B8/#jn-302082"
+  },
+  {
+    "kotoba": "殿閣",
+    "yomi": "でん‐かく",
+    "link": "/word/%E6%AE%BF%E9%96%A3/#jn-153151"
+  },
+  {
+    "kotoba": "殿閣大学士",
+    "yomi": "でんかく‐だいがくし",
+    "link": "/word/%E6%AE%BF%E9%96%A3%E5%A4%A7%E5%AD%A6%E5%A3%AB/#jn-153155"
+  },
+  {
+    "kotoba": "電荷結合素子",
+    "yomi": "でんかけつごう‐そし",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E7%B5%90%E5%90%88%E7%B4%A0%E5%AD%90/#jn-153160"
+  },
+  {
+    "kotoba": "電荷交換衝突",
+    "yomi": "でんかこうかん‐しょうとつ",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E4%BA%A4%E6%8F%9B%E8%A1%9D%E7%AA%81/#jn-241041"
+  },
+  {
+    "kotoba": "電荷素量",
+    "yomi": "でんか‐そりょう",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E7%B4%A0%E9%87%8F/#jn-241042"
+  },
+  {
+    "kotoba": "電荷増幅器",
+    "yomi": "でんか‐ぞうふくき",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E5%A2%97%E5%B9%85%E5%99%A8/#jn-271604"
+  },
+  {
+    "kotoba": "電荷保存則",
+    "yomi": "でんか‐ほぞんそく",
+    "link": "/word/%E9%9B%BB%E8%8D%B7%E4%BF%9D%E5%AD%98%E5%89%87/#jn-283616"
+  },
+  {
+    "kotoba": "田漢",
+    "yomi": "でん‐かん",
+    "link": "/word/%E7%94%B0%E6%BC%A2/#jn-153199"
+  },
+  {
+    "kotoba": "田漢",
+    "yomi": "でん‐かん",
+    "link": "/word/person/%E7%94%B0%E6%BC%A2/#jn-153200"
+  },
+  {
+    "kotoba": "電環",
+    "yomi": "でん‐かん",
+    "link": "/word/%E9%9B%BB%E7%92%B0/#jn-153201"
+  },
+  {
+    "kotoba": "田楽",
+    "yomi": "でん‐がく",
+    "link": "/word/%E7%94%B0%E6%A5%BD/#jn-153152"
+  },
+  {
+    "kotoba": "田楽豆腐",
+    "yomi": "でんがく‐どうふ",
+    "link": "/word/%E7%94%B0%E6%A5%BD%E8%B1%86%E8%85%90/#jn-153156"
+  },
+  {
+    "kotoba": "田楽法師",
+    "yomi": "でんがく‐ほうし",
+    "link": "/word/%E7%94%B0%E6%A5%BD%E6%B3%95%E5%B8%AB/#jn-153157"
+  },
+  {
+    "kotoba": "田器",
+    "yomi": "でん‐き",
+    "link": "/word/%E7%94%B0%E5%99%A8/#jn-153221"
+  },
+  {
+    "kotoba": "伝奇",
+    "yomi": "でん‐き",
+    "link": "/word/%E4%BC%9D%E5%A5%87/#jn-153222"
+  },
+  {
+    "kotoba": "伝記",
+    "yomi": "でん‐き",
+    "link": "/word/%E4%BC%9D%E8%A8%98_%28%E3%81%A7%E3%82%93%E3%81%8D%29/#jn-153223"
+  },
+  {
+    "kotoba": "伝騎",
+    "yomi": "でん‐き",
+    "link": "/word/%E4%BC%9D%E9%A8%8E/#jn-153224"
+  },
+  {
+    "kotoba": "電気",
+    "yomi": "でん‐き",
+    "link": "/word/%E9%9B%BB%E6%B0%97/#jn-153225"
+  },
+  {
+    "kotoba": "電器",
+    "yomi": "でん‐き",
+    "link": "/word/%E9%9B%BB%E5%99%A8/#jn-153226"
+  },
+  {
+    "kotoba": "電機",
+    "yomi": "でん‐き",
+    "link": "/word/%E9%9B%BB%E6%A9%9F/#jn-153227"
+  },
+  {
+    "kotoba": "電気飴",
+    "yomi": "でんき‐あめ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%A3%B4/#jn-153230"
+  },
+  {
+    "kotoba": "電気椅子",
+    "yomi": "でんき‐いす",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%A4%85%E5%AD%90/#jn-153232"
+  },
+  {
+    "kotoba": "電気陰性度",
+    "yomi": "でんき‐いんせいど",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%99%B0%E6%80%A7%E5%BA%A6/#jn-153234"
+  },
+  {
+    "kotoba": "電気魚",
+    "yomi": "でんき‐うお",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%AD%9A/#jn-153235"
+  },
+  {
+    "kotoba": "電気鰻",
+    "yomi": "でんき‐うなぎ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%B0%BB/#jn-153236"
+  },
+  {
+    "kotoba": "電気鱝",
+    "yomi": "でんき‐えい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%B1%9D/#jn-153237"
+  },
+  {
+    "kotoba": "電気泳動",
+    "yomi": "でんき‐えいどう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%B3%B3%E5%8B%95/#jn-153238"
+  },
+  {
+    "kotoba": "電気温水器",
+    "yomi": "でんき‐おんすいき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%B8%A9%E6%B0%B4%E5%99%A8/#jn-153240"
+  },
+  {
+    "kotoba": "電気解離",
+    "yomi": "でんき‐かいり",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E8%A7%A3%E9%9B%A2/#jn-153241"
+  },
+  {
+    "kotoba": "電気回路",
+    "yomi": "でんき‐かいろ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%9B%9E%E8%B7%AF/#jn-153242"
+  },
+  {
+    "kotoba": "電気化学",
+    "yomi": "でんき‐かがく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6/#jn-153243"
+  },
+  {
+    "kotoba": "電気化学的腐食",
+    "yomi": "でんきかがくてき‐ふしょく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E7%9A%84%E8%85%90%E9%A3%9F/#jn-289556"
+  },
+  {
+    "kotoba": "電気化学当量",
+    "yomi": "でんきかがく‐とうりょう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E5%BD%93%E9%87%8F/#jn-153244"
+  },
+  {
+    "kotoba": "電気化学列",
+    "yomi": "でんきかがく‐れつ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8C%96%E5%AD%A6%E5%88%97/#jn-153245"
+  },
+  {
+    "kotoba": "電気火災",
+    "yomi": "でんき‐かさい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%81%AB%E7%81%BD/#jn-289557"
+  },
+  {
+    "kotoba": "電気剃刀",
+    "yomi": "でんき‐かみそり",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%89%83%E5%88%80/#jn-153248"
+  },
+  {
+    "kotoba": "電気感受率",
+    "yomi": "でんき‐かんじゅりつ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%84%9F%E5%8F%97%E7%8E%87/#jn-243709"
+  },
+  {
+    "kotoba": "電気楽器",
+    "yomi": "でんき‐がっき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%A5%BD%E5%99%A8/#jn-153246"
+  },
+  {
+    "kotoba": "電気釜",
+    "yomi": "でんき‐がま",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%87%9C/#jn-153247"
+  },
+  {
+    "kotoba": "電気機械結合係数",
+    "yomi": "でんききかい‐けつごうけいすう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%A9%9F%E6%A2%B0%E7%B5%90%E5%90%88%E4%BF%82%E6%95%B0/#jn-261575"
+  },
+  {
+    "kotoba": "電気機関車",
+    "yomi": "でんき‐きかんしゃ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%A9%9F%E9%96%A2%E8%BB%8A/#jn-153249"
+  },
+  {
+    "kotoba": "電気器具",
+    "yomi": "でんき‐きぐ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%99%A8%E5%85%B7/#jn-153250"
+  },
+  {
+    "kotoba": "電気給湯器",
+    "yomi": "でんき‐きゅうとうき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%B5%A6%E6%B9%AF%E5%99%A8/#jn-153253"
+  },
+  {
+    "kotoba": "電気水母",
+    "yomi": "でんき‐くらげ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%B0%B4%E6%AF%8D/#jn-153254"
+  },
+  {
+    "kotoba": "電気計器",
+    "yomi": "でんき‐けいき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E8%A8%88%E5%99%A8/#jn-153255"
+  },
+  {
+    "kotoba": "電気工学",
+    "yomi": "でんき‐こうがく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%B7%A5%E5%AD%A6/#jn-153256"
+  },
+  {
+    "kotoba": "電気炬燵",
+    "yomi": "でんき‐ごたつ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%82%AC%E7%87%B5/#jn-153257"
+  },
+  {
+    "kotoba": "電気焜炉",
+    "yomi": "でんき‐こんろ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%84%9C%E7%82%89/#jn-153259"
+  },
+  {
+    "kotoba": "電気鏝",
+    "yomi": "でんき‐ごて",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%8F%9D/#jn-153258"
+  },
+  {
+    "kotoba": "電気柵",
+    "yomi": "でんき‐さく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%9F%B5/#jn-277824"
+  },
+  {
+    "kotoba": "電機子",
+    "yomi": "でんき‐し",
+    "link": "/word/%E9%9B%BB%E6%A9%9F%E5%AD%90/#jn-153261"
+  },
+  {
+    "kotoba": "電気式温度計",
+    "yomi": "でんきしき‐おんどけい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%BC%8F%E6%B8%A9%E5%BA%A6%E8%A8%88/#jn-269168"
+  },
+  {
+    "kotoba": "電気四極子",
+    "yomi": "でんき‐しきょくし",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%9B%9B%E6%A5%B5%E5%AD%90/#jn-271605"
+  },
+  {
+    "kotoba": "電気四重極子",
+    "yomi": "でんき‐しじゅうきょくし",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%9B%9B%E9%87%8D%E6%A5%B5%E5%AD%90/#jn-271606"
+  },
+  {
+    "kotoba": "伝奇集",
+    "yomi": "でんきしゅう",
+    "link": "/word/%E4%BC%9D%E5%A5%87%E9%9B%86/#jn-269169"
+  },
+  {
+    "kotoba": "電気集塵器",
+    "yomi": "でんき‐しゅうじんき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%9B%86%E5%A1%B5%E5%99%A8/#jn-153265"
+  },
+  {
+    "kotoba": "電気焼灼",
+    "yomi": "でんき‐しょうしゃく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%84%BC%E7%81%BC/#jn-153266"
+  },
+  {
+    "kotoba": "伝奇小説",
+    "yomi": "でんき‐しょうせつ",
+    "link": "/word/%E4%BC%9D%E5%A5%87%E5%B0%8F%E8%AA%AC/#jn-153267"
+  },
+  {
+    "kotoba": "電気植毛",
+    "yomi": "でんき‐しょくもう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%A4%8D%E6%AF%9B/#jn-302084"
+  },
+  {
+    "kotoba": "電気振動",
+    "yomi": "でんき‐しんどう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8C%AF%E5%8B%95/#jn-153268"
+  },
+  {
+    "kotoba": "電気磁気効果",
+    "yomi": "でんき‐じきこうか",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%A3%81%E6%B0%97%E5%8A%B9%E6%9E%9C/#jn-241044"
+  },
+  {
+    "kotoba": "電気事業",
+    "yomi": "でんき‐じぎょう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD/#jn-153262"
+  },
+  {
+    "kotoba": "電気事業者",
+    "yomi": "でんき‐じぎょうしゃ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E8%80%85/#jn-266457"
+  },
+  {
+    "kotoba": "電気事業法",
+    "yomi": "でんきじぎょう‐ほう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E6%B3%95/#jn-251338"
+  },
+  {
+    "kotoba": "電気事業連合会",
+    "yomi": "でんきじぎょう‐れんごうかい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E9%80%A3%E5%90%88%E4%BC%9A/#jn-241045"
+  },
+  {
+    "kotoba": "電気磁石",
+    "yomi": "でんき‐じしゃく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%A3%81%E7%9F%B3/#jn-153263"
+  },
+  {
+    "kotoba": "電気自動車",
+    "yomi": "でんき‐じどうしゃ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E8%87%AA%E5%8B%95%E8%BB%8A/#jn-153264"
+  },
+  {
+    "kotoba": "電気推進",
+    "yomi": "でんき‐すいしん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8E%A8%E9%80%B2/#jn-153270"
+  },
+  {
+    "kotoba": "電気推進船",
+    "yomi": "でんきすいしん‐せん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8E%A8%E9%80%B2%E8%88%B9/#jn-300863"
+  },
+  {
+    "kotoba": "電気炊飯器",
+    "yomi": "でんき‐すいはんき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%82%8A%E9%A3%AF%E5%99%A8/#jn-153271"
+  },
+  {
+    "kotoba": "電気制動",
+    "yomi": "でんき‐せいどう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%88%B6%E5%8B%95/#jn-153274"
+  },
+  {
+    "kotoba": "電気生理学",
+    "yomi": "でんき‐せいりがく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%94%9F%E7%90%86%E5%AD%A6/#jn-153275"
+  },
+  {
+    "kotoba": "電気精錬",
+    "yomi": "でんき‐せいれん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%B2%BE%E9%8C%AC/#jn-153276"
+  },
+  {
+    "kotoba": "電気石",
+    "yomi": "でんき‐せき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%9F%B3/#jn-153277"
+  },
+  {
+    "kotoba": "電気洗濯機",
+    "yomi": "でんき‐せんたくき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%B4%97%E6%BF%AF%E6%A9%9F/#jn-153278"
+  },
+  {
+    "kotoba": "電気双極子",
+    "yomi": "でんき‐そうきょくし",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8F%8C%E6%A5%B5%E5%AD%90/#jn-153279"
+  },
+  {
+    "kotoba": "電気双極子放射",
+    "yomi": "でんきそうきょくし‐ほうしゃ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8F%8C%E6%A5%B5%E5%AD%90%E6%94%BE%E5%B0%84/#jn-263895"
+  },
+  {
+    "kotoba": "電気掃除機",
+    "yomi": "でんき‐そうじき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8E%83%E9%99%A4%E6%A9%9F/#jn-153280"
+  },
+  {
+    "kotoba": "電気走性",
+    "yomi": "でんき‐そうせい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E8%B5%B0%E6%80%A7/#jn-263896"
+  },
+  {
+    "kotoba": "電気素量",
+    "yomi": "でんき‐そりょう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%B4%A0%E9%87%8F/#jn-153281"
+  },
+  {
+    "kotoba": "電気探査",
+    "yomi": "でんき‐たんさ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8E%A2%E6%9F%BB/#jn-153282"
+  },
+  {
+    "kotoba": "電気蓄音機",
+    "yomi": "でんき‐ちくおんき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E8%93%84%E9%9F%B3%E6%A9%9F/#jn-153283"
+  },
+  {
+    "kotoba": "電気鋳造",
+    "yomi": "でんき‐ちゅうぞう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%8B%B3%E9%80%A0/#jn-153284"
+  },
+  {
+    "kotoba": "電気通信",
+    "yomi": "でんき‐つうしん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1/#jn-254669"
+  },
+  {
+    "kotoba": "電気通信役務利用放送法",
+    "yomi": "でんきつうしんえきむりようほうそう‐ほう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%BD%B9%E5%8B%99%E5%88%A9%E7%94%A8%E6%94%BE%E9%80%81%E6%B3%95/#jn-241046"
+  },
+  {
+    "kotoba": "電気通信省",
+    "yomi": "でんき‐つうしんしょう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E7%9C%81/#jn-153286"
+  },
+  {
+    "kotoba": "電気通信事業法",
+    "yomi": "でんきつうしんじぎょう‐ほう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E4%BA%8B%E6%A5%AD%E6%B3%95/#jn-153285"
+  },
+  {
+    "kotoba": "電気通信端末機器審査協会",
+    "yomi": "でんきつうしんたんまつききしんさ‐きょうかい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E7%AB%AF%E6%9C%AB%E6%A9%9F%E5%99%A8%E5%AF%A9%E6%9F%BB%E5%8D%94%E4%BC%9A/#jn-153288"
+  },
+  {
+    "kotoba": "電気通信大学",
+    "yomi": "でんきつうしん‐だいがく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E5%AD%A6/#jn-153287"
+  },
+  {
+    "kotoba": "電気抵抗",
+    "yomi": "でんき‐ていこう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97/#jn-153289"
+  },
+  {
+    "kotoba": "電気抵抗温度計",
+    "yomi": "でんきていこう‐おんどけい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E6%B8%A9%E5%BA%A6%E8%A8%88/#jn-153290"
+  },
+  {
+    "kotoba": "電気抵抗率",
+    "yomi": "でんきていこう‐りつ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E7%8E%87/#jn-153291"
+  },
+  {
+    "kotoba": "電気的絶縁体",
+    "yomi": "でんきてき‐ぜつえんたい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%9A%84%E7%B5%B6%E7%B8%81%E4%BD%93/#jn-279643"
+  },
+  {
+    "kotoba": "電気滴定",
+    "yomi": "でんき‐てきてい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%BB%B4%E5%AE%9A/#jn-153292"
+  },
+  {
+    "kotoba": "電気鉄道",
+    "yomi": "でんき‐てつどう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93/#jn-153293"
+  },
+  {
+    "kotoba": "電気点火",
+    "yomi": "でんき‐てんか",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%82%B9%E7%81%AB/#jn-153294"
+  },
+  {
+    "kotoba": "電気電子学会",
+    "yomi": "でんきでんし‐がっかい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E5%AD%A6%E4%BC%9A/#jn-241047"
+  },
+  {
+    "kotoba": "電気伝導",
+    "yomi": "でんき‐でんどう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BC%9D%E5%B0%8E/#jn-153295"
+  },
+  {
+    "kotoba": "電気伝導性樹脂",
+    "yomi": "でんきでんどうせい‐じゅし",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BC%9D%E5%B0%8E%E6%80%A7%E6%A8%B9%E8%84%82/#jn-241048"
+  },
+  {
+    "kotoba": "電気伝導度",
+    "yomi": "でんきでんどう‐ど",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BC%9D%E5%B0%8E%E5%BA%A6/#jn-153296"
+  },
+  {
+    "kotoba": "電気伝導率",
+    "yomi": "でんきでんどう‐りつ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BC%9D%E5%B0%8E%E7%8E%87/#jn-153297"
+  },
+  {
+    "kotoba": "電気灯",
+    "yomi": "でんき‐とう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%81%AF/#jn-153298"
+  },
+  {
+    "kotoba": "電気透析",
+    "yomi": "でんき‐とうせき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%80%8F%E6%9E%90/#jn-299655"
+  },
+  {
+    "kotoba": "電気鍍金",
+    "yomi": "でんき‐ときん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%8D%8D%E9%87%91/#jn-153300"
+  },
+  {
+    "kotoba": "電気銅",
+    "yomi": "でんき‐どう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%8A%85/#jn-153299"
+  },
+  {
+    "kotoba": "電気時計",
+    "yomi": "でんき‐どけい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%99%82%E8%A8%88/#jn-153301"
+  },
+  {
+    "kotoba": "電気鯰",
+    "yomi": "でんき‐なまず",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%AF%B0/#jn-153303"
+  },
+  {
+    "kotoba": "電気二重層",
+    "yomi": "でんき‐にじゅうそう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E4%BA%8C%E9%87%8D%E5%B1%A4/#jn-275902"
+  },
+  {
+    "kotoba": "電気粘性流体",
+    "yomi": "でんき‐ねんせいりゅうたい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93/#jn-266458"
+  },
+  {
+    "kotoba": "電気版",
+    "yomi": "でんき‐ばん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%89%88/#jn-153304"
+  },
+  {
+    "kotoba": "電気火花",
+    "yomi": "でんき‐ひばな",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%81%AB%E8%8A%B1/#jn-153307"
+  },
+  {
+    "kotoba": "電気漂白",
+    "yomi": "でんき‐ひょうはく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%BC%82%E7%99%BD/#jn-153308"
+  },
+  {
+    "kotoba": "電気孵化法",
+    "yomi": "でんき‐ふかほう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%AD%B5%E5%8C%96%E6%B3%95/#jn-153309"
+  },
+  {
+    "kotoba": "電気分解",
+    "yomi": "でんき‐ぶんかい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%88%86%E8%A7%A3/#jn-153312"
+  },
+  {
+    "kotoba": "電気分極",
+    "yomi": "でんき‐ぶんきょく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%88%86%E6%A5%B5/#jn-241049"
+  },
+  {
+    "kotoba": "電気分析",
+    "yomi": "でんき‐ぶんせき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%88%86%E6%9E%90/#jn-153313"
+  },
+  {
+    "kotoba": "電気変位",
+    "yomi": "でんき‐へんい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%A4%89%E4%BD%8D/#jn-153314"
+  },
+  {
+    "kotoba": "電気防食",
+    "yomi": "でんき‐ぼうしょく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%98%B2%E9%A3%9F/#jn-283618"
+  },
+  {
+    "kotoba": "電気牧柵",
+    "yomi": "でんき‐ぼくさく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%89%A7%E6%9F%B5/#jn-277825"
+  },
+  {
+    "kotoba": "電気盆",
+    "yomi": "でんき‐ぼん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%9B%86/#jn-153316"
+  },
+  {
+    "kotoba": "電気鍍金",
+    "yomi": "でんき‐めっき",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%8D%8D%E9%87%91/#jn-153319"
+  },
+  {
+    "kotoba": "電気毛布",
+    "yomi": "でんき‐もうふ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%AF%9B%E5%B8%83/#jn-247303"
+  },
+  {
+    "kotoba": "電気冶金",
+    "yomi": "でんき‐やきん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%86%B6%E9%87%91/#jn-153320"
+  },
+  {
+    "kotoba": "電球",
+    "yomi": "でん‐きゅう",
+    "link": "/word/%E9%9B%BB%E7%90%83/#jn-153327"
+  },
+  {
+    "kotoba": "電球型蛍光灯",
+    "yomi": "でんきゅうがた‐けいこうとう",
+    "link": "/word/%E9%9B%BB%E7%90%83%E5%9E%8B%E8%9B%8D%E5%85%89%E7%81%AF/#jn-153328"
+  },
+  {
+    "kotoba": "伝教",
+    "yomi": "でん‐ぎょう",
+    "link": "/word/person/%E4%BC%9D%E6%95%99/#jn-153340"
+  },
+  {
+    "kotoba": "電極",
+    "yomi": "でん‐きょく",
+    "link": "/word/%E9%9B%BB%E6%A5%B5/#jn-153350"
+  },
+  {
+    "kotoba": "電極電位",
+    "yomi": "でんきょく‐でんい",
+    "link": "/word/%E9%9B%BB%E6%A5%B5%E9%9B%BB%E4%BD%8D/#jn-153352"
+  },
+  {
+    "kotoba": "電極反応",
+    "yomi": "でんきょく‐はんのう",
+    "link": "/word/%E9%9B%BB%E6%A5%B5%E5%8F%8D%E5%BF%9C/#jn-153353"
+  },
+  {
+    "kotoba": "電気溶接",
+    "yomi": "でんき‐ようせつ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%BA%B6%E6%8E%A5/#jn-153344"
+  },
+  {
+    "kotoba": "電気用品安全法",
+    "yomi": "でんきようひん‐あんぜんほう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%94%A8%E5%93%81%E5%AE%89%E5%85%A8%E6%B3%95/#jn-153347"
+  },
+  {
+    "kotoba": "電気容量",
+    "yomi": "でんき‐ようりょう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%AE%B9%E9%87%8F/#jn-153348"
+  },
+  {
+    "kotoba": "電気浴",
+    "yomi": "でんき‐よく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E6%B5%B4/#jn-153351"
+  },
+  {
+    "kotoba": "電気力線",
+    "yomi": "でんき‐りきせん",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8A%9B%E7%B7%9A/#jn-153356"
+  },
+  {
+    "kotoba": "電気量",
+    "yomi": "でんき‐りょう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%87%8F/#jn-153358"
+  },
+  {
+    "kotoba": "電気療法",
+    "yomi": "でんき‐りょうほう",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%99%82%E6%B3%95/#jn-153359"
+  },
+  {
+    "kotoba": "電気力",
+    "yomi": "でんき‐りょく",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%8A%9B/#jn-153360"
+  },
+  {
+    "kotoba": "電気冷蔵庫",
+    "yomi": "でんき‐れいぞうこ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E5%86%B7%E8%94%B5%E5%BA%AB/#jn-153361"
+  },
+  {
+    "kotoba": "電気炉",
+    "yomi": "でんき‐ろ",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E7%82%89/#jn-153362"
+  },
+  {
+    "kotoba": "電気露出計",
+    "yomi": "でんき‐ろしゅつけい",
+    "link": "/word/%E9%9B%BB%E6%B0%97%E9%9C%B2%E5%87%BA%E8%A8%88/#jn-153363"
+  },
+  {
+    "kotoba": "殿筋",
+    "yomi": "でん‐きん",
+    "link": "/word/%E6%AE%BF%E7%AD%8B/#jn-291519"
+  },
+  {
+    "kotoba": "殿筋粗面",
+    "yomi": "でんきん‐そめん",
+    "link": "/word/%E6%AE%BF%E7%AD%8B%E7%B2%97%E9%9D%A2/#jn-291520"
+  },
+  {
+    "kotoba": "伝教灌頂",
+    "yomi": "でんぎょう‐かんじょう",
+    "link": "/word/%E4%BC%9D%E6%95%99%E7%81%8C%E9%A0%82/#jn-153342"
+  },
+  {
+    "kotoba": "伝教大師",
+    "yomi": "でんぎょう‐だいし",
+    "link": "/word/person/%E4%BC%9D%E6%95%99%E5%A4%A7%E5%B8%AB/#jn-153345"
+  },
+  {
+    "kotoba": "伝九郎染",
+    "yomi": "でんくろう‐ぞめ",
+    "link": "/word/%E4%BC%9D%E4%B9%9D%E9%83%8E%E6%9F%93/#jn-153409"
+  },
+  {
+    "kotoba": "殿軍",
+    "yomi": "でん‐ぐん",
+    "link": "/word/%E6%AE%BF%E8%BB%8D/#jn-153410"
+  },
+  {
+    "kotoba": "電鍵",
+    "yomi": "でん‐けん",
+    "link": "/word/%E9%9B%BB%E9%8D%B5/#jn-153438"
+  },
+  {
+    "kotoba": "電顕",
+    "yomi": "でん‐けん",
+    "link": "/word/%E9%9B%BB%E9%A1%95/#jn-247306"
+  },
+  {
+    "kotoba": "伝建",
+    "yomi": "でん‐けん",
+    "link": "/word/%E4%BC%9D%E5%BB%BA/#jn-289560"
+  },
+  {
+    "kotoba": "電撃",
+    "yomi": "でん‐げき",
+    "link": "/word/%E9%9B%BB%E6%92%83/#jn-153425"
+  },
+  {
+    "kotoba": "電撃療法",
+    "yomi": "でんげき‐りょうほう",
+    "link": "/word/%E9%9B%BB%E6%92%83%E7%99%82%E6%B3%95/#jn-153426"
+  },
+  {
+    "kotoba": "電源",
+    "yomi": "でん‐げん",
+    "link": "/word/%E9%9B%BB%E6%BA%90/#jn-153439"
+  },
+  {
+    "kotoba": "電源開発",
+    "yomi": "でんげん‐かいはつ",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA/#jn-153440"
+  },
+  {
+    "kotoba": "電源開発",
+    "yomi": "でんげんかいはつ",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA/#jn-258501"
+  },
+  {
+    "kotoba": "電源開発促進税",
+    "yomi": "でんげんかいはつそくしん‐ぜい",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%E4%BF%83%E9%80%B2%E7%A8%8E/#jn-251340"
+  },
+  {
+    "kotoba": "電源開発促進税法",
+    "yomi": "でんげんかいはつそくしんぜい‐ほう",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%E4%BF%83%E9%80%B2%E7%A8%8E%E6%B3%95/#jn-251341"
+  },
+  {
+    "kotoba": "電源開発促進対策特別会計",
+    "yomi": "でんげんかいはつそくしんたいさく‐とくべつかいけい",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%E4%BF%83%E9%80%B2%E5%AF%BE%E7%AD%96%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88/#jn-251342"
+  },
+  {
+    "kotoba": "電源開発促進対策特別会計法",
+    "yomi": "でんげんかいはつそくしんたいさく‐とくべつかいけいほう",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E9%96%8B%E7%99%BA%E4%BF%83%E9%80%B2%E5%AF%BE%E7%AD%96%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88%E6%B3%95/#jn-251343"
+  },
+  {
+    "kotoba": "電源構成",
+    "yomi": "でんげん‐こうせい",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E6%A7%8B%E6%88%90/#jn-287603"
+  },
+  {
+    "kotoba": "電源三法",
+    "yomi": "でんげん‐さんぽう",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E4%B8%89%E6%B3%95/#jn-251344"
+  },
+  {
+    "kotoba": "電源三法交付金",
+    "yomi": "でんげんさんぽう‐こうふきん",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E4%B8%89%E6%B3%95%E4%BA%A4%E4%BB%98%E9%87%91/#jn-258502"
+  },
+  {
+    "kotoba": "電源車",
+    "yomi": "でんげん‐しゃ",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E8%BB%8A/#jn-251345"
+  },
+  {
+    "kotoba": "電源脱落",
+    "yomi": "でんげん‐だつらく",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E8%84%B1%E8%90%BD/#jn-300865"
+  },
+  {
+    "kotoba": "電源特会",
+    "yomi": "でんげん‐とっかい",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E7%89%B9%E4%BC%9A/#jn-251346"
+  },
+  {
+    "kotoba": "電源盤",
+    "yomi": "でんげん‐ばん",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E7%9B%A4/#jn-271607"
+  },
+  {
+    "kotoba": "電源立地地域対策交付金",
+    "yomi": "でんげんりっちちいきたいさく‐こうふきん",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E7%AB%8B%E5%9C%B0%E5%9C%B0%E5%9F%9F%E5%AF%BE%E7%AD%96%E4%BA%A4%E4%BB%98%E9%87%91/#jn-251347"
+  },
+  {
+    "kotoba": "電源立地等初期対策交付金",
+    "yomi": "でんげんりっちとう‐しょきたいさくこうふきん",
+    "link": "/word/%E9%9B%BB%E6%BA%90%E7%AB%8B%E5%9C%B0%E7%AD%89%E5%88%9D%E6%9C%9F%E5%AF%BE%E7%AD%96%E4%BA%A4%E4%BB%98%E9%87%91/#jn-258503"
+  },
+  {
+    "kotoba": "伝戸",
+    "yomi": "でん‐こ",
+    "link": "/word/%E4%BC%9D%E6%88%B8/#jn-153451"
+  },
+  {
+    "kotoba": "佃戸",
+    "yomi": "でん‐こ",
+    "link": "/word/%E4%BD%83%E6%88%B8/#jn-153452"
+  },
+  {
+    "kotoba": "電弧",
+    "yomi": "でん‐こ",
+    "link": "/word/%E9%9B%BB%E5%BC%A7/#jn-153453"
+  },
+  {
+    "kotoba": "電工",
+    "yomi": "でん‐こう",
+    "link": "/word/%E9%9B%BB%E5%B7%A5/#jn-153465"
+  },
+  {
+    "kotoba": "電光",
+    "yomi": "でん‐こう",
+    "link": "/word/%E9%9B%BB%E5%85%89/#jn-153466"
+  },
+  {
+    "kotoba": "電光掲示板",
+    "yomi": "でんこう‐けいじばん",
+    "link": "/word/%E9%9B%BB%E5%85%89%E6%8E%B2%E7%A4%BA%E6%9D%BF/#jn-153470"
+  },
+  {
+    "kotoba": "電光石火",
+    "yomi": "でんこう‐せっか",
+    "link": "/word/%E9%9B%BB%E5%85%89%E7%9F%B3%E7%81%AB/#jn-153472"
+  },
+  {
+    "kotoba": "電光朝露",
+    "yomi": "でんこう‐ちょうろ",
+    "link": "/word/%E9%9B%BB%E5%85%89%E6%9C%9D%E9%9C%B2/#jn-153473"
+  },
+  {
+    "kotoba": "伝光録",
+    "yomi": "でんこうろく",
+    "link": "/word/%E4%BC%9D%E5%85%89%E9%8C%B2/#jn-153480"
+  },
+  {
+    "kotoba": "伝国璽",
+    "yomi": "でんこく‐じ",
+    "link": "/word/%E4%BC%9D%E5%9B%BD%E7%92%BD/#jn-153486"
+  },
+  {
+    "kotoba": "電弧放電",
+    "yomi": "でんこ‐ほうでん",
+    "link": "/word/%E9%9B%BB%E5%BC%A7%E6%94%BE%E9%9B%BB/#jn-243710"
+  },
+  {
+    "kotoba": "電弧炉",
+    "yomi": "でんこ‐ろ",
+    "link": "/word/%E9%9B%BB%E5%BC%A7%E7%82%89/#jn-153492"
+  },
+  {
+    "kotoba": "殿後",
+    "yomi": "でん‐ご",
+    "link": "/word/%E6%AE%BF%E5%BE%8C/#jn-153454"
+  },
+  {
+    "kotoba": "伝言",
+    "yomi": "でん‐ごん",
+    "link": "/word/%E4%BC%9D%E8%A8%80_%28%E3%81%A7%E3%82%93%E3%81%94%E3%82%93%29/#jn-153493"
+  },
+  {
+    "kotoba": "伝言板",
+    "yomi": "でんごん‐ばん",
+    "link": "/word/%E4%BC%9D%E8%A8%80%E6%9D%BF/#jn-153494"
+  },
+  {
+    "kotoba": "電柵",
+    "yomi": "でん‐さく",
+    "link": "/word/%E9%9B%BB%E6%9F%B5/#jn-277826"
+  },
+  {
+    "kotoba": "電算",
+    "yomi": "でん‐さん",
+    "link": "/word/%E9%9B%BB%E7%AE%97/#jn-153518"
+  },
+  {
+    "kotoba": "電算機",
+    "yomi": "でんさん‐き",
+    "link": "/word/%E9%9B%BB%E7%AE%97%E6%A9%9F/#jn-153519"
+  },
+  {
+    "kotoba": "電算写植",
+    "yomi": "でんさん‐しゃしょく",
+    "link": "/word/%E9%9B%BB%E7%AE%97%E5%86%99%E6%A4%8D/#jn-153522"
+  },
+  {
+    "kotoba": "殿司",
+    "yomi": "でん‐し",
+    "link": "/word/%E6%AE%BF%E5%8F%B8/#jn-153541"
+  },
+  {
+    "kotoba": "殿試",
+    "yomi": "でん‐し",
+    "link": "/word/%E6%AE%BF%E8%A9%A6/#jn-153542"
+  },
+  {
+    "kotoba": "電子",
+    "yomi": "でん‐し",
+    "link": "/word/%E9%9B%BB%E5%AD%90/#jn-153543"
+  },
+  {
+    "kotoba": "電子案内板",
+    "yomi": "でんし‐あんないばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%A1%88%E5%86%85%E6%9D%BF/#jn-153548"
+  },
+  {
+    "kotoba": "電子印鑑",
+    "yomi": "でんし‐いんかん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%8D%B0%E9%91%91/#jn-281512"
+  },
+  {
+    "kotoba": "電子印章",
+    "yomi": "でんし‐いんしょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%8D%B0%E7%AB%A0/#jn-281513"
+  },
+  {
+    "kotoba": "電子雲",
+    "yomi": "でんし‐うん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%9B%B2/#jn-153549"
+  },
+  {
+    "kotoba": "電子音",
+    "yomi": "でんし‐おん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%9F%B3/#jn-247307"
+  },
+  {
+    "kotoba": "電子音楽",
+    "yomi": "でんし‐おんがく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%9F%B3%E6%A5%BD/#jn-153551"
+  },
+  {
+    "kotoba": "電子温度",
+    "yomi": "でんし‐おんど",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%B8%A9%E5%BA%A6/#jn-273814"
+  },
+  {
+    "kotoba": "電子化",
+    "yomi": "でんし‐か",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%8C%96/#jn-251349"
+  },
+  {
+    "kotoba": "電子回折",
+    "yomi": "でんし‐かいせつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%9B%9E%E6%8A%98/#jn-153552"
+  },
+  {
+    "kotoba": "電子殻",
+    "yomi": "でんし‐かく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%AE%BB/#jn-153553"
+  },
+  {
+    "kotoba": "電子貨幣",
+    "yomi": "でんし‐かへい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%B2%A8%E5%B9%A3/#jn-153556"
+  },
+  {
+    "kotoba": "電子管",
+    "yomi": "でんし‐かん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%AE%A1/#jn-153558"
+  },
+  {
+    "kotoba": "電子鑑識",
+    "yomi": "でんし‐かんしき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%91%91%E8%AD%98/#jn-294968"
+  },
+  {
+    "kotoba": "電子看板",
+    "yomi": "でんし‐かんばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%9C%8B%E6%9D%BF/#jn-153560"
+  },
+  {
+    "kotoba": "電視観望",
+    "yomi": "でんし‐かんぼう",
+    "link": "/word/%E9%9B%BB%E8%A6%96%E8%A6%B3%E6%9C%9B/#jn-302085"
+  },
+  {
+    "kotoba": "電子楽器",
+    "yomi": "でんし‐がっき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%A5%BD%E5%99%A8/#jn-153555"
+  },
+  {
+    "kotoba": "電子基準点",
+    "yomi": "でんし‐きじゅんてん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%9F%BA%E6%BA%96%E7%82%B9/#jn-258505"
+  },
+  {
+    "kotoba": "電子軌道",
+    "yomi": "でんし‐きどう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%BB%8C%E9%81%93/#jn-153565"
+  },
+  {
+    "kotoba": "電子教科書",
+    "yomi": "でんし‐きょうかしょ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%95%99%E7%A7%91%E6%9B%B8/#jn-251350"
+  },
+  {
+    "kotoba": "電子供与体",
+    "yomi": "でんし‐きょうよたい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E4%BE%9B%E4%B8%8E%E4%BD%93/#jn-273815"
+  },
+  {
+    "kotoba": "電子記録債権法",
+    "yomi": "でんしきろくさいけん‐ほう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%98%E9%8C%B2%E5%82%B5%E6%A8%A9%E6%B3%95/#jn-153567"
+  },
+  {
+    "kotoba": "電子行政",
+    "yomi": "でんし‐ぎょうせい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A1%8C%E6%94%BF/#jn-153566"
+  },
+  {
+    "kotoba": "電子計算機",
+    "yomi": "でんし‐けいさんき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%88%E7%AE%97%E6%A9%9F/#jn-153582"
+  },
+  {
+    "kotoba": "電子計算機使用詐欺罪",
+    "yomi": "でんしけいさんきしようさぎ‐ざい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%88%E7%AE%97%E6%A9%9F%E4%BD%BF%E7%94%A8%E8%A9%90%E6%AC%BA%E7%BD%AA/#jn-153583"
+  },
+  {
+    "kotoba": "電子計算機損壊業務妨害罪",
+    "yomi": "でんしけいさんきそんかいぎょうむぼうがい‐ざい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%88%E7%AE%97%E6%A9%9F%E6%90%8D%E5%A3%8A%E6%A5%AD%E5%8B%99%E5%A6%A8%E5%AE%B3%E7%BD%AA/#jn-153584"
+  },
+  {
+    "kotoba": "電子計算機損壊等業務妨害罪",
+    "yomi": "でんしけいさんきそんかいとうぎょうむぼうがい‐ざい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%88%E7%AE%97%E6%A9%9F%E6%90%8D%E5%A3%8A%E7%AD%89%E6%A5%AD%E5%8B%99%E5%A6%A8%E5%AE%B3%E7%BD%AA/#jn-153585"
+  },
+  {
+    "kotoba": "電子掲示板",
+    "yomi": "でんし‐けいじばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%8E%B2%E7%A4%BA%E6%9D%BF/#jn-153586"
+  },
+  {
+    "kotoba": "電子決済",
+    "yomi": "でんし‐けっさい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%B1%BA%E6%B8%88/#jn-153588"
+  },
+  {
+    "kotoba": "電子顕微鏡",
+    "yomi": "でんし‐けんびきょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%A1%95%E5%BE%AE%E9%8F%A1/#jn-153589"
+  },
+  {
+    "kotoba": "電子交換方式",
+    "yomi": "でんし‐こうかんほうしき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E4%BA%A4%E6%8F%9B%E6%96%B9%E5%BC%8F/#jn-153592"
+  },
+  {
+    "kotoba": "電子工学",
+    "yomi": "でんし‐こうがく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6/#jn-153590"
+  },
+  {
+    "kotoba": "電子光学",
+    "yomi": "でんし‐こうがく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%85%89%E5%AD%A6/#jn-153591"
+  },
+  {
+    "kotoba": "電子航空路誌",
+    "yomi": "でんし‐こうくううろし",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%88%AA%E7%A9%BA%E8%B7%AF%E8%AA%8C/#jn-285705"
+  },
+  {
+    "kotoba": "電子広告端末",
+    "yomi": "でんしこうこく‐たんまつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%BA%83%E5%91%8A%E7%AB%AF%E6%9C%AB/#jn-287606"
+  },
+  {
+    "kotoba": "電子広告版",
+    "yomi": "でんし‐こうこくばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%BA%83%E5%91%8A%E7%89%88/#jn-153593"
+  },
+  {
+    "kotoba": "電子航法研究所",
+    "yomi": "でんしこうほう‐けんきゅうじょ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%88%AA%E6%B3%95%E7%A0%94%E7%A9%B6%E6%89%80/#jn-258506"
+  },
+  {
+    "kotoba": "電子黒板",
+    "yomi": "でんし‐こくばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%BB%92%E6%9D%BF/#jn-153594"
+  },
+  {
+    "kotoba": "電子財布",
+    "yomi": "でんし‐さいふ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%B2%A1%E5%B8%83/#jn-153596"
+  },
+  {
+    "kotoba": "電子式",
+    "yomi": "でんし‐しき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%BC%8F/#jn-303257"
+  },
+  {
+    "kotoba": "電子市場",
+    "yomi": "でんし‐しじょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%B8%82%E5%A0%B4/#jn-153599"
+  },
+  {
+    "kotoba": "電子写真",
+    "yomi": "でんし‐しゃしん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%86%99%E7%9C%9F/#jn-153601"
+  },
+  {
+    "kotoba": "電子出版",
+    "yomi": "でんし‐しゅっぱん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%87%BA%E7%89%88/#jn-153604"
+  },
+  {
+    "kotoba": "電子出願",
+    "yomi": "でんし‐しゅつがん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%87%BA%E9%A1%98/#jn-273816"
+  },
+  {
+    "kotoba": "電子小黒板",
+    "yomi": "でんし‐しょうこくばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%B0%8F%E9%BB%92%E6%9D%BF/#jn-300866"
+  },
+  {
+    "kotoba": "電子商店",
+    "yomi": "でんし‐しょうてん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%95%86%E5%BA%97/#jn-153605"
+  },
+  {
+    "kotoba": "電子商店街",
+    "yomi": "でんし‐しょうてんがい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%95%86%E5%BA%97%E8%A1%97/#jn-153606"
+  },
+  {
+    "kotoba": "電子商取引",
+    "yomi": "でんし‐しょうとりひき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8F%96%E5%BC%95/#jn-153607"
+  },
+  {
+    "kotoba": "電子証明",
+    "yomi": "でんし‐しょうめい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%98%8E/#jn-153609"
+  },
+  {
+    "kotoba": "電子証明書",
+    "yomi": "でんし‐しょうめいしょ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%BC%E6%98%8E%E6%9B%B8/#jn-153610"
+  },
+  {
+    "kotoba": "電子書籍",
+    "yomi": "でんし‐しょせき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/#jn-153611"
+  },
+  {
+    "kotoba": "電子書籍専用端末",
+    "yomi": "でんししょせき‐せんようたんまつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E5%B0%82%E7%94%A8%E7%AB%AF%E6%9C%AB/#jn-251353"
+  },
+  {
+    "kotoba": "電子書籍端末",
+    "yomi": "でんししょせき‐たんまつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D%E7%AB%AF%E6%9C%AB/#jn-241053"
+  },
+  {
+    "kotoba": "電子書店",
+    "yomi": "でんし‐しょてん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%9B%B8%E5%BA%97/#jn-299657"
+  },
+  {
+    "kotoba": "電子処方箋",
+    "yomi": "でんし‐しょほうせん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%87%A6%E6%96%B9%E7%AE%8B/#jn-283622"
+  },
+  {
+    "kotoba": "電子署名",
+    "yomi": "でんし‐しょめい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%BD%B2%E5%90%8D/#jn-153612"
+  },
+  {
+    "kotoba": "電子親和力",
+    "yomi": "でんし‐しんわりょく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A6%AA%E5%92%8C%E5%8A%9B/#jn-153613"
+  },
+  {
+    "kotoba": "電子辞書",
+    "yomi": "でんし‐じしょ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%BE%9E%E6%9B%B8/#jn-153598"
+  },
+  {
+    "kotoba": "電子銃",
+    "yomi": "でんし‐じゅう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%8A%83/#jn-153603"
+  },
+  {
+    "kotoba": "電子受容体",
+    "yomi": "でんし‐じゅようたい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%8F%97%E5%AE%B9%E4%BD%93/#jn-273817"
+  },
+  {
+    "kotoba": "電子常磁性共鳴",
+    "yomi": "でんしじょうじせい‐きょうめい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%B8%B8%E7%A3%81%E6%80%A7%E5%85%B1%E9%B3%B4/#jn-258507"
+  },
+  {
+    "kotoba": "電子情報技術産業協会",
+    "yomi": "でんしじょうほうぎじゅつさんぎょう‐きょうかい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E7%94%A3%E6%A5%AD%E5%8D%94%E4%BC%9A/#jn-153608"
+  },
+  {
+    "kotoba": "電子頭脳",
+    "yomi": "でんし‐ずのう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%A0%AD%E8%84%B3/#jn-153616"
+  },
+  {
+    "kotoba": "電子政府",
+    "yomi": "でんし‐せいふ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%94%BF%E5%BA%9C/#jn-153618"
+  },
+  {
+    "kotoba": "電子設計自動化",
+    "yomi": "でんしせっけい‐じどうか",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A8%AD%E8%A8%88%E8%87%AA%E5%8B%95%E5%8C%96/#jn-302087"
+  },
+  {
+    "kotoba": "電子戦",
+    "yomi": "でんし‐せん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%88%A6/#jn-153619"
+  },
+  {
+    "kotoba": "電子線",
+    "yomi": "でんし‐せん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%B7%9A/#jn-153620"
+  },
+  {
+    "kotoba": "電子線回折",
+    "yomi": "でんしせん‐かいせつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%B7%9A%E5%9B%9E%E6%8A%98/#jn-153621"
+  },
+  {
+    "kotoba": "電子染色",
+    "yomi": "でんし‐せんしょく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%9F%93%E8%89%B2/#jn-296642"
+  },
+  {
+    "kotoba": "電子地図",
+    "yomi": "でんし‐ちず",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%9C%B0%E5%9B%B3/#jn-153627"
+  },
+  {
+    "kotoba": "電子調達",
+    "yomi": "でんし‐ちょうたつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%AA%BF%E9%81%94/#jn-263900"
+  },
+  {
+    "kotoba": "電子帳簿保存法",
+    "yomi": "でんしちょうぼ‐ほぞんほう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%B8%B3%E7%B0%BF%E4%BF%9D%E5%AD%98%E6%B3%95/#jn-300870"
+  },
+  {
+    "kotoba": "電子対",
+    "yomi": "でんし‐つい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%AF%BE/#jn-241056"
+  },
+  {
+    "kotoba": "電子対供与体",
+    "yomi": "でんしつい‐きょうよたい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%AF%BE%E4%BE%9B%E4%B8%8E%E4%BD%93/#jn-298249"
+  },
+  {
+    "kotoba": "電子対結合",
+    "yomi": "でんしつい‐けつごう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%AF%BE%E7%B5%90%E5%90%88/#jn-153630"
+  },
+  {
+    "kotoba": "電子対消滅",
+    "yomi": "でんし‐ついしょうめつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%AF%BE%E6%B6%88%E6%BB%85/#jn-247313"
+  },
+  {
+    "kotoba": "電子対受容体",
+    "yomi": "でんしつい‐じゅようたい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%AF%BE%E5%8F%97%E5%AE%B9%E4%BD%93/#jn-298250"
+  },
+  {
+    "kotoba": "電子対生成",
+    "yomi": "でんし‐ついせいせい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%AF%BE%E7%94%9F%E6%88%90/#jn-247314"
+  },
+  {
+    "kotoba": "電子通貨",
+    "yomi": "でんし‐つうか",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%80%9A%E8%B2%A8/#jn-153631"
+  },
+  {
+    "kotoba": "電子手帳",
+    "yomi": "でんし‐てちょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%89%8B%E5%B8%B3/#jn-153637"
+  },
+  {
+    "kotoba": "電子伝達系",
+    "yomi": "でんしでんたつ‐けい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E4%BC%9D%E9%81%94%E7%B3%BB/#jn-153638"
+  },
+  {
+    "kotoba": "電子伝達体",
+    "yomi": "でんし‐でんたつたい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E4%BC%9D%E9%81%94%E4%BD%93/#jn-287608"
+  },
+  {
+    "kotoba": "電子伝達物質",
+    "yomi": "でんし‐でんたつぶっしつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E4%BC%9D%E9%81%94%E7%89%A9%E8%B3%AA/#jn-287609"
+  },
+  {
+    "kotoba": "電子伝導",
+    "yomi": "でんし‐でんどう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E4%BC%9D%E5%B0%8E/#jn-241057"
+  },
+  {
+    "kotoba": "電子投票",
+    "yomi": "でんし‐とうひょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%8A%95%E7%A5%A8/#jn-153641"
+  },
+  {
+    "kotoba": "電子図書館",
+    "yomi": "でんし‐としょかん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%9B%B3%E6%9B%B8%E9%A4%A8/#jn-153645"
+  },
+  {
+    "kotoba": "電子取引所",
+    "yomi": "でんし‐とりひきじょ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%8F%96%E5%BC%95%E6%89%80/#jn-247315"
+  },
+  {
+    "kotoba": "電子時計",
+    "yomi": "でんし‐どけい",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%99%82%E8%A8%88/#jn-153642"
+  },
+  {
+    "kotoba": "電子雪崩",
+    "yomi": "でんし‐なだれ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%9B%AA%E5%B4%A9/#jn-153646"
+  },
+  {
+    "kotoba": "電子入札",
+    "yomi": "でんし‐にゅうさつ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%85%A5%E6%9C%AD/#jn-153647"
+  },
+  {
+    "kotoba": "電子認証",
+    "yomi": "でんし‐にんしょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%AA%8D%E8%A8%BC/#jn-153648"
+  },
+  {
+    "kotoba": "電子納税申告",
+    "yomi": "でんし‐のうぜいしんこく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%B4%8D%E7%A8%8E%E7%94%B3%E5%91%8A/#jn-153651"
+  },
+  {
+    "kotoba": "電子波",
+    "yomi": "でんし‐は",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%B3%A2/#jn-153653"
+  },
+  {
+    "kotoba": "電子版",
+    "yomi": "でんし‐ばん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%89%88/#jn-266465"
+  },
+  {
+    "kotoba": "電子番組表",
+    "yomi": "でんし‐ばんぐみひょう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%95%AA%E7%B5%84%E8%A1%A8/#jn-153660"
+  },
+  {
+    "kotoba": "電子複写機",
+    "yomi": "でんし‐ふくしゃき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%A4%87%E5%86%99%E6%A9%9F/#jn-153665"
+  },
+  {
+    "kotoba": "電子分極",
+    "yomi": "でんし‐ぶんきょく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%88%86%E6%A5%B5/#jn-241060"
+  },
+  {
+    "kotoba": "電子文具",
+    "yomi": "でんし‐ぶんぐ",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%96%87%E5%85%B7/#jn-263906"
+  },
+  {
+    "kotoba": "電子文書法",
+    "yomi": "でんしぶんしょ‐ほう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%96%87%E6%9B%B8%E6%B3%95/#jn-153668"
+  },
+  {
+    "kotoba": "電子兵器",
+    "yomi": "でんし‐へいき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%85%B5%E5%99%A8/#jn-153669"
+  },
+  {
+    "kotoba": "電子捕獲",
+    "yomi": "でんし‐ほかく",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%8D%95%E7%8D%B2/#jn-241062"
+  },
+  {
+    "kotoba": "電子漫画",
+    "yomi": "でんし‐まんが",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%BC%AB%E7%94%BB/#jn-271612"
+  },
+  {
+    "kotoba": "電子名刺",
+    "yomi": "でんし‐めいし",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%90%8D%E5%88%BA/#jn-153675"
+  },
+  {
+    "kotoba": "電子目次本",
+    "yomi": "でんし‐もくじぼん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E7%9B%AE%E6%AC%A1%E6%9C%AC/#jn-271614"
+  },
+  {
+    "kotoba": "田社",
+    "yomi": "でん‐しゃ",
+    "link": "/word/%E7%94%B0%E7%A4%BE/#jn-153686"
+  },
+  {
+    "kotoba": "田舎",
+    "yomi": "でん‐しゃ",
+    "link": "/word/%E7%94%B0%E8%88%8E_%28%E3%81%A7%E3%82%93%E3%81%97%E3%82%83%29/#jn-153687"
+  },
+  {
+    "kotoba": "伝写",
+    "yomi": "でん‐しゃ",
+    "link": "/word/%E4%BC%9D%E5%86%99/#jn-153688"
+  },
+  {
+    "kotoba": "殿舎",
+    "yomi": "でん‐しゃ",
+    "link": "/word/%E6%AE%BF%E8%88%8E/#jn-153689"
+  },
+  {
+    "kotoba": "電車",
+    "yomi": "でん‐しゃ",
+    "link": "/word/%E9%9B%BB%E8%BB%8A/#jn-153690"
+  },
+  {
+    "kotoba": "田舎漢",
+    "yomi": "でんしゃ‐かん",
+    "link": "/word/%E7%94%B0%E8%88%8E%E6%BC%A2/#jn-153692"
+  },
+  {
+    "kotoba": "電車道",
+    "yomi": "でんしゃ‐みち",
+    "link": "/word/%E9%9B%BB%E8%BB%8A%E9%81%93/#jn-153700"
+  },
+  {
+    "kotoba": "田臭",
+    "yomi": "でん‐しゅう",
+    "link": "/word/%E7%94%B0%E8%87%AD/#jn-153717"
+  },
+  {
+    "kotoba": "伝習",
+    "yomi": "でん‐しゅう",
+    "link": "/word/%E4%BC%9D%E7%BF%92/#jn-153718"
+  },
+  {
+    "kotoba": "伝習録",
+    "yomi": "でんしゅうろく",
+    "link": "/word/%E4%BC%9D%E7%BF%92%E9%8C%B2/#jn-153723"
+  },
+  {
+    "kotoba": "殿春",
+    "yomi": "でん‐しゅん",
+    "link": "/word/%E6%AE%BF%E6%98%A5/#jn-153739"
+  },
+  {
+    "kotoba": "電子郵便",
+    "yomi": "でんし‐ゆうびん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%83%B5%E4%BE%BF/#jn-153722"
+  },
+  {
+    "kotoba": "伝書",
+    "yomi": "でん‐しょ",
+    "link": "/word/%E4%BC%9D%E6%9B%B8/#jn-153744"
+  },
+  {
+    "kotoba": "電書",
+    "yomi": "でん‐しょ",
+    "link": "/word/%E9%9B%BB%E6%9B%B8/#jn-254674"
+  },
+  {
+    "kotoba": "伝承",
+    "yomi": "でん‐しょう",
+    "link": "/word/%E4%BC%9D%E6%89%BF/#jn-153763"
+  },
+  {
+    "kotoba": "伝唱",
+    "yomi": "でん‐しょう",
+    "link": "/word/%E4%BC%9D%E5%94%B1/#jn-153764"
+  },
+  {
+    "kotoba": "伝誦",
+    "yomi": "でん‐しょう",
+    "link": "/word/%E4%BC%9D%E8%AA%A6/#jn-153765"
+  },
+  {
+    "kotoba": "電照菊",
+    "yomi": "でんしょう‐ぎく",
+    "link": "/word/%E9%9B%BB%E7%85%A7%E8%8F%8A/#jn-241064"
+  },
+  {
+    "kotoba": "電照栽培",
+    "yomi": "でんしょう‐さいばい",
+    "link": "/word/%E9%9B%BB%E7%85%A7%E6%A0%BD%E5%9F%B9/#jn-153780"
+  },
+  {
+    "kotoba": "伝承地",
+    "yomi": "でんしょう‐ち",
+    "link": "/word/%E4%BC%9D%E6%89%BF%E5%9C%B0/#jn-153784"
+  },
+  {
+    "kotoba": "伝承文学",
+    "yomi": "でんしょう‐ぶんがく",
+    "link": "/word/%E4%BC%9D%E6%89%BF%E6%96%87%E5%AD%A6/#jn-153798"
+  },
+  {
+    "kotoba": "電書協",
+    "yomi": "でんしょ‐きょう",
+    "link": "/word/%E9%9B%BB%E6%9B%B8%E5%8D%94/#jn-299658"
+  },
+  {
+    "kotoba": "電飾",
+    "yomi": "でん‐しょく",
+    "link": "/word/%E9%9B%BB%E9%A3%BE/#jn-153807"
+  },
+  {
+    "kotoba": "電食",
+    "yomi": "でん‐しょく",
+    "link": "/word/%E9%9B%BB%E9%A3%9F/#jn-289567"
+  },
+  {
+    "kotoba": "電飾看板",
+    "yomi": "でんしょく‐かんばん",
+    "link": "/word/%E9%9B%BB%E9%A3%BE%E7%9C%8B%E6%9D%BF/#jn-293220"
+  },
+  {
+    "kotoba": "伝書鳩",
+    "yomi": "でんしょ‐ばと",
+    "link": "/word/%E4%BC%9D%E6%9B%B8%E9%B3%A9/#jn-153811"
+  },
+  {
+    "kotoba": "電子陽電子衝突型加速器",
+    "yomi": "でんしようでんししょうとつがた‐かそくき",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E9%99%BD%E9%9B%BB%E5%AD%90%E8%A1%9D%E7%AA%81%E5%9E%8B%E5%8A%A0%E9%80%9F%E5%99%A8/#jn-243717"
+  },
+  {
+    "kotoba": "電子旅券",
+    "yomi": "でんし‐りょけん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E6%97%85%E5%88%B8/#jn-247319"
+  },
+  {
+    "kotoba": "電子冷凍",
+    "yomi": "でんし‐れいとう",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E5%86%B7%E5%87%8D/#jn-153818"
+  },
+  {
+    "kotoba": "電子論",
+    "yomi": "でんし‐ろん",
+    "link": "/word/%E9%9B%BB%E5%AD%90%E8%AB%96/#jn-153821"
+  },
+  {
+    "kotoba": "田紳",
+    "yomi": "でん‐しん",
+    "link": "/word/%E7%94%B0%E7%B4%B3/#jn-153833"
+  },
+  {
+    "kotoba": "電信",
+    "yomi": "でん‐しん",
+    "link": "/word/%E9%9B%BB%E4%BF%A1/#jn-153834"
+  },
+  {
+    "kotoba": "電信売相場",
+    "yomi": "でんしん‐うりそうば",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E5%A3%B2%E7%9B%B8%E5%A0%B4/#jn-153835"
+  },
+  {
+    "kotoba": "電信回線",
+    "yomi": "でんしん‐かいせん",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E5%9B%9E%E7%B7%9A/#jn-153836"
+  },
+  {
+    "kotoba": "電信買相場",
+    "yomi": "でんしん‐かいそうば",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E8%B2%B7%E7%9B%B8%E5%A0%B4/#jn-153837"
+  },
+  {
+    "kotoba": "電信為替",
+    "yomi": "でんしん‐かわせ",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E7%82%BA%E6%9B%BF/#jn-153838"
+  },
+  {
+    "kotoba": "電信機",
+    "yomi": "でんしん‐き",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E6%A9%9F/#jn-153839"
+  },
+  {
+    "kotoba": "伝真言院両界曼荼羅",
+    "yomi": "でんしんごんいんりょうかいまんだら",
+    "link": "/word/%E4%BC%9D%E7%9C%9F%E8%A8%80%E9%99%A2%E4%B8%A1%E7%95%8C%E6%9B%BC%E8%8D%BC%E7%BE%85/#jn-294971"
+  },
+  {
+    "kotoba": "電信電話技術委員会",
+    "yomi": "でんしんでんわ‐ぎじゅついいんかい",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E9%9B%BB%E8%A9%B1%E6%8A%80%E8%A1%93%E5%A7%94%E5%93%A1%E4%BC%9A/#jn-263909"
+  },
+  {
+    "kotoba": "電信柱",
+    "yomi": "でんしん‐ばしら",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E6%9F%B1/#jn-153850"
+  },
+  {
+    "kotoba": "電信符号",
+    "yomi": "でんしん‐ふごう",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E7%AC%A6%E5%8F%B7/#jn-153852"
+  },
+  {
+    "kotoba": "電信方程式",
+    "yomi": "でんしん‐ほうていしき",
+    "link": "/word/%E9%9B%BB%E4%BF%A1%E6%96%B9%E7%A8%8B%E5%BC%8F/#jn-289568"
+  },
+  {
+    "kotoba": "田紳有楽",
+    "yomi": "でんしんゆうらく",
+    "link": "/word/%E7%94%B0%E7%B4%B3%E6%9C%89%E6%A5%BD/#jn-269174"
+  },
+  {
+    "kotoba": "田地",
+    "yomi": "でん‐じ",
+    "link": "/word/%E7%94%B0%E5%9C%B0/#jn-153544"
+  },
+  {
+    "kotoba": "伝持",
+    "yomi": "でん‐じ",
+    "link": "/word/%E4%BC%9D%E6%8C%81/#jn-153545"
+  },
+  {
+    "kotoba": "電磁",
+    "yomi": "でん‐じ",
+    "link": "/word/%E9%9B%BB%E7%A3%81/#jn-153546"
+  },
+  {
+    "kotoba": "電磁界",
+    "yomi": "でんじ‐かい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%95%8C/#jn-243711"
+  },
+  {
+    "kotoba": "電磁環境適合性",
+    "yomi": "でんじかんきょう‐てきごうせい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%92%B0%E5%A2%83%E9%81%A9%E5%90%88%E6%80%A7/#jn-263897"
+  },
+  {
+    "kotoba": "電磁環境両立性",
+    "yomi": "でんじかんきょう‐りょうりつせい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%92%B0%E5%A2%83%E4%B8%A1%E7%AB%8B%E6%80%A7/#jn-247308"
+  },
+  {
+    "kotoba": "電磁感応",
+    "yomi": "でんじ‐かんのう",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%84%9F%E5%BF%9C/#jn-153559"
+  },
+  {
+    "kotoba": "電磁気",
+    "yomi": "でんじ‐き",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B0%97/#jn-153563"
+  },
+  {
+    "kotoba": "電磁気学",
+    "yomi": "でんじき‐がく",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B0%97%E5%AD%A6/#jn-153564"
+  },
+  {
+    "kotoba": "電磁気力",
+    "yomi": "でんじき‐りょく",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B0%97%E5%8A%9B/#jn-241050"
+  },
+  {
+    "kotoba": "電磁継電器",
+    "yomi": "でんじ‐けいでんき",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%B6%99%E9%9B%BB%E5%99%A8/#jn-261580"
+  },
+  {
+    "kotoba": "電磁鋼",
+    "yomi": "でんじ‐こう",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E9%8B%BC/#jn-247309"
+  },
+  {
+    "kotoba": "電磁鋼板",
+    "yomi": "でんじ‐こうばん",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E9%8B%BC%E6%9D%BF/#jn-247310"
+  },
+  {
+    "kotoba": "電磁石",
+    "yomi": "でん‐じしゃく",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%9F%B3/#jn-153600"
+  },
+  {
+    "kotoba": "電磁遮蔽",
+    "yomi": "でんじ‐しゃへい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E9%81%AE%E8%94%BD/#jn-153602"
+  },
+  {
+    "kotoba": "電磁推進",
+    "yomi": "でんじ‐すいしん",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%8E%A8%E9%80%B2/#jn-277827"
+  },
+  {
+    "kotoba": "田字草",
+    "yomi": "でんじ‐そう",
+    "link": "/word/%E7%94%B0%E5%AD%97%E8%8D%89/#jn-153622"
+  },
+  {
+    "kotoba": "電磁相互作用",
+    "yomi": "でんじ‐そうごさよう",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8/#jn-153623"
+  },
+  {
+    "kotoba": "電磁単位",
+    "yomi": "でんじ‐たんい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E5%8D%98%E4%BD%8D/#jn-153625"
+  },
+  {
+    "kotoba": "電磁調理器",
+    "yomi": "でんじ‐ちょうりき",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E8%AA%BF%E7%90%86%E5%99%A8/#jn-283623"
+  },
+  {
+    "kotoba": "電磁的記録",
+    "yomi": "でんじてき‐きろく",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%9A%84%E8%A8%98%E9%8C%B2/#jn-153633"
+  },
+  {
+    "kotoba": "電磁的記録不正供用罪",
+    "yomi": "でんじてききろくふせいきょうよう‐ざい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%9A%84%E8%A8%98%E9%8C%B2%E4%B8%8D%E6%AD%A3%E4%BE%9B%E7%94%A8%E7%BD%AA/#jn-153634"
+  },
+  {
+    "kotoba": "電磁的記録不正作出罪",
+    "yomi": "でんじてききろくふせいさくしゅつ‐ざい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%9A%84%E8%A8%98%E9%8C%B2%E4%B8%8D%E6%AD%A3%E4%BD%9C%E5%87%BA%E7%BD%AA/#jn-153636"
+  },
+  {
+    "kotoba": "電磁的公正証書原本不実記録罪",
+    "yomi": "でんじてきこうせいしょうしょげんぽんふじつきろく‐ざい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E7%9A%84%E5%85%AC%E6%AD%A3%E8%A8%BC%E6%9B%B8%E5%8E%9F%E6%9C%AC%E4%B8%8D%E5%AE%9F%E8%A8%98%E9%8C%B2%E7%BD%AA/#jn-243714"
+  },
+  {
+    "kotoba": "電磁適合性",
+    "yomi": "でんじ‐てきごうせい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E9%81%A9%E5%90%88%E6%80%A7/#jn-263901"
+  },
+  {
+    "kotoba": "田地田畑",
+    "yomi": "でんじ‐でんぱた",
+    "link": "/word/%E7%94%B0%E5%9C%B0%E7%94%B0%E7%95%91/#jn-302088"
+  },
+  {
+    "kotoba": "電磁波",
+    "yomi": "でんじ‐は",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B3%A2/#jn-153654"
+  },
+  {
+    "kotoba": "電磁波解析攻撃",
+    "yomi": "でんじはかいせき‐こうげき",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B3%A2%E8%A7%A3%E6%9E%90%E6%94%BB%E6%92%83/#jn-266464"
+  },
+  {
+    "kotoba": "電磁波盗聴攻撃",
+    "yomi": "でんじはとうちょう‐こうげき",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B3%A2%E7%9B%97%E8%81%B4%E6%94%BB%E6%92%83/#jn-153658"
+  },
+  {
+    "kotoba": "電磁場",
+    "yomi": "でんじ‐ば",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E5%A0%B4/#jn-153655"
+  },
+  {
+    "kotoba": "電磁弁",
+    "yomi": "でんじ‐べん",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E5%BC%81/#jn-263907"
+  },
+  {
+    "kotoba": "電磁方程式",
+    "yomi": "でんじ‐ほうていしき",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%96%B9%E7%A8%8B%E5%BC%8F/#jn-241061"
+  },
+  {
+    "kotoba": "電磁妨害",
+    "yomi": "でんじ‐ぼうがい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E5%A6%A8%E5%AE%B3/#jn-153671"
+  },
+  {
+    "kotoba": "電弱統一理論",
+    "yomi": "でんじゃくとういつ‐りろん",
+    "link": "/word/%E9%9B%BB%E5%BC%B1%E7%B5%B1%E4%B8%80%E7%90%86%E8%AB%96/#jn-153695"
+  },
+  {
+    "kotoba": "電弱理論",
+    "yomi": "でんじゃく‐りろん",
+    "link": "/word/%E9%9B%BB%E5%BC%B1%E7%90%86%E8%AB%96/#jn-241063"
+  },
+  {
+    "kotoba": "伝受",
+    "yomi": "でん‐じゅ",
+    "link": "/word/%E4%BC%9D%E5%8F%97/#jn-153713"
+  },
+  {
+    "kotoba": "伝授",
+    "yomi": "でん‐じゅ",
+    "link": "/word/%E4%BC%9D%E6%8E%88/#jn-153714"
+  },
+  {
+    "kotoba": "伝授事",
+    "yomi": "でんじゅ‐ごと",
+    "link": "/word/%E4%BC%9D%E6%8E%88%E4%BA%8B/#jn-153730"
+  },
+  {
+    "kotoba": "伝授物",
+    "yomi": "でんじゅ‐もの",
+    "link": "/word/%E4%BC%9D%E6%8E%88%E7%89%A9/#jn-153737"
+  },
+  {
+    "kotoba": "電磁誘導",
+    "yomi": "でんじ‐ゆうどう",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E/#jn-153720"
+  },
+  {
+    "kotoba": "電磁誘導加熱",
+    "yomi": "でんじゆうどう‐かねつ",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E5%8A%A0%E7%86%B1/#jn-153721"
+  },
+  {
+    "kotoba": "電磁誘導検査",
+    "yomi": "でんじゆうどう‐けんさ",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E6%A4%9C%E6%9F%BB/#jn-283624"
+  },
+  {
+    "kotoba": "電磁誘導試験",
+    "yomi": "でんじゆうどう‐しけん",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E8%A9%A6%E9%A8%93/#jn-283625"
+  },
+  {
+    "kotoba": "電磁誘導充電",
+    "yomi": "でんじゆうどう‐じゅうでん",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E8%AA%98%E5%B0%8E%E5%85%85%E9%9B%BB/#jn-243716"
+  },
+  {
+    "kotoba": "殿上",
+    "yomi": "てん‐じょう",
+    "link": "/word/%E6%AE%BF%E4%B8%8A/#jn-153761"
+  },
+  {
+    "kotoba": "電場",
+    "yomi": "でん‐じょう",
+    "link": "/word/%E9%9B%BB%E5%A0%B4_%28%E3%81%A7%E3%82%93%E3%81%98%E3%82%87%E3%81%86%29/#jn-153766"
+  },
+  {
+    "kotoba": "電磁流体波",
+    "yomi": "でんじりゅうたい‐は",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B5%81%E4%BD%93%E6%B3%A2/#jn-241066"
+  },
+  {
+    "kotoba": "電磁流体発電",
+    "yomi": "でんじりゅうたい‐はつでん",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B5%81%E4%BD%93%E7%99%BA%E9%9B%BB/#jn-153813"
+  },
+  {
+    "kotoba": "電磁流体力学",
+    "yomi": "でんじりゅうたい‐りきがく",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/#jn-153814"
+  },
+  {
+    "kotoba": "電磁両立性",
+    "yomi": "でんじ‐りょうりつせい",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E4%B8%A1%E7%AB%8B%E6%80%A7/#jn-247318"
+  },
+  {
+    "kotoba": "電磁力",
+    "yomi": "でんじ‐りょく",
+    "link": "/word/%E9%9B%BB%E7%A3%81%E5%8A%9B/#jn-153815"
+  },
+  {
+    "kotoba": "電事連",
+    "yomi": "でん‐じ‐れん",
+    "link": "/word/%E9%9B%BB%E4%BA%8B%E9%80%A3/#jn-241067"
+  },
+  {
+    "kotoba": "殿主",
+    "yomi": "でん‐す",
+    "link": "/word/%E6%AE%BF%E4%B8%BB/#jn-153859"
+  },
+  {
+    "kotoba": "伝助",
+    "yomi": "でんすけ",
+    "link": "/word/%E4%BC%9D%E5%8A%A9/#jn-153869"
+  },
+  {
+    "kotoba": "伝助賭博",
+    "yomi": "でんすけ‐とばく",
+    "link": "/word/%E4%BC%9D%E5%8A%A9%E8%B3%AD%E5%8D%9A/#jn-153870"
+  },
+  {
+    "kotoba": "田捨女",
+    "yomi": "でん‐すてじょ",
+    "link": "/word/person/%E7%94%B0%E6%8D%A8%E5%A5%B3/#jn-153871"
+  },
+  {
+    "kotoba": "田図",
+    "yomi": "でん‐ず",
+    "link": "/word/%E7%94%B0%E5%9B%B3/#jn-153860"
+  },
+  {
+    "kotoba": "伝通院",
+    "yomi": "でんずう‐いん",
+    "link": "/word/%E4%BC%9D%E9%80%9A%E9%99%A2/#jn-153868"
+  },
+  {
+    "kotoba": "田制",
+    "yomi": "でん‐せい",
+    "link": "/word/%E7%94%B0%E5%88%B6/#jn-153886"
+  },
+  {
+    "kotoba": "田斉",
+    "yomi": "でん‐せい",
+    "link": "/word/%E7%94%B0%E6%96%89/#jn-153887"
+  },
+  {
+    "kotoba": "伝世",
+    "yomi": "でん‐せい",
+    "link": "/word/%E4%BC%9D%E4%B8%96/#jn-153888"
+  },
+  {
+    "kotoba": "伝声",
+    "yomi": "でん‐せい",
+    "link": "/word/%E4%BC%9D%E5%A3%B0/#jn-153889"
+  },
+  {
+    "kotoba": "電請",
+    "yomi": "でん‐せい",
+    "link": "/word/%E9%9B%BB%E8%AB%8B/#jn-153890"
+  },
+  {
+    "kotoba": "黏臍",
+    "yomi": "でん‐せい",
+    "link": "/word/%E9%BB%8F%E8%87%8D/#jn-153891"
+  },
+  {
+    "kotoba": "伝声管",
+    "yomi": "でんせい‐かん",
+    "link": "/word/%E4%BC%9D%E5%A3%B0%E7%AE%A1/#jn-153892"
+  },
+  {
+    "kotoba": "伝世品",
+    "yomi": "でんせい‐ひん",
+    "link": "/word/%E4%BC%9D%E4%B8%96%E5%93%81/#jn-153894"
+  },
+  {
+    "kotoba": "田籍",
+    "yomi": "でん‐せき",
+    "link": "/word/%E7%94%B0%E7%B1%8D/#jn-153899"
+  },
+  {
+    "kotoba": "伝説",
+    "yomi": "でん‐せつ",
+    "link": "/word/%E4%BC%9D%E8%AA%AC/#jn-153903"
+  },
+  {
+    "kotoba": "伝説",
+    "yomi": "でんせつ",
+    "link": "/word/%E4%BC%9D%E8%AA%AC/#jn-291529"
+  },
+  {
+    "kotoba": "伝説的",
+    "yomi": "でんせつ‐てき",
+    "link": "/word/%E4%BC%9D%E8%AA%AC%E7%9A%84/#jn-269175"
+  },
+  {
+    "kotoba": "伝説的教訓劇",
+    "yomi": "でんせつてききょうくんげき",
+    "link": "/word/%E4%BC%9D%E8%AA%AC%E7%9A%84%E6%95%99%E8%A8%93%E5%8A%87/#jn-271617"
+  },
+  {
+    "kotoba": "伝染",
+    "yomi": "でん‐せん",
+    "link": "/word/%E4%BC%9D%E6%9F%93/#jn-153913"
+  },
+  {
+    "kotoba": "伝線",
+    "yomi": "でん‐せん",
+    "link": "/word/%E4%BC%9D%E7%B7%9A/#jn-153914"
+  },
+  {
+    "kotoba": "電閃",
+    "yomi": "でん‐せん",
+    "link": "/word/%E9%9B%BB%E9%96%83/#jn-153915"
+  },
+  {
+    "kotoba": "電線",
+    "yomi": "でん‐せん",
+    "link": "/word/%E9%9B%BB%E7%B7%9A/#jn-153916"
+  },
+  {
+    "kotoba": "伝染性",
+    "yomi": "でんせん‐せい",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7/#jn-153917"
+  },
+  {
+    "kotoba": "伝染性肝炎",
+    "yomi": "でんせんせい‐かんえん",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7%E8%82%9D%E7%82%8E/#jn-254679"
+  },
+  {
+    "kotoba": "伝染性感染症",
+    "yomi": "でんせんせい‐かんせんしょう",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7%E6%84%9F%E6%9F%93%E7%97%87/#jn-243719"
+  },
+  {
+    "kotoba": "伝染性下痢症",
+    "yomi": "でんせんせい‐げりしょう",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7%E4%B8%8B%E7%97%A2%E7%97%87/#jn-153918"
+  },
+  {
+    "kotoba": "伝染性紅斑",
+    "yomi": "でんせんせい‐こうはん",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7%E7%B4%85%E6%96%91/#jn-153919"
+  },
+  {
+    "kotoba": "伝染性単核症",
+    "yomi": "でんせんせい‐たんかくしょう",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7%E5%8D%98%E6%A0%B8%E7%97%87/#jn-153920"
+  },
+  {
+    "kotoba": "伝染性軟属腫",
+    "yomi": "でんせんせい‐なんぞくしゅ",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E6%80%A7%E8%BB%9F%E5%B1%9E%E8%85%AB/#jn-261582"
+  },
+  {
+    "kotoba": "伝染病",
+    "yomi": "でんせん‐びょう",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E7%97%85/#jn-153921"
+  },
+  {
+    "kotoba": "伝染病院",
+    "yomi": "でんせん‐びょういん",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E7%97%85%E9%99%A2/#jn-153922"
+  },
+  {
+    "kotoba": "伝染病研究所",
+    "yomi": "でんせんびょう‐けんきゅうじょ",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E7%97%85%E7%A0%94%E7%A9%B6%E6%89%80/#jn-153923"
+  },
+  {
+    "kotoba": "伝染病予防法",
+    "yomi": "でんせんびょうよぼう‐ほう",
+    "link": "/word/%E4%BC%9D%E6%9F%93%E7%97%85%E4%BA%88%E9%98%B2%E6%B3%95/#jn-153924"
+  },
+  {
+    "kotoba": "電線路",
+    "yomi": "でんせん‐ろ",
+    "link": "/word/%E9%9B%BB%E7%B7%9A%E8%B7%AF/#jn-263910"
+  },
+  {
+    "kotoba": "田租",
+    "yomi": "でん‐そ",
+    "link": "/word/%E7%94%B0%E7%A7%9F/#jn-153928"
+  },
+  {
+    "kotoba": "田鼠",
+    "yomi": "でん‐そ",
+    "link": "/word/%E7%94%B0%E9%BC%A0_%28%E3%81%A7%E3%82%93%E3%81%9D%29/#jn-153929"
+  },
+  {
+    "kotoba": "伝疏",
+    "yomi": "でん‐そ",
+    "link": "/word/%E4%BC%9D%E7%96%8F/#jn-153930"
+  },
+  {
+    "kotoba": "伝奏",
+    "yomi": "てん‐そう",
+    "link": "/word/%E4%BC%9D%E5%A5%8F/#jn-153931"
+  },
+  {
+    "kotoba": "田荘",
+    "yomi": "でん‐そう",
+    "link": "/word/%E7%94%B0%E8%8D%98/#jn-153935"
+  },
+  {
+    "kotoba": "伝送",
+    "yomi": "でん‐そう",
+    "link": "/word/%E4%BC%9D%E9%80%81/#jn-153936"
+  },
+  {
+    "kotoba": "電送",
+    "yomi": "でん‐そう",
+    "link": "/word/%E9%9B%BB%E9%80%81/#jn-153937"
+  },
+  {
+    "kotoba": "電装",
+    "yomi": "でん‐そう",
+    "link": "/word/%E9%9B%BB%E8%A3%85/#jn-153938"
+  },
+  {
+    "kotoba": "電槽",
+    "yomi": "でん‐そう",
+    "link": "/word/%E9%9B%BB%E6%A7%BD/#jn-153939"
+  },
+  {
+    "kotoba": "伝送速度",
+    "yomi": "でんそう‐そくど",
+    "link": "/word/%E4%BC%9D%E9%80%81%E9%80%9F%E5%BA%A6/#jn-153941"
+  },
+  {
+    "kotoba": "伝送損失",
+    "yomi": "でんそう‐そんしつ",
+    "link": "/word/%E4%BC%9D%E9%80%81%E6%90%8D%E5%A4%B1/#jn-254680"
+  },
+  {
+    "kotoba": "電束",
+    "yomi": "でん‐そく",
+    "link": "/word/%E9%9B%BB%E6%9D%9F/#jn-153950"
+  },
+  {
+    "kotoba": "電促税",
+    "yomi": "でんそく‐ぜい",
+    "link": "/word/%E9%9B%BB%E4%BF%83%E7%A8%8E/#jn-251360"
+  },
+  {
+    "kotoba": "電束電流",
+    "yomi": "でんそく‐でんりゅう",
+    "link": "/word/%E9%9B%BB%E6%9D%9F%E9%9B%BB%E6%B5%81/#jn-153951"
+  },
+  {
+    "kotoba": "電束密度",
+    "yomi": "でんそく‐みつど",
+    "link": "/word/%E9%9B%BB%E6%9D%9F%E5%AF%86%E5%BA%A6/#jn-153952"
+  },
+  {
+    "kotoba": "伝存",
+    "yomi": "でん‐そん",
+    "link": "/word/%E4%BC%9D%E5%AD%98/#jn-153956"
+  },
+  {
+    "kotoba": "田宅",
+    "yomi": "でん‐たく",
+    "link": "/word/%E7%94%B0%E5%AE%85/#jn-153992"
+  },
+  {
+    "kotoba": "電卓",
+    "yomi": "でん‐たく",
+    "link": "/word/%E9%9B%BB%E5%8D%93/#jn-153993"
+  },
+  {
+    "kotoba": "伝達",
+    "yomi": "でん‐たつ",
+    "link": "/word/%E4%BC%9D%E9%81%94/#jn-153995"
+  },
+  {
+    "kotoba": "伝達性海綿状脳症",
+    "yomi": "でんたつせい‐かいめんじょうのうしょう",
+    "link": "/word/%E4%BC%9D%E9%81%94%E6%80%A7%E6%B5%B7%E7%B6%BF%E7%8A%B6%E8%84%B3%E7%97%87/#jn-275909"
+  },
+  {
+    "kotoba": "伝達麻酔",
+    "yomi": "でんたつ‐ますい",
+    "link": "/word/%E4%BC%9D%E9%81%94%E9%BA%BB%E9%85%94/#jn-247321"
+  },
+  {
+    "kotoba": "田単",
+    "yomi": "でん‐たん",
+    "link": "/word/person/%E7%94%B0%E5%8D%98/#jn-154001"
+  },
+  {
+    "kotoba": "伝単",
+    "yomi": "でん‐たん",
+    "link": "/word/%E4%BC%9D%E5%8D%98/#jn-154002"
+  },
+  {
+    "kotoba": "電探",
+    "yomi": "でん‐たん",
+    "link": "/word/%E9%9B%BB%E6%8E%A2/#jn-154003"
+  },
+  {
+    "kotoba": "田地",
+    "yomi": "でん‐ち",
+    "link": "/word/%E7%94%B0%E5%9C%B0/#jn-154008"
+  },
+  {
+    "kotoba": "電池",
+    "yomi": "でん‐ち",
+    "link": "/word/%E9%9B%BB%E6%B1%A0/#jn-154009"
+  },
+  {
+    "kotoba": "電池活物質",
+    "yomi": "でんち‐かつぶっしつ",
+    "link": "/word/%E9%9B%BB%E6%B1%A0%E6%B4%BB%E7%89%A9%E8%B3%AA/#jn-277828"
+  },
+  {
+    "kotoba": "電蓄",
+    "yomi": "でん‐ちく",
+    "link": "/word/%E9%9B%BB%E8%93%84/#jn-154013"
+  },
+  {
+    "kotoba": "電着",
+    "yomi": "でん‐ちゃく",
+    "link": "/word/%E9%9B%BB%E7%9D%80/#jn-154027"
+  },
+  {
+    "kotoba": "電着植毛",
+    "yomi": "でんちゃく‐しょくもう",
+    "link": "/word/%E9%9B%BB%E7%9D%80%E6%A4%8D%E6%AF%9B/#jn-302089"
+  },
+  {
+    "kotoba": "電着塗装",
+    "yomi": "でんちゃく‐とそう",
+    "link": "/word/%E9%9B%BB%E7%9D%80%E5%A1%97%E8%A3%85/#jn-154029"
+  },
+  {
+    "kotoba": "電着塗料",
+    "yomi": "でんちゃく‐とりょう",
+    "link": "/word/%E9%9B%BB%E7%9D%80%E5%A1%97%E6%96%99/#jn-247323"
+  },
+  {
+    "kotoba": "田疇",
+    "yomi": "でん‐ちゅう",
+    "link": "/word/%E7%94%B0%E7%96%87/#jn-154033"
+  },
+  {
+    "kotoba": "殿中",
+    "yomi": "でん‐ちゅう",
+    "link": "/word/%E6%AE%BF%E4%B8%AD/#jn-154034"
+  },
+  {
+    "kotoba": "電柱",
+    "yomi": "でん‐ちゅう",
+    "link": "/word/%E9%9B%BB%E6%9F%B1/#jn-154035"
+  },
+  {
+    "kotoba": "電鋳",
+    "yomi": "でん‐ちゅう",
+    "link": "/word/%E9%9B%BB%E9%8B%B3/#jn-154036"
+  },
+  {
+    "kotoba": "電鋳版",
+    "yomi": "でんちゅう‐ばん",
+    "link": "/word/%E9%9B%BB%E9%8B%B3%E7%89%88/#jn-154040"
+  },
+  {
+    "kotoba": "電帳法",
+    "yomi": "でんちょう‐ほう",
+    "link": "/word/%E9%9B%BB%E5%B8%B3%E6%B3%95/#jn-300875"
+  },
+  {
+    "kotoba": "電通大",
+    "yomi": "でんつう‐だい",
+    "link": "/word/%E9%9B%BB%E9%80%9A%E5%A4%A7/#jn-263913"
+  },
+  {
+    "kotoba": "伝通院",
+    "yomi": "でんづう‐いん",
+    "link": "/word/%E4%BC%9D%E9%80%9A%E9%99%A2/#jn-154054"
+  },
+  {
+    "kotoba": "伝逓",
+    "yomi": "でん‐てい",
+    "link": "/word/%E4%BC%9D%E9%80%93/#jn-154066"
+  },
+  {
+    "kotoba": "電停",
+    "yomi": "でん‐てい",
+    "link": "/word/%E9%9B%BB%E5%81%9C/#jn-154067"
+  },
+  {
+    "kotoba": "電霆",
+    "yomi": "でん‐てい",
+    "link": "/word/%E9%9B%BB%E9%9C%86/#jn-154068"
+  },
+  {
+    "kotoba": "電鉄",
+    "yomi": "でん‐てつ",
+    "link": "/word/%E9%9B%BB%E9%89%84/#jn-154076"
+  },
+  {
+    "kotoba": "蝸牛",
+    "yomi": "でんで‐むし",
+    "link": "/word/%E8%9D%B8%E7%89%9B_%28%E3%81%A7%E3%82%93%E3%81%A7%E3%82%80%E3%81%97%29/#jn-154080"
+  },
+  {
+    "kotoba": "電電公社",
+    "yomi": "でんでん‐こうしゃ",
+    "link": "/word/%E9%9B%BB%E9%9B%BB%E5%85%AC%E7%A4%BE/#jn-154089"
+  },
+  {
+    "kotoba": "蝸牛",
+    "yomi": "でんでん‐むし",
+    "link": "/word/%E8%9D%B8%E7%89%9B_%28%E3%81%A7%E3%82%93%E3%81%A7%E3%82%93%E3%82%80%E3%81%97%29/#jn-154093"
+  },
+  {
+    "kotoba": "田堵",
+    "yomi": "でん‐と",
+    "link": "/word/%E7%94%B0%E5%A0%B5/#jn-154098"
+  },
+  {
+    "kotoba": "電鍍",
+    "yomi": "でん‐と",
+    "link": "/word/%E9%9B%BB%E9%8D%8D/#jn-154099"
+  },
+  {
+    "kotoba": "伝灯",
+    "yomi": "でん‐とう",
+    "link": "/word/%E4%BC%9D%E7%81%AF/#jn-154116"
+  },
+  {
+    "kotoba": "伝統",
+    "yomi": "でん‐とう",
+    "link": "/word/%E4%BC%9D%E7%B5%B1/#jn-154117"
+  },
+  {
+    "kotoba": "電灯",
+    "yomi": "でん‐とう",
+    "link": "/word/%E9%9B%BB%E7%81%AF/#jn-154118"
+  },
+  {
+    "kotoba": "伝統医学",
+    "yomi": "でんとう‐いがく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E5%8C%BB%E5%AD%A6/#jn-154126"
+  },
+  {
+    "kotoba": "伝統医療",
+    "yomi": "でんとう‐いりょう",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E5%8C%BB%E7%99%82/#jn-154127"
+  },
+  {
+    "kotoba": "伝統楽器",
+    "yomi": "でんとう‐がっき",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E6%A5%BD%E5%99%A8/#jn-154130"
+  },
+  {
+    "kotoba": "伝統建築",
+    "yomi": "でんとう‐けんちく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E5%BB%BA%E7%AF%89/#jn-303260"
+  },
+  {
+    "kotoba": "伝統主義",
+    "yomi": "でんとう‐しゅぎ",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E4%B8%BB%E7%BE%A9/#jn-154141"
+  },
+  {
+    "kotoba": "伝統色",
+    "yomi": "でんとう‐しょく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E8%89%B2/#jn-251365"
+  },
+  {
+    "kotoba": "伝統食",
+    "yomi": "でんとう‐しょく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E9%A3%9F/#jn-251366"
+  },
+  {
+    "kotoba": "電灯線通信",
+    "yomi": "でんとうせん‐つうしん",
+    "link": "/word/%E9%9B%BB%E7%81%AF%E7%B7%9A%E9%80%9A%E4%BF%A1/#jn-154145"
+  },
+  {
+    "kotoba": "電灯線搬送通信",
+    "yomi": "でんとうせん‐はんそうつうしん",
+    "link": "/word/%E9%9B%BB%E7%81%AF%E7%B7%9A%E6%90%AC%E9%80%81%E9%80%9A%E4%BF%A1/#jn-154147"
+  },
+  {
+    "kotoba": "伝統的",
+    "yomi": "でんとう‐てき",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E7%9A%84/#jn-269180"
+  },
+  {
+    "kotoba": "伝統的建造物群",
+    "yomi": "でんとうてき‐けんぞうぶつぐん",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E7%9A%84%E5%BB%BA%E9%80%A0%E7%89%A9%E7%BE%A4/#jn-154149"
+  },
+  {
+    "kotoba": "伝統的建造物群保存地区",
+    "yomi": "でんとうてきけんぞうぶつぐん‐ほぞんちく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E7%9A%84%E5%BB%BA%E9%80%A0%E7%89%A9%E7%BE%A4%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%8C%BA/#jn-154150"
+  },
+  {
+    "kotoba": "伝統的論理学",
+    "yomi": "でんとうてき‐ろんりがく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E7%9A%84%E8%AB%96%E7%90%86%E5%AD%A6/#jn-154151"
+  },
+  {
+    "kotoba": "伝統薬",
+    "yomi": "でんとう‐やく",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E8%96%AC/#jn-154164"
+  },
+  {
+    "kotoba": "伝統野菜",
+    "yomi": "でんとう‐やさい",
+    "link": "/word/%E4%BC%9D%E7%B5%B1%E9%87%8E%E8%8F%9C/#jn-251367"
+  },
+  {
+    "kotoba": "伝灯録",
+    "yomi": "でんとうろく",
+    "link": "/word/%E4%BC%9D%E7%81%AF%E9%8C%B2/#jn-154166"
+  },
+  {
+    "kotoba": "電突",
+    "yomi": "でん‐とつ",
+    "link": "/word/%E9%9B%BB%E7%AA%81/#jn-300876"
+  },
+  {
+    "kotoba": "伝動",
+    "yomi": "でん‐どう",
+    "link": "/word/%E4%BC%9D%E5%8B%95/#jn-154119"
+  },
+  {
+    "kotoba": "伝道",
+    "yomi": "でん‐どう",
+    "link": "/word/%E4%BC%9D%E9%81%93/#jn-154120"
+  },
+  {
+    "kotoba": "伝導",
+    "yomi": "でん‐どう",
+    "link": "/word/%E4%BC%9D%E5%B0%8E/#jn-154121"
+  },
+  {
+    "kotoba": "殿堂",
+    "yomi": "でん‐どう",
+    "link": "/word/%E6%AE%BF%E5%A0%82/#jn-154122"
+  },
+  {
+    "kotoba": "電動",
+    "yomi": "でん‐どう",
+    "link": "/word/%E9%9B%BB%E5%8B%95/#jn-154123"
+  },
+  {
+    "kotoba": "伝道会",
+    "yomi": "でんどう‐かい",
+    "link": "/word/%E4%BC%9D%E9%81%93%E4%BC%9A/#jn-154129"
+  },
+  {
+    "kotoba": "伝導加熱",
+    "yomi": "でんどう‐かねつ",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E5%8A%A0%E7%86%B1/#jn-293223"
+  },
+  {
+    "kotoba": "伝導過熱",
+    "yomi": "でんどう‐かねつ",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E9%81%8E%E7%86%B1/#jn-293224"
+  },
+  {
+    "kotoba": "電動機",
+    "yomi": "でんどう‐き",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E6%A9%9F/#jn-154133"
+  },
+  {
+    "kotoba": "電動車椅子",
+    "yomi": "でんどう‐くるまいす",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E8%BB%8A%E6%A4%85%E5%AD%90/#jn-273819"
+  },
+  {
+    "kotoba": "伝道師",
+    "yomi": "でんどう‐し",
+    "link": "/word/%E4%BC%9D%E9%81%93%E5%B8%AB/#jn-154135"
+  },
+  {
+    "kotoba": "電動子",
+    "yomi": "でんどう‐し",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E5%AD%90/#jn-154136"
+  },
+  {
+    "kotoba": "電動車",
+    "yomi": "でんどう‐しゃ",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E8%BB%8A/#jn-154140"
+  },
+  {
+    "kotoba": "電動自転車",
+    "yomi": "でんどう‐じてんしゃ",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E8%87%AA%E8%BB%A2%E8%BB%8A/#jn-154139"
+  },
+  {
+    "kotoba": "電動垂直離着陸機",
+    "yomi": "でんどう‐すいちょくりちゃくりくき",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E5%9E%82%E7%9B%B4%E9%9B%A2%E7%9D%80%E9%99%B8%E6%A9%9F/#jn-296643"
+  },
+  {
+    "kotoba": "電動垂直離着陸車両",
+    "yomi": "でんどう‐すいちょくりちゃくりく‐しゃりょう",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E5%9E%82%E7%9B%B4%E9%9B%A2%E7%9D%80%E9%99%B8%E8%BB%8A%E4%B8%A1/#jn-296644"
+  },
+  {
+    "kotoba": "伝動装置",
+    "yomi": "でんどう‐そうち",
+    "link": "/word/%E4%BC%9D%E5%8B%95%E8%A3%85%E7%BD%AE/#jn-154148"
+  },
+  {
+    "kotoba": "伝導体",
+    "yomi": "でんどう‐たい",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E4%BD%93/#jn-241071"
+  },
+  {
+    "kotoba": "伝導帯",
+    "yomi": "でんどう‐たい",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E5%B8%AF/#jn-261583"
+  },
+  {
+    "kotoba": "伝導電子",
+    "yomi": "でんどう‐でんし",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E9%9B%BB%E5%AD%90/#jn-154152"
+  },
+  {
+    "kotoba": "伝導伝熱",
+    "yomi": "でんどう‐でんねつ",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E4%BC%9D%E7%86%B1/#jn-243720"
+  },
+  {
+    "kotoba": "伝導電流",
+    "yomi": "でんどう‐でんりゅう",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E9%9B%BB%E6%B5%81/#jn-154153"
+  },
+  {
+    "kotoba": "伝導度",
+    "yomi": "でんどう‐ど",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E5%BA%A6/#jn-154154"
+  },
+  {
+    "kotoba": "電導度",
+    "yomi": "でんどう‐ど",
+    "link": "/word/%E9%9B%BB%E5%B0%8E%E5%BA%A6/#jn-154155"
+  },
+  {
+    "kotoba": "電動二輪車",
+    "yomi": "でんどう‐にりんしゃ",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E4%BA%8C%E8%BC%AA%E8%BB%8A/#jn-303262"
+  },
+  {
+    "kotoba": "電動発電機",
+    "yomi": "でんどう‐はつでんき",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E7%99%BA%E9%9B%BB%E6%A9%9F/#jn-154158"
+  },
+  {
+    "kotoba": "電動弁",
+    "yomi": "でんどう‐べん",
+    "link": "/word/%E9%9B%BB%E5%8B%95%E5%BC%81/#jn-263915"
+  },
+  {
+    "kotoba": "伝導率",
+    "yomi": "でんどう‐りつ",
+    "link": "/word/%E4%BC%9D%E5%B0%8E%E7%8E%87/#jn-154165"
+  },
+  {
+    "kotoba": "電導率",
+    "yomi": "でんどう‐りつ",
+    "link": "/word/%E9%9B%BB%E5%B0%8E%E7%8E%87/#jn-247328"
+  },
+  {
+    "kotoba": "電熱",
+    "yomi": "でん‐ねつ",
+    "link": "/word/%E9%9B%BB%E7%86%B1/#jn-154204"
+  },
+  {
+    "kotoba": "伝熱",
+    "yomi": "でん‐ねつ",
+    "link": "/word/%E4%BC%9D%E7%86%B1/#jn-243722"
+  },
+  {
+    "kotoba": "電熱温床",
+    "yomi": "でんねつ‐おんしょう",
+    "link": "/word/%E9%9B%BB%E7%86%B1%E6%B8%A9%E5%BA%8A/#jn-154205"
+  },
+  {
+    "kotoba": "電熱器",
+    "yomi": "でんねつ‐き",
+    "link": "/word/%E9%9B%BB%E7%86%B1%E5%99%A8/#jn-154206"
+  },
+  {
+    "kotoba": "伝熱媒体",
+    "yomi": "でんねつ‐ばいたい",
+    "link": "/word/%E4%BC%9D%E7%86%B1%E5%AA%92%E4%BD%93/#jn-254682"
+  },
+  {
+    "kotoba": "電脳",
+    "yomi": "でん‐のう",
+    "link": "/word/%E9%9B%BB%E8%84%B3/#jn-243723"
+  },
+  {
+    "kotoba": "電脳空間",
+    "yomi": "でんのう‐くうかん",
+    "link": "/word/%E9%9B%BB%E8%84%B3%E7%A9%BA%E9%96%93/#jn-154245"
+  },
+  {
+    "kotoba": "電脳文化",
+    "yomi": "でんのう‐ぶんか",
+    "link": "/word/%E9%9B%BB%E8%84%B3%E6%96%87%E5%8C%96/#jn-294972"
+  },
+  {
+    "kotoba": "電脳眼鏡",
+    "yomi": "でんのう‐めがね",
+    "link": "/word/%E9%9B%BB%E8%84%B3%E7%9C%BC%E9%8F%A1/#jn-273822"
+  },
+  {
+    "kotoba": "電場",
+    "yomi": "でん‐ば",
+    "link": "/word/%E9%9B%BB%E5%A0%B4_%28%E3%81%A7%E3%82%93%E3%81%B0%29/#jn-154269"
+  },
+  {
+    "kotoba": "電媒質",
+    "yomi": "でんばい‐しつ",
+    "link": "/word/%E9%9B%BB%E5%AA%92%E8%B3%AA/#jn-154284"
+  },
+  {
+    "kotoba": "電媒定数",
+    "yomi": "でんばい‐ていすう",
+    "link": "/word/%E9%9B%BB%E5%AA%92%E5%AE%9A%E6%95%B0/#jn-154285"
+  },
+  {
+    "kotoba": "田畠",
+    "yomi": "でん‐ばく",
+    "link": "/word/%E7%94%B0%E7%95%A0/#jn-154291"
+  },
+  {
+    "kotoba": "田畑",
+    "yomi": "でん‐ぱた",
+    "link": "/word/%E7%94%B0%E7%95%91_%28%E3%81%A7%E3%82%93%E3%81%B1%E3%81%9F%29/#jn-154297"
+  },
+  {
+    "kotoba": "電場発光",
+    "yomi": "でんば‐はっこう",
+    "link": "/word/%E9%9B%BB%E5%A0%B4%E7%99%BA%E5%85%89/#jn-154308"
+  },
+  {
+    "kotoba": "伝播",
+    "yomi": "でん‐ぱ",
+    "link": "/word/%E4%BC%9D%E6%92%AD_%28%E3%81%A7%E3%82%93%E3%81%B1%29/#jn-154270"
+  },
+  {
+    "kotoba": "電波",
+    "yomi": "でん‐ぱ",
+    "link": "/word/%E9%9B%BB%E6%B3%A2/#jn-154271"
+  },
+  {
+    "kotoba": "電波暗室",
+    "yomi": "でんぱ‐あんしつ",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%9A%97%E5%AE%A4/#jn-243725"
+  },
+  {
+    "kotoba": "電波過疎地",
+    "yomi": "でんぱ‐かそち",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E9%81%8E%E7%96%8E%E5%9C%B0/#jn-281520"
+  },
+  {
+    "kotoba": "電波干渉計",
+    "yomi": "でんぱ‐かんしょうけい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E5%B9%B2%E6%B8%89%E8%A8%88/#jn-154286"
+  },
+  {
+    "kotoba": "電波監理",
+    "yomi": "でんぱ‐かんり",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E7%9B%A3%E7%90%86/#jn-154287"
+  },
+  {
+    "kotoba": "電波銀河",
+    "yomi": "でんぱ‐ぎんが",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E9%8A%80%E6%B2%B3/#jn-154288"
+  },
+  {
+    "kotoba": "電波銀座",
+    "yomi": "でんぱ‐ぎんざ",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E9%8A%80%E5%BA%A7/#jn-281521"
+  },
+  {
+    "kotoba": "電波系",
+    "yomi": "でんぱ‐けい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E7%B3%BB/#jn-254688"
+  },
+  {
+    "kotoba": "電波源",
+    "yomi": "でんぱ‐げん",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%BA%90/#jn-241076"
+  },
+  {
+    "kotoba": "電波高度計",
+    "yomi": "でんぱ‐こうどけい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E9%AB%98%E5%BA%A6%E8%A8%88/#jn-154293"
+  },
+  {
+    "kotoba": "電波航法",
+    "yomi": "でんぱ‐こうほう",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E8%88%AA%E6%B3%95/#jn-154294"
+  },
+  {
+    "kotoba": "電波産業会",
+    "yomi": "でんぱさんぎょう‐かい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E7%94%A3%E6%A5%AD%E4%BC%9A/#jn-154295"
+  },
+  {
+    "kotoba": "電波障害",
+    "yomi": "でんぱ‐しょうがい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E9%9A%9C%E5%AE%B3/#jn-154296"
+  },
+  {
+    "kotoba": "電波星",
+    "yomi": "でんぱ‐せい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%98%9F/#jn-241077"
+  },
+  {
+    "kotoba": "伝播損失",
+    "yomi": "でんぱ‐そんしつ",
+    "link": "/word/%E4%BC%9D%E6%92%AD%E6%90%8D%E5%A4%B1/#jn-254689"
+  },
+  {
+    "kotoba": "電波族",
+    "yomi": "でんぱ‐ぞく",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%97%8F/#jn-283630"
+  },
+  {
+    "kotoba": "田畑永代売買禁止令",
+    "yomi": "でんぱたえいたいばいばい‐きんしれい",
+    "link": "/word/%E7%94%B0%E7%95%91%E6%B0%B8%E4%BB%A3%E5%A3%B2%E8%B2%B7%E7%A6%81%E6%AD%A2%E4%BB%A4/#jn-154298"
+  },
+  {
+    "kotoba": "電波探知機",
+    "yomi": "でんぱ‐たんちき",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%8E%A2%E7%9F%A5%E6%A9%9F/#jn-154299"
+  },
+  {
+    "kotoba": "電髪",
+    "yomi": "でん‐ぱつ",
+    "link": "/word/%E9%9B%BB%E9%AB%AA/#jn-154302"
+  },
+  {
+    "kotoba": "電波天体",
+    "yomi": "でんぱ‐てんたい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E5%A4%A9%E4%BD%93/#jn-154304"
+  },
+  {
+    "kotoba": "電波天文学",
+    "yomi": "でんぱ‐てんもんがく",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E5%A4%A9%E6%96%87%E5%AD%A6/#jn-154305"
+  },
+  {
+    "kotoba": "電波伝搬",
+    "yomi": "でんぱ‐でんぱん",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E4%BC%9D%E6%90%AC/#jn-281522"
+  },
+  {
+    "kotoba": "電波塔",
+    "yomi": "でんぱ‐とう",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E5%A1%94/#jn-154306"
+  },
+  {
+    "kotoba": "電波時計",
+    "yomi": "でんぱ‐どけい",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%99%82%E8%A8%88/#jn-154307"
+  },
+  {
+    "kotoba": "電波標識",
+    "yomi": "でんぱ‐ひょうしき",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%A8%99%E8%AD%98/#jn-154309"
+  },
+  {
+    "kotoba": "電波兵器",
+    "yomi": "でんぱ‐へいき",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E5%85%B5%E5%99%A8/#jn-154310"
+  },
+  {
+    "kotoba": "電波法",
+    "yomi": "でんぱ‐ほう",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%B3%95/#jn-154312"
+  },
+  {
+    "kotoba": "電波望遠鏡",
+    "yomi": "でんぱ‐ぼうえんきょう",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E6%9C%9B%E9%81%A0%E9%8F%A1/#jn-154313"
+  },
+  {
+    "kotoba": "電波無響室",
+    "yomi": "でんぱ‐むきょうしつ",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E7%84%A1%E9%9F%BF%E5%AE%A4/#jn-243726"
+  },
+  {
+    "kotoba": "電波誘導",
+    "yomi": "でんぱ‐ゆうどう",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E8%AA%98%E5%B0%8E/#jn-154314"
+  },
+  {
+    "kotoba": "電波利用料",
+    "yomi": "でんぱ‐りようりょう",
+    "link": "/word/%E9%9B%BB%E6%B3%A2%E5%88%A9%E7%94%A8%E6%96%99/#jn-154315"
+  },
+  {
+    "kotoba": "伝搬",
+    "yomi": "でん‐ぱん",
+    "link": "/word/%E4%BC%9D%E6%90%AC/#jn-154320"
+  },
+  {
+    "kotoba": "伝播",
+    "yomi": "でん‐ぱん",
+    "link": "/word/%E4%BC%9D%E6%92%AD_%28%E3%81%A7%E3%82%93%E3%81%B1%E3%82%93%29/#jn-154321"
+  },
+  {
+    "kotoba": "電費",
+    "yomi": "でん‐ぴ",
+    "link": "/word/%E9%9B%BB%E8%B2%BB/#jn-251370"
+  },
+  {
+    "kotoba": "電費計",
+    "yomi": "でんぴ‐けい",
+    "link": "/word/%E9%9B%BB%E8%B2%BB%E8%A8%88/#jn-251371"
+  },
+  {
+    "kotoba": "伝票",
+    "yomi": "でん‐ぴょう",
+    "link": "/word/%E4%BC%9D%E7%A5%A8/#jn-154333"
+  },
+  {
+    "kotoba": "田麩",
+    "yomi": "でん‐ぶ",
+    "link": "/word/%E7%94%B0%E9%BA%A9/#jn-154360"
+  },
+  {
+    "kotoba": "臀部",
+    "yomi": "でん‐ぶ",
+    "link": "/word/%E8%87%80%E9%83%A8/#jn-154361"
+  },
+  {
+    "kotoba": "田夫",
+    "yomi": "でん‐ぷ",
+    "link": "/word/%E7%94%B0%E5%A4%AB/#jn-154362"
+  },
+  {
+    "kotoba": "伝聞",
+    "yomi": "でん‐ぶん",
+    "link": "/word/%E4%BC%9D%E8%81%9E/#jn-154394"
+  },
+  {
+    "kotoba": "電文",
+    "yomi": "でん‐ぶん",
+    "link": "/word/%E9%9B%BB%E6%96%87/#jn-154395"
+  },
+  {
+    "kotoba": "伝聞証拠",
+    "yomi": "でんぶん‐しょうこ",
+    "link": "/word/%E4%BC%9D%E8%81%9E%E8%A8%BC%E6%8B%A0/#jn-154399"
+  },
+  {
+    "kotoba": "伝符",
+    "yomi": "でん‐ぷ",
+    "link": "/word/%E4%BC%9D%E7%AC%A6/#jn-154363"
+  },
+  {
+    "kotoba": "癜風",
+    "yomi": "でん‐ぷう",
+    "link": "/word/%E7%99%9C%E9%A2%A8/#jn-279658"
+  },
+  {
+    "kotoba": "甸服",
+    "yomi": "でん‐ぷく",
+    "link": "/word/%E7%94%B8%E6%9C%8D/#jn-154370"
+  },
+  {
+    "kotoba": "田夫野人",
+    "yomi": "でんぷ‐やじん",
+    "link": "/word/%E7%94%B0%E5%A4%AB%E9%87%8E%E4%BA%BA/#jn-154382"
+  },
+  {
+    "kotoba": "澱粉",
+    "yomi": "でん‐ぷん",
+    "link": "/word/%E6%BE%B1%E7%B2%89/#jn-154396"
+  },
+  {
+    "kotoba": "澱粉質",
+    "yomi": "でんぷん‐しつ",
+    "link": "/word/%E6%BE%B1%E7%B2%89%E8%B3%AA/#jn-154397"
+  },
+  {
+    "kotoba": "澱粉種子",
+    "yomi": "でんぷん‐しゅし",
+    "link": "/word/%E6%BE%B1%E7%B2%89%E7%A8%AE%E5%AD%90/#jn-154398"
+  },
+  {
+    "kotoba": "澱粉糖",
+    "yomi": "でんぷん‐とう",
+    "link": "/word/%E6%BE%B1%E7%B2%89%E7%B3%96/#jn-154400"
+  },
+  {
+    "kotoba": "澱粉糊",
+    "yomi": "でんぷん‐のり",
+    "link": "/word/%E6%BE%B1%E7%B2%89%E7%B3%8A/#jn-283631"
+  },
+  {
+    "kotoba": "澱粉葉",
+    "yomi": "でんぷん‐よう",
+    "link": "/word/%E6%BE%B1%E7%B2%89%E8%91%89/#jn-154402"
+  },
+  {
+    "kotoba": "電泡",
+    "yomi": "でん‐ほう",
+    "link": "/word/%E9%9B%BB%E6%B3%A1/#jn-154433"
+  },
+  {
+    "kotoba": "田畝",
+    "yomi": "でん‐ぽ",
+    "link": "/word/%E7%94%B0%E7%95%9D/#jn-154426"
+  },
+  {
+    "kotoba": "伝法",
+    "yomi": "でん‐ぽう",
+    "link": "/word/%E4%BC%9D%E6%B3%95/#jn-154435"
+  },
+  {
+    "kotoba": "伝法阿闍梨位",
+    "yomi": "でんぽう‐あじゃりい",
+    "link": "/word/%E4%BC%9D%E6%B3%95%E9%98%BF%E9%97%8D%E6%A2%A8%E4%BD%8D/#jn-154436"
+  },
+  {
+    "kotoba": "伝法院",
+    "yomi": "でんぼう‐いん",
+    "link": "/word/%E4%BC%9D%E6%B3%95%E9%99%A2/#jn-154437"
+  },
+  {
+    "kotoba": "伝法会",
+    "yomi": "でんぽう‐え",
+    "link": "/word/%E4%BC%9D%E6%B3%95%E4%BC%9A/#jn-154438"
+  },
+  {
+    "kotoba": "伝法灌頂",
+    "yomi": "でんぽう‐かんじょう",
+    "link": "/word/%E4%BC%9D%E6%B3%95%E7%81%8C%E9%A0%82/#jn-154440"
+  },
+  {
+    "kotoba": "伝法相承",
+    "yomi": "でんぽう‐そうじょう",
+    "link": "/word/%E4%BC%9D%E6%B3%95%E7%9B%B8%E6%89%BF/#jn-154447"
+  },
+  {
+    "kotoba": "伝法肌",
+    "yomi": "でんぽう‐はだ",
+    "link": "/word/%E4%BC%9D%E6%B3%95%E8%82%8C/#jn-154453"
+  },
+  {
+    "kotoba": "電牧",
+    "yomi": "でん‐ぼく",
+    "link": "/word/%E9%9B%BB%E7%89%A7/#jn-277831"
+  },
+  {
+    "kotoba": "電報",
+    "yomi": "でん‐ぽう",
+    "link": "/word/%E9%9B%BB%E5%A0%B1/#jn-154434"
+  },
+  {
+    "kotoba": "電報為替",
+    "yomi": "でんぽう‐がわせ",
+    "link": "/word/%E9%9B%BB%E5%A0%B1%E7%82%BA%E6%9B%BF/#jn-154439"
+  },
+  {
+    "kotoba": "電報託送",
+    "yomi": "でんぽう‐たくそう",
+    "link": "/word/%E9%9B%BB%E5%A0%B1%E8%A8%97%E9%80%81/#jn-154449"
+  },
+  {
+    "kotoba": "電報用紙",
+    "yomi": "でんぽう‐ようし",
+    "link": "/word/%E9%9B%BB%E5%A0%B1%E7%94%A8%E7%B4%99/#jn-154455"
+  },
+  {
+    "kotoba": "伝本",
+    "yomi": "でん‐ぽん",
+    "link": "/word/%E4%BC%9D%E6%9C%AC/#jn-154471"
+  },
+  {
+    "kotoba": "電命",
+    "yomi": "でん‐めい",
+    "link": "/word/%E9%9B%BB%E5%91%BD/#jn-154502"
+  },
+  {
+    "kotoba": "電鳴楽器",
+    "yomi": "でんめい‐がっき",
+    "link": "/word/%E9%9B%BB%E9%B3%B4%E6%A5%BD%E5%99%A8/#jn-251373"
+  },
+  {
+    "kotoba": "電目",
+    "yomi": "でん‐もく",
+    "link": "/word/%E9%9B%BB%E7%9B%AE/#jn-271625"
+  },
+  {
+    "kotoba": "田野",
+    "yomi": "でん‐や",
+    "link": "/word/%E7%94%B0%E9%87%8E/#jn-154543"
+  },
+  {
+    "kotoba": "伝来",
+    "yomi": "でん‐らい",
+    "link": "/word/%E4%BC%9D%E6%9D%A5/#jn-154564"
+  },
+  {
+    "kotoba": "電纜",
+    "yomi": "でん‐らん",
+    "link": "/word/%E9%9B%BB%E7%BA%9C/#jn-154568"
+  },
+  {
+    "kotoba": "電離",
+    "yomi": "でん‐り",
+    "link": "/word/%E9%9B%BB%E9%9B%A2/#jn-154574"
+  },
+  {
+    "kotoba": "電離圏",
+    "yomi": "でんり‐けん",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E5%9C%8F/#jn-241078"
+  },
+  {
+    "kotoba": "電離作用",
+    "yomi": "でんり‐さよう",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E4%BD%9C%E7%94%A8/#jn-154576"
+  },
+  {
+    "kotoba": "電離水素領域",
+    "yomi": "でんり‐すいそりょういき",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E6%B0%B4%E7%B4%A0%E9%A0%98%E5%9F%9F/#jn-243729"
+  },
+  {
+    "kotoba": "電離層",
+    "yomi": "でんり‐そう",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E5%B1%A4/#jn-154579"
+  },
+  {
+    "kotoba": "電離損失",
+    "yomi": "でんり‐そんしつ",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E6%90%8D%E5%A4%B1/#jn-247333"
+  },
+  {
+    "kotoba": "電離電流",
+    "yomi": "でんり‐でんりゅう",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E9%9B%BB%E6%B5%81/#jn-243730"
+  },
+  {
+    "kotoba": "電離度",
+    "yomi": "でんり‐ど",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E5%BA%A6/#jn-154581"
+  },
+  {
+    "kotoba": "電離箱",
+    "yomi": "でんり‐ばこ",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E7%AE%B1/#jn-154582"
+  },
+  {
+    "kotoba": "電離平衡",
+    "yomi": "でんり‐へいこう",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E5%B9%B3%E8%A1%A1/#jn-258514"
+  },
+  {
+    "kotoba": "電離放射線",
+    "yomi": "でんり‐ほうしゃせん",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E6%94%BE%E5%B0%84%E7%B7%9A/#jn-154583"
+  },
+  {
+    "kotoba": "電流",
+    "yomi": "でん‐りゅう",
+    "link": "/word/%E9%9B%BB%E6%B5%81/#jn-154588"
+  },
+  {
+    "kotoba": "電流協",
+    "yomi": "でんりゅう‐きょう",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E5%8D%94/#jn-299662"
+  },
+  {
+    "kotoba": "電流計",
+    "yomi": "でんりゅう‐けい",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E8%A8%88/#jn-154593"
+  },
+  {
+    "kotoba": "電流効率",
+    "yomi": "でんりゅう‐こうりつ",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E5%8A%B9%E7%8E%87/#jn-247334"
+  },
+  {
+    "kotoba": "電流生成菌",
+    "yomi": "でんりゅう‐せいせいきん",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E7%94%9F%E6%88%90%E8%8F%8C/#jn-285710"
+  },
+  {
+    "kotoba": "電流発生菌",
+    "yomi": "でんりゅう‐はっせいきん",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E7%99%BA%E7%94%9F%E8%8F%8C/#jn-285711"
+  },
+  {
+    "kotoba": "電流変成器",
+    "yomi": "でんりゅう‐へんせいき",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E5%A4%89%E6%88%90%E5%99%A8/#jn-271626"
+  },
+  {
+    "kotoba": "電流密度",
+    "yomi": "でんりゅう‐みつど",
+    "link": "/word/%E9%9B%BB%E6%B5%81%E5%AF%86%E5%BA%A6/#jn-154599"
+  },
+  {
+    "kotoba": "田猟",
+    "yomi": "でん‐りょう",
+    "link": "/word/%E7%94%B0%E7%8C%9F/#jn-154603"
+  },
+  {
+    "kotoba": "電量計",
+    "yomi": "でんりょう‐けい",
+    "link": "/word/%E9%9B%BB%E9%87%8F%E8%A8%88/#jn-241079"
+  },
+  {
+    "kotoba": "電力",
+    "yomi": "でん‐りょく",
+    "link": "/word/%E9%9B%BB%E5%8A%9B/#jn-154604"
+  },
+  {
+    "kotoba": "電力解析攻撃",
+    "yomi": "でんりょくかいせき‐こうげき",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E8%A7%A3%E6%9E%90%E6%94%BB%E6%92%83/#jn-289574"
+  },
+  {
+    "kotoba": "電力会社",
+    "yomi": "でんりょく‐がいしゃ",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E4%BC%9A%E7%A4%BE/#jn-269187"
+  },
+  {
+    "kotoba": "電力計",
+    "yomi": "でんりょく‐けい",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E8%A8%88/#jn-154605"
+  },
+  {
+    "kotoba": "電力系統",
+    "yomi": "でんりょく‐けいとう",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E7%B3%BB%E7%B5%B1/#jn-154606"
+  },
+  {
+    "kotoba": "電力系統利用協議会",
+    "yomi": "でんりょくけいとうりよう‐きょうぎかい",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E7%B3%BB%E7%B5%B1%E5%88%A9%E7%94%A8%E5%8D%94%E8%AD%B0%E4%BC%9A/#jn-258515"
+  },
+  {
+    "kotoba": "電力広域的運営推進機関",
+    "yomi": "でんりょく‐こういきてきうんえいすいしんきかん",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E5%BA%83%E5%9F%9F%E7%9A%84%E9%81%8B%E5%96%B6%E6%8E%A8%E9%80%B2%E6%A9%9F%E9%96%A2/#jn-279659"
+  },
+  {
+    "kotoba": "電力収穫",
+    "yomi": "でんりょく‐しゅうかく",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E5%8F%8E%E7%A9%AB/#jn-277833"
+  },
+  {
+    "kotoba": "電力使用制限令",
+    "yomi": "でんりょくしようせいげん‐れい",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E4%BD%BF%E7%94%A8%E5%88%B6%E9%99%90%E4%BB%A4/#jn-251374"
+  },
+  {
+    "kotoba": "電力需給逼迫警報",
+    "yomi": "でんりょくじゅきゅうひっぱく‐けいほう",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E9%9C%80%E7%B5%A6%E9%80%BC%E8%BF%AB%E8%AD%A6%E5%A0%B1/#jn-266475"
+  },
+  {
+    "kotoba": "電力自由化",
+    "yomi": "でんりょく‐じゆうか",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E8%87%AA%E7%94%B1%E5%8C%96/#jn-277832"
+  },
+  {
+    "kotoba": "電力線通信",
+    "yomi": "でんりょくせん‐つうしん",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E7%B7%9A%E9%80%9A%E4%BF%A1/#jn-154608"
+  },
+  {
+    "kotoba": "電力線搬送通信",
+    "yomi": "でんりょくせん‐はんそうつうしん",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E7%B7%9A%E6%90%AC%E9%80%81%E9%80%9A%E4%BF%A1/#jn-154610"
+  },
+  {
+    "kotoba": "電力取引監視等委員会",
+    "yomi": "でんりょくとりひきかんしとう‐いいんかい",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E5%8F%96%E5%BC%95%E7%9B%A3%E8%A6%96%E7%AD%89%E5%A7%94%E5%93%A1%E4%BC%9A/#jn-285713"
+  },
+  {
+    "kotoba": "電力用半導体素子",
+    "yomi": "でんりょくよう‐はんどうたいそし",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E7%94%A8%E5%8D%8A%E5%B0%8E%E4%BD%93%E7%B4%A0%E5%AD%90/#jn-283632"
+  },
+  {
+    "kotoba": "電力量",
+    "yomi": "でんりょく‐りょう",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E9%87%8F/#jn-243731"
+  },
+  {
+    "kotoba": "電力量計",
+    "yomi": "でんりょくりょう‐けい",
+    "link": "/word/%E9%9B%BB%E5%8A%9B%E9%87%8F%E8%A8%88/#jn-241080"
+  },
+  {
+    "kotoba": "電離療法",
+    "yomi": "でんり‐りょうほう",
+    "link": "/word/%E9%9B%BB%E9%9B%A2%E7%99%82%E6%B3%95/#jn-266476"
+  },
+  {
+    "kotoba": "伝令",
+    "yomi": "でん‐れい",
+    "link": "/word/%E4%BC%9D%E4%BB%A4/#jn-154623"
+  },
+  {
+    "kotoba": "電鈴",
+    "yomi": "でん‐れい",
+    "link": "/word/%E9%9B%BB%E9%88%B4/#jn-154624"
+  },
+  {
+    "kotoba": "電炉",
+    "yomi": "でん‐ろ",
+    "link": "/word/%E9%9B%BB%E7%82%89/#jn-154629"
+  },
+  {
+    "kotoba": "電路",
+    "yomi": "でん‐ろ",
+    "link": "/word/%E9%9B%BB%E8%B7%AF/#jn-154630"
+  },
+  {
+    "kotoba": "殿廊",
+    "yomi": "でん‐ろう",
+    "link": "/word/%E6%AE%BF%E5%BB%8A/#jn-154631"
+  },
+  {
+    "kotoba": "殿楼",
+    "yomi": "でん‐ろう",
+    "link": "/word/%E6%AE%BF%E6%A5%BC/#jn-154632"
+  },
+  {
+    "kotoba": "電話",
+    "yomi": "でん‐わ",
+    "link": "/word/%E9%9B%BB%E8%A9%B1/#jn-154640"
+  },
+  {
+    "kotoba": "電歪",
+    "yomi": "でん‐わい",
+    "link": "/word/%E9%9B%BB%E6%AD%AA/#jn-271628"
+  },
+  {
+    "kotoba": "電話会議",
+    "yomi": "でんわ‐かいぎ",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E4%BC%9A%E8%AD%B0/#jn-281524"
+  },
+  {
+    "kotoba": "電話加入権",
+    "yomi": "でんわ‐かにゅうけん",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E5%8A%A0%E5%85%A5%E6%A8%A9/#jn-247335"
+  },
+  {
+    "kotoba": "電話勧誘販売",
+    "yomi": "でんわかんゆう‐はんばい",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E5%8B%A7%E8%AA%98%E8%B2%A9%E5%A3%B2/#jn-258516"
+  },
+  {
+    "kotoba": "電話機",
+    "yomi": "でんわ‐き",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E6%A9%9F/#jn-154641"
+  },
+  {
+    "kotoba": "電話局",
+    "yomi": "でんわ‐きょく",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E5%B1%80/#jn-154642"
+  },
+  {
+    "kotoba": "電話口",
+    "yomi": "でんわ‐ぐち",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E5%8F%A3/#jn-154643"
+  },
+  {
+    "kotoba": "電話交換",
+    "yomi": "でんわ‐こうかん",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E4%BA%A4%E6%8F%9B/#jn-154644"
+  },
+  {
+    "kotoba": "電話交換手",
+    "yomi": "でんわ‐こうかんしゅ",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E4%BA%A4%E6%8F%9B%E6%89%8B/#jn-154645"
+  },
+  {
+    "kotoba": "電話帳",
+    "yomi": "でんわ‐ちょう",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E5%B8%B3/#jn-154646"
+  },
+  {
+    "kotoba": "電話調査",
+    "yomi": "でんわ‐ちょうさ",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E8%AA%BF%E6%9F%BB/#jn-299664"
+  },
+  {
+    "kotoba": "電話番号",
+    "yomi": "でんわ‐ばんごう",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7/#jn-154647"
+  },
+  {
+    "kotoba": "電話魔",
+    "yomi": "でんわ‐ま",
+    "link": "/word/%E9%9B%BB%E8%A9%B1%E9%AD%94/#jn-283634"
+  }
+]

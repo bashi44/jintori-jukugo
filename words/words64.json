@@ -1,0 +1,2192 @@
+[
+  {
+    "kotoba": "米庵",
+    "yomi": "べいあん",
+    "link": "/word/person/%E7%B1%B3%E5%BA%B5/#jn-197968"
+  },
+  {
+    "kotoba": "米運輸省高速道路交通安全局",
+    "yomi": "べいうんゆしょう‐こうそくどうろこうつうあんぜんきょく",
+    "link": "/word/%E7%B1%B3%E9%81%8B%E8%BC%B8%E7%9C%81%E9%AB%98%E9%80%9F%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%B1%80/#jn-241631"
+  },
+  {
+    "kotoba": "米塩",
+    "yomi": "べい‐えん",
+    "link": "/word/%E7%B1%B3%E5%A1%A9/#jn-197998"
+  },
+  {
+    "kotoba": "米価",
+    "yomi": "べい‐か",
+    "link": "/word/%E7%B1%B3%E4%BE%A1/#jn-198021"
+  },
+  {
+    "kotoba": "米菓",
+    "yomi": "べい‐か",
+    "link": "/word/%E7%B1%B3%E8%8F%93/#jn-198022"
+  },
+  {
+    "kotoba": "米貨",
+    "yomi": "べい‐か",
+    "link": "/word/%E7%B1%B3%E8%B2%A8/#jn-198023"
+  },
+  {
+    "kotoba": "米価審議会",
+    "yomi": "べいか‐しんぎかい",
+    "link": "/word/%E7%B1%B3%E4%BE%A1%E5%AF%A9%E8%AD%B0%E4%BC%9A/#jn-198036"
+  },
+  {
+    "kotoba": "米価調節",
+    "yomi": "べいか‐ちょうせつ",
+    "link": "/word/%E7%B1%B3%E4%BE%A1%E8%AA%BF%E7%AF%80/#jn-198037"
+  },
+  {
+    "kotoba": "米軍",
+    "yomi": "べい‐ぐん",
+    "link": "/word/%E7%B1%B3%E8%BB%8D/#jn-198099"
+  },
+  {
+    "kotoba": "米軍用地特措法",
+    "yomi": "べいぐんようち‐とくそほう",
+    "link": "/word/%E7%B1%B3%E8%BB%8D%E7%94%A8%E5%9C%B0%E7%89%B9%E6%8E%AA%E6%B3%95/#jn-198101"
+  },
+  {
+    "kotoba": "米券",
+    "yomi": "べい‐けん",
+    "link": "/word/%E7%B1%B3%E5%88%B8/#jn-198124"
+  },
+  {
+    "kotoba": "米国",
+    "yomi": "べい‐こく",
+    "link": "/word/%E7%B1%B3%E5%9B%BD/#jn-198168"
+  },
+  {
+    "kotoba": "米穀",
+    "yomi": "べい‐こく",
+    "link": "/word/%E7%B1%B3%E7%A9%80/#jn-198169"
+  },
+  {
+    "kotoba": "米国愛国者法",
+    "yomi": "べいこくあいこくしゃ‐ほう",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E6%84%9B%E5%9B%BD%E8%80%85%E6%B3%95/#jn-281905"
+  },
+  {
+    "kotoba": "米国運輸省道路交通安全局",
+    "yomi": "べいこくうんゆしょう‐どうろこうつうあんぜんきょく",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E9%81%8B%E8%BC%B8%E7%9C%81%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E5%B1%80/#jn-241633"
+  },
+  {
+    "kotoba": "米国会計基準",
+    "yomi": "べいこく‐かいけいきじゅん",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E4%BC%9A%E8%A8%88%E5%9F%BA%E6%BA%96/#jn-198170"
+  },
+  {
+    "kotoba": "米国科学者連盟",
+    "yomi": "べいこく‐かがくしゃれんめい",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E7%A7%91%E5%AD%A6%E8%80%85%E9%80%A3%E7%9B%9F/#jn-259403"
+  },
+  {
+    "kotoba": "米国科学振興協会",
+    "yomi": "べいこく‐かがくしんこうきょうかい",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8C%AF%E8%88%88%E5%8D%94%E4%BC%9A/#jn-198171"
+  },
+  {
+    "kotoba": "米国学士院",
+    "yomi": "べいこく‐がくしいん",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E5%AD%A6%E5%A3%AB%E9%99%A2/#jn-252266"
+  },
+  {
+    "kotoba": "米国軍政府",
+    "yomi": "べいこく‐ぐんせいふ",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E8%BB%8D%E6%94%BF%E5%BA%9C/#jn-248165"
+  },
+  {
+    "kotoba": "米穀検査",
+    "yomi": "べいこく‐けんさ",
+    "link": "/word/%E7%B1%B3%E7%A9%80%E6%A4%9C%E6%9F%BB/#jn-248166"
+  },
+  {
+    "kotoba": "米国国家規格協会",
+    "yomi": "べいこく‐こっかきかくきょうかい",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%A6%8F%E6%A0%BC%E5%8D%94%E4%BC%9A/#jn-244353"
+  },
+  {
+    "kotoba": "米国証券外務員資格試験",
+    "yomi": "べいこく‐しょうけんがいむいんしかくしけん",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E8%A8%BC%E5%88%B8%E5%A4%96%E5%8B%99%E5%93%A1%E8%B3%87%E6%A0%BC%E8%A9%A6%E9%A8%93/#jn-295302"
+  },
+  {
+    "kotoba": "米国中央情報局",
+    "yomi": "べいこく‐ちゅうおうじょうほうきょく",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80/#jn-286094"
+  },
+  {
+    "kotoba": "米国通商代表部",
+    "yomi": "べいこく‐つうしょうだいひょうぶ",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E9%80%9A%E5%95%86%E4%BB%A3%E8%A1%A8%E9%83%A8/#jn-198174"
+  },
+  {
+    "kotoba": "米穀通帳",
+    "yomi": "べいこく‐つうちょう",
+    "link": "/word/%E7%B1%B3%E7%A9%80%E9%80%9A%E5%B8%B3/#jn-198175"
+  },
+  {
+    "kotoba": "米国電気電子学会",
+    "yomi": "べいこく‐でんきでんしがっかい",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E5%AD%A6%E4%BC%9A/#jn-198176"
+  },
+  {
+    "kotoba": "米穀取引所",
+    "yomi": "べいこく‐とりひきじょ",
+    "link": "/word/%E7%B1%B3%E7%A9%80%E5%8F%96%E5%BC%95%E6%89%80/#jn-198177"
+  },
+  {
+    "kotoba": "米穀年度",
+    "yomi": "べいこく‐ねんど",
+    "link": "/word/%E7%B1%B3%E7%A9%80%E5%B9%B4%E5%BA%A6/#jn-198178"
+  },
+  {
+    "kotoba": "米国民政府",
+    "yomi": "べいこく‐みんせいふ",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E6%B0%91%E6%94%BF%E5%BA%9C/#jn-248167"
+  },
+  {
+    "kotoba": "米国預託証券",
+    "yomi": "べいこく‐よたくしょうけん",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E9%A0%90%E8%A8%97%E8%A8%BC%E5%88%B8/#jn-198179"
+  },
+  {
+    "kotoba": "米国立公文書館",
+    "yomi": "べいこくりつ‐こうぶんしょかん",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E6%96%87%E6%9B%B8%E9%A4%A8/#jn-295303"
+  },
+  {
+    "kotoba": "米国労働安全衛生研究所",
+    "yomi": "べいこく‐ろうどうあんぜんえいせいけんきゅうじょ",
+    "link": "/word/%E7%B1%B3%E5%9B%BD%E5%8A%B4%E5%83%8D%E5%AE%89%E5%85%A8%E8%A1%9B%E7%94%9F%E7%A0%94%E7%A9%B6%E6%89%80/#jn-252267"
+  },
+  {
+    "kotoba": "米語",
+    "yomi": "べい‐ご",
+    "link": "/word/%E7%B1%B3%E8%AA%9E/#jn-198135"
+  },
+  {
+    "kotoba": "貝独楽",
+    "yomi": "べい‐ごま",
+    "link": "/word/%E8%B2%9D%E7%8B%AC%E6%A5%BD_%28%E3%81%B9%E3%81%84%E3%81%94%E3%81%BE%29/#jn-198181"
+  },
+  {
+    "kotoba": "米作",
+    "yomi": "べい‐さく",
+    "link": "/word/%E7%B1%B3%E4%BD%9C/#jn-198192"
+  },
+  {
+    "kotoba": "米札",
+    "yomi": "べい‐さつ",
+    "link": "/word/%E7%B1%B3%E6%9C%AD/#jn-198196"
+  },
+  {
+    "kotoba": "米産",
+    "yomi": "べい‐さん",
+    "link": "/word/%E7%B1%B3%E7%94%A3/#jn-198201"
+  },
+  {
+    "kotoba": "米式蹴球",
+    "yomi": "べいしき‐しゅうきゅう",
+    "link": "/word/%E7%B1%B3%E5%BC%8F%E8%B9%B4%E7%90%83/#jn-198217"
+  },
+  {
+    "kotoba": "米収",
+    "yomi": "べい‐しゅう",
+    "link": "/word/%E7%B1%B3%E5%8F%8E/#jn-198239"
+  },
+  {
+    "kotoba": "米州",
+    "yomi": "べい‐しゅう",
+    "link": "/word/%E7%B1%B3%E5%B7%9E/#jn-198240"
+  },
+  {
+    "kotoba": "米州開発銀行",
+    "yomi": "べいしゅう‐かいはつぎんこう",
+    "link": "/word/%E7%B1%B3%E5%B7%9E%E9%96%8B%E7%99%BA%E9%8A%80%E8%A1%8C/#jn-296996"
+  },
+  {
+    "kotoba": "米州機構",
+    "yomi": "べいしゅう‐きこう",
+    "link": "/word/%E7%B1%B3%E5%B7%9E%E6%A9%9F%E6%A7%8B/#jn-198242"
+  },
+  {
+    "kotoba": "米州自由貿易圏",
+    "yomi": "べいしゅう‐じゆうぼうえきけん",
+    "link": "/word/%E7%B1%B3%E5%B7%9E%E8%87%AA%E7%94%B1%E8%B2%BF%E6%98%93%E5%9C%8F/#jn-289963"
+  },
+  {
+    "kotoba": "米州自由貿易地域",
+    "yomi": "べいしゅう‐じゆうぼうえきちいき",
+    "link": "/word/%E7%B1%B3%E5%B7%9E%E8%87%AA%E7%94%B1%E8%B2%BF%E6%98%93%E5%9C%B0%E5%9F%9F/#jn-289964"
+  },
+  {
+    "kotoba": "米商",
+    "yomi": "べい‐しょう",
+    "link": "/word/%E7%B1%B3%E5%95%86/#jn-198264"
+  },
+  {
+    "kotoba": "米食",
+    "yomi": "べい‐しょく",
+    "link": "/word/%E7%B1%B3%E9%A3%9F/#jn-198271"
+  },
+  {
+    "kotoba": "米寿",
+    "yomi": "べい‐じゅ",
+    "link": "/word/%E7%B1%B3%E5%AF%BF/#jn-198236"
+  },
+  {
+    "kotoba": "陪従",
+    "yomi": "べい‐じゅう",
+    "link": "/word/%E9%99%AA%E5%BE%93_%28%E3%81%B9%E3%81%84%E3%81%98%E3%82%85%E3%81%86%29/#jn-198241"
+  },
+  {
+    "kotoba": "米人",
+    "yomi": "べい‐じん",
+    "link": "/word/%E7%B1%B3%E4%BA%BA/#jn-198283"
+  },
+  {
+    "kotoba": "米杉",
+    "yomi": "べい‐すぎ",
+    "link": "/word/%E7%B1%B3%E6%9D%89/#jn-241636"
+  },
+  {
+    "kotoba": "米西戦争",
+    "yomi": "べいせい‐せんそう",
+    "link": "/word/%E7%B1%B3%E8%A5%BF%E6%88%A6%E4%BA%89/#jn-198309"
+  },
+  {
+    "kotoba": "米銭",
+    "yomi": "べい‐せん",
+    "link": "/word/%E7%B1%B3%E9%8A%AD/#jn-198319"
+  },
+  {
+    "kotoba": "米戦略軍",
+    "yomi": "べい‐せんりゃくぐん",
+    "link": "/word/%E7%B1%B3%E6%88%A6%E7%95%A5%E8%BB%8D/#jn-291931"
+  },
+  {
+    "kotoba": "米租",
+    "yomi": "べい‐そ",
+    "link": "/word/%E7%B1%B3%E7%A7%9F/#jn-198322"
+  },
+  {
+    "kotoba": "米太平洋軍",
+    "yomi": "べい‐たいへいようぐん",
+    "link": "/word/%E7%B1%B3%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%BB%8D/#jn-255232"
+  },
+  {
+    "kotoba": "米地区連銀経済報告書",
+    "yomi": "べいちくれんぎん‐けいざいほうこくしょ",
+    "link": "/word/%E7%B1%B3%E5%9C%B0%E5%8C%BA%E9%80%A3%E9%8A%80%E7%B5%8C%E6%B8%88%E5%A0%B1%E5%91%8A%E6%9B%B8/#jn-241639"
+  },
+  {
+    "kotoba": "米中央情報局",
+    "yomi": "べい‐ちゅうおうじょうほうきょく",
+    "link": "/word/%E7%B1%B3%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80/#jn-198359"
+  },
+  {
+    "kotoba": "米中戦略経済対話",
+    "yomi": "べいちゅう‐せんりゃくけいざいたいわ",
+    "link": "/word/%E7%B1%B3%E4%B8%AD%E6%88%A6%E7%95%A5%E7%B5%8C%E6%B8%88%E5%AF%BE%E8%A9%B1/#jn-198360"
+  },
+  {
+    "kotoba": "米通貨監督庁",
+    "yomi": "べい‐つうかかんとくちょう",
+    "link": "/word/%E7%B1%B3%E9%80%9A%E8%B2%A8%E7%9B%A3%E7%9D%A3%E5%BA%81/#jn-302351"
+  },
+  {
+    "kotoba": "米点",
+    "yomi": "べい‐てん",
+    "link": "/word/%E7%B1%B3%E7%82%B9/#jn-198373"
+  },
+  {
+    "kotoba": "米統合軍",
+    "yomi": "べい‐とうごうぐん",
+    "link": "/word/%E7%B1%B3%E7%B5%B1%E5%90%88%E8%BB%8D/#jn-255234"
+  },
+  {
+    "kotoba": "米統合参謀本部",
+    "yomi": "べい‐とうごうさんぼうほんぶ",
+    "link": "/word/%E7%B1%B3%E7%B5%B1%E5%90%88%E5%8F%82%E8%AC%80%E6%9C%AC%E9%83%A8/#jn-255235"
+  },
+  {
+    "kotoba": "米茄子",
+    "yomi": "べい‐なす",
+    "link": "/word/%E7%B1%B3%E8%8C%84%E5%AD%90/#jn-198386"
+  },
+  {
+    "kotoba": "米年",
+    "yomi": "べい‐ねん",
+    "link": "/word/%E7%B1%B3%E5%B9%B4/#jn-198393"
+  },
+  {
+    "kotoba": "米納",
+    "yomi": "べい‐のう",
+    "link": "/word/%E7%B1%B3%E7%B4%8D/#jn-198397"
+  },
+  {
+    "kotoba": "米飯",
+    "yomi": "べい‐はん",
+    "link": "/word/%E7%B1%B3%E9%A3%AF/#jn-198414"
+  },
+  {
+    "kotoba": "米飯給食",
+    "yomi": "べいはん‐きゅうしょく",
+    "link": "/word/%E7%B1%B3%E9%A3%AF%E7%B5%A6%E9%A3%9F/#jn-198415"
+  },
+  {
+    "kotoba": "米麦",
+    "yomi": "べい‐ばく",
+    "link": "/word/%E7%B1%B3%E9%BA%A6/#jn-198405"
+  },
+  {
+    "kotoba": "餅盤",
+    "yomi": "へい‐ばん",
+    "link": "/word/%E9%A4%85%E7%9B%A4/#jn-198412"
+  },
+  {
+    "kotoba": "米比合同軍事演習",
+    "yomi": "べいひごうどう‐ぐんじえんしゅう",
+    "link": "/word/%E7%B1%B3%E6%AF%94%E5%90%88%E5%90%8C%E8%BB%8D%E4%BA%8B%E6%BC%94%E7%BF%92/#jn-293627"
+  },
+  {
+    "kotoba": "米芾",
+    "yomi": "べい‐ふつ",
+    "link": "/word/person/%E7%B1%B3%E8%8A%BE/#jn-198428"
+  },
+  {
+    "kotoba": "米粉",
+    "yomi": "べい‐ふん",
+    "link": "/word/%E7%B1%B3%E7%B2%89_%28%E3%81%B9%E3%81%84%E3%81%B5%E3%82%93%29/#jn-198430"
+  },
+  {
+    "kotoba": "袂別",
+    "yomi": "べい‐べつ",
+    "link": "/word/%E8%A2%82%E5%88%A5/#jn-198438"
+  },
+  {
+    "kotoba": "米法山水",
+    "yomi": "べいほう‐さんすい",
+    "link": "/word/%E7%B1%B3%E6%B3%95%E5%B1%B1%E6%B0%B4/#jn-198442"
+  },
+  {
+    "kotoba": "米墨戦争",
+    "yomi": "べいぼく‐せんそう",
+    "link": "/word/%E7%B1%B3%E5%A2%A8%E6%88%A6%E4%BA%89/#jn-198446"
+  },
+  {
+    "kotoba": "米松",
+    "yomi": "べい‐まつ",
+    "link": "/word/%E7%B1%B3%E6%9D%BE/#jn-198450"
+  },
+  {
+    "kotoba": "米綿",
+    "yomi": "べい‐めん",
+    "link": "/word/%E7%B1%B3%E7%B6%BF/#jn-198461"
+  },
+  {
+    "kotoba": "米友仁",
+    "yomi": "べい‐ゆうじん",
+    "link": "/word/person/%E7%B1%B3%E5%8F%8B%E4%BB%81/#jn-198484"
+  },
+  {
+    "kotoba": "米廩",
+    "yomi": "べい‐りん",
+    "link": "/word/%E7%B1%B3%E5%BB%A9/#jn-198500"
+  },
+  {
+    "kotoba": "米連邦準備制度理事会",
+    "yomi": "べいれんぽう‐じゅんびせいどりじかい",
+    "link": "/word/%E7%B1%B3%E9%80%A3%E9%82%A6%E6%BA%96%E5%82%99%E5%88%B6%E5%BA%A6%E7%90%86%E4%BA%8B%E4%BC%9A/#jn-198509"
+  },
+  {
+    "kotoba": "別寒辺牛湿原",
+    "yomi": "べかんべうし‐しつげん",
+    "link": "/word/%E5%88%A5%E5%AF%92%E8%BE%BA%E7%89%9B%E6%B9%BF%E5%8E%9F/#jn-259414"
+  },
+  {
+    "kotoba": "冖冠",
+    "yomi": "べき‐かんむり",
+    "link": "/word/%E5%86%96%E5%86%A0/#jn-198762"
+  },
+  {
+    "kotoba": "冪級数",
+    "yomi": "べき‐きゅうすう",
+    "link": "/word/%E5%86%AA%E7%B4%9A%E6%95%B0/#jn-198764"
+  },
+  {
+    "kotoba": "冪根",
+    "yomi": "べき‐こん",
+    "link": "/word/%E5%86%AA%E6%A0%B9/#jn-198772"
+  },
+  {
+    "kotoba": "冪指数",
+    "yomi": "べき‐しすう",
+    "link": "/word/%E5%86%AA%E6%8C%87%E6%95%B0/#jn-198779"
+  },
+  {
+    "kotoba": "冪集合",
+    "yomi": "べき‐しゅうごう",
+    "link": "/word/%E5%86%AA%E9%9B%86%E5%90%88/#jn-198780"
+  },
+  {
+    "kotoba": "冪乗",
+    "yomi": "べき‐じょう",
+    "link": "/word/%E5%86%AA%E4%B9%97/#jn-198785"
+  },
+  {
+    "kotoba": "冪乗根",
+    "yomi": "べきじょう‐こん",
+    "link": "/word/%E5%86%AA%E4%B9%97%E6%A0%B9/#jn-264446"
+  },
+  {
+    "kotoba": "汨水",
+    "yomi": "べき‐すい",
+    "link": "/word/%E6%B1%A8%E6%B0%B4/#jn-198789"
+  },
+  {
+    "kotoba": "冪数",
+    "yomi": "べき‐すう",
+    "link": "/word/%E5%86%AA%E6%95%B0/#jn-198791"
+  },
+  {
+    "kotoba": "冪冪",
+    "yomi": "べき‐べき",
+    "link": "/word/%E5%86%AA%E5%86%AA/#jn-198809"
+  },
+  {
+    "kotoba": "冪法",
+    "yomi": "べき‐ほう",
+    "link": "/word/%E5%86%AA%E6%B3%95/#jn-198810"
+  },
+  {
+    "kotoba": "汨羅",
+    "yomi": "べきら",
+    "link": "/word/%E6%B1%A8%E7%BE%85/#jn-198820"
+  },
+  {
+    "kotoba": "可杯",
+    "yomi": "べく‐さかずき",
+    "link": "/word/%E5%8F%AF%E6%9D%AF/#jn-198841"
+  },
+  {
+    "kotoba": "可内",
+    "yomi": "べく‐ない",
+    "link": "/word/%E5%8F%AF%E5%86%85/#jn-198867"
+  },
+  {
+    "kotoba": "弁才船",
+    "yomi": "べざい‐せん",
+    "link": "/word/%E5%BC%81%E6%89%8D%E8%88%B9/#jn-198912"
+  },
+  {
+    "kotoba": "弁才天",
+    "yomi": "べざい‐てん",
+    "link": "/word/%E5%BC%81%E6%89%8D%E5%A4%A9/#jn-198913"
+  },
+  {
+    "kotoba": "癋見",
+    "yomi": "べし‐み",
+    "link": "/word/%E7%99%8B%E8%A6%8B/#jn-198933"
+  },
+  {
+    "kotoba": "癋面",
+    "yomi": "べし‐めん",
+    "link": "/word/%E7%99%8B%E9%9D%A2/#jn-198938"
+  },
+  {
+    "kotoba": "別儀",
+    "yomi": "べち‐ぎ",
+    "link": "/word/%E5%88%A5%E5%84%80_%28%E3%81%B9%E3%81%A1%E3%81%8E%29/#jn-199074"
+  },
+  {
+    "kotoba": "別段",
+    "yomi": "べち‐だん",
+    "link": "/word/%E5%88%A5%E6%AE%B5_%28%E3%81%B9%E3%81%A1%E3%81%A0%E3%82%93%29/#jn-199076"
+  },
+  {
+    "kotoba": "別納",
+    "yomi": "べち‐のう",
+    "link": "/word/%E5%88%A5%E7%B4%8D_%28%E3%81%B9%E3%81%A1%E3%81%AE%E3%81%86%29/#jn-199078"
+  },
+  {
+    "kotoba": "別火",
+    "yomi": "べっ‐か",
+    "link": "/word/%E5%88%A5%E7%81%AB/#jn-199110"
+  },
+  {
+    "kotoba": "別科",
+    "yomi": "べっ‐か",
+    "link": "/word/%E5%88%A5%E7%A7%91/#jn-199111"
+  },
+  {
+    "kotoba": "別解",
+    "yomi": "べっ‐かい",
+    "link": "/word/%E5%88%A5%E8%A7%A3/#jn-284102"
+  },
+  {
+    "kotoba": "別格",
+    "yomi": "べっ‐かく",
+    "link": "/word/%E5%88%A5%E6%A0%BC/#jn-199114"
+  },
+  {
+    "kotoba": "別格官幣社",
+    "yomi": "べっかく‐かんぺいしゃ",
+    "link": "/word/%E5%88%A5%E6%A0%BC%E5%AE%98%E5%B9%A3%E7%A4%BE/#jn-199115"
+  },
+  {
+    "kotoba": "別格寺",
+    "yomi": "べっかく‐じ",
+    "link": "/word/%E5%88%A5%E6%A0%BC%E5%AF%BA/#jn-199116"
+  },
+  {
+    "kotoba": "別格本山",
+    "yomi": "べっかく‐ほんざん",
+    "link": "/word/%E5%88%A5%E6%A0%BC%E6%9C%AC%E5%B1%B1/#jn-199117"
+  },
+  {
+    "kotoba": "別巻",
+    "yomi": "べっ‐かん",
+    "link": "/word/%E5%88%A5%E5%B7%BB/#jn-199122"
+  },
+  {
+    "kotoba": "別館",
+    "yomi": "べっ‐かん",
+    "link": "/word/%E5%88%A5%E9%A4%A8/#jn-199123"
+  },
+  {
+    "kotoba": "鼈羹",
+    "yomi": "べつ‐かん",
+    "link": "/word/%E9%BC%88%E7%BE%B9/#jn-199124"
+  },
+  {
+    "kotoba": "別記",
+    "yomi": "べっ‐き",
+    "link": "/word/%E5%88%A5%E8%A8%98/#jn-199127"
+  },
+  {
+    "kotoba": "別給",
+    "yomi": "べっ‐きゅう",
+    "link": "/word/%E5%88%A5%E7%B5%A6/#jn-199133"
+  },
+  {
+    "kotoba": "別居",
+    "yomi": "べっ‐きょ",
+    "link": "/word/%E5%88%A5%E5%B1%85/#jn-199134"
+  },
+  {
+    "kotoba": "別教",
+    "yomi": "べっ‐きょう",
+    "link": "/word/%E5%88%A5%E6%95%99/#jn-199135"
+  },
+  {
+    "kotoba": "別居婚",
+    "yomi": "べっきょ‐こん",
+    "link": "/word/%E5%88%A5%E5%B1%85%E5%A9%9A/#jn-252292"
+  },
+  {
+    "kotoba": "別家",
+    "yomi": "べっ‐け",
+    "link": "/word/%E5%88%A5%E5%AE%B6/#jn-199150"
+  },
+  {
+    "kotoba": "別掲",
+    "yomi": "べっ‐けい",
+    "link": "/word/%E5%88%A5%E6%8E%B2/#jn-199151"
+  },
+  {
+    "kotoba": "別件",
+    "yomi": "べっ‐けん",
+    "link": "/word/%E5%88%A5%E4%BB%B6/#jn-199153"
+  },
+  {
+    "kotoba": "瞥見",
+    "yomi": "べっ‐けん",
+    "link": "/word/%E7%9E%A5%E8%A6%8B/#jn-199154"
+  },
+  {
+    "kotoba": "別乾坤",
+    "yomi": "べつ‐けんこん",
+    "link": "/word/%E5%88%A5%E4%B9%BE%E5%9D%A4/#jn-199156"
+  },
+  {
+    "kotoba": "別件逮捕",
+    "yomi": "べっけん‐たいほ",
+    "link": "/word/%E5%88%A5%E4%BB%B6%E9%80%AE%E6%8D%95/#jn-199157"
+  },
+  {
+    "kotoba": "別戸",
+    "yomi": "べっ‐こ",
+    "link": "/word/%E5%88%A5%E6%88%B8/#jn-199158"
+  },
+  {
+    "kotoba": "別個",
+    "yomi": "べっ‐こ",
+    "link": "/word/%E5%88%A5%E5%80%8B/#jn-199159"
+  },
+  {
+    "kotoba": "別項",
+    "yomi": "べっ‐こう",
+    "link": "/word/%E5%88%A5%E9%A0%85/#jn-199161"
+  },
+  {
+    "kotoba": "鼈甲",
+    "yomi": "べっ‐こう",
+    "link": "/word/%E9%BC%88%E7%94%B2/#jn-199162"
+  },
+  {
+    "kotoba": "鼈甲飴",
+    "yomi": "べっこう‐あめ",
+    "link": "/word/%E9%BC%88%E7%94%B2%E9%A3%B4/#jn-199164"
+  },
+  {
+    "kotoba": "鼈甲色",
+    "yomi": "べっこう‐いろ",
+    "link": "/word/%E9%BC%88%E7%94%B2%E8%89%B2/#jn-199165"
+  },
+  {
+    "kotoba": "鼈甲蜻蛉",
+    "yomi": "べっこう‐とんぼ",
+    "link": "/word/%E9%BC%88%E7%94%B2%E8%9C%BB%E8%9B%89/#jn-244379"
+  },
+  {
+    "kotoba": "鼈甲蠅",
+    "yomi": "べっこう‐ばえ",
+    "link": "/word/%E9%BC%88%E7%94%B2%E8%A0%85/#jn-199166"
+  },
+  {
+    "kotoba": "鼈甲蜂",
+    "yomi": "べっこう‐ばち",
+    "link": "/word/%E9%BC%88%E7%94%B2%E8%9C%82/#jn-199167"
+  },
+  {
+    "kotoba": "別懇",
+    "yomi": "べっ‐こん",
+    "link": "/word/%E5%88%A5%E6%87%87/#jn-199169"
+  },
+  {
+    "kotoba": "別才",
+    "yomi": "べっ‐さい",
+    "link": "/word/%E5%88%A5%E6%89%8D/#jn-199170"
+  },
+  {
+    "kotoba": "別冊",
+    "yomi": "べっ‐さつ",
+    "link": "/word/%E5%88%A5%E5%86%8A/#jn-199171"
+  },
+  {
+    "kotoba": "別使",
+    "yomi": "べっ‐し",
+    "link": "/word/%E5%88%A5%E4%BD%BF/#jn-199175"
+  },
+  {
+    "kotoba": "別紙",
+    "yomi": "べっ‐し",
+    "link": "/word/%E5%88%A5%E7%B4%99/#jn-199176"
+  },
+  {
+    "kotoba": "蔑視",
+    "yomi": "べっ‐し",
+    "link": "/word/%E8%94%91%E8%A6%96/#jn-199177"
+  },
+  {
+    "kotoba": "別室",
+    "yomi": "べっ‐しつ",
+    "link": "/word/%E5%88%A5%E5%AE%A4/#jn-199182"
+  },
+  {
+    "kotoba": "別子銅山",
+    "yomi": "べっし‐どうざん",
+    "link": "/word/%E5%88%A5%E5%AD%90%E9%8A%85%E5%B1%B1/#jn-199184"
+  },
+  {
+    "kotoba": "別使配達",
+    "yomi": "べっし‐はいたつ",
+    "link": "/word/%E5%88%A5%E4%BD%BF%E9%85%8D%E9%81%94/#jn-199186"
+  },
+  {
+    "kotoba": "別種",
+    "yomi": "べっ‐しゅ",
+    "link": "/word/%E5%88%A5%E7%A8%AE/#jn-199190"
+  },
+  {
+    "kotoba": "別集",
+    "yomi": "べっ‐しゅう",
+    "link": "/word/%E5%88%A5%E9%9B%86/#jn-199191"
+  },
+  {
+    "kotoba": "別宿",
+    "yomi": "べっ‐しゅく",
+    "link": "/word/%E5%88%A5%E5%AE%BF/#jn-199192"
+  },
+  {
+    "kotoba": "別所",
+    "yomi": "べっ‐しょ",
+    "link": "/word/%E5%88%A5%E6%89%80/#jn-199193"
+  },
+  {
+    "kotoba": "別書",
+    "yomi": "べっ‐しょ",
+    "link": "/word/%E5%88%A5%E6%9B%B8/#jn-199195"
+  },
+  {
+    "kotoba": "別墅",
+    "yomi": "べっ‐しょ",
+    "link": "/word/%E5%88%A5%E5%A2%85/#jn-199196"
+  },
+  {
+    "kotoba": "別所",
+    "yomi": "べっしょ",
+    "link": "/word/%E5%88%A5%E6%89%80/#jn-199194"
+  },
+  {
+    "kotoba": "別称",
+    "yomi": "べっ‐しょう",
+    "link": "/word/%E5%88%A5%E7%A7%B0/#jn-199198"
+  },
+  {
+    "kotoba": "蔑称",
+    "yomi": "べっ‐しょう",
+    "link": "/word/%E8%94%91%E7%A7%B0/#jn-199199"
+  },
+  {
+    "kotoba": "別所温泉",
+    "yomi": "べっしょ‐おんせん",
+    "link": "/word/%E5%88%A5%E6%89%80%E6%B8%A9%E6%B3%89/#jn-199202"
+  },
+  {
+    "kotoba": "別所毅彦",
+    "yomi": "べっしょ‐たけひこ",
+    "link": "/word/%E5%88%A5%E6%89%80%E6%AF%85%E5%BD%A6/#jn-199204"
+  },
+  {
+    "kotoba": "別所長治",
+    "yomi": "べっしょ‐ながはる",
+    "link": "/word/person/%E5%88%A5%E6%89%80%E9%95%B7%E6%B2%BB/#jn-199205"
+  },
+  {
+    "kotoba": "別心",
+    "yomi": "べっ‐しん",
+    "link": "/word/%E5%88%A5%E5%BF%83/#jn-199206"
+  },
+  {
+    "kotoba": "別製",
+    "yomi": "べっ‐せい",
+    "link": "/word/%E5%88%A5%E8%A3%BD/#jn-199211"
+  },
+  {
+    "kotoba": "別世界",
+    "yomi": "べっ‐せかい",
+    "link": "/word/%E5%88%A5%E4%B8%96%E7%95%8C/#jn-199212"
+  },
+  {
+    "kotoba": "別世界通信",
+    "yomi": "べっせかいつうしん",
+    "link": "/word/%E5%88%A5%E4%B8%96%E7%95%8C%E9%80%9A%E4%BF%A1/#jn-269810"
+  },
+  {
+    "kotoba": "別席",
+    "yomi": "べっ‐せき",
+    "link": "/word/%E5%88%A5%E5%B8%AD/#jn-199213"
+  },
+  {
+    "kotoba": "別選",
+    "yomi": "べっ‐せん",
+    "link": "/word/%E5%88%A5%E9%81%B8/#jn-199217"
+  },
+  {
+    "kotoba": "別荘",
+    "yomi": "べっ‐そう",
+    "link": "/word/%E5%88%A5%E8%8D%98/#jn-199218"
+  },
+  {
+    "kotoba": "別送",
+    "yomi": "べっ‐そう",
+    "link": "/word/%E5%88%A5%E9%80%81/#jn-199219"
+  },
+  {
+    "kotoba": "別足",
+    "yomi": "べっ‐そく",
+    "link": "/word/%E5%88%A5%E8%B6%B3/#jn-199220"
+  },
+  {
+    "kotoba": "別尊",
+    "yomi": "べっ‐そん",
+    "link": "/word/%E5%88%A5%E5%B0%8A/#jn-199221"
+  },
+  {
+    "kotoba": "別尊法",
+    "yomi": "べっそん‐ほう",
+    "link": "/word/%E5%88%A5%E5%B0%8A%E6%B3%95/#jn-199222"
+  },
+  {
+    "kotoba": "別尊曼荼羅",
+    "yomi": "べっそん‐まんだら",
+    "link": "/word/%E5%88%A5%E5%B0%8A%E6%9B%BC%E8%8D%BC%E7%BE%85/#jn-199223"
+  },
+  {
+    "kotoba": "別体",
+    "yomi": "べっ‐たい",
+    "link": "/word/%E5%88%A5%E4%BD%93/#jn-199226"
+  },
+  {
+    "kotoba": "別宅",
+    "yomi": "べっ‐たく",
+    "link": "/word/%E5%88%A5%E5%AE%85/#jn-199227"
+  },
+  {
+    "kotoba": "別注",
+    "yomi": "べっ‐ちゅう",
+    "link": "/word/%E5%88%A5%E6%B3%A8/#jn-199238"
+  },
+  {
+    "kotoba": "別丁",
+    "yomi": "べっ‐ちょう",
+    "link": "/word/%E5%88%A5%E4%B8%81/#jn-199239"
+  },
+  {
+    "kotoba": "別勅",
+    "yomi": "べっ‐ちょく",
+    "link": "/word/%E5%88%A5%E5%8B%85/#jn-199240"
+  },
+  {
+    "kotoba": "別邸",
+    "yomi": "べっ‐てい",
+    "link": "/word/%E5%88%A5%E9%82%B8/#jn-199243"
+  },
+  {
+    "kotoba": "別天地",
+    "yomi": "べっ‐てんち",
+    "link": "/word/%E5%88%A5%E5%A4%A9%E5%9C%B0/#jn-199249"
+  },
+  {
+    "kotoba": "別途",
+    "yomi": "べっ‐と",
+    "link": "/word/%E5%88%A5%E9%80%94/#jn-199253"
+  },
+  {
+    "kotoba": "別当",
+    "yomi": "べっ‐とう",
+    "link": "/word/%E5%88%A5%E5%BD%93_%28%E3%81%B9%E3%81%A3%E3%81%A8%E3%81%86%29/#jn-199264"
+  },
+  {
+    "kotoba": "別当薫",
+    "yomi": "べっとう‐かおる",
+    "link": "/word/%E5%88%A5%E5%BD%93%E8%96%AB/#jn-199265"
+  },
+  {
+    "kotoba": "別当寺",
+    "yomi": "べっとう‐じ",
+    "link": "/word/%E5%88%A5%E5%BD%93%E5%AF%BA/#jn-199266"
+  },
+  {
+    "kotoba": "別当宣",
+    "yomi": "べっとう‐せん",
+    "link": "/word/%E5%88%A5%E5%BD%93%E5%AE%A3/#jn-199267"
+  },
+  {
+    "kotoba": "別当代",
+    "yomi": "べっとう‐だい",
+    "link": "/word/%E5%88%A5%E5%BD%93%E4%BB%A3/#jn-199268"
+  },
+  {
+    "kotoba": "別途積立金",
+    "yomi": "べっと‐つみたてきん",
+    "link": "/word/%E5%88%A5%E9%80%94%E7%A9%8D%E7%AB%8B%E9%87%91/#jn-199282"
+  },
+  {
+    "kotoba": "別派",
+    "yomi": "べっ‐ぱ",
+    "link": "/word/%E5%88%A5%E6%B4%BE/#jn-199317"
+  },
+  {
+    "kotoba": "別杯",
+    "yomi": "べっ‐ぱい",
+    "link": "/word/%E5%88%A5%E6%9D%AF/#jn-199320"
+  },
+  {
+    "kotoba": "別表",
+    "yomi": "べっ‐ぴょう",
+    "link": "/word/%E5%88%A5%E8%A1%A8/#jn-199325"
+  },
+  {
+    "kotoba": "別品",
+    "yomi": "べっ‐ぴん",
+    "link": "/word/%E5%88%A5%E5%93%81/#jn-199329"
+  },
+  {
+    "kotoba": "別嬪",
+    "yomi": "べっ‐ぴん",
+    "link": "/word/%E5%88%A5%E5%AC%AA/#jn-199330"
+  },
+  {
+    "kotoba": "別府",
+    "yomi": "べっぷ",
+    "link": "/word/%E5%88%A5%E5%BA%9C/#jn-199332"
+  },
+  {
+    "kotoba": "別符",
+    "yomi": "べっ‐ぷ",
+    "link": "/word/%E5%88%A5%E7%AC%A6/#jn-199333"
+  },
+  {
+    "kotoba": "別封",
+    "yomi": "べっ‐ぷう",
+    "link": "/word/%E5%88%A5%E5%B0%81/#jn-199334"
+  },
+  {
+    "kotoba": "別府温泉",
+    "yomi": "べっぷ‐おんせん",
+    "link": "/word/%E5%88%A5%E5%BA%9C%E6%B8%A9%E6%B3%89/#jn-199335"
+  },
+  {
+    "kotoba": "別腹",
+    "yomi": "べっ‐ぷく",
+    "link": "/word/%E5%88%A5%E8%85%B9_%28%E3%81%B9%E3%81%A3%E3%81%B7%E3%81%8F%29/#jn-199336"
+  },
+  {
+    "kotoba": "別府市",
+    "yomi": "べっぷ‐し",
+    "link": "/word/%E5%88%A5%E5%BA%9C%E5%B8%82/#jn-199338"
+  },
+  {
+    "kotoba": "別府島原地溝帯",
+    "yomi": "べっぷしまばら‐ちこうたい",
+    "link": "/word/%E5%88%A5%E5%BA%9C%E5%B3%B6%E5%8E%9F%E5%9C%B0%E6%BA%9D%E5%B8%AF/#jn-284107"
+  },
+  {
+    "kotoba": "別府大学",
+    "yomi": "べっぷ‐だいがく",
+    "link": "/word/%E5%88%A5%E5%BA%9C%E5%A4%A7%E5%AD%A6/#jn-199339"
+  },
+  {
+    "kotoba": "別府万年山断層帯",
+    "yomi": "べっぷはねやま‐だんそうたい",
+    "link": "/word/%E5%88%A5%E5%BA%9C%E4%B8%87%E5%B9%B4%E5%B1%B1%E6%96%AD%E5%B1%A4%E5%B8%AF/#jn-284108"
+  },
+  {
+    "kotoba": "別府湾",
+    "yomi": "べっぷ‐わん",
+    "link": "/word/%E5%88%A5%E5%BA%9C%E6%B9%BE/#jn-199342"
+  },
+  {
+    "kotoba": "別法",
+    "yomi": "べっ‐ぽう",
+    "link": "/word/%E5%88%A5%E6%B3%95/#jn-199346"
+  },
+  {
+    "kotoba": "別報",
+    "yomi": "べっ‐ぽう",
+    "link": "/word/%E5%88%A5%E5%A0%B1/#jn-199347"
+  },
+  {
+    "kotoba": "別本",
+    "yomi": "べっ‐ぽん",
+    "link": "/word/%E5%88%A5%E6%9C%AC/#jn-199349"
+  },
+  {
+    "kotoba": "別異",
+    "yomi": "べつ‐い",
+    "link": "/word/%E5%88%A5%E7%95%B0/#jn-199106"
+  },
+  {
+    "kotoba": "別意",
+    "yomi": "べつ‐い",
+    "link": "/word/%E5%88%A5%E6%84%8F/#jn-199107"
+  },
+  {
+    "kotoba": "別院",
+    "yomi": "べつ‐いん",
+    "link": "/word/%E5%88%A5%E9%99%A2/#jn-199108"
+  },
+  {
+    "kotoba": "別宴",
+    "yomi": "べつ‐えん",
+    "link": "/word/%E5%88%A5%E5%AE%B4/#jn-199109"
+  },
+  {
+    "kotoba": "別駕",
+    "yomi": "べつ‐が",
+    "link": "/word/%E5%88%A5%E9%A7%95/#jn-199112"
+  },
+  {
+    "kotoba": "別学",
+    "yomi": "べつ‐がく",
+    "link": "/word/%E5%88%A5%E5%AD%A6/#jn-259426"
+  },
+  {
+    "kotoba": "別願",
+    "yomi": "べつ‐がん",
+    "link": "/word/%E5%88%A5%E9%A1%98/#jn-199125"
+  },
+  {
+    "kotoba": "戸次庄左衛門",
+    "yomi": "べつき‐しょうざえもん",
+    "link": "/word/person/%E6%88%B8%E6%AC%A1%E5%BA%84%E5%B7%A6%E8%A1%9B%E9%96%80/#jn-199132"
+  },
+  {
+    "kotoba": "別儀",
+    "yomi": "べつ‐ぎ",
+    "link": "/word/%E5%88%A5%E5%84%80_%28%E3%81%B9%E3%81%A4%E3%81%8E%29/#jn-199128"
+  },
+  {
+    "kotoba": "別行",
+    "yomi": "べつ‐ぎょう",
+    "link": "/word/%E5%88%A5%E8%A1%8C/#jn-199136"
+  },
+  {
+    "kotoba": "別業",
+    "yomi": "べつ‐ぎょう",
+    "link": "/word/%E5%88%A5%E6%A5%AD/#jn-199137"
+  },
+  {
+    "kotoba": "別口",
+    "yomi": "べつ‐くち",
+    "link": "/word/%E5%88%A5%E5%8F%A3/#jn-199144"
+  },
+  {
+    "kotoba": "別郭",
+    "yomi": "べつ‐くるわ",
+    "link": "/word/%E5%88%A5%E9%83%AD/#jn-199148"
+  },
+  {
+    "kotoba": "別宮",
+    "yomi": "べつ‐ぐう",
+    "link": "/word/%E5%88%A5%E5%AE%AE/#jn-199141"
+  },
+  {
+    "kotoba": "別軍",
+    "yomi": "べつ‐ぐん",
+    "link": "/word/%E5%88%A5%E8%BB%8D/#jn-199149"
+  },
+  {
+    "kotoba": "別言",
+    "yomi": "べつ‐げん",
+    "link": "/word/%E5%88%A5%E8%A8%80/#jn-199155"
+  },
+  {
+    "kotoba": "別行動",
+    "yomi": "べつ‐こうどう",
+    "link": "/word/%E5%88%A5%E8%A1%8C%E5%8B%95/#jn-262077"
+  },
+  {
+    "kotoba": "別小作",
+    "yomi": "べつ‐こさく",
+    "link": "/word/%E5%88%A5%E5%B0%8F%E4%BD%9C/#jn-199168"
+  },
+  {
+    "kotoba": "別後",
+    "yomi": "べつ‐ご",
+    "link": "/word/%E5%88%A5%E5%BE%8C/#jn-199160"
+  },
+  {
+    "kotoba": "別号",
+    "yomi": "べつ‐ごう",
+    "link": "/word/%E5%88%A5%E5%8F%B7/#jn-199163"
+  },
+  {
+    "kotoba": "別週",
+    "yomi": "べつ‐しゅう",
+    "link": "/word/%E5%88%A5%E9%80%B1/#jn-252293"
+  },
+  {
+    "kotoba": "別事",
+    "yomi": "べつ‐じ",
+    "link": "/word/%E5%88%A5%E4%BA%8B/#jn-199178"
+  },
+  {
+    "kotoba": "別時",
+    "yomi": "べつ‐じ",
+    "link": "/word/%E5%88%A5%E6%99%82/#jn-199179"
+  },
+  {
+    "kotoba": "別辞",
+    "yomi": "べつ‐じ",
+    "link": "/word/%E5%88%A5%E8%BE%9E/#jn-199180"
+  },
+  {
+    "kotoba": "別時念仏",
+    "yomi": "べつじ‐ねんぶつ",
+    "link": "/word/%E5%88%A5%E6%99%82%E5%BF%B5%E4%BB%8F/#jn-199185"
+  },
+  {
+    "kotoba": "蔑如",
+    "yomi": "べつ‐じょ",
+    "link": "/word/%E8%94%91%E5%A6%82/#jn-199197"
+  },
+  {
+    "kotoba": "別条",
+    "yomi": "べつ‐じょう",
+    "link": "/word/%E5%88%A5%E6%9D%A1/#jn-199200"
+  },
+  {
+    "kotoba": "別状",
+    "yomi": "べつ‐じょう",
+    "link": "/word/%E5%88%A5%E7%8A%B6/#jn-199201"
+  },
+  {
+    "kotoba": "別除権",
+    "yomi": "べつじょ‐けん",
+    "link": "/word/%E5%88%A5%E9%99%A4%E6%A8%A9/#jn-199203"
+  },
+  {
+    "kotoba": "別人",
+    "yomi": "べつ‐じん",
+    "link": "/word/%E5%88%A5%E4%BA%BA/#jn-199207"
+  },
+  {
+    "kotoba": "別段",
+    "yomi": "べつ‐だん",
+    "link": "/word/%E5%88%A5%E6%AE%B5_%28%E3%81%B9%E3%81%A4%E3%81%A0%E3%82%93%29/#jn-199235"
+  },
+  {
+    "kotoba": "別月",
+    "yomi": "べつ‐づき",
+    "link": "/word/%E5%88%A5%E6%9C%88/#jn-252294"
+  },
+  {
+    "kotoba": "別伝",
+    "yomi": "べつ‐でん",
+    "link": "/word/%E5%88%A5%E4%BC%9D/#jn-199246"
+  },
+  {
+    "kotoba": "別殿",
+    "yomi": "べつ‐でん",
+    "link": "/word/%E5%88%A5%E6%AE%BF/#jn-199247"
+  },
+  {
+    "kotoba": "別電",
+    "yomi": "べつ‐でん",
+    "link": "/word/%E5%88%A5%E9%9B%BB/#jn-199248"
+  },
+  {
+    "kotoba": "別伝派",
+    "yomi": "べつでん‐は",
+    "link": "/word/%E5%88%A5%E4%BC%9D%E6%B4%BE/#jn-199250"
+  },
+  {
+    "kotoba": "別働隊",
+    "yomi": "べつどう‐たい",
+    "link": "/word/%E5%88%A5%E5%83%8D%E9%9A%8A/#jn-199269"
+  },
+  {
+    "kotoba": "別納",
+    "yomi": "ベつ‐のう",
+    "link": "/word/%E5%88%A5%E7%B4%8D_%28%E3%83%99%E3%81%A4%E3%81%AE%E3%81%86%29/#jn-199316"
+  },
+  {
+    "kotoba": "別売",
+    "yomi": "べつ‐ばい",
+    "link": "/word/%E5%88%A5%E5%A3%B2_%28%E3%81%B9%E3%81%A4%E3%81%B0%E3%81%84%29/#jn-252297"
+  },
+  {
+    "kotoba": "別腹",
+    "yomi": "べつ‐ばら",
+    "link": "/word/%E5%88%A5%E8%85%B9_%28%E3%81%B9%E3%81%A4%E3%81%B0%E3%82%89%29/#jn-199321"
+  },
+  {
+    "kotoba": "別火",
+    "yomi": "べつ‐び",
+    "link": "/word/%E5%88%A5%E7%81%AB/#jn-199322"
+  },
+  {
+    "kotoba": "別日",
+    "yomi": "べつ‐び",
+    "link": "/word/%E5%88%A5%E6%97%A5/#jn-252298"
+  },
+  {
+    "kotoba": "別火屋",
+    "yomi": "べつび‐や",
+    "link": "/word/%E5%88%A5%E7%81%AB%E5%B1%8B/#jn-199323"
+  },
+  {
+    "kotoba": "別便",
+    "yomi": "べつ‐びん",
+    "link": "/word/%E5%88%A5%E4%BE%BF/#jn-199331"
+  },
+  {
+    "kotoba": "別別",
+    "yomi": "べつ‐べつ",
+    "link": "/word/%E5%88%A5%E5%88%A5/#jn-199344"
+  },
+  {
+    "kotoba": "別間",
+    "yomi": "べつ‐ま",
+    "link": "/word/%E5%88%A5%E9%96%93/#jn-199350"
+  },
+  {
+    "kotoba": "別名",
+    "yomi": "べつ‐みょう",
+    "link": "/word/%E5%88%A5%E5%90%8D/#jn-199351"
+  },
+  {
+    "kotoba": "別棟",
+    "yomi": "べつ‐むね",
+    "link": "/word/%E5%88%A5%E6%A3%9F/#jn-199352"
+  },
+  {
+    "kotoba": "別名",
+    "yomi": "べつ‐めい",
+    "link": "/word/%E5%88%A5%E5%90%8D/#jn-199353"
+  },
+  {
+    "kotoba": "別命",
+    "yomi": "べつ‐めい",
+    "link": "/word/%E5%88%A5%E5%91%BD/#jn-199354"
+  },
+  {
+    "kotoba": "別面",
+    "yomi": "べつ‐めん",
+    "link": "/word/%E5%88%A5%E9%9D%A2/#jn-199355"
+  },
+  {
+    "kotoba": "別模式標本",
+    "yomi": "べつもしき‐ひょうほん",
+    "link": "/word/%E5%88%A5%E6%A8%A1%E5%BC%8F%E6%A8%99%E6%9C%AC/#jn-297011"
+  },
+  {
+    "kotoba": "別物",
+    "yomi": "べつ‐もの",
+    "link": "/word/%E5%88%A5%E7%89%A9/#jn-199357"
+  },
+  {
+    "kotoba": "別問題",
+    "yomi": "べつ‐もんだい",
+    "link": "/word/%E5%88%A5%E5%95%8F%E9%A1%8C/#jn-199359"
+  },
+  {
+    "kotoba": "別役実",
+    "yomi": "べつやく‐みのる",
+    "link": "/word/person/%E5%88%A5%E5%BD%B9%E5%AE%9F/#jn-302353"
+  },
+  {
+    "kotoba": "別様",
+    "yomi": "べつ‐よう",
+    "link": "/word/%E5%88%A5%E6%A7%98/#jn-199360"
+  },
+  {
+    "kotoba": "別離",
+    "yomi": "べつ‐り",
+    "link": "/word/%E5%88%A5%E9%9B%A2/#jn-199366"
+  },
+  {
+    "kotoba": "別離",
+    "yomi": "べつり",
+    "link": "/word/%E5%88%A5%E9%9B%A2/#jn-291937"
+  },
+  {
+    "kotoba": "別流",
+    "yomi": "べつ‐りゅう",
+    "link": "/word/%E5%88%A5%E6%B5%81/#jn-199368"
+  },
+  {
+    "kotoba": "別涙",
+    "yomi": "べつ‐るい",
+    "link": "/word/%E5%88%A5%E6%B6%99/#jn-199369"
+  },
+  {
+    "kotoba": "別類",
+    "yomi": "べつ‐るい",
+    "link": "/word/%E5%88%A5%E9%A1%9E/#jn-199370"
+  },
+  {
+    "kotoba": "別路",
+    "yomi": "べつ‐ろ",
+    "link": "/word/%E5%88%A5%E8%B7%AF/#jn-199374"
+  },
+  {
+    "kotoba": "別枠",
+    "yomi": "べつ‐わく",
+    "link": "/word/%E5%88%A5%E6%9E%A0/#jn-199376"
+  },
+  {
+    "kotoba": "別当",
+    "yomi": "べ‐とう",
+    "link": "/word/%E5%88%A5%E5%BD%93_%28%E3%81%B9%E3%81%A8%E3%81%86%29/#jn-199409"
+  },
+  {
+    "kotoba": "露菌病",
+    "yomi": "べと‐びょう",
+    "link": "/word/%E9%9C%B2%E8%8F%8C%E7%97%85/#jn-199420"
+  },
+  {
+    "kotoba": "紅板",
+    "yomi": "べに‐いた",
+    "link": "/word/%E7%B4%85%E6%9D%BF/#jn-199471"
+  },
+  {
+    "kotoba": "紅色",
+    "yomi": "べに‐いろ",
+    "link": "/word/%E7%B4%85%E8%89%B2_%28%E3%81%B9%E3%81%AB%E3%81%84%E3%82%8D%29/#jn-199472"
+  },
+  {
+    "kotoba": "紅絵",
+    "yomi": "べに‐え",
+    "link": "/word/%E7%B4%85%E7%B5%B5/#jn-199473"
+  },
+  {
+    "kotoba": "紅白粉",
+    "yomi": "べに‐おしろい",
+    "link": "/word/%E7%B4%85%E7%99%BD%E7%B2%89/#jn-199475"
+  },
+  {
+    "kotoba": "紅鉄漿",
+    "yomi": "べに‐かね",
+    "link": "/word/%E7%B4%85%E9%89%84%E6%BC%BF/#jn-199480"
+  },
+  {
+    "kotoba": "紅革",
+    "yomi": "べに‐かわ",
+    "link": "/word/%E7%B4%85%E9%9D%A9/#jn-199482"
+  },
+  {
+    "kotoba": "紅貝",
+    "yomi": "べに‐がい",
+    "link": "/word/%E7%B4%85%E8%B2%9D/#jn-199476"
+  },
+  {
+    "kotoba": "紅額",
+    "yomi": "べに‐がく",
+    "link": "/word/%E7%B4%85%E9%A1%8D/#jn-199478"
+  },
+  {
+    "kotoba": "紅蟹",
+    "yomi": "べに‐がに",
+    "link": "/word/%E7%B4%85%E8%9F%B9/#jn-199479"
+  },
+  {
+    "kotoba": "紅殻",
+    "yomi": "べに‐がら",
+    "link": "/word/%E7%B4%85%E6%AE%BB/#jn-199481"
+  },
+  {
+    "kotoba": "紅栗毛",
+    "yomi": "べに‐くりげ",
+    "link": "/word/%E7%B4%85%E6%A0%97%E6%AF%9B/#jn-199484"
+  },
+  {
+    "kotoba": "紅隈",
+    "yomi": "べに‐ぐま",
+    "link": "/word/%E7%B4%85%E9%9A%88/#jn-199483"
+  },
+  {
+    "kotoba": "紅粉",
+    "yomi": "べに‐こ",
+    "link": "/word/%E7%B4%85%E7%B2%89_%28%E3%81%B9%E3%81%AB%E3%81%93%29/#jn-199485"
+  },
+  {
+    "kotoba": "紅鮭",
+    "yomi": "べに‐ざけ",
+    "link": "/word/%E7%B4%85%E9%AE%AD/#jn-199486"
+  },
+  {
+    "kotoba": "紅皿",
+    "yomi": "べに‐ざら",
+    "link": "/word/%E7%B4%85%E7%9A%BF/#jn-199488"
+  },
+  {
+    "kotoba": "紅皿欠皿",
+    "yomi": "べにざら‐かけざら",
+    "link": "/word/%E7%B4%85%E7%9A%BF%E6%AC%A0%E7%9A%BF/#jn-199489"
+  },
+  {
+    "kotoba": "紅小灰蝶",
+    "yomi": "べに‐しじみ",
+    "link": "/word/%E7%B4%85%E5%B0%8F%E7%81%B0%E8%9D%B6/#jn-199490"
+  },
+  {
+    "kotoba": "紅下翅",
+    "yomi": "べに‐したば",
+    "link": "/word/%E7%B4%85%E4%B8%8B%E7%BF%85/#jn-199492"
+  },
+  {
+    "kotoba": "紅羊歯",
+    "yomi": "べに‐しだ",
+    "link": "/word/%E7%B4%85%E7%BE%8A%E6%AD%AF/#jn-199491"
+  },
+  {
+    "kotoba": "紅生姜",
+    "yomi": "べに‐しょうが",
+    "link": "/word/%E7%B4%85%E7%94%9F%E5%A7%9C/#jn-199494"
+  },
+  {
+    "kotoba": "紅雀",
+    "yomi": "べに‐すずめ",
+    "link": "/word/%E7%B4%85%E9%9B%80/#jn-199503"
+  },
+  {
+    "kotoba": "紅天蛾",
+    "yomi": "べに‐すずめ",
+    "link": "/word/%E7%B4%85%E5%A4%A9%E8%9B%BE/#jn-199502"
+  },
+  {
+    "kotoba": "紅茸",
+    "yomi": "べに‐たけ",
+    "link": "/word/%E7%B4%85%E8%8C%B8/#jn-199507"
+  },
+  {
+    "kotoba": "紅猪口",
+    "yomi": "べに‐ちょく",
+    "link": "/word/%E7%B4%85%E7%8C%AA%E5%8F%A3/#jn-199508"
+  },
+  {
+    "kotoba": "紅鶴",
+    "yomi": "べに‐づる",
+    "link": "/word/%E7%B4%85%E9%B6%B4/#jn-199510"
+  },
+  {
+    "kotoba": "紅天狗茸",
+    "yomi": "べに‐てんぐたけ",
+    "link": "/word/%E7%B4%85%E5%A4%A9%E7%8B%97%E8%8C%B8/#jn-199511"
+  },
+  {
+    "kotoba": "紅灯台",
+    "yomi": "べに‐どうだん",
+    "link": "/word/%E7%B4%85%E7%81%AF%E5%8F%B0/#jn-199512"
+  },
+  {
+    "kotoba": "紅鳩",
+    "yomi": "べに‐ばと",
+    "link": "/word/%E7%B4%85%E9%B3%A9/#jn-199514"
+  },
+  {
+    "kotoba": "紅花",
+    "yomi": "べに‐ばな",
+    "link": "/word/%E7%B4%85%E8%8A%B1_%28%E3%81%B9%E3%81%AB%E3%81%B0%E3%81%AA%29/#jn-199515"
+  },
+  {
+    "kotoba": "紅花苺",
+    "yomi": "べにばな‐いちご",
+    "link": "/word/%E7%B4%85%E8%8A%B1%E8%8B%BA/#jn-199516"
+  },
+  {
+    "kotoba": "紅花隠元",
+    "yomi": "べにばな‐いんげん",
+    "link": "/word/%E7%B4%85%E8%8A%B1%E9%9A%A0%E5%85%83/#jn-199517"
+  },
+  {
+    "kotoba": "紅檜",
+    "yomi": "べに‐ひ",
+    "link": "/word/%E7%B4%85%E6%AA%9C/#jn-199519"
+  },
+  {
+    "kotoba": "紅日陰蝶",
+    "yomi": "べに‐ひかげ",
+    "link": "/word/%E7%B4%85%E6%97%A5%E9%99%B0%E8%9D%B6/#jn-199521"
+  },
+  {
+    "kotoba": "紅鶸",
+    "yomi": "べに‐ひわ",
+    "link": "/word/%E7%B4%85%E9%B6%B8/#jn-199522"
+  },
+  {
+    "kotoba": "紅筆",
+    "yomi": "べに‐ふで",
+    "link": "/word/%E7%B4%85%E7%AD%86/#jn-199523"
+  },
+  {
+    "kotoba": "紅猿子",
+    "yomi": "べに‐ましこ",
+    "link": "/word/%E7%B4%85%E7%8C%BF%E5%AD%90/#jn-199524"
+  },
+  {
+    "kotoba": "紅鱒",
+    "yomi": "べに‐ます",
+    "link": "/word/%E7%B4%85%E9%B1%92/#jn-199525"
+  },
+  {
+    "kotoba": "部民",
+    "yomi": "べ‐みん",
+    "link": "/word/%E9%83%A8%E6%B0%91/#jn-199669"
+  },
+  {
+    "kotoba": "部民制",
+    "yomi": "べみん‐せい",
+    "link": "/word/%E9%83%A8%E6%B0%91%E5%88%B6/#jn-284112"
+  },
+  {
+    "kotoba": "遍羅",
+    "yomi": "べら",
+    "link": "/word/%E9%81%8D%E7%BE%85/#jn-199701"
+  },
+  {
+    "kotoba": "便衣",
+    "yomi": "べん‐い",
+    "link": "/word/%E4%BE%BF%E8%A1%A3/#jn-200132"
+  },
+  {
+    "kotoba": "便意",
+    "yomi": "べん‐い",
+    "link": "/word/%E4%BE%BF%E6%84%8F/#jn-200133"
+  },
+  {
+    "kotoba": "便衣隊",
+    "yomi": "べんい‐たい",
+    "link": "/word/%E4%BE%BF%E8%A1%A3%E9%9A%8A/#jn-200136"
+  },
+  {
+    "kotoba": "便益",
+    "yomi": "べん‐えき",
+    "link": "/word/%E4%BE%BF%E7%9B%8A/#jn-200141"
+  },
+  {
+    "kotoba": "弁円",
+    "yomi": "べんえん",
+    "link": "/word/person/%E5%BC%81%E5%86%86/#jn-200142"
+  },
+  {
+    "kotoba": "卞和",
+    "yomi": "べん‐か",
+    "link": "/word/person/%E5%8D%9E%E5%92%8C/#jn-200148"
+  },
+  {
+    "kotoba": "弁解",
+    "yomi": "べん‐かい",
+    "link": "/word/%E5%BC%81%E8%A7%A3/#jn-200155"
+  },
+  {
+    "kotoba": "弁官",
+    "yomi": "べん‐かん",
+    "link": "/word/%E5%BC%81%E5%AE%98/#jn-200192"
+  },
+  {
+    "kotoba": "弁韓",
+    "yomi": "べんかん",
+    "link": "/word/%E5%BC%81%E9%9F%93/#jn-200193"
+  },
+  {
+    "kotoba": "冕冠",
+    "yomi": "べん‐かん",
+    "link": "/word/%E5%86%95%E5%86%A0/#jn-200194"
+  },
+  {
+    "kotoba": "弁官下文",
+    "yomi": "べんかん‐の‐くだしぶみ",
+    "link": "/word/%E5%BC%81%E5%AE%98%E4%B8%8B%E6%96%87/#jn-200195"
+  },
+  {
+    "kotoba": "汴河",
+    "yomi": "べん‐が",
+    "link": "/word/%E6%B1%B4%E6%B2%B3/#jn-200149"
+  },
+  {
+    "kotoba": "勉学",
+    "yomi": "べん‐がく",
+    "link": "/word/%E5%8B%89%E5%AD%A6/#jn-200166"
+  },
+  {
+    "kotoba": "便器",
+    "yomi": "べん‐き",
+    "link": "/word/%E4%BE%BF%E5%99%A8/#jn-200200"
+  },
+  {
+    "kotoba": "勉強",
+    "yomi": "べん‐きょう",
+    "link": "/word/%E5%8B%89%E5%BC%B7/#jn-200216"
+  },
+  {
+    "kotoba": "勉強家",
+    "yomi": "べんきょう‐か",
+    "link": "/word/%E5%8B%89%E5%BC%B7%E5%AE%B6/#jn-267039"
+  },
+  {
+    "kotoba": "勉強会",
+    "yomi": "べんきょう‐かい",
+    "link": "/word/%E5%8B%89%E5%BC%B7%E4%BC%9A/#jn-281927"
+  },
+  {
+    "kotoba": "勉強部屋",
+    "yomi": "べんきょう‐べや",
+    "link": "/word/%E5%8B%89%E5%BC%B7%E9%83%A8%E5%B1%8B/#jn-259462"
+  },
+  {
+    "kotoba": "便宜",
+    "yomi": "べん‐ぎ",
+    "link": "/word/%E4%BE%BF%E5%AE%9C_%28%E3%81%B9%E3%82%93%E3%81%8E%29/#jn-200201"
+  },
+  {
+    "kotoba": "便宜主義",
+    "yomi": "べんぎ‐しゅぎ",
+    "link": "/word/%E4%BE%BF%E5%AE%9C%E4%B8%BB%E7%BE%A9/#jn-200205"
+  },
+  {
+    "kotoba": "便宜図法",
+    "yomi": "べんぎ‐ずほう",
+    "link": "/word/%E4%BE%BF%E5%AE%9C%E5%9B%B3%E6%B3%95/#jn-200206"
+  },
+  {
+    "kotoba": "便宜置籍船",
+    "yomi": "べんぎ‐ちせきせん",
+    "link": "/word/%E4%BE%BF%E5%AE%9C%E7%BD%AE%E7%B1%8D%E8%88%B9/#jn-200207"
+  },
+  {
+    "kotoba": "便宜的",
+    "yomi": "べんぎ‐てき",
+    "link": "/word/%E4%BE%BF%E5%AE%9C%E7%9A%84/#jn-200208"
+  },
+  {
+    "kotoba": "弁慶",
+    "yomi": "べんけい",
+    "link": "/word/person/%E5%BC%81%E6%85%B6/#jn-200233"
+  },
+  {
+    "kotoba": "汴京",
+    "yomi": "べんけい",
+    "link": "/word/%E6%B1%B4%E4%BA%AC/#jn-200236"
+  },
+  {
+    "kotoba": "鞭刑",
+    "yomi": "べん‐けい",
+    "link": "/word/%E9%9E%AD%E5%88%91/#jn-200237"
+  },
+  {
+    "kotoba": "弁慶蟹",
+    "yomi": "べんけい‐がに",
+    "link": "/word/%E5%BC%81%E6%85%B6%E8%9F%B9/#jn-200238"
+  },
+  {
+    "kotoba": "弁慶縞",
+    "yomi": "べんけい‐じま",
+    "link": "/word/%E5%BC%81%E6%85%B6%E7%B8%9E/#jn-200240"
+  },
+  {
+    "kotoba": "弁慶上使",
+    "yomi": "べんけい‐じょうし",
+    "link": "/word/%E5%BC%81%E6%85%B6%E4%B8%8A%E4%BD%BF/#jn-200241"
+  },
+  {
+    "kotoba": "弁形成術",
+    "yomi": "べんけいせい‐じゅつ",
+    "link": "/word/%E5%BC%81%E5%BD%A2%E6%88%90%E8%A1%93/#jn-241678"
+  },
+  {
+    "kotoba": "弁慶草",
+    "yomi": "べんけい‐そう",
+    "link": "/word/%E5%BC%81%E6%85%B6%E8%8D%89/#jn-200242"
+  },
+  {
+    "kotoba": "弁口",
+    "yomi": "べん‐こう",
+    "link": "/word/%E5%BC%81%E5%8F%A3/#jn-200268"
+  },
+  {
+    "kotoba": "弁巧",
+    "yomi": "べん‐こう",
+    "link": "/word/%E5%BC%81%E5%B7%A7/#jn-200269"
+  },
+  {
+    "kotoba": "弁護",
+    "yomi": "べん‐ご",
+    "link": "/word/%E5%BC%81%E8%AD%B7/#jn-200263"
+  },
+  {
+    "kotoba": "弁護科学",
+    "yomi": "べんご‐かがく",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E7%A7%91%E5%AD%A6/#jn-293642"
+  },
+  {
+    "kotoba": "弁護士",
+    "yomi": "べんご‐し",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E5%A3%AB/#jn-200283"
+  },
+  {
+    "kotoba": "弁護士会",
+    "yomi": "べんごし‐かい",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E5%A3%AB%E4%BC%9A/#jn-200284"
+  },
+  {
+    "kotoba": "弁護士費用等担保特約",
+    "yomi": "べんごしひようとうたんぽ‐とくやく",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E5%A3%AB%E8%B2%BB%E7%94%A8%E7%AD%89%E6%8B%85%E4%BF%9D%E7%89%B9%E7%B4%84/#jn-200285"
+  },
+  {
+    "kotoba": "弁護士費用等補償特約",
+    "yomi": "べんごしひようとうほしょう‐とくやく",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E5%A3%AB%E8%B2%BB%E7%94%A8%E7%AD%89%E8%A3%9C%E5%84%9F%E7%89%B9%E7%B4%84/#jn-200286"
+  },
+  {
+    "kotoba": "弁護士法",
+    "yomi": "べんごし‐ほう",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E5%A3%AB%E6%B3%95/#jn-200287"
+  },
+  {
+    "kotoba": "弁護的科学",
+    "yomi": "べんごてき‐かがく",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E7%9A%84%E7%A7%91%E5%AD%A6/#jn-293643"
+  },
+  {
+    "kotoba": "弁護人",
+    "yomi": "べんご‐にん",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E4%BA%BA/#jn-200289"
+  },
+  {
+    "kotoba": "弁護人依頼権",
+    "yomi": "べんごにんいらい‐けん",
+    "link": "/word/%E5%BC%81%E8%AD%B7%E4%BA%BA%E4%BE%9D%E9%A0%BC%E6%A8%A9/#jn-252324"
+  },
+  {
+    "kotoba": "弁才",
+    "yomi": "べん‐さい",
+    "link": "/word/%E5%BC%81%E6%89%8D/#jn-200301"
+  },
+  {
+    "kotoba": "弁済",
+    "yomi": "べん‐さい",
+    "link": "/word/%E5%BC%81%E6%B8%88/#jn-200302"
+  },
+  {
+    "kotoba": "弁鰓類",
+    "yomi": "べんさい‐るい",
+    "link": "/word/%E5%BC%81%E9%B0%93%E9%A1%9E/#jn-200305"
+  },
+  {
+    "kotoba": "弁座",
+    "yomi": "べん‐ざ",
+    "link": "/word/%E5%BC%81%E5%BA%A7/#jn-200292"
+  },
+  {
+    "kotoba": "便座",
+    "yomi": "べん‐ざ",
+    "link": "/word/%E4%BE%BF%E5%BA%A7/#jn-200293"
+  },
+  {
+    "kotoba": "弁才天",
+    "yomi": "べんざい‐てん",
+    "link": "/word/%E5%BC%81%E6%89%8D%E5%A4%A9/#jn-200304"
+  },
+  {
+    "kotoba": "弁士",
+    "yomi": "べん‐し",
+    "link": "/word/%E5%BC%81%E5%A3%AB/#jn-200327"
+  },
+  {
+    "kotoba": "弁識",
+    "yomi": "べん‐しき",
+    "link": "/word/%E5%BC%81%E8%AD%98/#jn-200329"
+  },
+  {
+    "kotoba": "便失禁",
+    "yomi": "べん‐しっきん",
+    "link": "/word/%E4%BE%BF%E5%A4%B1%E7%A6%81/#jn-272105"
+  },
+  {
+    "kotoba": "便室",
+    "yomi": "べん‐しつ",
+    "link": "/word/%E4%BE%BF%E5%AE%A4/#jn-200335"
+  },
+  {
+    "kotoba": "弁者",
+    "yomi": "べん‐しゃ",
+    "link": "/word/%E5%BC%81%E8%80%85/#jn-200338"
+  },
+  {
+    "kotoba": "便臭",
+    "yomi": "べん‐しゅう",
+    "link": "/word/%E4%BE%BF%E8%87%AD/#jn-298592"
+  },
+  {
+    "kotoba": "娩出",
+    "yomi": "べん‐しゅつ",
+    "link": "/word/%E5%A8%A9%E5%87%BA/#jn-200358"
+  },
+  {
+    "kotoba": "弁証",
+    "yomi": "べん‐しょう",
+    "link": "/word/%E5%BC%81%E8%A8%BC/#jn-200375"
+  },
+  {
+    "kotoba": "弁償",
+    "yomi": "べん‐しょう",
+    "link": "/word/%E5%BC%81%E5%84%9F/#jn-200376"
+  },
+  {
+    "kotoba": "弁証法",
+    "yomi": "べんしょう‐ほう",
+    "link": "/word/%E5%BC%81%E8%A8%BC%E6%B3%95/#jn-200382"
+  },
+  {
+    "kotoba": "弁証法神学",
+    "yomi": "べんしょうほう‐しんがく",
+    "link": "/word/%E5%BC%81%E8%A8%BC%E6%B3%95%E7%A5%9E%E5%AD%A6/#jn-200383"
+  },
+  {
+    "kotoba": "弁証法的唯物論",
+    "yomi": "べんしょうほうてき‐ゆいぶつろん",
+    "link": "/word/%E5%BC%81%E8%A8%BC%E6%B3%95%E7%9A%84%E5%94%AF%E7%89%A9%E8%AB%96/#jn-200384"
+  },
+  {
+    "kotoba": "弁証法的理性批判",
+    "yomi": "べんしょうほうてきりせいひはん",
+    "link": "/word/%E5%BC%81%E8%A8%BC%E6%B3%95%E7%9A%84%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4/#jn-278238"
+  },
+  {
+    "kotoba": "弁証法的論理学",
+    "yomi": "べんしょうほうてき‐ろんりがく",
+    "link": "/word/%E5%BC%81%E8%A8%BC%E6%B3%95%E7%9A%84%E8%AB%96%E7%90%86%E5%AD%A6/#jn-200385"
+  },
+  {
+    "kotoba": "弁神論",
+    "yomi": "べんしん‐ろん",
+    "link": "/word/%E5%BC%81%E7%A5%9E%E8%AB%96/#jn-200410"
+  },
+  {
+    "kotoba": "弁事",
+    "yomi": "べん‐じ",
+    "link": "/word/%E5%BC%81%E4%BA%8B_%28%E3%81%B9%E3%82%93%E3%81%98%29/#jn-200328"
+  },
+  {
+    "kotoba": "便所",
+    "yomi": "べん‐じょ",
+    "link": "/word/%E4%BE%BF%E6%89%80_%28%E3%81%B9%E3%82%93%E3%81%98%E3%82%87%29/#jn-200360"
+  },
+  {
+    "kotoba": "便所飯",
+    "yomi": "べんじょ‐めし",
+    "link": "/word/%E4%BE%BF%E6%89%80%E9%A3%AF/#jn-264472"
+  },
+  {
+    "kotoba": "鞭声",
+    "yomi": "べん‐せい",
+    "link": "/word/%E9%9E%AD%E5%A3%B0/#jn-200433"
+  },
+  {
+    "kotoba": "便潜血検査",
+    "yomi": "べんせんけつ‐けんさ",
+    "link": "/word/%E4%BE%BF%E6%BD%9C%E8%A1%80%E6%A4%9C%E6%9F%BB/#jn-272108"
+  },
+  {
+    "kotoba": "弁舌",
+    "yomi": "べん‐ぜつ",
+    "link": "/word/%E5%BC%81%E8%88%8C/#jn-200445"
+  },
+  {
+    "kotoba": "弁説",
+    "yomi": "べん‐ぜつ",
+    "link": "/word/%E5%BC%81%E8%AA%AC/#jn-200447"
+  },
+  {
+    "kotoba": "弁疏",
+    "yomi": "べん‐そ",
+    "link": "/word/%E5%BC%81%E7%96%8F/#jn-200455"
+  },
+  {
+    "kotoba": "駢体文",
+    "yomi": "べんたい‐ぶん",
+    "link": "/word/%E9%A7%A2%E4%BD%93%E6%96%87/#jn-200479"
+  },
+  {
+    "kotoba": "鞭撻",
+    "yomi": "べん‐たつ",
+    "link": "/word/%E9%9E%AD%E6%92%BB/#jn-200486"
+  },
+  {
+    "kotoba": "便達屋",
+    "yomi": "べんたつ‐や",
+    "link": "/word/%E4%BE%BF%E9%81%94%E5%B1%8B/#jn-200488"
+  },
+  {
+    "kotoba": "弁知",
+    "yomi": "べん‐ち",
+    "link": "/word/%E5%BC%81%E7%9F%A5/#jn-200497"
+  },
+  {
+    "kotoba": "胼胝",
+    "yomi": "べん‐ち",
+    "link": "/word/%E8%83%BC%E8%83%9D_%28%E3%81%B9%E3%82%93%E3%81%A1%29/#jn-200498"
+  },
+  {
+    "kotoba": "鞭笞",
+    "yomi": "べん‐ち",
+    "link": "/word/%E9%9E%AD%E7%AC%9E/#jn-200499"
+  },
+  {
+    "kotoba": "弁置換術",
+    "yomi": "べんちかん‐じゅつ",
+    "link": "/word/%E5%BC%81%E7%BD%AE%E6%8F%9B%E8%A1%93/#jn-241681"
+  },
+  {
+    "kotoba": "胼胝体",
+    "yomi": "べんち‐たい",
+    "link": "/word/%E8%83%BC%E8%83%9D%E4%BD%93/#jn-200510"
+  },
+  {
+    "kotoba": "鞭虫",
+    "yomi": "べん‐ちゅう",
+    "link": "/word/%E9%9E%AD%E8%99%AB/#jn-200525"
+  },
+  {
+    "kotoba": "弁長",
+    "yomi": "べんちょう",
+    "link": "/word/person/%E5%BC%81%E9%95%B7/#jn-200532"
+  },
+  {
+    "kotoba": "便通",
+    "yomi": "べん‐つう",
+    "link": "/word/%E4%BE%BF%E9%80%9A/#jn-200537"
+  },
+  {
+    "kotoba": "弁天",
+    "yomi": "べん‐てん",
+    "link": "/word/%E5%BC%81%E5%A4%A9/#jn-200557"
+  },
+  {
+    "kotoba": "弁天魚",
+    "yomi": "べんてん‐うお",
+    "link": "/word/%E5%BC%81%E5%A4%A9%E9%AD%9A/#jn-276387"
+  },
+  {
+    "kotoba": "弁天小僧",
+    "yomi": "べんてん‐こぞう",
+    "link": "/word/%E5%BC%81%E5%A4%A9%E5%B0%8F%E5%83%A7/#jn-200559"
+  },
+  {
+    "kotoba": "弁天島",
+    "yomi": "べんてん‐じま",
+    "link": "/word/%E5%BC%81%E5%A4%A9%E5%B3%B6/#jn-200560"
+  },
+  {
+    "kotoba": "弁天娘",
+    "yomi": "べんてん‐むすめ",
+    "link": "/word/%E5%BC%81%E5%A4%A9%E5%A8%98/#jn-200562"
+  },
+  {
+    "kotoba": "便殿",
+    "yomi": "べん‐でん",
+    "link": "/word/%E4%BE%BF%E6%AE%BF_%28%E3%81%B9%E3%82%93%E3%81%A7%E3%82%93%29/#jn-200558"
+  },
+  {
+    "kotoba": "弁当",
+    "yomi": "べん‐とう",
+    "link": "/word/%E5%BC%81%E5%BD%93/#jn-200570"
+  },
+  {
+    "kotoba": "弁当箱",
+    "yomi": "べんとう‐ばこ",
+    "link": "/word/%E5%BC%81%E5%BD%93%E7%AE%B1/#jn-200578"
+  },
+  {
+    "kotoba": "便毒",
+    "yomi": "べん‐どく",
+    "link": "/word/%E4%BE%BF%E6%AF%92/#jn-200586"
+  },
+  {
+    "kotoba": "弁難",
+    "yomi": "べん‐なん",
+    "link": "/word/%E5%BC%81%E9%9B%A3/#jn-200597"
+  },
+  {
+    "kotoba": "便佞",
+    "yomi": "べん‐ねい",
+    "link": "/word/%E4%BE%BF%E4%BD%9E/#jn-200603"
+  },
+  {
+    "kotoba": "弁内侍",
+    "yomi": "べん‐の‐ないし",
+    "link": "/word/person/%E5%BC%81%E5%86%85%E4%BE%8D/#jn-200612"
+  },
+  {
+    "kotoba": "弁内侍日記",
+    "yomi": "べんのないしにっき",
+    "link": "/word/%E5%BC%81%E5%86%85%E4%BE%8D%E6%97%A5%E8%A8%98/#jn-200613"
+  },
+  {
+    "kotoba": "弁駁",
+    "yomi": "べん‐ばく",
+    "link": "/word/%E5%BC%81%E9%A7%81/#jn-200619"
+  },
+  {
+    "kotoba": "弁髪",
+    "yomi": "べん‐ぱつ",
+    "link": "/word/%E5%BC%81%E9%AB%AA/#jn-200620"
+  },
+  {
+    "kotoba": "便微生物移植",
+    "yomi": "べんびせいぶつ‐いしょく",
+    "link": "/word/%E4%BE%BF%E5%BE%AE%E7%94%9F%E7%89%A9%E7%A7%BB%E6%A4%8D/#jn-293645"
+  },
+  {
+    "kotoba": "便秘",
+    "yomi": "べん‐ぴ",
+    "link": "/word/%E4%BE%BF%E7%A7%98/#jn-200625"
+  },
+  {
+    "kotoba": "抃舞",
+    "yomi": "べん‐ぶ",
+    "link": "/word/%E6%8A%83%E8%88%9E/#jn-200631"
+  },
+  {
+    "kotoba": "駢文",
+    "yomi": "べん‐ぶん",
+    "link": "/word/%E9%A7%A2%E6%96%87/#jn-200643"
+  },
+  {
+    "kotoba": "便風",
+    "yomi": "べん‐ぷう",
+    "link": "/word/%E4%BE%BF%E9%A2%A8/#jn-200632"
+  },
+  {
+    "kotoba": "便服",
+    "yomi": "べん‐ぷく",
+    "link": "/word/%E4%BE%BF%E6%9C%8D/#jn-200636"
+  },
+  {
+    "kotoba": "便腹",
+    "yomi": "べん‐ぷく",
+    "link": "/word/%E4%BE%BF%E8%85%B9/#jn-200637"
+  },
+  {
+    "kotoba": "冕服",
+    "yomi": "べん‐ぷく",
+    "link": "/word/%E5%86%95%E6%9C%8D/#jn-200638"
+  },
+  {
+    "kotoba": "弁別",
+    "yomi": "べん‐べつ",
+    "link": "/word/%E5%BC%81%E5%88%A5_%28%E3%81%B9%E3%82%93%E3%81%B9%E3%81%A4%29/#jn-200651"
+  },
+  {
+    "kotoba": "弁別閾",
+    "yomi": "べんべつ‐いき",
+    "link": "/word/%E5%BC%81%E5%88%A5%E9%96%BE/#jn-200652"
+  },
+  {
+    "kotoba": "便便",
+    "yomi": "べん‐べん",
+    "link": "/word/%E4%BE%BF%E4%BE%BF/#jn-200659"
+  },
+  {
+    "kotoba": "便嬖",
+    "yomi": "べん‐ぺい",
+    "link": "/word/%E4%BE%BF%E5%AC%96/#jn-200645"
+  },
+  {
+    "kotoba": "便法",
+    "yomi": "べん‐ぽう",
+    "link": "/word/%E4%BE%BF%E6%B3%95/#jn-200670"
+  },
+  {
+    "kotoba": "弁膜",
+    "yomi": "べん‐まく",
+    "link": "/word/%E5%BC%81%E8%86%9C/#jn-200678"
+  },
+  {
+    "kotoba": "弁膜症",
+    "yomi": "べんまく‐しょう",
+    "link": "/word/%E5%BC%81%E8%86%9C%E7%97%87/#jn-241682"
+  },
+  {
+    "kotoba": "弁務官",
+    "yomi": "べんむ‐かん",
+    "link": "/word/%E5%BC%81%E5%8B%99%E5%AE%98/#jn-200687"
+  },
+  {
+    "kotoba": "弁明",
+    "yomi": "べん‐めい",
+    "link": "/word/%E5%BC%81%E6%98%8E/#jn-200690"
+  },
+  {
+    "kotoba": "便蒙",
+    "yomi": "べん‐もう",
+    "link": "/word/%E4%BE%BF%E8%92%99/#jn-200693"
+  },
+  {
+    "kotoba": "鞭毛",
+    "yomi": "べん‐もう",
+    "link": "/word/%E9%9E%AD%E6%AF%9B/#jn-200694"
+  },
+  {
+    "kotoba": "鞭毛運動",
+    "yomi": "べんもう‐うんどう",
+    "link": "/word/%E9%9E%AD%E6%AF%9B%E9%81%8B%E5%8B%95/#jn-200695"
+  },
+  {
+    "kotoba": "鞭毛抗原",
+    "yomi": "べんもう‐こうげん",
+    "link": "/word/%E9%9E%AD%E6%AF%9B%E6%8A%97%E5%8E%9F/#jn-252342"
+  },
+  {
+    "kotoba": "鞭毛藻類",
+    "yomi": "べんもう‐そうるい",
+    "link": "/word/%E9%9E%AD%E6%AF%9B%E8%97%BB%E9%A1%9E/#jn-200696"
+  },
+  {
+    "kotoba": "鞭毛虫",
+    "yomi": "べんもう‐ちゅう",
+    "link": "/word/%E9%9E%AD%E6%AF%9B%E8%99%AB/#jn-200697"
+  },
+  {
+    "kotoba": "箯輿",
+    "yomi": "べん‐よ",
+    "link": "/word/%E7%AE%AF%E8%BC%BF_%28%E3%81%B9%E3%82%93%E3%82%88%29/#jn-200704"
+  },
+  {
+    "kotoba": "便覧",
+    "yomi": "べん‐らん",
+    "link": "/word/%E4%BE%BF%E8%A6%A7/#jn-200711"
+  },
+  {
+    "kotoba": "弁理",
+    "yomi": "べん‐り",
+    "link": "/word/%E5%BC%81%E7%90%86/#jn-200713"
+  },
+  {
+    "kotoba": "便利",
+    "yomi": "べん‐り",
+    "link": "/word/%E4%BE%BF%E5%88%A9/#jn-200714"
+  },
+  {
+    "kotoba": "弁理公使",
+    "yomi": "べんり‐こうし",
+    "link": "/word/%E5%BC%81%E7%90%86%E5%85%AC%E4%BD%BF/#jn-200725"
+  },
+  {
+    "kotoba": "弁理士",
+    "yomi": "べんり‐し",
+    "link": "/word/%E5%BC%81%E7%90%86%E5%A3%AB/#jn-200726"
+  },
+  {
+    "kotoba": "駢立",
+    "yomi": "べん‐りつ",
+    "link": "/word/%E9%A7%A2%E7%AB%8B/#jn-200727"
+  },
+  {
+    "kotoba": "便利屋",
+    "yomi": "べんり‐や",
+    "link": "/word/%E4%BE%BF%E5%88%A9%E5%B1%8B/#jn-200728"
+  },
+  {
+    "kotoba": "冕旒",
+    "yomi": "べん‐りゅう",
+    "link": "/word/%E5%86%95%E6%97%92/#jn-200730"
+  },
+  {
+    "kotoba": "勉励",
+    "yomi": "べん‐れい",
+    "link": "/word/%E5%8B%89%E5%8A%B1/#jn-200738"
+  },
+  {
+    "kotoba": "駢儷体",
+    "yomi": "べんれい‐たい",
+    "link": "/word/%E9%A7%A2%E5%84%B7%E4%BD%93/#jn-200740"
+  },
+  {
+    "kotoba": "弁論",
+    "yomi": "べん‐ろん",
+    "link": "/word/%E5%BC%81%E8%AB%96/#jn-200744"
+  },
+  {
+    "kotoba": "弁論主義",
+    "yomi": "べんろん‐しゅぎ",
+    "link": "/word/%E5%BC%81%E8%AB%96%E4%B8%BB%E7%BE%A9/#jn-200745"
+  },
+  {
+    "kotoba": "弁論術教程",
+    "yomi": "べんろんじゅつきょうてい",
+    "link": "/word/%E5%BC%81%E8%AB%96%E8%A1%93%E6%95%99%E7%A8%8B/#jn-286116"
+  }
+]

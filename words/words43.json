@@ -1,0 +1,4347 @@
+[
+  {
+    "kotoba": "我家",
+    "yomi": "わいえ",
+    "link": "/word/%E6%88%91%E5%AE%B6_%28%E3%82%8F%E3%81%84%E3%81%88%29/#jn-237357"
+  },
+  {
+    "kotoba": "矮化",
+    "yomi": "わい‐か",
+    "link": "/word/%E7%9F%AE%E5%8C%96/#jn-237366"
+  },
+  {
+    "kotoba": "猥歌",
+    "yomi": "わい‐か",
+    "link": "/word/%E7%8C%A5%E6%AD%8C/#jn-244869"
+  },
+  {
+    "kotoba": "脇舵",
+    "yomi": "わい‐かじ",
+    "link": "/word/%E8%84%87%E8%88%B5/#jn-237371"
+  },
+  {
+    "kotoba": "淮河",
+    "yomi": "わい‐が",
+    "link": "/word/%E6%B7%AE%E6%B2%B3/#jn-237367"
+  },
+  {
+    "kotoba": "猥画",
+    "yomi": "わい‐が",
+    "link": "/word/%E7%8C%A5%E7%94%BB/#jn-237368"
+  },
+  {
+    "kotoba": "歪曲",
+    "yomi": "わい‐きょく",
+    "link": "/word/%E6%AD%AA%E6%9B%B2/#jn-237373"
+  },
+  {
+    "kotoba": "歪曲収差",
+    "yomi": "わいきょく‐しゅうさ",
+    "link": "/word/%E6%AD%AA%E6%9B%B2%E5%8F%8E%E5%B7%AE/#jn-237374"
+  },
+  {
+    "kotoba": "歪曲補正",
+    "yomi": "わいきょく‐ほせい",
+    "link": "/word/%E6%AD%AA%E6%9B%B2%E8%A3%9C%E6%AD%A3/#jn-284477"
+  },
+  {
+    "kotoba": "矮躯",
+    "yomi": "わい‐く",
+    "link": "/word/%E7%9F%AE%E8%BA%AF/#jn-237375"
+  },
+  {
+    "kotoba": "淮軍",
+    "yomi": "わい‐ぐん",
+    "link": "/word/%E6%B7%AE%E8%BB%8D/#jn-237376"
+  },
+  {
+    "kotoba": "猥言",
+    "yomi": "わい‐げん",
+    "link": "/word/%E7%8C%A5%E8%A8%80/#jn-237377"
+  },
+  {
+    "kotoba": "猥語",
+    "yomi": "わい‐ご",
+    "link": "/word/%E7%8C%A5%E8%AA%9E/#jn-237378"
+  },
+  {
+    "kotoba": "猥瑣",
+    "yomi": "わい‐さ",
+    "link": "/word/%E7%8C%A5%E7%91%A3/#jn-237380"
+  },
+  {
+    "kotoba": "猥雑",
+    "yomi": "わい‐ざつ",
+    "link": "/word/%E7%8C%A5%E9%9B%91/#jn-237381"
+  },
+  {
+    "kotoba": "猥書",
+    "yomi": "わい‐しょ",
+    "link": "/word/%E7%8C%A5%E6%9B%B8/#jn-237387"
+  },
+  {
+    "kotoba": "矮小",
+    "yomi": "わい‐しょう",
+    "link": "/word/%E7%9F%AE%E5%B0%8F/#jn-237388"
+  },
+  {
+    "kotoba": "矮小銀河",
+    "yomi": "わいしょう‐ぎんが",
+    "link": "/word/%E7%9F%AE%E5%B0%8F%E9%8A%80%E6%B2%B3/#jn-253043"
+  },
+  {
+    "kotoba": "矮小惑星",
+    "yomi": "わいしょう‐わくせい",
+    "link": "/word/%E7%9F%AE%E5%B0%8F%E6%83%91%E6%98%9F/#jn-237389"
+  },
+  {
+    "kotoba": "矮樹",
+    "yomi": "わい‐じゅ",
+    "link": "/word/%E7%9F%AE%E6%A8%B9/#jn-237386"
+  },
+  {
+    "kotoba": "矮人",
+    "yomi": "わい‐じん",
+    "link": "/word/%E7%9F%AE%E4%BA%BA/#jn-237391"
+  },
+  {
+    "kotoba": "淮水",
+    "yomi": "わい‐すい",
+    "link": "/word/%E6%B7%AE%E6%B0%B4/#jn-237396"
+  },
+  {
+    "kotoba": "矮性",
+    "yomi": "わい‐せい",
+    "link": "/word/%E7%9F%AE%E6%80%A7/#jn-237401"
+  },
+  {
+    "kotoba": "矮星",
+    "yomi": "わい‐せい",
+    "link": "/word/%E7%9F%AE%E6%98%9F/#jn-237402"
+  },
+  {
+    "kotoba": "猥褻",
+    "yomi": "わい‐せつ",
+    "link": "/word/%E7%8C%A5%E8%A4%BB/#jn-237403"
+  },
+  {
+    "kotoba": "猥褻罪",
+    "yomi": "わいせつ‐ざい",
+    "link": "/word/%E7%8C%A5%E8%A4%BB%E7%BD%AA/#jn-237404"
+  },
+  {
+    "kotoba": "猥褻図画販売目的所持",
+    "yomi": "わいせつとがはんばいもくてき‐しょじ",
+    "link": "/word/%E7%8C%A5%E8%A4%BB%E5%9B%B3%E7%94%BB%E8%B2%A9%E5%A3%B2%E7%9B%AE%E7%9A%84%E6%89%80%E6%8C%81/#jn-242088"
+  },
+  {
+    "kotoba": "猥褻物頒布罪",
+    "yomi": "わいせつぶつはんぷ‐ざい",
+    "link": "/word/%E7%8C%A5%E8%A4%BB%E7%89%A9%E9%A0%92%E5%B8%83%E7%BD%AA/#jn-237405"
+  },
+  {
+    "kotoba": "猥褻物頒布等罪",
+    "yomi": "わいせつぶつはんぷとう‐ざい",
+    "link": "/word/%E7%8C%A5%E8%A4%BB%E7%89%A9%E9%A0%92%E5%B8%83%E7%AD%89%E7%BD%AA/#jn-237406"
+  },
+  {
+    "kotoba": "弁別",
+    "yomi": "わい‐だめ",
+    "link": "/word/%E5%BC%81%E5%88%A5_%28%E3%82%8F%E3%81%84%E3%81%A0%E3%82%81%29/#jn-237416"
+  },
+  {
+    "kotoba": "脇盾",
+    "yomi": "わい‐だて",
+    "link": "/word/%E8%84%87%E7%9B%BE/#jn-237413"
+  },
+  {
+    "kotoba": "猥談",
+    "yomi": "わい‐だん",
+    "link": "/word/%E7%8C%A5%E8%AB%87/#jn-237417"
+  },
+  {
+    "kotoba": "歪度",
+    "yomi": "わい‐ど",
+    "link": "/word/%E6%AD%AA%E5%BA%A6/#jn-297267"
+  },
+  {
+    "kotoba": "和井内貞行",
+    "yomi": "わいない‐さだゆき",
+    "link": "/word/%E5%92%8C%E4%BA%95%E5%86%85%E8%B2%9E%E8%A1%8C/#jn-237439"
+  },
+  {
+    "kotoba": "淮南",
+    "yomi": "わい‐なん",
+    "link": "/word/%E6%B7%AE%E5%8D%97/#jn-237441"
+  },
+  {
+    "kotoba": "隈板内閣",
+    "yomi": "わいはん‐ないかく",
+    "link": "/word/%E9%9A%88%E6%9D%BF%E5%86%85%E9%96%A3/#jn-237445"
+  },
+  {
+    "kotoba": "濊貊",
+    "yomi": "わいばく",
+    "link": "/word/%E6%BF%8A%E8%B2%8A/#jn-237444"
+  },
+  {
+    "kotoba": "猥本",
+    "yomi": "わい‐ほん",
+    "link": "/word/%E7%8C%A5%E6%9C%AC/#jn-237453"
+  },
+  {
+    "kotoba": "矮雄",
+    "yomi": "わい‐ゆう",
+    "link": "/word/%E7%9F%AE%E9%9B%84/#jn-292217"
+  },
+  {
+    "kotoba": "汝等",
+    "yomi": "わい‐ら",
+    "link": "/word/%E6%B1%9D%E7%AD%89_%28%E3%82%8F%E3%81%84%E3%82%89%29/#jn-237482"
+  },
+  {
+    "kotoba": "歪力",
+    "yomi": "わい‐りょく",
+    "link": "/word/%E6%AD%AA%E5%8A%9B/#jn-237484"
+  },
+  {
+    "kotoba": "矮林",
+    "yomi": "わい‐りん",
+    "link": "/word/%E7%9F%AE%E6%9E%97/#jn-237485"
+  },
+  {
+    "kotoba": "賄賂",
+    "yomi": "わい‐ろ",
+    "link": "/word/%E8%B3%84%E8%B3%82/#jn-237498"
+  },
+  {
+    "kotoba": "賄賂罪",
+    "yomi": "わいろ‐ざい",
+    "link": "/word/%E8%B3%84%E8%B3%82%E7%BD%AA/#jn-237499"
+  },
+  {
+    "kotoba": "矮惑星",
+    "yomi": "わい‐わくせい",
+    "link": "/word/%E7%9F%AE%E6%83%91%E6%98%9F/#jn-237504"
+  },
+  {
+    "kotoba": "和韻",
+    "yomi": "わ‐いん",
+    "link": "/word/%E5%92%8C%E9%9F%BB/#jn-237505"
+  },
+  {
+    "kotoba": "和院",
+    "yomi": "わ‐いん",
+    "link": "/word/%E5%92%8C%E9%99%A2/#jn-237507"
+  },
+  {
+    "kotoba": "和英",
+    "yomi": "わ‐えい",
+    "link": "/word/%E5%92%8C%E8%8B%B1/#jn-237529"
+  },
+  {
+    "kotoba": "和英語林集成",
+    "yomi": "わえいごりんしゅうせい",
+    "link": "/word/%E5%92%8C%E8%8B%B1%E8%AA%9E%E6%9E%97%E9%9B%86%E6%88%90/#jn-237530"
+  },
+  {
+    "kotoba": "和英辞典",
+    "yomi": "わえい‐じてん",
+    "link": "/word/%E5%92%8C%E8%8B%B1%E8%BE%9E%E5%85%B8/#jn-237531"
+  },
+  {
+    "kotoba": "輪尾狐猿",
+    "yomi": "わお‐きつねざる",
+    "link": "/word/%E8%BC%AA%E5%B0%BE%E7%8B%90%E7%8C%BF/#jn-237532"
+  },
+  {
+    "kotoba": "我男",
+    "yomi": "わ‐おとこ",
+    "link": "/word/%E6%88%91%E7%94%B7/#jn-237533"
+  },
+  {
+    "kotoba": "我御許",
+    "yomi": "わ‐おもと",
+    "link": "/word/%E6%88%91%E5%BE%A1%E8%A8%B1/#jn-237534"
+  },
+  {
+    "kotoba": "和音",
+    "yomi": "わ‐おん",
+    "link": "/word/%E5%92%8C%E9%9F%B3_%28%E3%82%8F%E3%81%8A%E3%82%93%29/#jn-237535"
+  },
+  {
+    "kotoba": "我女",
+    "yomi": "わ‐おんな",
+    "link": "/word/%E6%88%91%E5%A5%B3/#jn-237537"
+  },
+  {
+    "kotoba": "和温療法",
+    "yomi": "わおん‐りょうほう",
+    "link": "/word/%E5%92%8C%E6%B8%A9%E7%99%82%E6%B3%95/#jn-242099"
+  },
+  {
+    "kotoba": "和歌",
+    "yomi": "わ‐か",
+    "link": "/word/%E5%92%8C%E6%AD%8C/#jn-237539"
+  },
+  {
+    "kotoba": "若鮎",
+    "yomi": "わか‐あゆ",
+    "link": "/word/%E8%8B%A5%E9%AE%8E_%28%E3%82%8F%E3%81%8B%E3%81%82%E3%82%86%29/#jn-237545"
+  },
+  {
+    "kotoba": "和解",
+    "yomi": "わ‐かい",
+    "link": "/word/%E5%92%8C%E8%A7%A3_%28%E3%82%8F%E3%81%8B%E3%81%84%29/#jn-237546"
+  },
+  {
+    "kotoba": "和諧",
+    "yomi": "わ‐かい",
+    "link": "/word/%E5%92%8C%E8%AB%A7/#jn-237547"
+  },
+  {
+    "kotoba": "和解",
+    "yomi": "わかい",
+    "link": "/word/%E5%92%8C%E8%A7%A3_%28%E3%82%8F%E3%81%8B%E3%81%84%29/#jn-280421"
+  },
+  {
+    "kotoba": "若隠居",
+    "yomi": "わか‐いんきょ",
+    "link": "/word/%E8%8B%A5%E9%9A%A0%E5%B1%85/#jn-237556"
+  },
+  {
+    "kotoba": "若魚",
+    "yomi": "わか‐うお",
+    "link": "/word/%E8%8B%A5%E9%AD%9A/#jn-282257"
+  },
+  {
+    "kotoba": "若人",
+    "yomi": "わか‐うど",
+    "link": "/word/%E8%8B%A5%E4%BA%BA/#jn-237557"
+  },
+  {
+    "kotoba": "若恵比須",
+    "yomi": "わか‐えびす",
+    "link": "/word/%E8%8B%A5%E6%81%B5%E6%AF%94%E9%A0%88/#jn-237558"
+  },
+  {
+    "kotoba": "若男",
+    "yomi": "わか‐おとこ",
+    "link": "/word/%E8%8B%A5%E7%94%B7/#jn-237560"
+  },
+  {
+    "kotoba": "若御許",
+    "yomi": "わか‐おもと",
+    "link": "/word/%E8%8B%A5%E5%BE%A1%E8%A8%B1/#jn-237561"
+  },
+  {
+    "kotoba": "若女",
+    "yomi": "わか‐おんな",
+    "link": "/word/%E8%8B%A5%E5%A5%B3_%28%E3%82%8F%E3%81%8B%E3%81%8A%E3%82%93%E3%81%AA%29/#jn-237562"
+  },
+  {
+    "kotoba": "若楓",
+    "yomi": "わか‐かえで",
+    "link": "/word/%E8%8B%A5%E6%A5%93/#jn-237564"
+  },
+  {
+    "kotoba": "若蛙手",
+    "yomi": "わか‐かえるで",
+    "link": "/word/%E8%8B%A5%E8%9B%99%E6%89%8B/#jn-237567"
+  },
+  {
+    "kotoba": "若頭",
+    "yomi": "わか‐がしら",
+    "link": "/word/%E8%8B%A5%E9%A0%AD/#jn-244881"
+  },
+  {
+    "kotoba": "若公達",
+    "yomi": "わか‐きんだち",
+    "link": "/word/%E8%8B%A5%E5%85%AC%E9%81%94/#jn-237576"
+  },
+  {
+    "kotoba": "若木",
+    "yomi": "わか‐ぎ",
+    "link": "/word/%E8%8B%A5%E6%9C%A8/#jn-237569"
+  },
+  {
+    "kotoba": "若気",
+    "yomi": "わか‐ぎ",
+    "link": "/word/%E8%8B%A5%E6%B0%97_%28%E3%82%8F%E3%81%8B%E3%81%8E%29/#jn-237570"
+  },
+  {
+    "kotoba": "輪鍵",
+    "yomi": "わ‐かぎ",
+    "link": "/word/%E8%BC%AA%E9%8D%B5/#jn-237571"
+  },
+  {
+    "kotoba": "若君",
+    "yomi": "わか‐ぎみ",
+    "link": "/word/%E8%8B%A5%E5%90%9B/#jn-237573"
+  },
+  {
+    "kotoba": "若草",
+    "yomi": "わか‐くさ",
+    "link": "/word/%E8%8B%A5%E8%8D%89/#jn-237580"
+  },
+  {
+    "kotoba": "若草色",
+    "yomi": "わかくさ‐いろ",
+    "link": "/word/%E8%8B%A5%E8%8D%89%E8%89%B2/#jn-237581"
+  },
+  {
+    "kotoba": "若草伽藍",
+    "yomi": "わかくさ‐がらん",
+    "link": "/word/%E8%8B%A5%E8%8D%89%E4%BC%BD%E8%97%8D/#jn-237582"
+  },
+  {
+    "kotoba": "若草物語",
+    "yomi": "わかくさものがたり",
+    "link": "/word/%E8%8B%A5%E8%8D%89%E7%89%A9%E8%AA%9E/#jn-270332"
+  },
+  {
+    "kotoba": "若草山",
+    "yomi": "わかくさ‐やま",
+    "link": "/word/%E8%8B%A5%E8%8D%89%E5%B1%B1/#jn-237584"
+  },
+  {
+    "kotoba": "和歌九品",
+    "yomi": "わかくほん",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E4%B9%9D%E5%93%81/#jn-237588"
+  },
+  {
+    "kotoba": "若栗栖原",
+    "yomi": "わかくるす‐ばら",
+    "link": "/word/%E8%8B%A5%E6%A0%97%E6%A0%96%E5%8E%9F/#jn-237589"
+  },
+  {
+    "kotoba": "若気",
+    "yomi": "わか‐げ",
+    "link": "/word/%E8%8B%A5%E6%B0%97_%28%E3%82%8F%E3%81%8B%E3%81%92%29/#jn-237590"
+  },
+  {
+    "kotoba": "若子",
+    "yomi": "わか‐ご",
+    "link": "/word/%E8%8B%A5%E5%AD%90_%28%E3%82%8F%E3%81%8B%E3%81%94%29/#jn-237593"
+  },
+  {
+    "kotoba": "若後家",
+    "yomi": "わか‐ごけ",
+    "link": "/word/%E8%8B%A5%E5%BE%8C%E5%AE%B6/#jn-237595"
+  },
+  {
+    "kotoba": "若駒",
+    "yomi": "わか‐ごま",
+    "link": "/word/%E8%8B%A5%E9%A7%92/#jn-237596"
+  },
+  {
+    "kotoba": "若菰",
+    "yomi": "わか‐ごも",
+    "link": "/word/%E8%8B%A5%E8%8F%B0/#jn-237597"
+  },
+  {
+    "kotoba": "若狭",
+    "yomi": "わかさ",
+    "link": "/word/%E8%8B%A5%E7%8B%AD/#jn-237599"
+  },
+  {
+    "kotoba": "公魚",
+    "yomi": "わか‐さぎ",
+    "link": "/word/%E5%85%AC%E9%AD%9A/#jn-237602"
+  },
+  {
+    "kotoba": "若狭塗",
+    "yomi": "わかさ‐ぬり",
+    "link": "/word/%E8%8B%A5%E7%8B%AD%E5%A1%97/#jn-237603"
+  },
+  {
+    "kotoba": "若狭国",
+    "yomi": "わかさ‐の‐くに",
+    "link": "/word/%E8%8B%A5%E7%8B%AD%E5%9B%BD/#jn-274690"
+  },
+  {
+    "kotoba": "若狭彦神社",
+    "yomi": "わかさひこ‐じんじゃ",
+    "link": "/word/%E8%8B%A5%E7%8B%AD%E5%BD%A6%E7%A5%9E%E7%A4%BE/#jn-237604"
+  },
+  {
+    "kotoba": "若様",
+    "yomi": "わか‐さま",
+    "link": "/word/%E8%8B%A5%E6%A7%98/#jn-237605"
+  },
+  {
+    "kotoba": "若狭湾",
+    "yomi": "わかさ‐わん",
+    "link": "/word/%E8%8B%A5%E7%8B%AD%E6%B9%BE/#jn-237608"
+  },
+  {
+    "kotoba": "若狭湾国定公園",
+    "yomi": "わかさわん‐こくていこうえん",
+    "link": "/word/%E8%8B%A5%E7%8B%AD%E6%B9%BE%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92/#jn-237609"
+  },
+  {
+    "kotoba": "和歌三神",
+    "yomi": "わか‐さんじん",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E4%B8%89%E7%A5%9E/#jn-237610"
+  },
+  {
+    "kotoba": "若侍",
+    "yomi": "わか‐ざむらい",
+    "link": "/word/%E8%8B%A5%E4%BE%8D/#jn-237606"
+  },
+  {
+    "kotoba": "若潮",
+    "yomi": "わか‐しお",
+    "link": "/word/%E8%8B%A5%E6%BD%AE/#jn-237613"
+  },
+  {
+    "kotoba": "和歌四式",
+    "yomi": "わか‐ししき",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%9B%9B%E5%BC%8F/#jn-237614"
+  },
+  {
+    "kotoba": "和歌四天王",
+    "yomi": "わか‐してんのう",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%9B%9B%E5%A4%A9%E7%8E%8B/#jn-237616"
+  },
+  {
+    "kotoba": "若島権四郎",
+    "yomi": "わかしま‐ごんしろう",
+    "link": "/word/%E8%8B%A5%E5%B3%B6%E6%A8%A9%E5%9B%9B%E9%83%8E/#jn-237618"
+  },
+  {
+    "kotoba": "若島津六夫",
+    "yomi": "わかしまづ‐むつお",
+    "link": "/word/%E8%8B%A5%E5%B3%B6%E6%B4%A5%E5%85%AD%E5%A4%AB/#jn-295566"
+  },
+  {
+    "kotoba": "若衆",
+    "yomi": "わか‐しゅ",
+    "link": "/word/%E8%8B%A5%E8%A1%86/#jn-237619"
+  },
+  {
+    "kotoba": "若衆歌舞伎",
+    "yomi": "わかしゅ‐かぶき",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E6%AD%8C%E8%88%9E%E4%BC%8E/#jn-237622"
+  },
+  {
+    "kotoba": "若衆方",
+    "yomi": "わかしゅ‐がた",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E6%96%B9/#jn-237621"
+  },
+  {
+    "kotoba": "若衆髪",
+    "yomi": "わかしゅ‐がみ",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E9%AB%AA/#jn-237623"
+  },
+  {
+    "kotoba": "若衆組",
+    "yomi": "わかしゅ‐ぐみ",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E7%B5%84/#jn-237624"
+  },
+  {
+    "kotoba": "若衆女郎",
+    "yomi": "わかしゅ‐じょろう",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E5%A5%B3%E9%83%8E/#jn-237626"
+  },
+  {
+    "kotoba": "若衆道",
+    "yomi": "わかしゅ‐どう",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E9%81%93/#jn-237627"
+  },
+  {
+    "kotoba": "若衆髷",
+    "yomi": "わかしゅ‐まげ",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E9%AB%B7_%28%E3%82%8F%E3%81%8B%E3%81%97%E3%82%85%E3%81%BE%E3%81%92%29/#jn-237628"
+  },
+  {
+    "kotoba": "若衆宿",
+    "yomi": "わかしゅ‐やど",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E5%AE%BF/#jn-237629"
+  },
+  {
+    "kotoba": "若衆髷",
+    "yomi": "わかしゅ‐わげ",
+    "link": "/word/%E8%8B%A5%E8%A1%86%E9%AB%B7_%28%E3%82%8F%E3%81%8B%E3%81%97%E3%82%85%E3%82%8F%E3%81%92%29/#jn-237630"
+  },
+  {
+    "kotoba": "若白髪",
+    "yomi": "わか‐しらが",
+    "link": "/word/%E8%8B%A5%E7%99%BD%E9%AB%AA/#jn-237631"
+  },
+  {
+    "kotoba": "若造",
+    "yomi": "わか‐ぞう",
+    "link": "/word/%E8%8B%A5%E9%80%A0/#jn-237638"
+  },
+  {
+    "kotoba": "若鷹",
+    "yomi": "わか‐たか",
+    "link": "/word/%E8%8B%A5%E9%B7%B9/#jn-237640"
+  },
+  {
+    "kotoba": "若竹",
+    "yomi": "わか‐たけ",
+    "link": "/word/%E8%8B%A5%E7%AB%B9/#jn-237641"
+  },
+  {
+    "kotoba": "若竹色",
+    "yomi": "わかたけ‐いろ",
+    "link": "/word/%E8%8B%A5%E7%AB%B9%E8%89%B2/#jn-237642"
+  },
+  {
+    "kotoba": "若竹汁",
+    "yomi": "わかたけ‐じる",
+    "link": "/word/%E8%8B%A5%E7%AB%B9%E6%B1%81/#jn-237643"
+  },
+  {
+    "kotoba": "若竹千佐子",
+    "yomi": "わかたけ‐ちさこ",
+    "link": "/word/person/%E8%8B%A5%E7%AB%B9%E5%8D%83%E4%BD%90%E5%AD%90/#jn-293898"
+  },
+  {
+    "kotoba": "若竹煮",
+    "yomi": "わかたけ‐に",
+    "link": "/word/%E8%8B%A5%E7%AB%B9%E7%85%AE/#jn-237644"
+  },
+  {
+    "kotoba": "若大将",
+    "yomi": "わか‐だいしょう",
+    "link": "/word/%E8%8B%A5%E5%A4%A7%E5%B0%86/#jn-237639"
+  },
+  {
+    "kotoba": "若旦那",
+    "yomi": "わか‐だんな",
+    "link": "/word/%E8%8B%A5%E6%97%A6%E9%82%A3/#jn-237649"
+  },
+  {
+    "kotoba": "若槻礼次郎",
+    "yomi": "わかつき‐れいじろう",
+    "link": "/word/person/%E8%8B%A5%E6%A7%BB%E7%A4%BC%E6%AC%A1%E9%83%8E/#jn-237656"
+  },
+  {
+    "kotoba": "若妻",
+    "yomi": "わか‐づま",
+    "link": "/word/%E8%8B%A5%E5%A6%BB/#jn-237658"
+  },
+  {
+    "kotoba": "若手",
+    "yomi": "わか‐て",
+    "link": "/word/%E8%8B%A5%E6%89%8B/#jn-237661"
+  },
+  {
+    "kotoba": "若党",
+    "yomi": "わか‐とう",
+    "link": "/word/%E8%8B%A5%E5%85%9A/#jn-237663"
+  },
+  {
+    "kotoba": "若戸大橋",
+    "yomi": "わかと‐おおはし",
+    "link": "/word/%E8%8B%A5%E6%88%B8%E5%A4%A7%E6%A9%8B/#jn-237668"
+  },
+  {
+    "kotoba": "若年",
+    "yomi": "わか‐とし",
+    "link": "/word/%E8%8B%A5%E5%B9%B4_%28%E3%82%8F%E3%81%8B%E3%81%A8%E3%81%97%29/#jn-237670"
+  },
+  {
+    "kotoba": "若殿",
+    "yomi": "わか‐との",
+    "link": "/word/%E8%8B%A5%E6%AE%BF/#jn-237672"
+  },
+  {
+    "kotoba": "若殿原",
+    "yomi": "わか‐とのばら",
+    "link": "/word/%E8%8B%A5%E6%AE%BF%E5%8E%9F/#jn-237673"
+  },
+  {
+    "kotoba": "和歌童蒙抄",
+    "yomi": "わかどうもうしょう",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E7%AB%A5%E8%92%99%E6%8A%84/#jn-237667"
+  },
+  {
+    "kotoba": "和歌所",
+    "yomi": "わか‐どころ",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E6%89%80/#jn-237669"
+  },
+  {
+    "kotoba": "若年寄",
+    "yomi": "わか‐どしより",
+    "link": "/word/%E8%8B%A5%E5%B9%B4%E5%AF%84/#jn-237671"
+  },
+  {
+    "kotoba": "若鳥",
+    "yomi": "わか‐どり",
+    "link": "/word/%E8%8B%A5%E9%B3%A5/#jn-237675"
+  },
+  {
+    "kotoba": "若名",
+    "yomi": "わか‐な",
+    "link": "/word/%E8%8B%A5%E5%90%8D/#jn-237676"
+  },
+  {
+    "kotoba": "若菜",
+    "yomi": "わか‐な",
+    "link": "/word/%E8%8B%A5%E8%8F%9C/#jn-237677"
+  },
+  {
+    "kotoba": "若菜",
+    "yomi": "わかな",
+    "link": "/word/%E8%8B%A5%E8%8F%9C/#jn-237678"
+  },
+  {
+    "kotoba": "若苗",
+    "yomi": "わか‐なえ",
+    "link": "/word/%E8%8B%A5%E8%8B%97/#jn-237679"
+  },
+  {
+    "kotoba": "若苗色",
+    "yomi": "わかなえ‐いろ",
+    "link": "/word/%E8%8B%A5%E8%8B%97%E8%89%B2/#jn-237680"
+  },
+  {
+    "kotoba": "若魚子",
+    "yomi": "わかな‐ご",
+    "link": "/word/%E8%8B%A5%E9%AD%9A%E5%AD%90/#jn-237681"
+  },
+  {
+    "kotoba": "若菜集",
+    "yomi": "わかなしゅう",
+    "link": "/word/%E8%8B%A5%E8%8F%9C%E9%9B%86/#jn-237682"
+  },
+  {
+    "kotoba": "若主",
+    "yomi": "わか‐ぬし",
+    "link": "/word/%E8%8B%A5%E4%B8%BB/#jn-237685"
+  },
+  {
+    "kotoba": "若根",
+    "yomi": "わか‐ね",
+    "link": "/word/%E8%8B%A5%E6%A0%B9/#jn-237686"
+  },
+  {
+    "kotoba": "和歌浦",
+    "yomi": "わか‐の‐うら",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E6%B5%A6/#jn-237688"
+  },
+  {
+    "kotoba": "若乃花幹士",
+    "yomi": "わかのはな‐かんじ",
+    "link": "/word/%E8%8B%A5%E4%B9%83%E8%8A%B1%E5%B9%B9%E5%A3%AB/#jn-237689"
+  },
+  {
+    "kotoba": "若乃花勝",
+    "yomi": "わかのはな‐まさる",
+    "link": "/word/%E8%8B%A5%E4%B9%83%E8%8A%B1%E5%8B%9D/#jn-237690"
+  },
+  {
+    "kotoba": "若禿",
+    "yomi": "わか‐はげ",
+    "link": "/word/%E8%8B%A5%E7%A6%BF/#jn-237698"
+  },
+  {
+    "kotoba": "若葉",
+    "yomi": "わか‐ば",
+    "link": "/word/%E8%8B%A5%E8%91%89/#jn-237691"
+  },
+  {
+    "kotoba": "若葉",
+    "yomi": "わかば",
+    "link": "/word/%E8%8B%A5%E8%91%89/#jn-237692"
+  },
+  {
+    "kotoba": "若葉色",
+    "yomi": "わかば‐いろ",
+    "link": "/word/%E8%8B%A5%E8%91%89%E8%89%B2/#jn-237695"
+  },
+  {
+    "kotoba": "若葉区",
+    "yomi": "わかば‐く",
+    "link": "/word/%E8%8B%A5%E8%91%89%E5%8C%BA/#jn-237697"
+  },
+  {
+    "kotoba": "若林",
+    "yomi": "わかばやし",
+    "link": "/word/%E8%8B%A5%E6%9E%97/#jn-237700"
+  },
+  {
+    "kotoba": "若囃子",
+    "yomi": "わか‐ばやし",
+    "link": "/word/%E8%8B%A5%E5%9B%83%E5%AD%90/#jn-237702"
+  },
+  {
+    "kotoba": "若林",
+    "yomi": "わかばやし",
+    "link": "/word/%E8%8B%A5%E6%9E%97/#jn-237701"
+  },
+  {
+    "kotoba": "若林強斎",
+    "yomi": "わかばやし‐きょうさい",
+    "link": "/word/person/%E8%8B%A5%E6%9E%97%E5%BC%B7%E6%96%8E/#jn-237703"
+  },
+  {
+    "kotoba": "若林区",
+    "yomi": "わかばやし‐く",
+    "link": "/word/%E8%8B%A5%E6%9E%97%E5%8C%BA/#jn-237704"
+  },
+  {
+    "kotoba": "若林忠志",
+    "yomi": "わかばやし‐ただし",
+    "link": "/word/%E8%8B%A5%E6%9E%97%E5%BF%A0%E5%BF%97/#jn-237705"
+  },
+  {
+    "kotoba": "若人",
+    "yomi": "わか‐びと",
+    "link": "/word/%E8%8B%A5%E4%BA%BA/#jn-237706"
+  },
+  {
+    "kotoba": "若松",
+    "yomi": "わか‐まつ",
+    "link": "/word/%E8%8B%A5%E6%9D%BE/#jn-237710"
+  },
+  {
+    "kotoba": "若松",
+    "yomi": "わかまつ",
+    "link": "/word/%E8%8B%A5%E6%9D%BE/#jn-237711"
+  },
+  {
+    "kotoba": "若松",
+    "yomi": "わかまつ",
+    "link": "/word/%E8%8B%A5%E6%9D%BE/#jn-237712"
+  },
+  {
+    "kotoba": "若松",
+    "yomi": "わかまつ",
+    "link": "/word/%E8%8B%A5%E6%9D%BE/#jn-237713"
+  },
+  {
+    "kotoba": "若松区",
+    "yomi": "わかまつ‐く",
+    "link": "/word/%E8%8B%A5%E6%9D%BE%E5%8C%BA/#jn-237714"
+  },
+  {
+    "kotoba": "若松孝二",
+    "yomi": "わかまつ‐こうじ",
+    "link": "/word/person/%E8%8B%A5%E6%9D%BE%E5%AD%9D%E4%BA%8C/#jn-237715"
+  },
+  {
+    "kotoba": "若松市",
+    "yomi": "わかまつ‐し",
+    "link": "/word/%E8%8B%A5%E6%9D%BE%E5%B8%82/#jn-237716"
+  },
+  {
+    "kotoba": "若松賤子",
+    "yomi": "わかまつ‐しずこ",
+    "link": "/word/person/%E8%8B%A5%E6%9D%BE%E8%B3%A4%E5%AD%90/#jn-237717"
+  },
+  {
+    "kotoba": "若松城",
+    "yomi": "わかまつ‐じょう",
+    "link": "/word/%E8%8B%A5%E6%9D%BE%E5%9F%8E/#jn-274694"
+  },
+  {
+    "kotoba": "若松勉",
+    "yomi": "わかまつ‐つとむ",
+    "link": "/word/%E8%8B%A5%E6%9D%BE%E5%8B%89/#jn-237718"
+  },
+  {
+    "kotoba": "若水",
+    "yomi": "わか‐みず",
+    "link": "/word/%E8%8B%A5%E6%B0%B4/#jn-237723"
+  },
+  {
+    "kotoba": "若緑",
+    "yomi": "わか‐みどり",
+    "link": "/word/%E8%8B%A5%E7%B7%91/#jn-237724"
+  },
+  {
+    "kotoba": "若宮",
+    "yomi": "わか‐みや",
+    "link": "/word/%E8%8B%A5%E5%AE%AE/#jn-237725"
+  },
+  {
+    "kotoba": "若宮大路",
+    "yomi": "わかみや‐おおじ",
+    "link": "/word/%E8%8B%A5%E5%AE%AE%E5%A4%A7%E8%B7%AF/#jn-260116"
+  },
+  {
+    "kotoba": "若虫",
+    "yomi": "わか‐むし",
+    "link": "/word/%E8%8B%A5%E8%99%AB/#jn-237727"
+  },
+  {
+    "kotoba": "若武者",
+    "yomi": "わか‐むしゃ",
+    "link": "/word/%E8%8B%A5%E6%AD%A6%E8%80%85/#jn-237728"
+  },
+  {
+    "kotoba": "若紫",
+    "yomi": "わか‐むらさき",
+    "link": "/word/%E8%8B%A5%E7%B4%AB/#jn-237729"
+  },
+  {
+    "kotoba": "若布",
+    "yomi": "わか‐め",
+    "link": "/word/%E8%8B%A5%E5%B8%83/#jn-237730"
+  },
+  {
+    "kotoba": "若芽",
+    "yomi": "わか‐め",
+    "link": "/word/%E8%8B%A5%E8%8A%BD/#jn-237731"
+  },
+  {
+    "kotoba": "若芽色",
+    "yomi": "わかめ‐いろ",
+    "link": "/word/%E8%8B%A5%E8%8A%BD%E8%89%B2/#jn-237732"
+  },
+  {
+    "kotoba": "若餅",
+    "yomi": "わか‐もち",
+    "link": "/word/%E8%8B%A5%E9%A4%85/#jn-237733"
+  },
+  {
+    "kotoba": "若者",
+    "yomi": "わか‐もの",
+    "link": "/word/%E8%8B%A5%E8%80%85/#jn-237734"
+  },
+  {
+    "kotoba": "若者組",
+    "yomi": "わかもの‐ぐみ",
+    "link": "/word/%E8%8B%A5%E8%80%85%E7%B5%84/#jn-237739"
+  },
+  {
+    "kotoba": "若者雇用促進法",
+    "yomi": "わかものこようそくしん‐ほう",
+    "link": "/word/%E8%8B%A5%E8%80%85%E9%9B%87%E7%94%A8%E4%BF%83%E9%80%B2%E6%B3%95/#jn-290323"
+  },
+  {
+    "kotoba": "若者宿",
+    "yomi": "わかもの‐やど",
+    "link": "/word/%E8%8B%A5%E8%80%85%E5%AE%BF/#jn-237740"
+  },
+  {
+    "kotoba": "和歌八重垣",
+    "yomi": "わかやえがき",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%85%AB%E9%87%8D%E5%9E%A3/#jn-237742"
+  },
+  {
+    "kotoba": "若柳流",
+    "yomi": "わかやぎ‐りゅう",
+    "link": "/word/%E8%8B%A5%E6%9F%B3%E6%B5%81/#jn-237745"
+  },
+  {
+    "kotoba": "若役",
+    "yomi": "わか‐やく",
+    "link": "/word/%E8%8B%A5%E5%BD%B9/#jn-237746"
+  },
+  {
+    "kotoba": "若山",
+    "yomi": "わかやま",
+    "link": "/word/%E8%8B%A5%E5%B1%B1/#jn-237748"
+  },
+  {
+    "kotoba": "和歌山",
+    "yomi": "わかやま",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1/#jn-237749"
+  },
+  {
+    "kotoba": "和歌山県",
+    "yomi": "わかやま‐けん",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C/#jn-237750"
+  },
+  {
+    "kotoba": "和歌山県立医科大学",
+    "yomi": "わかやまけんりつ‐いかだいがく",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6/#jn-237751"
+  },
+  {
+    "kotoba": "和歌山公園動物園",
+    "yomi": "わかやまこうえん‐どうぶつえん",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%85%AC%E5%9C%92%E5%8B%95%E7%89%A9%E5%9C%92/#jn-270334"
+  },
+  {
+    "kotoba": "和歌山市",
+    "yomi": "わかやま‐し",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B8%82/#jn-237752"
+  },
+  {
+    "kotoba": "和歌山信愛大学",
+    "yomi": "わかやま‐しんあいだいがく",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%BF%A1%E6%84%9B%E5%A4%A7%E5%AD%A6/#jn-298857"
+  },
+  {
+    "kotoba": "和歌山大学",
+    "yomi": "わかやま‐だいがく",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%A4%A7%E5%AD%A6/#jn-237753"
+  },
+  {
+    "kotoba": "若山節",
+    "yomi": "わかやま‐ぶし",
+    "link": "/word/%E8%8B%A5%E5%B1%B1%E7%AF%80/#jn-237754"
+  },
+  {
+    "kotoba": "和歌山平野",
+    "yomi": "わかやま‐へいや",
+    "link": "/word/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%B9%B3%E9%87%8E/#jn-237755"
+  },
+  {
+    "kotoba": "若山牧水",
+    "yomi": "わかやま‐ぼくすい",
+    "link": "/word/person/%E8%8B%A5%E5%B1%B1%E7%89%A7%E6%B0%B4/#jn-237756"
+  },
+  {
+    "kotoba": "若湯",
+    "yomi": "わか‐ゆ",
+    "link": "/word/%E8%8B%A5%E6%B9%AF/#jn-237758"
+  },
+  {
+    "kotoba": "若鮎",
+    "yomi": "わかゆ",
+    "link": "/word/%E8%8B%A5%E9%AE%8E_%28%E3%82%8F%E3%81%8B%E3%82%86%29/#jn-237759"
+  },
+  {
+    "kotoba": "和芥子",
+    "yomi": "わ‐がらし",
+    "link": "/word/%E5%92%8C%E8%8A%A5%E5%AD%90/#jn-244882"
+  },
+  {
+    "kotoba": "和姦",
+    "yomi": "わ‐かん",
+    "link": "/word/%E5%92%8C%E5%A7%A6/#jn-237783"
+  },
+  {
+    "kotoba": "和漢",
+    "yomi": "わ‐かん",
+    "link": "/word/%E5%92%8C%E6%BC%A2/#jn-237784"
+  },
+  {
+    "kotoba": "倭館",
+    "yomi": "わ‐かん",
+    "link": "/word/%E5%80%AD%E9%A4%A8/#jn-237785"
+  },
+  {
+    "kotoba": "和漢混交文",
+    "yomi": "わかん‐こんこうぶん",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E6%B7%B7%E4%BA%A4%E6%96%87/#jn-237786"
+  },
+  {
+    "kotoba": "和漢合運",
+    "yomi": "わかんごううん",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E5%90%88%E9%81%8B/#jn-295567"
+  },
+  {
+    "kotoba": "和漢三才図会",
+    "yomi": "わかんさんさいずえ",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E4%B8%89%E6%89%8D%E5%9B%B3%E4%BC%9A/#jn-237787"
+  },
+  {
+    "kotoba": "和漢書",
+    "yomi": "わかん‐しょ",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E6%9B%B8/#jn-237789"
+  },
+  {
+    "kotoba": "輪樏",
+    "yomi": "わ‐かんじき",
+    "link": "/word/%E8%BC%AA%E6%A8%8F/#jn-237788"
+  },
+  {
+    "kotoba": "和漢薬",
+    "yomi": "わかん‐やく",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E8%96%AC/#jn-237793"
+  },
+  {
+    "kotoba": "和漢洋",
+    "yomi": "わ‐かん‐よう",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E6%B4%8B/#jn-237794"
+  },
+  {
+    "kotoba": "和漢聯句",
+    "yomi": "わかん‐れんく",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E8%81%AF%E5%8F%A5/#jn-237795"
+  },
+  {
+    "kotoba": "和漢朗詠集",
+    "yomi": "わかんろうえいしゅう",
+    "link": "/word/%E5%92%8C%E6%BC%A2%E6%9C%97%E8%A9%A0%E9%9B%86/#jn-237796"
+  },
+  {
+    "kotoba": "和学",
+    "yomi": "わ‐がく",
+    "link": "/word/%E5%92%8C%E5%AD%A6/#jn-237577"
+  },
+  {
+    "kotoba": "和楽",
+    "yomi": "わ‐がく",
+    "link": "/word/%E5%92%8C%E6%A5%BD_%28%E3%82%8F%E3%81%8C%E3%81%8F%29/#jn-237578"
+  },
+  {
+    "kotoba": "和学講談所",
+    "yomi": "わがく‐こうだんしょ",
+    "link": "/word/%E5%92%8C%E5%AD%A6%E8%AC%9B%E8%AB%87%E6%89%80/#jn-237579"
+  },
+  {
+    "kotoba": "和学者",
+    "yomi": "わがく‐しゃ",
+    "link": "/word/%E5%92%8C%E5%AD%A6%E8%80%85/#jn-237585"
+  },
+  {
+    "kotoba": "和学所",
+    "yomi": "わがく‐しょ",
+    "link": "/word/%E5%92%8C%E5%AD%A6%E6%89%80/#jn-237586"
+  },
+  {
+    "kotoba": "和傘",
+    "yomi": "わ‐がさ",
+    "link": "/word/%E5%92%8C%E5%82%98/#jn-237600"
+  },
+  {
+    "kotoba": "和菓子",
+    "yomi": "わ‐がし",
+    "link": "/word/%E5%92%8C%E8%8F%93%E5%AD%90/#jn-237612"
+  },
+  {
+    "kotoba": "和楽器",
+    "yomi": "わ‐がっき",
+    "link": "/word/%E5%92%8C%E6%A5%BD%E5%99%A8/#jn-237655"
+  },
+  {
+    "kotoba": "我妻栄",
+    "yomi": "わがつま‐さかえ",
+    "link": "/word/person/%E6%88%91%E5%A6%BB%E6%A0%84/#jn-237659"
+  },
+  {
+    "kotoba": "和気",
+    "yomi": "わ‐き",
+    "link": "/word/%E5%92%8C%E6%B0%97_%28%E3%82%8F%E3%81%8D%29/#jn-237798"
+  },
+  {
+    "kotoba": "和気靄靄",
+    "yomi": "わき‐あいあい",
+    "link": "/word/%E5%92%8C%E6%B0%97%E9%9D%84%E9%9D%84/#jn-237807"
+  },
+  {
+    "kotoba": "脇汗",
+    "yomi": "わき‐あせ",
+    "link": "/word/%E8%84%87%E6%B1%97/#jn-262520"
+  },
+  {
+    "kotoba": "脇当",
+    "yomi": "わき‐あて",
+    "link": "/word/%E8%84%87%E5%BD%93/#jn-237811"
+  },
+  {
+    "kotoba": "脇板",
+    "yomi": "わき‐いた",
+    "link": "/word/%E8%84%87%E6%9D%BF/#jn-237814"
+  },
+  {
+    "kotoba": "脇絵",
+    "yomi": "わき‐え",
+    "link": "/word/%E8%84%87%E7%B5%B5/#jn-237816"
+  },
+  {
+    "kotoba": "脇往還",
+    "yomi": "わき‐おうかん",
+    "link": "/word/%E8%84%87%E5%BE%80%E9%82%84/#jn-237818"
+  },
+  {
+    "kotoba": "脇街道",
+    "yomi": "わき‐かいどう",
+    "link": "/word/%E8%84%87%E8%A1%97%E9%81%93/#jn-237822"
+  },
+  {
+    "kotoba": "脇舵",
+    "yomi": "わき‐かじ",
+    "link": "/word/%E8%84%87%E8%88%B5/#jn-237829"
+  },
+  {
+    "kotoba": "脇方",
+    "yomi": "わき‐かた",
+    "link": "/word/%E8%84%87%E6%96%B9/#jn-237830"
+  },
+  {
+    "kotoba": "脇壁",
+    "yomi": "わき‐かべ",
+    "link": "/word/%E8%84%87%E5%A3%81/#jn-237833"
+  },
+  {
+    "kotoba": "腋臭",
+    "yomi": "わき‐が",
+    "link": "/word/%E8%85%8B%E8%87%AD_%28%E3%82%8F%E3%81%8D%E3%81%8C%29/#jn-237821"
+  },
+  {
+    "kotoba": "脇顔",
+    "yomi": "わき‐がお",
+    "link": "/word/%E8%84%87%E9%A1%94/#jn-237825"
+  },
+  {
+    "kotoba": "脇刀",
+    "yomi": "わき‐がたな",
+    "link": "/word/%E8%84%87%E5%88%80/#jn-237831"
+  },
+  {
+    "kotoba": "脇窯",
+    "yomi": "わき‐がま",
+    "link": "/word/%E8%84%87%E7%AA%AF/#jn-237834"
+  },
+  {
+    "kotoba": "脇鉋",
+    "yomi": "わき‐がんな",
+    "link": "/word/%E8%84%87%E9%89%8B/#jn-237836"
+  },
+  {
+    "kotoba": "脇狂言",
+    "yomi": "わき‐きょうげん",
+    "link": "/word/%E8%84%87%E7%8B%82%E8%A8%80/#jn-237837"
+  },
+  {
+    "kotoba": "脇句",
+    "yomi": "わき‐く",
+    "link": "/word/%E8%84%87%E5%8F%A5/#jn-237838"
+  },
+  {
+    "kotoba": "腋臭",
+    "yomi": "わき‐くさ",
+    "link": "/word/%E8%85%8B%E8%87%AD_%28%E3%82%8F%E3%81%8D%E3%81%8F%E3%81%95%29/#jn-237839"
+  },
+  {
+    "kotoba": "腋臭",
+    "yomi": "わき‐くそ",
+    "link": "/word/%E8%85%8B%E8%87%AD_%28%E3%82%8F%E3%81%8D%E3%81%8F%E3%81%9D%29/#jn-237840"
+  },
+  {
+    "kotoba": "腋毛",
+    "yomi": "わき‐げ",
+    "link": "/word/%E8%85%8B%E6%AF%9B/#jn-237841"
+  },
+  {
+    "kotoba": "脇心",
+    "yomi": "わき‐ごころ",
+    "link": "/word/%E8%84%87%E5%BF%83/#jn-237842"
+  },
+  {
+    "kotoba": "脇輿",
+    "yomi": "わき‐ごし",
+    "link": "/word/%E8%84%87%E8%BC%BF/#jn-237843"
+  },
+  {
+    "kotoba": "脇坂安治",
+    "yomi": "わきさか‐やすはる",
+    "link": "/word/person/%E8%84%87%E5%9D%82%E5%AE%89%E6%B2%BB/#jn-237846"
+  },
+  {
+    "kotoba": "脇座",
+    "yomi": "わき‐ざ",
+    "link": "/word/%E8%84%87%E5%BA%A7/#jn-237844"
+  },
+  {
+    "kotoba": "脇在郷",
+    "yomi": "わき‐ざいごう",
+    "link": "/word/%E8%84%87%E5%9C%A8%E9%83%B7/#jn-237845"
+  },
+  {
+    "kotoba": "脇差",
+    "yomi": "わき‐ざし",
+    "link": "/word/%E8%84%87%E5%B7%AE/#jn-237847"
+  },
+  {
+    "kotoba": "脇師",
+    "yomi": "わき‐し",
+    "link": "/word/%E8%84%87%E5%B8%AB/#jn-237848"
+  },
+  {
+    "kotoba": "脇障子",
+    "yomi": "わき‐しょうじ",
+    "link": "/word/%E8%84%87%E9%9A%9C%E5%AD%90/#jn-237851"
+  },
+  {
+    "kotoba": "脇正面",
+    "yomi": "わき‐じょうめん",
+    "link": "/word/%E8%84%87%E6%AD%A3%E9%9D%A2/#jn-237852"
+  },
+  {
+    "kotoba": "脇士",
+    "yomi": "わき‐じ",
+    "link": "/word/%E8%84%87%E5%A3%AB/#jn-237849"
+  },
+  {
+    "kotoba": "脇三味線",
+    "yomi": "わき‐じゃみせん",
+    "link": "/word/%E8%84%87%E4%B8%89%E5%91%B3%E7%B7%9A/#jn-237850"
+  },
+  {
+    "kotoba": "脇膳",
+    "yomi": "わき‐ぜん",
+    "link": "/word/%E8%84%87%E8%86%B3/#jn-237853"
+  },
+  {
+    "kotoba": "脇丈",
+    "yomi": "わき‐たけ",
+    "link": "/word/%E8%84%87%E4%B8%88/#jn-237855"
+  },
+  {
+    "kotoba": "脇太夫",
+    "yomi": "わき‐たゆう",
+    "link": "/word/%E8%84%87%E5%A4%AA%E5%A4%AB/#jn-237862"
+  },
+  {
+    "kotoba": "脇立",
+    "yomi": "わき‐だち",
+    "link": "/word/%E8%84%87%E7%AB%8B_%28%E3%82%8F%E3%81%8D%E3%81%A0%E3%81%A1%29/#jn-237857"
+  },
+  {
+    "kotoba": "脇立",
+    "yomi": "わき‐だて",
+    "link": "/word/%E8%84%87%E7%AB%8B_%28%E3%82%8F%E3%81%8D%E3%81%A0%E3%81%A6%29/#jn-237860"
+  },
+  {
+    "kotoba": "脇盾",
+    "yomi": "わき‐だて",
+    "link": "/word/%E8%84%87%E7%9B%BE/#jn-237861"
+  },
+  {
+    "kotoba": "脇鼓",
+    "yomi": "わき‐つづみ",
+    "link": "/word/%E8%84%87%E9%BC%93/#jn-237866"
+  },
+  {
+    "kotoba": "脇壺",
+    "yomi": "わき‐つぼ",
+    "link": "/word/%E8%84%87%E5%A3%BA/#jn-237867"
+  },
+  {
+    "kotoba": "脇連",
+    "yomi": "わき‐づれ",
+    "link": "/word/%E8%84%87%E9%80%A3/#jn-237869"
+  },
+  {
+    "kotoba": "脇几",
+    "yomi": "わき‐づき",
+    "link": "/word/%E8%84%87%E5%87%A0/#jn-237863"
+  },
+  {
+    "kotoba": "脇机",
+    "yomi": "わき‐づくえ",
+    "link": "/word/%E8%84%87%E6%9C%BA/#jn-237864"
+  },
+  {
+    "kotoba": "脇付",
+    "yomi": "わき‐づけ",
+    "link": "/word/%E8%84%87%E4%BB%98/#jn-237865"
+  },
+  {
+    "kotoba": "脇手",
+    "yomi": "わき‐て",
+    "link": "/word/%E8%84%87%E6%89%8B/#jn-237870"
+  },
+  {
+    "kotoba": "脇寺",
+    "yomi": "わき‐でら",
+    "link": "/word/%E8%84%87%E5%AF%BA/#jn-237872"
+  },
+  {
+    "kotoba": "脇戸",
+    "yomi": "わき‐ど",
+    "link": "/word/%E8%84%87%E6%88%B8/#jn-237874"
+  },
+  {
+    "kotoba": "脇能",
+    "yomi": "わき‐のう",
+    "link": "/word/%E8%84%87%E8%83%BD/#jn-237876"
+  },
+  {
+    "kotoba": "脇能物",
+    "yomi": "わきのう‐もの",
+    "link": "/word/%E8%84%87%E8%83%BD%E7%89%A9/#jn-244883"
+  },
+  {
+    "kotoba": "脇柱",
+    "yomi": "わき‐ばしら",
+    "link": "/word/%E8%84%87%E6%9F%B1/#jn-237879"
+  },
+  {
+    "kotoba": "脇腹",
+    "yomi": "わき‐ばら",
+    "link": "/word/%E8%84%87%E8%85%B9/#jn-237880"
+  },
+  {
+    "kotoba": "側辺",
+    "yomi": "わき‐ひら",
+    "link": "/word/%E5%81%B4%E8%BE%BA_%28%E3%82%8F%E3%81%8D%E3%81%B2%E3%82%89%29/#jn-237883"
+  },
+  {
+    "kotoba": "脇引",
+    "yomi": "わき‐びき",
+    "link": "/word/%E8%84%87%E5%BC%95/#jn-237881"
+  },
+  {
+    "kotoba": "脇百姓",
+    "yomi": "わき‐びゃくしょう",
+    "link": "/word/%E8%84%87%E7%99%BE%E5%A7%93/#jn-237882"
+  },
+  {
+    "kotoba": "脇本陣",
+    "yomi": "わき‐ほんじん",
+    "link": "/word/%E8%84%87%E6%9C%AC%E9%99%A3/#jn-237886"
+  },
+  {
+    "kotoba": "脇町",
+    "yomi": "わきまち",
+    "link": "/word/%E8%84%87%E7%94%BA/#jn-255696"
+  },
+  {
+    "kotoba": "脇見",
+    "yomi": "わき‐み",
+    "link": "/word/%E8%84%87%E8%A6%8B/#jn-237890"
+  },
+  {
+    "kotoba": "脇見運転",
+    "yomi": "わきみ‐うんてん",
+    "link": "/word/%E8%84%87%E8%A6%8B%E9%81%8B%E8%BB%A2/#jn-237892"
+  },
+  {
+    "kotoba": "脇道",
+    "yomi": "わき‐みち",
+    "link": "/word/%E8%84%87%E9%81%93/#jn-237894"
+  },
+  {
+    "kotoba": "脇村春夫",
+    "yomi": "わきむら‐はるお",
+    "link": "/word/%E8%84%87%E6%9D%91%E6%98%A5%E5%A4%AB/#jn-298858"
+  },
+  {
+    "kotoba": "脇目",
+    "yomi": "わき‐め",
+    "link": "/word/%E8%84%87%E7%9B%AE/#jn-237895"
+  },
+  {
+    "kotoba": "腋芽",
+    "yomi": "わき‐め",
+    "link": "/word/%E8%85%8B%E8%8A%BD/#jn-237897"
+  },
+  {
+    "kotoba": "吾妹子",
+    "yomi": "わぎも‐こ",
+    "link": "/word/%E5%90%BE%E5%A6%B9%E5%AD%90/#jn-237900"
+  },
+  {
+    "kotoba": "脇門",
+    "yomi": "わき‐もん",
+    "link": "/word/%E8%84%87%E9%96%80/#jn-237903"
+  },
+  {
+    "kotoba": "脇門跡",
+    "yomi": "わき‐もんぜき",
+    "link": "/word/%E8%84%87%E9%96%80%E8%B7%A1/#jn-237904"
+  },
+  {
+    "kotoba": "脇役",
+    "yomi": "わき‐やく",
+    "link": "/word/%E8%84%87%E5%BD%B9/#jn-237905"
+  },
+  {
+    "kotoba": "脇屋義助",
+    "yomi": "わきや‐よしすけ",
+    "link": "/word/person/%E8%84%87%E5%B1%8B%E7%BE%A9%E5%8A%A9/#jn-237906"
+  },
+  {
+    "kotoba": "脇槍",
+    "yomi": "わき‐やり",
+    "link": "/word/%E8%84%87%E6%A7%8D/#jn-237907"
+  },
+  {
+    "kotoba": "和協",
+    "yomi": "わ‐きょう",
+    "link": "/word/%E5%92%8C%E5%8D%94/#jn-237909"
+  },
+  {
+    "kotoba": "和鏡",
+    "yomi": "わ‐きょう",
+    "link": "/word/%E5%92%8C%E9%8F%A1/#jn-237910"
+  },
+  {
+    "kotoba": "和僑",
+    "yomi": "わ‐きょう",
+    "link": "/word/%E5%92%8C%E5%83%91/#jn-290324"
+  },
+  {
+    "kotoba": "脇艪",
+    "yomi": "わき‐ろ",
+    "link": "/word/%E8%84%87%E8%89%AA/#jn-237913"
+  },
+  {
+    "kotoba": "和金",
+    "yomi": "わ‐きん",
+    "link": "/word/%E5%92%8C%E9%87%91/#jn-237915"
+  },
+  {
+    "kotoba": "和議",
+    "yomi": "わ‐ぎ",
+    "link": "/word/%E5%92%8C%E8%AD%B0/#jn-237806"
+  },
+  {
+    "kotoba": "我家",
+    "yomi": "わぎえ",
+    "link": "/word/%E6%88%91%E5%AE%B6_%28%E3%82%8F%E3%81%8E%E3%81%88%29/#jn-237817"
+  },
+  {
+    "kotoba": "和議法",
+    "yomi": "わぎ‐ほう",
+    "link": "/word/%E5%92%8C%E8%AD%B0%E6%B3%95/#jn-237885"
+  },
+  {
+    "kotoba": "我君",
+    "yomi": "わ‐ぎみ",
+    "link": "/word/%E6%88%91%E5%90%9B/#jn-237891"
+  },
+  {
+    "kotoba": "吾妹",
+    "yomi": "わぎも",
+    "link": "/word/%E5%90%BE%E5%A6%B9/#jn-237899"
+  },
+  {
+    "kotoba": "和牛",
+    "yomi": "わ‐ぎゅう",
+    "link": "/word/%E5%92%8C%E7%89%9B/#jn-237908"
+  },
+  {
+    "kotoba": "和牛香",
+    "yomi": "わぎゅう‐こう",
+    "link": "/word/%E5%92%8C%E7%89%9B%E9%A6%99/#jn-264900"
+  },
+  {
+    "kotoba": "和牛商法",
+    "yomi": "わぎゅう‐しょうほう",
+    "link": "/word/%E5%92%8C%E7%89%9B%E5%95%86%E6%B3%95/#jn-260118"
+  },
+  {
+    "kotoba": "和牛預託商法",
+    "yomi": "わぎゅうよたく‐しょうほう",
+    "link": "/word/%E5%92%8C%E7%89%9B%E9%A0%90%E8%A8%97%E5%95%86%E6%B3%95/#jn-260119"
+  },
+  {
+    "kotoba": "倭玉篇",
+    "yomi": "わぎょくへん",
+    "link": "/word/%E5%80%AD%E7%8E%89%E7%AF%87/#jn-300179"
+  },
+  {
+    "kotoba": "和煦",
+    "yomi": "わ‐く",
+    "link": "/word/%E5%92%8C%E7%85%A6/#jn-237916"
+  },
+  {
+    "kotoba": "湧井",
+    "yomi": "わくい",
+    "link": "/word/%E6%B9%A7%E4%BA%95/#jn-272438"
+  },
+  {
+    "kotoba": "涌井",
+    "yomi": "わくい",
+    "link": "/word/%E6%B6%8C%E4%BA%95/#jn-274695"
+  },
+  {
+    "kotoba": "枠外",
+    "yomi": "わく‐がい",
+    "link": "/word/%E6%9E%A0%E5%A4%96/#jn-237927"
+  },
+  {
+    "kotoba": "和句解",
+    "yomi": "わくげ",
+    "link": "/word/%E5%92%8C%E5%8F%A5%E8%A7%A3/#jn-237930"
+  },
+  {
+    "kotoba": "若子",
+    "yomi": "わく‐ご",
+    "link": "/word/%E8%8B%A5%E5%AD%90_%28%E3%82%8F%E3%81%8F%E3%81%94%29/#jn-237931"
+  },
+  {
+    "kotoba": "惑業",
+    "yomi": "わく‐ごう",
+    "link": "/word/%E6%83%91%E6%A5%AD/#jn-237932"
+  },
+  {
+    "kotoba": "和久峻三",
+    "yomi": "わく‐しゅんぞう",
+    "link": "/word/person/%E5%92%8C%E4%B9%85%E5%B3%BB%E4%B8%89/#jn-237935"
+  },
+  {
+    "kotoba": "枠小説",
+    "yomi": "わく‐しょうせつ",
+    "link": "/word/%E6%9E%A0%E5%B0%8F%E8%AA%AC/#jn-282260"
+  },
+  {
+    "kotoba": "惑星",
+    "yomi": "わく‐せい",
+    "link": "/word/%E6%83%91%E6%98%9F/#jn-237937"
+  },
+  {
+    "kotoba": "惑星",
+    "yomi": "わくせい",
+    "link": "/word/%E6%83%91%E6%98%9F/#jn-286420"
+  },
+  {
+    "kotoba": "惑星改造",
+    "yomi": "わくせい‐かいぞう",
+    "link": "/word/%E6%83%91%E6%98%9F%E6%94%B9%E9%80%A0/#jn-253054"
+  },
+  {
+    "kotoba": "惑星間空間",
+    "yomi": "わくせいかん‐くうかん",
+    "link": "/word/%E6%83%91%E6%98%9F%E9%96%93%E7%A9%BA%E9%96%93/#jn-255697"
+  },
+  {
+    "kotoba": "惑星間空間塵",
+    "yomi": "わくせいかん‐くうかんじん",
+    "link": "/word/%E6%83%91%E6%98%9F%E9%96%93%E7%A9%BA%E9%96%93%E5%A1%B5/#jn-264901"
+  },
+  {
+    "kotoba": "惑星間塵",
+    "yomi": "わくせいかん‐じん",
+    "link": "/word/%E6%83%91%E6%98%9F%E9%96%93%E5%A1%B5/#jn-255698"
+  },
+  {
+    "kotoba": "惑星間物質",
+    "yomi": "わくせいかん‐ぶっしつ",
+    "link": "/word/%E6%83%91%E6%98%9F%E9%96%93%E7%89%A9%E8%B3%AA/#jn-264902"
+  },
+  {
+    "kotoba": "惑星気象学",
+    "yomi": "わくせい‐きしょうがく",
+    "link": "/word/%E6%83%91%E6%98%9F%E6%B0%97%E8%B1%A1%E5%AD%A6/#jn-248792"
+  },
+  {
+    "kotoba": "惑星系",
+    "yomi": "わくせい‐けい",
+    "link": "/word/%E6%83%91%E6%98%9F%E7%B3%BB/#jn-248793"
+  },
+  {
+    "kotoba": "惑星候補",
+    "yomi": "わくせい‐こうほ",
+    "link": "/word/%E6%83%91%E6%98%9F%E5%80%99%E8%A3%9C/#jn-255699"
+  },
+  {
+    "kotoba": "惑星状星雲",
+    "yomi": "わくせいじょう‐せいうん",
+    "link": "/word/%E6%83%91%E6%98%9F%E7%8A%B6%E6%98%9F%E9%9B%B2/#jn-237938"
+  },
+  {
+    "kotoba": "惑星大気科学",
+    "yomi": "わくせい‐たいきかがく",
+    "link": "/word/%E6%83%91%E6%98%9F%E5%A4%A7%E6%B0%97%E7%A7%91%E5%AD%A6/#jn-248794"
+  },
+  {
+    "kotoba": "惑星大気物理学",
+    "yomi": "わくせい‐たいきぶつりがく",
+    "link": "/word/%E6%83%91%E6%98%9F%E5%A4%A7%E6%B0%97%E7%89%A9%E7%90%86%E5%AD%A6/#jn-248795"
+  },
+  {
+    "kotoba": "惑星探査機",
+    "yomi": "わくせい‐たんさき",
+    "link": "/word/%E6%83%91%E6%98%9F%E6%8E%A2%E6%9F%BB%E6%A9%9F/#jn-237939"
+  },
+  {
+    "kotoba": "惑星波",
+    "yomi": "わくせい‐は",
+    "link": "/word/%E6%83%91%E6%98%9F%E6%B3%A2/#jn-303532"
+  },
+  {
+    "kotoba": "湧玉池",
+    "yomi": "わくたま‐いけ",
+    "link": "/word/%E6%B9%A7%E7%8E%89%E6%B1%A0/#jn-260120"
+  },
+  {
+    "kotoba": "惑溺",
+    "yomi": "わく‐でき",
+    "link": "/word/%E6%83%91%E6%BA%BA/#jn-237944"
+  },
+  {
+    "kotoba": "枠内",
+    "yomi": "わく‐ない",
+    "link": "/word/%E6%9E%A0%E5%86%85/#jn-237949"
+  },
+  {
+    "kotoba": "鶏蜱",
+    "yomi": "わくも",
+    "link": "/word/%E9%B6%8F%E8%9C%B1/#jn-237955"
+  },
+  {
+    "kotoba": "枠物語",
+    "yomi": "わく‐ものがたり",
+    "link": "/word/%E6%9E%A0%E7%89%A9%E8%AA%9E/#jn-282261"
+  },
+  {
+    "kotoba": "或問",
+    "yomi": "わく‐もん",
+    "link": "/word/%E6%88%96%E5%95%8F/#jn-237956"
+  },
+  {
+    "kotoba": "和倉温泉",
+    "yomi": "わくら‐おんせん",
+    "link": "/word/%E5%92%8C%E5%80%89%E6%B8%A9%E6%B3%89/#jn-237958"
+  },
+  {
+    "kotoba": "邂逅",
+    "yomi": "わくらば",
+    "link": "/word/%E9%82%82%E9%80%85_%28%E3%82%8F%E3%81%8F%E3%82%89%E3%81%B0%29/#jn-237961"
+  },
+  {
+    "kotoba": "病葉",
+    "yomi": "わくら‐ば",
+    "link": "/word/%E7%97%85%E8%91%89/#jn-237960"
+  },
+  {
+    "kotoba": "惑乱",
+    "yomi": "わく‐らん",
+    "link": "/word/%E6%83%91%E4%B9%B1/#jn-237962"
+  },
+  {
+    "kotoba": "和栗",
+    "yomi": "わ‐くり",
+    "link": "/word/%E5%92%8C%E6%A0%97/#jn-301302"
+  },
+  {
+    "kotoba": "和訓",
+    "yomi": "わ‐くん",
+    "link": "/word/%E5%92%8C%E8%A8%93/#jn-237965"
+  },
+  {
+    "kotoba": "和訓栞",
+    "yomi": "わくんのしおり",
+    "link": "/word/%E5%92%8C%E8%A8%93%E6%A0%9E/#jn-237966"
+  },
+  {
+    "kotoba": "倭訓類林",
+    "yomi": "わくんるいりん",
+    "link": "/word/%E5%80%AD%E8%A8%93%E9%A1%9E%E6%9E%97/#jn-237967"
+  },
+  {
+    "kotoba": "和鞍",
+    "yomi": "わ‐ぐら",
+    "link": "/word/%E5%92%8C%E9%9E%8D/#jn-237957"
+  },
+  {
+    "kotoba": "和気",
+    "yomi": "わけ",
+    "link": "/word/%E5%92%8C%E6%B0%97_%28%E3%82%8F%E3%81%91%29/#jn-237970"
+  },
+  {
+    "kotoba": "戯奴",
+    "yomi": "わけ",
+    "link": "/word/%E6%88%AF%E5%A5%B4/#jn-237978"
+  },
+  {
+    "kotoba": "和敬",
+    "yomi": "わ‐けい",
+    "link": "/word/%E5%92%8C%E6%95%AC/#jn-237986"
+  },
+  {
+    "kotoba": "和敬清寂",
+    "yomi": "わけい‐せいじゃく",
+    "link": "/word/%E5%92%8C%E6%95%AC%E6%B8%85%E5%AF%82/#jn-237988"
+  },
+  {
+    "kotoba": "訳柄",
+    "yomi": "わけ‐がら",
+    "link": "/word/%E8%A8%B3%E6%9F%84/#jn-237990"
+  },
+  {
+    "kotoba": "分葱",
+    "yomi": "わけ‐ぎ",
+    "link": "/word/%E5%88%86%E8%91%B1/#jn-237991"
+  },
+  {
+    "kotoba": "和気清麻呂",
+    "yomi": "わけ‐の‐きよまろ",
+    "link": "/word/person/%E5%92%8C%E6%B0%97%E6%B8%85%E9%BA%BB%E5%91%82/#jn-238002"
+  },
+  {
+    "kotoba": "和気広虫",
+    "yomi": "わけ‐の‐ひろむし",
+    "link": "/word/person/%E5%92%8C%E6%B0%97%E5%BA%83%E8%99%AB/#jn-238003"
+  },
+  {
+    "kotoba": "和犬",
+    "yomi": "わ‐けん",
+    "link": "/word/%E5%92%8C%E7%8A%AC/#jn-238011"
+  },
+  {
+    "kotoba": "和解",
+    "yomi": "わ‐げ",
+    "link": "/word/%E5%92%8C%E8%A7%A3_%28%E3%82%8F%E3%81%92%29/#jn-237979"
+  },
+  {
+    "kotoba": "話芸",
+    "yomi": "わ‐げい",
+    "link": "/word/%E8%A9%B1%E8%8A%B8/#jn-237987"
+  },
+  {
+    "kotoba": "話劇",
+    "yomi": "わ‐げき",
+    "link": "/word/%E8%A9%B1%E5%8A%87/#jn-237992"
+  },
+  {
+    "kotoba": "輪袈裟",
+    "yomi": "わ‐げさ",
+    "link": "/word/%E8%BC%AA%E8%A2%88%E8%A3%9F/#jn-237993"
+  },
+  {
+    "kotoba": "和弦",
+    "yomi": "わ‐げん",
+    "link": "/word/%E5%92%8C%E5%BC%A6_%28%E3%82%8F%E3%81%92%E3%82%93%29/#jn-238012"
+  },
+  {
+    "kotoba": "和子",
+    "yomi": "わ‐こ",
+    "link": "/word/%E5%92%8C%E5%AD%90/#jn-238013"
+  },
+  {
+    "kotoba": "和光",
+    "yomi": "わ‐こう",
+    "link": "/word/%E5%92%8C%E5%85%89/#jn-238015"
+  },
+  {
+    "kotoba": "和光",
+    "yomi": "わこう",
+    "link": "/word/%E5%92%8C%E5%85%89/#jn-238016"
+  },
+  {
+    "kotoba": "倭寇",
+    "yomi": "わ‐こう",
+    "link": "/word/%E5%80%AD%E5%AF%87/#jn-238017"
+  },
+  {
+    "kotoba": "和光市",
+    "yomi": "わこう‐し",
+    "link": "/word/%E5%92%8C%E5%85%89%E5%B8%82/#jn-238019"
+  },
+  {
+    "kotoba": "和光垂迹",
+    "yomi": "わこう‐すいじゃく",
+    "link": "/word/%E5%92%8C%E5%85%89%E5%9E%82%E8%BF%B9/#jn-238022"
+  },
+  {
+    "kotoba": "和光大学",
+    "yomi": "わこう‐だいがく",
+    "link": "/word/%E5%92%8C%E5%85%89%E5%A4%A7%E5%AD%A6/#jn-248796"
+  },
+  {
+    "kotoba": "若人",
+    "yomi": "わこうど",
+    "link": "/word/%E8%8B%A5%E4%BA%BA/#jn-238024"
+  },
+  {
+    "kotoba": "和光同塵",
+    "yomi": "わこう‐どうじん",
+    "link": "/word/%E5%92%8C%E5%85%89%E5%90%8C%E5%A1%B5/#jn-238025"
+  },
+  {
+    "kotoba": "和国",
+    "yomi": "わ‐こく",
+    "link": "/word/%E5%92%8C%E5%9B%BD/#jn-238027"
+  },
+  {
+    "kotoba": "和子様",
+    "yomi": "わこ‐さま",
+    "link": "/word/%E5%92%8C%E5%AD%90%E6%A7%98/#jn-238030"
+  },
+  {
+    "kotoba": "和魂",
+    "yomi": "わ‐こん",
+    "link": "/word/%E5%92%8C%E9%AD%82_%28%E3%82%8F%E3%81%93%E3%82%93%29/#jn-238041"
+  },
+  {
+    "kotoba": "和魂漢才",
+    "yomi": "わこん‐かんさい",
+    "link": "/word/%E5%92%8C%E9%AD%82%E6%BC%A2%E6%89%8D/#jn-238044"
+  },
+  {
+    "kotoba": "和魂洋才",
+    "yomi": "わこん‐ようさい",
+    "link": "/word/%E5%92%8C%E9%AD%82%E6%B4%8B%E6%89%8D/#jn-238048"
+  },
+  {
+    "kotoba": "和語",
+    "yomi": "わ‐ご",
+    "link": "/word/%E5%92%8C%E8%AA%9E/#jn-238014"
+  },
+  {
+    "kotoba": "和合",
+    "yomi": "わ‐ごう",
+    "link": "/word/%E5%92%8C%E5%90%88/#jn-238018"
+  },
+  {
+    "kotoba": "和合神",
+    "yomi": "わごう‐じん",
+    "link": "/word/%E5%92%8C%E5%90%88%E7%A5%9E/#jn-238021"
+  },
+  {
+    "kotoba": "和合人",
+    "yomi": "わごうじん",
+    "link": "/word/%E5%92%8C%E5%90%88%E4%BA%BA/#jn-238020"
+  },
+  {
+    "kotoba": "和合僧",
+    "yomi": "わごう‐そう",
+    "link": "/word/%E5%92%8C%E5%90%88%E5%83%A7/#jn-238023"
+  },
+  {
+    "kotoba": "倭玉篇",
+    "yomi": "わごくへん",
+    "link": "/word/%E5%80%AD%E7%8E%89%E7%AF%87/#jn-238028"
+  },
+  {
+    "kotoba": "輪後光",
+    "yomi": "わ‐ごこう",
+    "link": "/word/%E8%BC%AA%E5%BE%8C%E5%85%89/#jn-238029"
+  },
+  {
+    "kotoba": "和語説略図",
+    "yomi": "わごせつのりゃくず",
+    "link": "/word/%E5%92%8C%E8%AA%9E%E8%AA%AC%E7%95%A5%E5%9B%B3/#jn-238033"
+  },
+  {
+    "kotoba": "我御前",
+    "yomi": "わ‐ごぜ",
+    "link": "/word/%E6%88%91%E5%BE%A1%E5%89%8D/#jn-238032"
+  },
+  {
+    "kotoba": "和事",
+    "yomi": "わ‐ごと",
+    "link": "/word/%E5%92%8C%E4%BA%8B/#jn-238034"
+  },
+  {
+    "kotoba": "和事師",
+    "yomi": "わごと‐し",
+    "link": "/word/%E5%92%8C%E4%BA%8B%E5%B8%AB/#jn-238035"
+  },
+  {
+    "kotoba": "我御房",
+    "yomi": "わ‐ごぼう",
+    "link": "/word/%E6%88%91%E5%BE%A1%E6%88%BF/#jn-238036"
+  },
+  {
+    "kotoba": "我御料",
+    "yomi": "わ‐ごりょ",
+    "link": "/word/%E6%88%91%E5%BE%A1%E6%96%99_%28%E3%82%8F%E3%81%94%E3%82%8A%E3%82%87%29/#jn-238038"
+  },
+  {
+    "kotoba": "我御料",
+    "yomi": "わ‐ごりょう",
+    "link": "/word/%E6%88%91%E5%BE%A1%E6%96%99_%28%E3%82%8F%E3%81%94%E3%82%8A%E3%82%87%E3%81%86%29/#jn-238039"
+  },
+  {
+    "kotoba": "和琴",
+    "yomi": "わ‐ごん",
+    "link": "/word/%E5%92%8C%E7%90%B4/#jn-238042"
+  },
+  {
+    "kotoba": "早稲",
+    "yomi": "わさ",
+    "link": "/word/%E6%97%A9%E7%A8%B2_%28%E3%82%8F%E3%81%95%29/#jn-238049"
+  },
+  {
+    "kotoba": "輪差",
+    "yomi": "わ‐さ",
+    "link": "/word/%E8%BC%AA%E5%B7%AE/#jn-238050"
+  },
+  {
+    "kotoba": "和裁",
+    "yomi": "わ‐さい",
+    "link": "/word/%E5%92%8C%E8%A3%81/#jn-238054"
+  },
+  {
+    "kotoba": "早稲米",
+    "yomi": "わさ‐ごめ",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%B1%B3_%28%E3%82%8F%E3%81%95%E3%81%94%E3%82%81%29/#jn-238061"
+  },
+  {
+    "kotoba": "早酒",
+    "yomi": "わさ‐さ",
+    "link": "/word/%E6%97%A9%E9%85%92/#jn-238062"
+  },
+  {
+    "kotoba": "早稲田",
+    "yomi": "わさ‐だ",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%94%B0_%28%E3%82%8F%E3%81%95%E3%81%A0%29/#jn-238064"
+  },
+  {
+    "kotoba": "山葵",
+    "yomi": "わさび",
+    "link": "/word/%E5%B1%B1%E8%91%B5/#jn-238071"
+  },
+  {
+    "kotoba": "山葵色",
+    "yomi": "わさび‐いろ",
+    "link": "/word/%E5%B1%B1%E8%91%B5%E8%89%B2/#jn-238073"
+  },
+  {
+    "kotoba": "山葵醤油",
+    "yomi": "わさび‐じょうゆ",
+    "link": "/word/%E5%B1%B1%E8%91%B5%E9%86%A4%E6%B2%B9/#jn-238075"
+  },
+  {
+    "kotoba": "山葵大根",
+    "yomi": "わさび‐だいこん",
+    "link": "/word/%E5%B1%B1%E8%91%B5%E5%A4%A7%E6%A0%B9/#jn-238077"
+  },
+  {
+    "kotoba": "山葵餅",
+    "yomi": "わさび‐もち",
+    "link": "/word/%E5%B1%B1%E8%91%B5%E9%A4%85/#jn-238081"
+  },
+  {
+    "kotoba": "早稲穂",
+    "yomi": "わさ‐ほ",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%A9%82/#jn-238082"
+  },
+  {
+    "kotoba": "和産",
+    "yomi": "わ‐さん",
+    "link": "/word/%E5%92%8C%E7%94%A3/#jn-238093"
+  },
+  {
+    "kotoba": "和算",
+    "yomi": "わ‐さん",
+    "link": "/word/%E5%92%8C%E7%AE%97/#jn-238094"
+  },
+  {
+    "kotoba": "和讃",
+    "yomi": "わ‐さん",
+    "link": "/word/%E5%92%8C%E8%AE%83/#jn-238095"
+  },
+  {
+    "kotoba": "和算家",
+    "yomi": "わさん‐か",
+    "link": "/word/%E5%92%8C%E7%AE%97%E5%AE%B6/#jn-238097"
+  },
+  {
+    "kotoba": "和三盆",
+    "yomi": "わ‐さんぼん",
+    "link": "/word/%E5%92%8C%E4%B8%89%E7%9B%86/#jn-238098"
+  },
+  {
+    "kotoba": "話材",
+    "yomi": "わ‐ざい",
+    "link": "/word/%E8%A9%B1%E6%9D%90/#jn-253055"
+  },
+  {
+    "kotoba": "童謡",
+    "yomi": "わざ‐うた",
+    "link": "/word/%E7%AB%A5%E8%AC%A1_%28%E3%82%8F%E3%81%96%E3%81%86%E3%81%9F%29/#jn-238055"
+  },
+  {
+    "kotoba": "和竿",
+    "yomi": "わ‐ざお",
+    "link": "/word/%E5%92%8C%E7%AB%BF/#jn-244884"
+  },
+  {
+    "kotoba": "俳優",
+    "yomi": "わざ‐おぎ",
+    "link": "/word/%E4%BF%B3%E5%84%AA_%28%E3%82%8F%E3%81%96%E3%81%8A%E3%81%8E%29/#jn-238056"
+  },
+  {
+    "kotoba": "業事",
+    "yomi": "わざ‐ごと",
+    "link": "/word/%E6%A5%AD%E4%BA%8B/#jn-238060"
+  },
+  {
+    "kotoba": "業師",
+    "yomi": "わざ‐し",
+    "link": "/word/%E6%A5%AD%E5%B8%AB/#jn-238063"
+  },
+  {
+    "kotoba": "業人",
+    "yomi": "わざ‐びと",
+    "link": "/word/%E6%A5%AD%E4%BA%BA_%28%E3%82%8F%E3%81%96%E3%81%B3%E3%81%A8%29/#jn-238079"
+  },
+  {
+    "kotoba": "業前",
+    "yomi": "わざ‐まえ",
+    "link": "/word/%E6%A5%AD%E5%89%8D/#jn-238083"
+  },
+  {
+    "kotoba": "業物",
+    "yomi": "わざ‐もの",
+    "link": "/word/%E6%A5%AD%E7%89%A9/#jn-238084"
+  },
+  {
+    "kotoba": "態態",
+    "yomi": "わざ‐わざ",
+    "link": "/word/%E6%85%8B%E6%85%8B/#jn-238091"
+  },
+  {
+    "kotoba": "和讒",
+    "yomi": "わ‐ざん",
+    "link": "/word/%E5%92%8C%E8%AE%92_%28%E3%82%8F%E3%81%96%E3%82%93%29/#jn-238096"
+  },
+  {
+    "kotoba": "和市",
+    "yomi": "わ‐し",
+    "link": "/word/%E5%92%8C%E5%B8%82/#jn-238099"
+  },
+  {
+    "kotoba": "和紙",
+    "yomi": "わ‐し",
+    "link": "/word/%E5%92%8C%E7%B4%99/#jn-238100"
+  },
+  {
+    "kotoba": "和詩",
+    "yomi": "わ‐し",
+    "link": "/word/%E5%92%8C%E8%A9%A9/#jn-238101"
+  },
+  {
+    "kotoba": "和紙",
+    "yomi": "わし",
+    "link": "/word/%E5%92%8C%E7%B4%99/#jn-267423"
+  },
+  {
+    "kotoba": "鷲尾雨工",
+    "yomi": "わしお‐うこう",
+    "link": "/word/person/%E9%B7%B2%E5%B0%BE%E9%9B%A8%E5%B7%A5/#jn-238108"
+  },
+  {
+    "kotoba": "和式",
+    "yomi": "わ‐しき",
+    "link": "/word/%E5%92%8C%E5%BC%8F/#jn-238110"
+  },
+  {
+    "kotoba": "鷲口",
+    "yomi": "わし‐ぐち",
+    "link": "/word/%E9%B7%B2%E5%8F%A3/#jn-238111"
+  },
+  {
+    "kotoba": "鷲座",
+    "yomi": "わし‐ざ",
+    "link": "/word/%E9%B7%B2%E5%BA%A7/#jn-238112"
+  },
+  {
+    "kotoba": "鷲鷹目",
+    "yomi": "わしたか‐もく",
+    "link": "/word/%E9%B7%B2%E9%B7%B9%E7%9B%AE/#jn-238116"
+  },
+  {
+    "kotoba": "和室",
+    "yomi": "わ‐しつ",
+    "link": "/word/%E5%92%8C%E5%AE%A4/#jn-238117"
+  },
+  {
+    "kotoba": "鷲津毅堂",
+    "yomi": "わしづ‐きどう",
+    "link": "/word/person/%E9%B7%B2%E6%B4%A5%E6%AF%85%E5%A0%82/#jn-238120"
+  },
+  {
+    "kotoba": "鷲羽岳",
+    "yomi": "わしば‐だけ",
+    "link": "/word/%E9%B7%B2%E7%BE%BD%E5%B2%B3/#jn-238123"
+  },
+  {
+    "kotoba": "鷲鼻",
+    "yomi": "わし‐ばな",
+    "link": "/word/%E9%B7%B2%E9%BC%BB/#jn-238124"
+  },
+  {
+    "kotoba": "鷲木菟",
+    "yomi": "わし‐みみずく",
+    "link": "/word/%E9%B7%B2%E6%9C%A8%E8%8F%9F/#jn-238129"
+  },
+  {
+    "kotoba": "話者",
+    "yomi": "わ‐しゃ",
+    "link": "/word/%E8%A9%B1%E8%80%85/#jn-238131"
+  },
+  {
+    "kotoba": "話者認識",
+    "yomi": "わしゃ‐にんしき",
+    "link": "/word/%E8%A9%B1%E8%80%85%E8%AA%8D%E8%AD%98/#jn-293901"
+  },
+  {
+    "kotoba": "和酒",
+    "yomi": "わ‐しゅ",
+    "link": "/word/%E5%92%8C%E9%85%92/#jn-238132"
+  },
+  {
+    "kotoba": "和州",
+    "yomi": "わ‐しゅう",
+    "link": "/word/%E5%92%8C%E5%B7%9E/#jn-238133"
+  },
+  {
+    "kotoba": "和臭",
+    "yomi": "わ‐しゅう",
+    "link": "/word/%E5%92%8C%E8%87%AD/#jn-238134"
+  },
+  {
+    "kotoba": "和習",
+    "yomi": "わ‐しゅう",
+    "link": "/word/%E5%92%8C%E7%BF%92/#jn-238135"
+  },
+  {
+    "kotoba": "和集合",
+    "yomi": "わ‐しゅうごう",
+    "link": "/word/%E5%92%8C%E9%9B%86%E5%90%88/#jn-238137"
+  },
+  {
+    "kotoba": "鷲羽山",
+    "yomi": "わしゅう‐ざん",
+    "link": "/word/%E9%B7%B2%E7%BE%BD%E5%B1%B1/#jn-238138"
+  },
+  {
+    "kotoba": "和書",
+    "yomi": "わ‐しょ",
+    "link": "/word/%E5%92%8C%E6%9B%B8/#jn-238143"
+  },
+  {
+    "kotoba": "和食",
+    "yomi": "わ‐しょく",
+    "link": "/word/%E5%92%8C%E9%A3%9F/#jn-238147"
+  },
+  {
+    "kotoba": "和親",
+    "yomi": "わ‐しん",
+    "link": "/word/%E5%92%8C%E8%A6%AA/#jn-238154"
+  },
+  {
+    "kotoba": "和親条約",
+    "yomi": "わしん‐じょうやく",
+    "link": "/word/%E5%92%8C%E8%A6%AA%E6%9D%A1%E7%B4%84/#jn-238156"
+  },
+  {
+    "kotoba": "和字",
+    "yomi": "わ‐じ",
+    "link": "/word/%E5%92%8C%E5%AD%97/#jn-238105"
+  },
+  {
+    "kotoba": "和爾雅",
+    "yomi": "わじが",
+    "link": "/word/%E5%92%8C%E7%88%BE%E9%9B%85/#jn-238109"
+  },
+  {
+    "kotoba": "和字正濫鈔",
+    "yomi": "わじしょうらんしょう",
+    "link": "/word/%E5%92%8C%E5%AD%97%E6%AD%A3%E6%BF%AB%E9%88%94/#jn-238113"
+  },
+  {
+    "kotoba": "和字大観抄",
+    "yomi": "わじたいかんしょう",
+    "link": "/word/%E5%92%8C%E5%AD%97%E5%A4%A7%E8%A6%B3%E6%8A%84/#jn-238115"
+  },
+  {
+    "kotoba": "和実",
+    "yomi": "わ‐じつ",
+    "link": "/word/%E5%92%8C%E5%AE%9F/#jn-238118"
+  },
+  {
+    "kotoba": "輪島",
+    "yomi": "わじま",
+    "link": "/word/%E8%BC%AA%E5%B3%B6/#jn-238125"
+  },
+  {
+    "kotoba": "輪島市",
+    "yomi": "わじま‐し",
+    "link": "/word/%E8%BC%AA%E5%B3%B6%E5%B8%82/#jn-238126"
+  },
+  {
+    "kotoba": "輪島塗",
+    "yomi": "わじま‐ぬり",
+    "link": "/word/%E8%BC%AA%E5%B3%B6%E5%A1%97/#jn-238127"
+  },
+  {
+    "kotoba": "輪島大士",
+    "yomi": "わじま‐ひろし",
+    "link": "/word/%E8%BC%AA%E5%B3%B6%E5%A4%A7%E5%A3%AB/#jn-238128"
+  },
+  {
+    "kotoba": "輪注連",
+    "yomi": "わ‐じめ",
+    "link": "/word/%E8%BC%AA%E6%B3%A8%E9%80%A3/#jn-238130"
+  },
+  {
+    "kotoba": "輪中",
+    "yomi": "わ‐じゅう",
+    "link": "/word/%E8%BC%AA%E4%B8%AD/#jn-238136"
+  },
+  {
+    "kotoba": "輪中堤",
+    "yomi": "わじゅう‐てい",
+    "link": "/word/%E8%BC%AA%E4%B8%AD%E5%A0%A4/#jn-238139"
+  },
+  {
+    "kotoba": "和熟",
+    "yomi": "わ‐じゅく",
+    "link": "/word/%E5%92%8C%E7%86%9F/#jn-238140"
+  },
+  {
+    "kotoba": "話術",
+    "yomi": "わ‐じゅつ",
+    "link": "/word/%E8%A9%B1%E8%A1%93/#jn-238141"
+  },
+  {
+    "kotoba": "和順",
+    "yomi": "わ‐じゅん",
+    "link": "/word/%E5%92%8C%E9%A0%86/#jn-238142"
+  },
+  {
+    "kotoba": "和上",
+    "yomi": "わ‐じょう",
+    "link": "/word/%E5%92%8C%E4%B8%8A/#jn-238144"
+  },
+  {
+    "kotoba": "我丈",
+    "yomi": "わ‐じょう",
+    "link": "/word/%E6%88%91%E4%B8%88/#jn-238145"
+  },
+  {
+    "kotoba": "倭人",
+    "yomi": "わ‐じん",
+    "link": "/word/%E5%80%AD%E4%BA%BA/#jn-238155"
+  },
+  {
+    "kotoba": "忘貝",
+    "yomi": "わすれ‐がい",
+    "link": "/word/%E5%BF%98%E8%B2%9D/#jn-238184"
+  },
+  {
+    "kotoba": "萱草",
+    "yomi": "わすれぐさ",
+    "link": "/word/%E8%90%B1%E8%8D%89_%28%E3%82%8F%E3%81%99%E3%82%8C%E3%81%90%E3%81%95%29/#jn-278505"
+  },
+  {
+    "kotoba": "勿忘草色",
+    "yomi": "わすれなぐさ‐いろ",
+    "link": "/word/%E5%8B%BF%E5%BF%98%E8%8D%89%E8%89%B2/#jn-238196"
+  },
+  {
+    "kotoba": "勿忘草",
+    "yomi": "わすれな‐ぐさ",
+    "link": "/word/%E5%8B%BF%E5%BF%98%E8%8D%89/#jn-238195"
+  },
+  {
+    "kotoba": "輪炭",
+    "yomi": "わ‐ずみ",
+    "link": "/word/%E8%BC%AA%E7%82%AD/#jn-238168"
+  },
+  {
+    "kotoba": "早稲",
+    "yomi": "わせ",
+    "link": "/word/%E6%97%A9%E7%A8%B2_%28%E3%82%8F%E3%81%9B%29/#jn-238203"
+  },
+  {
+    "kotoba": "和声",
+    "yomi": "わ‐せい",
+    "link": "/word/%E5%92%8C%E5%A3%B0/#jn-238204"
+  },
+  {
+    "kotoba": "和製",
+    "yomi": "わ‐せい",
+    "link": "/word/%E5%92%8C%E8%A3%BD/#jn-238205"
+  },
+  {
+    "kotoba": "和製英語",
+    "yomi": "わせい‐えいご",
+    "link": "/word/%E5%92%8C%E8%A3%BD%E8%8B%B1%E8%AA%9E/#jn-238206"
+  },
+  {
+    "kotoba": "和声的短音階",
+    "yomi": "わせいてき‐たんおんかい",
+    "link": "/word/%E5%92%8C%E5%A3%B0%E7%9A%84%E7%9F%AD%E9%9F%B3%E9%9A%8E/#jn-238207"
+  },
+  {
+    "kotoba": "和声法",
+    "yomi": "わせい‐ほう",
+    "link": "/word/%E5%92%8C%E5%A3%B0%E6%B3%95/#jn-238208"
+  },
+  {
+    "kotoba": "和製本",
+    "yomi": "わ‐せいほん",
+    "link": "/word/%E5%92%8C%E8%A3%BD%E6%9C%AC/#jn-274697"
+  },
+  {
+    "kotoba": "早生尾花",
+    "yomi": "わせ‐おばな",
+    "link": "/word/%E6%97%A9%E7%94%9F%E5%B0%BE%E8%8A%B1/#jn-238210"
+  },
+  {
+    "kotoba": "早生種",
+    "yomi": "わせ‐しゅ",
+    "link": "/word/%E6%97%A9%E7%94%9F%E7%A8%AE/#jn-242101"
+  },
+  {
+    "kotoba": "早稲女",
+    "yomi": "わせ‐じょ",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E5%A5%B3/#jn-244885"
+  },
+  {
+    "kotoba": "早稲田",
+    "yomi": "わせ‐だ",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%94%B0_%28%E3%82%8F%E3%81%9B%E3%81%A0%29/#jn-238211"
+  },
+  {
+    "kotoba": "早稲田",
+    "yomi": "わせだ",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%94%B0_%28%E3%82%8F%E3%81%9B%E3%81%A0%29/#jn-238212"
+  },
+  {
+    "kotoba": "早稲田軍教事件",
+    "yomi": "わせだ‐ぐんきょうじけん",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%94%B0%E8%BB%8D%E6%95%99%E4%BA%8B%E4%BB%B6/#jn-238213"
+  },
+  {
+    "kotoba": "早稲田大学",
+    "yomi": "わせだ‐だいがく",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%94%B0%E5%A4%A7%E5%AD%A6/#jn-238214"
+  },
+  {
+    "kotoba": "早稲田文学",
+    "yomi": "わせだぶんがく",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%94%B0%E6%96%87%E5%AD%A6/#jn-238215"
+  },
+  {
+    "kotoba": "話説",
+    "yomi": "わ‐せつ",
+    "link": "/word/%E8%A9%B1%E8%AA%AC/#jn-238216"
+  },
+  {
+    "kotoba": "早稲米",
+    "yomi": "わせ‐まい",
+    "link": "/word/%E6%97%A9%E7%A8%B2%E7%B1%B3_%28%E3%82%8F%E3%81%9B%E3%81%BE%E3%81%84%29/#jn-255700"
+  },
+  {
+    "kotoba": "和船",
+    "yomi": "わ‐せん",
+    "link": "/word/%E5%92%8C%E8%88%B9/#jn-238218"
+  },
+  {
+    "kotoba": "和戦",
+    "yomi": "わ‐せん",
+    "link": "/word/%E5%92%8C%E6%88%A6/#jn-238219"
+  },
+  {
+    "kotoba": "我先生",
+    "yomi": "わ‐せんじょう",
+    "link": "/word/%E6%88%91%E5%85%88%E7%94%9F/#jn-238220"
+  },
+  {
+    "kotoba": "和装",
+    "yomi": "わ‐そう",
+    "link": "/word/%E5%92%8C%E8%A3%85/#jn-238221"
+  },
+  {
+    "kotoba": "我僧",
+    "yomi": "わ‐そう",
+    "link": "/word/%E6%88%91%E5%83%A7/#jn-238222"
+  },
+  {
+    "kotoba": "和荘兵衛",
+    "yomi": "わそうびょうえ",
+    "link": "/word/%E5%92%8C%E8%8D%98%E5%85%B5%E8%A1%9B/#jn-238223"
+  },
+  {
+    "kotoba": "和装本",
+    "yomi": "わそう‐ぼん",
+    "link": "/word/%E5%92%8C%E8%A3%85%E6%9C%AC/#jn-238224"
+  },
+  {
+    "kotoba": "和俗",
+    "yomi": "わ‐ぞく",
+    "link": "/word/%E5%92%8C%E4%BF%97/#jn-238225"
+  },
+  {
+    "kotoba": "綿秋",
+    "yomi": "わた‐あき",
+    "link": "/word/%E7%B6%BF%E7%A7%8B/#jn-238232"
+  },
+  {
+    "kotoba": "綿油",
+    "yomi": "わた‐あぶら",
+    "link": "/word/%E7%B6%BF%E6%B2%B9/#jn-238233"
+  },
+  {
+    "kotoba": "綿飴",
+    "yomi": "わた‐あめ",
+    "link": "/word/%E7%B6%BF%E9%A3%B4/#jn-238234"
+  },
+  {
+    "kotoba": "綿板",
+    "yomi": "わた‐いた",
+    "link": "/word/%E7%B6%BF%E6%9D%BF/#jn-238239"
+  },
+  {
+    "kotoba": "黄鯝魚",
+    "yomi": "わた‐か",
+    "link": "/word/%E9%BB%84%E9%AF%9D%E9%AD%9A/#jn-238245"
+  },
+  {
+    "kotoba": "綿菓子",
+    "yomi": "わた‐がし",
+    "link": "/word/%E7%B6%BF%E8%8F%93%E5%AD%90/#jn-238246"
+  },
+  {
+    "kotoba": "肩上",
+    "yomi": "わた‐がみ",
+    "link": "/word/%E8%82%A9%E4%B8%8A/#jn-238249"
+  },
+  {
+    "kotoba": "海神",
+    "yomi": "わた‐がみ",
+    "link": "/word/%E6%B5%B7%E7%A5%9E_%28%E3%82%8F%E3%81%9F%E3%81%8C%E3%81%BF%29/#jn-238250"
+  },
+  {
+    "kotoba": "綿衣",
+    "yomi": "わた‐ぎぬ",
+    "link": "/word/%E7%B6%BF%E8%A1%A3_%28%E3%82%8F%E3%81%9F%E3%81%8E%E3%81%AC%29/#jn-238251"
+  },
+  {
+    "kotoba": "私雨",
+    "yomi": "わたくし‐あめ",
+    "link": "/word/%E7%A7%81%E9%9B%A8/#jn-238254"
+  },
+  {
+    "kotoba": "私戦",
+    "yomi": "わたくし‐いくさ",
+    "link": "/word/%E7%A7%81%E6%88%A6_%28%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97%E3%81%84%E3%81%8F%E3%81%95%29/#jn-238255"
+  },
+  {
+    "kotoba": "私金",
+    "yomi": "わたくし‐がね",
+    "link": "/word/%E7%A7%81%E9%87%91/#jn-238256"
+  },
+  {
+    "kotoba": "私心",
+    "yomi": "わたくし‐ごころ",
+    "link": "/word/%E7%A7%81%E5%BF%83_%28%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97%E3%81%94%E3%81%93%E3%82%8D%29/#jn-238257"
+  },
+  {
+    "kotoba": "私事",
+    "yomi": "わたくし‐ごと",
+    "link": "/word/%E7%A7%81%E4%BA%8B_%28%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97%E3%81%94%E3%81%A8%29/#jn-238258"
+  },
+  {
+    "kotoba": "私様",
+    "yomi": "わたくし‐ざま",
+    "link": "/word/%E7%A7%81%E6%A7%98/#jn-238259"
+  },
+  {
+    "kotoba": "私小説",
+    "yomi": "わたくし‐しょうせつ",
+    "link": "/word/%E7%A7%81%E5%B0%8F%E8%AA%AC/#jn-238260"
+  },
+  {
+    "kotoba": "私達",
+    "yomi": "わたくし‐たち",
+    "link": "/word/%E7%A7%81%E9%81%94/#jn-248798"
+  },
+  {
+    "kotoba": "私田",
+    "yomi": "わたくし‐だ",
+    "link": "/word/%E7%A7%81%E7%94%B0/#jn-238262"
+  },
+  {
+    "kotoba": "私共",
+    "yomi": "わたくし‐ども",
+    "link": "/word/%E7%A7%81%E5%85%B1/#jn-248799"
+  },
+  {
+    "kotoba": "私奴",
+    "yomi": "わたくし‐め",
+    "link": "/word/%E7%A7%81%E5%A5%B4/#jn-290330"
+  },
+  {
+    "kotoba": "私物",
+    "yomi": "わたくし‐もの",
+    "link": "/word/%E7%A7%81%E7%89%A9_%28%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97%E3%82%82%E3%81%AE%29/#jn-238263"
+  },
+  {
+    "kotoba": "私立",
+    "yomi": "わたくし‐りつ",
+    "link": "/word/%E7%A7%81%E7%AB%8B_%28%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97%E3%82%8A%E3%81%A4%29/#jn-238264"
+  },
+  {
+    "kotoba": "綿屑",
+    "yomi": "わた‐くず",
+    "link": "/word/%E7%B6%BF%E5%B1%91/#jn-238265"
+  },
+  {
+    "kotoba": "綿雲",
+    "yomi": "わた‐ぐも",
+    "link": "/word/%E7%B6%BF%E9%9B%B2/#jn-238266"
+  },
+  {
+    "kotoba": "綿車",
+    "yomi": "わた‐ぐるま",
+    "link": "/word/%E7%B6%BF%E8%BB%8A/#jn-238271"
+  },
+  {
+    "kotoba": "綿毛",
+    "yomi": "わた‐げ",
+    "link": "/word/%E7%B6%BF%E6%AF%9B/#jn-238272"
+  },
+  {
+    "kotoba": "綿子",
+    "yomi": "わた‐こ",
+    "link": "/word/%E7%B6%BF%E5%AD%90/#jn-238274"
+  },
+  {
+    "kotoba": "私等",
+    "yomi": "わたし‐ら",
+    "link": "/word/%E7%A7%81%E7%AD%89/#jn-290332"
+  },
+  {
+    "kotoba": "綿菅",
+    "yomi": "わた‐すげ",
+    "link": "/word/%E7%B6%BF%E8%8F%85/#jn-238290"
+  },
+  {
+    "kotoba": "渡瀬",
+    "yomi": "わた‐せ",
+    "link": "/word/%E6%B8%A1%E7%80%AC/#jn-238291"
+  },
+  {
+    "kotoba": "渡瀬線",
+    "yomi": "わたせ‐せん",
+    "link": "/word/%E6%B8%A1%E7%80%AC%E7%B7%9A/#jn-238293"
+  },
+  {
+    "kotoba": "綿種",
+    "yomi": "わた‐だね",
+    "link": "/word/%E7%B6%BF%E7%A8%AE/#jn-238295"
+  },
+  {
+    "kotoba": "綿種油",
+    "yomi": "わただね‐あぶら",
+    "link": "/word/%E7%B6%BF%E7%A8%AE%E6%B2%B9/#jn-238296"
+  },
+  {
+    "kotoba": "腸樽",
+    "yomi": "わた‐だる",
+    "link": "/word/%E8%85%B8%E6%A8%BD/#jn-238297"
+  },
+  {
+    "kotoba": "度津神社",
+    "yomi": "わたつ‐じんじゃ",
+    "link": "/word/%E5%BA%A6%E6%B4%A5%E7%A5%9E%E7%A4%BE/#jn-238302"
+  },
+  {
+    "kotoba": "海神",
+    "yomi": "わた‐つ‐み",
+    "link": "/word/%E6%B5%B7%E7%A5%9E_%28%E3%82%8F%E3%81%9F%E3%81%A4%E3%81%BF%29/#jn-238304"
+  },
+  {
+    "kotoba": "海神社",
+    "yomi": "わたつみ‐じんじゃ",
+    "link": "/word/%E6%B5%B7%E7%A5%9E%E7%A4%BE/#jn-238306"
+  },
+  {
+    "kotoba": "海神神社",
+    "yomi": "わたつみ‐じんじゃ",
+    "link": "/word/%E6%B5%B7%E7%A5%9E%E7%A5%9E%E7%A4%BE/#jn-238307"
+  },
+  {
+    "kotoba": "渡殿",
+    "yomi": "わた‐どの",
+    "link": "/word/%E6%B8%A1%E6%AE%BF/#jn-238309"
+  },
+  {
+    "kotoba": "海中",
+    "yomi": "わた‐なか",
+    "link": "/word/%E6%B5%B7%E4%B8%AD_%28%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%8B%29/#jn-238310"
+  },
+  {
+    "kotoba": "渡辺",
+    "yomi": "わたなべ",
+    "link": "/word/%E6%B8%A1%E8%BE%BA/#jn-238311"
+  },
+  {
+    "kotoba": "渡辺明",
+    "yomi": "わたなべ‐あきら",
+    "link": "/word/%E6%B8%A1%E8%BE%BA%E6%98%8E/#jn-303535"
+  },
+  {
+    "kotoba": "渡辺海旭",
+    "yomi": "わたなべ‐かいきょく",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E6%B5%B7%E6%97%AD/#jn-238312"
+  },
+  {
+    "kotoba": "渡辺崋山",
+    "yomi": "わたなべ‐かざん",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E5%B4%8B%E5%B1%B1/#jn-238313"
+  },
+  {
+    "kotoba": "渡辺一夫",
+    "yomi": "わたなべ‐かずお",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E4%B8%80%E5%A4%AB/#jn-238314"
+  },
+  {
+    "kotoba": "渡辺霞亭",
+    "yomi": "わたなべ‐かてい",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E9%9C%9E%E4%BA%AD/#jn-238315"
+  },
+  {
+    "kotoba": "渡辺喜恵子",
+    "yomi": "わたなべ‐きえこ",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E5%96%9C%E6%81%B5%E5%AD%90/#jn-238316"
+  },
+  {
+    "kotoba": "渡辺淳一",
+    "yomi": "わたなべ‐じゅんいち",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E6%B7%B3%E4%B8%80/#jn-238317"
+  },
+  {
+    "kotoba": "渡辺錠太郎",
+    "yomi": "わたなべ‐じょうたろう",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E9%8C%A0%E5%A4%AA%E9%83%8E/#jn-238318"
+  },
+  {
+    "kotoba": "渡辺水巴",
+    "yomi": "わたなべ‐すいは",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E6%B0%B4%E5%B7%B4/#jn-238319"
+  },
+  {
+    "kotoba": "渡辺玉枝",
+    "yomi": "わたなべ‐たまえ",
+    "link": "/word/%E6%B8%A1%E8%BE%BA%E7%8E%89%E6%9E%9D/#jn-260129"
+  },
+  {
+    "kotoba": "渡辺綱",
+    "yomi": "わたなべ‐の‐つな",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E7%B6%B1/#jn-238320"
+  },
+  {
+    "kotoba": "渡辺派",
+    "yomi": "わたなべ‐は",
+    "link": "/word/%E6%B8%A1%E8%BE%BA%E6%B4%BE/#jn-244886"
+  },
+  {
+    "kotoba": "渡辺政之輔",
+    "yomi": "わたなべ‐まさのすけ",
+    "link": "/word/person/%E6%B8%A1%E8%BE%BA%E6%94%BF%E4%B9%8B%E8%BC%94/#jn-238321"
+  },
+  {
+    "kotoba": "腸煮",
+    "yomi": "わた‐に",
+    "link": "/word/%E8%85%B8%E7%85%AE/#jn-238322"
+  },
+  {
+    "kotoba": "綿羽",
+    "yomi": "わた‐ばね",
+    "link": "/word/%E7%B6%BF%E7%BE%BD/#jn-238330"
+  },
+  {
+    "kotoba": "綿吹貝殻虫",
+    "yomi": "わたふき‐かいがらむし",
+    "link": "/word/%E7%B6%BF%E5%90%B9%E8%B2%9D%E6%AE%BB%E8%99%AB/#jn-238332"
+  },
+  {
+    "kotoba": "綿帽子",
+    "yomi": "わた‐ぼうし",
+    "link": "/word/%E7%B6%BF%E5%B8%BD%E5%AD%90/#jn-238333"
+  },
+  {
+    "kotoba": "綿埃",
+    "yomi": "わた‐ぼこり",
+    "link": "/word/%E7%B6%BF%E5%9F%83/#jn-238334"
+  },
+  {
+    "kotoba": "移徙",
+    "yomi": "わた‐まし",
+    "link": "/word/%E7%A7%BB%E5%BE%99/#jn-238336"
+  },
+  {
+    "kotoba": "綿繭",
+    "yomi": "わた‐まゆ",
+    "link": "/word/%E7%B6%BF%E7%B9%AD/#jn-238337"
+  },
+  {
+    "kotoba": "綿虫",
+    "yomi": "わた‐むし",
+    "link": "/word/%E7%B6%BF%E8%99%AB/#jn-238340"
+  },
+  {
+    "kotoba": "綿屋",
+    "yomi": "わた‐や",
+    "link": "/word/%E7%B6%BF%E5%B1%8B/#jn-238342"
+  },
+  {
+    "kotoba": "綿雪",
+    "yomi": "わた‐ゆき",
+    "link": "/word/%E7%B6%BF%E9%9B%AA/#jn-238345"
+  },
+  {
+    "kotoba": "綿弓",
+    "yomi": "わた‐ゆみ",
+    "link": "/word/%E7%B6%BF%E5%BC%93/#jn-238346"
+  },
+  {
+    "kotoba": "度会",
+    "yomi": "わたらい",
+    "link": "/word/%E5%BA%A6%E4%BC%9A/#jn-238349"
+  },
+  {
+    "kotoba": "度会",
+    "yomi": "わたらい",
+    "link": "/word/%E5%BA%A6%E4%BC%9A/#jn-238350"
+  },
+  {
+    "kotoba": "度会家行",
+    "yomi": "わたらい‐いえゆき",
+    "link": "/word/person/%E5%BA%A6%E4%BC%9A%E5%AE%B6%E8%A1%8C/#jn-238352"
+  },
+  {
+    "kotoba": "度会神道",
+    "yomi": "わたらい‐しんとう",
+    "link": "/word/%E5%BA%A6%E4%BC%9A%E7%A5%9E%E9%81%93/#jn-238355"
+  },
+  {
+    "kotoba": "度会延佳",
+    "yomi": "わたらい‐のぶよし",
+    "link": "/word/person/%E5%BA%A6%E4%BC%9A%E5%BB%B6%E4%BD%B3/#jn-238356"
+  },
+  {
+    "kotoba": "度会宮",
+    "yomi": "わたらい‐の‐みや",
+    "link": "/word/%E5%BA%A6%E4%BC%9A%E5%AE%AE/#jn-238357"
+  },
+  {
+    "kotoba": "度会行忠",
+    "yomi": "わたらい‐ゆきただ",
+    "link": "/word/person/%E5%BA%A6%E4%BC%9A%E8%A1%8C%E5%BF%A0/#jn-238358"
+  },
+  {
+    "kotoba": "渡良瀬川",
+    "yomi": "わたらせ‐がわ",
+    "link": "/word/%E6%B8%A1%E8%89%AF%E7%80%AC%E5%B7%9D/#jn-238361"
+  },
+  {
+    "kotoba": "渡良瀬遊水地",
+    "yomi": "わたらせ‐ゆうすいち",
+    "link": "/word/%E6%B8%A1%E8%89%AF%E7%80%AC%E9%81%8A%E6%B0%B4%E5%9C%B0/#jn-260130"
+  },
+  {
+    "kotoba": "渡蟹",
+    "yomi": "わたり‐がに",
+    "link": "/word/%E6%B8%A1%E8%9F%B9/#jn-238373"
+  },
+  {
+    "kotoba": "渡烏",
+    "yomi": "わたり‐がらす",
+    "link": "/word/%E6%B8%A1%E7%83%8F/#jn-238375"
+  },
+  {
+    "kotoba": "和田",
+    "yomi": "わだ",
+    "link": "/word/%E5%92%8C%E7%94%B0/#jn-238231"
+  },
+  {
+    "kotoba": "話題",
+    "yomi": "わ‐だい",
+    "link": "/word/%E8%A9%B1%E9%A1%8C/#jn-238236"
+  },
+  {
+    "kotoba": "和大",
+    "yomi": "わ‐だい",
+    "link": "/word/%E5%92%8C%E5%A4%A7/#jn-264903"
+  },
+  {
+    "kotoba": "和大黄",
+    "yomi": "わ‐だいおう",
+    "link": "/word/%E5%92%8C%E5%A4%A7%E9%BB%84/#jn-238237"
+  },
+  {
+    "kotoba": "和太鼓",
+    "yomi": "わ‐だいこ",
+    "link": "/word/%E5%92%8C%E5%A4%AA%E9%BC%93/#jn-238238"
+  },
+  {
+    "kotoba": "和田英作",
+    "yomi": "わだ‐えいさく",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E8%8B%B1%E4%BD%9C/#jn-238244"
+  },
+  {
+    "kotoba": "和田倉門",
+    "yomi": "わだくら‐もん",
+    "link": "/word/%E5%92%8C%E7%94%B0%E5%80%89%E9%96%80/#jn-238267"
+  },
+  {
+    "kotoba": "輪竹",
+    "yomi": "わ‐だけ",
+    "link": "/word/%E8%BC%AA%E7%AB%B9/#jn-238273"
+  },
+  {
+    "kotoba": "和田三造",
+    "yomi": "わだ‐さんぞう",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E4%B8%89%E9%80%A0/#jn-238275"
+  },
+  {
+    "kotoba": "和田清",
+    "yomi": "わだ‐せい",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E6%B8%85/#jn-238292"
+  },
+  {
+    "kotoba": "和田草",
+    "yomi": "わだ‐そう",
+    "link": "/word/%E5%92%8C%E7%94%B0%E8%8D%89/#jn-238294"
+  },
+  {
+    "kotoba": "和達清夫",
+    "yomi": "わだち‐きよお",
+    "link": "/word/person/%E5%92%8C%E9%81%94%E6%B8%85%E5%A4%AB/#jn-238299"
+  },
+  {
+    "kotoba": "和田維四郎",
+    "yomi": "わだ‐つなしろう",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E7%B6%AD%E5%9B%9B%E9%83%8E/#jn-238303"
+  },
+  {
+    "kotoba": "和田峠",
+    "yomi": "わだ‐とうげ",
+    "link": "/word/%E5%92%8C%E7%94%B0%E5%B3%A0/#jn-238308"
+  },
+  {
+    "kotoba": "和田英松",
+    "yomi": "わだ‐ひでまつ",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E8%8B%B1%E6%9D%BE/#jn-238331"
+  },
+  {
+    "kotoba": "和田誠",
+    "yomi": "わだ‐まこと",
+    "link": "/word/%E5%92%8C%E7%94%B0%E8%AA%A0/#jn-238335"
+  },
+  {
+    "kotoba": "和田万吉",
+    "yomi": "わだ‐まんきち",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E4%B8%87%E5%90%89/#jn-238338"
+  },
+  {
+    "kotoba": "和田岬",
+    "yomi": "わだ‐みさき",
+    "link": "/word/%E5%92%8C%E7%94%B0%E5%B2%AC/#jn-238339"
+  },
+  {
+    "kotoba": "和田雄治",
+    "yomi": "わだ‐ゆうじ",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E9%9B%84%E6%B2%BB/#jn-238344"
+  },
+  {
+    "kotoba": "和田芳恵",
+    "yomi": "わだ‐よしえ",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E8%8A%B3%E6%81%B5/#jn-238347"
+  },
+  {
+    "kotoba": "和田義盛",
+    "yomi": "わだ‐よしもり",
+    "link": "/word/person/%E5%92%8C%E7%94%B0%E7%BE%A9%E7%9B%9B/#jn-238348"
+  },
+  {
+    "kotoba": "和談",
+    "yomi": "わ‐だん",
+    "link": "/word/%E5%92%8C%E8%AB%87/#jn-238404"
+  },
+  {
+    "kotoba": "輪違草",
+    "yomi": "わちがい‐そう",
+    "link": "/word/%E8%BC%AA%E9%81%95%E8%8D%89/#jn-238406"
+  },
+  {
+    "kotoba": "和衷",
+    "yomi": "わ‐ちゅう",
+    "link": "/word/%E5%92%8C%E8%A1%B7/#jn-238408"
+  },
+  {
+    "kotoba": "和衷協同",
+    "yomi": "わちゅう‐きょうどう",
+    "link": "/word/%E5%92%8C%E8%A1%B7%E5%8D%94%E5%90%8C/#jn-238409"
+  },
+  {
+    "kotoba": "和中散",
+    "yomi": "わちゅう‐さん",
+    "link": "/word/%E5%92%8C%E4%B8%AD%E6%95%A3/#jn-238410"
+  },
+  {
+    "kotoba": "話中話",
+    "yomi": "わちゅう‐わ",
+    "link": "/word/%E8%A9%B1%E4%B8%AD%E8%A9%B1/#jn-282264"
+  },
+  {
+    "kotoba": "和朝",
+    "yomi": "わ‐ちょう",
+    "link": "/word/%E5%92%8C%E6%9C%9D/#jn-238412"
+  },
+  {
+    "kotoba": "和調",
+    "yomi": "わ‐ちょう",
+    "link": "/word/%E5%92%8C%E8%AA%BF/#jn-238413"
+  },
+  {
+    "kotoba": "稚内",
+    "yomi": "わっかない",
+    "link": "/word/%E7%A8%9A%E5%86%85/#jn-238415"
+  },
+  {
+    "kotoba": "稚内空港",
+    "yomi": "わっかない‐くうこう",
+    "link": "/word/%E7%A8%9A%E5%86%85%E7%A9%BA%E6%B8%AF/#jn-238416"
+  },
+  {
+    "kotoba": "稚内市",
+    "yomi": "わっかない‐し",
+    "link": "/word/%E7%A8%9A%E5%86%85%E5%B8%82/#jn-238417"
+  },
+  {
+    "kotoba": "稚内北星学園大学",
+    "yomi": "わっかないほくせいがくえん‐だいがく",
+    "link": "/word/%E7%A8%9A%E5%86%85%E5%8C%97%E6%98%9F%E5%AD%A6%E5%9C%92%E5%A4%A7%E5%AD%A6/#jn-248800"
+  },
+  {
+    "kotoba": "割符",
+    "yomi": "わっ‐ぷ",
+    "link": "/word/%E5%89%B2%E7%AC%A6_%28%E3%82%8F%E3%81%A3%E3%81%B7%29/#jn-238452"
+  },
+  {
+    "kotoba": "割賦",
+    "yomi": "わっ‐ぷ",
+    "link": "/word/%E5%89%B2%E8%B3%A6_%28%E3%82%8F%E3%81%A3%E3%81%B7%29/#jn-238453"
+  },
+  {
+    "kotoba": "割賦金",
+    "yomi": "わっぷ‐きん",
+    "link": "/word/%E5%89%B2%E8%B3%A6%E9%87%91/#jn-238454"
+  },
+  {
+    "kotoba": "和辻哲郎",
+    "yomi": "わつじ‐てつろう",
+    "link": "/word/person/%E5%92%8C%E8%BE%BB%E5%93%B2%E9%83%8E/#jn-238427"
+  },
+  {
+    "kotoba": "和陶",
+    "yomi": "わ‐とう",
+    "link": "/word/%E5%92%8C%E9%99%B6/#jn-238461"
+  },
+  {
+    "kotoba": "話頭",
+    "yomi": "わ‐とう",
+    "link": "/word/%E8%A9%B1%E9%A0%AD/#jn-238462"
+  },
+  {
+    "kotoba": "我党",
+    "yomi": "わ‐とう",
+    "link": "/word/%E6%88%91%E5%85%9A/#jn-238464"
+  },
+  {
+    "kotoba": "和唐紙",
+    "yomi": "わ‐とうし",
+    "link": "/word/%E5%92%8C%E5%94%90%E7%B4%99/#jn-238469"
+  },
+  {
+    "kotoba": "和唐珍解",
+    "yomi": "わとうちんかい",
+    "link": "/word/%E5%92%8C%E5%94%90%E7%8F%8D%E8%A7%A3/#jn-276683"
+  },
+  {
+    "kotoba": "和藤内",
+    "yomi": "わとうない",
+    "link": "/word/%E5%92%8C%E8%97%A4%E5%86%85/#jn-238470"
+  },
+  {
+    "kotoba": "我殿",
+    "yomi": "わ‐どの",
+    "link": "/word/%E6%88%91%E6%AE%BF/#jn-238480"
+  },
+  {
+    "kotoba": "倭奴",
+    "yomi": "わ‐ど",
+    "link": "/word/%E5%80%AD%E5%A5%B4/#jn-238460"
+  },
+  {
+    "kotoba": "和同",
+    "yomi": "わ‐どう",
+    "link": "/word/%E5%92%8C%E5%90%8C/#jn-238465"
+  },
+  {
+    "kotoba": "和銅",
+    "yomi": "わどう",
+    "link": "/word/%E5%92%8C%E9%8A%85/#jn-238466"
+  },
+  {
+    "kotoba": "和同開珎",
+    "yomi": "わどう‐かいちん",
+    "link": "/word/%E5%92%8C%E5%90%8C%E9%96%8B%E7%8F%8E_%28%E3%82%8F%E3%81%A9%E3%81%86%E3%81%8B%E3%81%84%E3%81%A1%E3%82%93%29/#jn-238467"
+  },
+  {
+    "kotoba": "和同開珎",
+    "yomi": "わどう‐かいほう",
+    "link": "/word/%E5%92%8C%E5%90%8C%E9%96%8B%E7%8F%8E_%28%E3%82%8F%E3%81%A9%E3%81%86%E3%81%8B%E3%81%84%E3%81%BB%E3%81%86%29/#jn-238468"
+  },
+  {
+    "kotoba": "和独",
+    "yomi": "わ‐どく",
+    "link": "/word/%E5%92%8C%E7%8B%AC/#jn-238472"
+  },
+  {
+    "kotoba": "和読",
+    "yomi": "わ‐どく",
+    "link": "/word/%E5%92%8C%E8%AA%AD/#jn-238473"
+  },
+  {
+    "kotoba": "和独辞典",
+    "yomi": "わどく‐じてん",
+    "link": "/word/%E5%92%8C%E7%8B%AC%E8%BE%9E%E5%85%B8/#jn-238474"
+  },
+  {
+    "kotoba": "和時計",
+    "yomi": "わ‐どけい",
+    "link": "/word/%E5%92%8C%E6%99%82%E8%A8%88/#jn-238475"
+  },
+  {
+    "kotoba": "倭奴国",
+    "yomi": "わど‐こく",
+    "link": "/word/%E5%80%AD%E5%A5%B4%E5%9B%BD_%28%E3%82%8F%E3%81%A9%E3%81%93%E3%81%8F%29/#jn-238476"
+  },
+  {
+    "kotoba": "我鳥",
+    "yomi": "わ‐どり",
+    "link": "/word/%E6%88%91%E9%B3%A5/#jn-238482"
+  },
+  {
+    "kotoba": "輪奈糸",
+    "yomi": "わな‐いと",
+    "link": "/word/%E8%BC%AA%E5%A5%88%E7%B3%B8/#jn-238490"
+  },
+  {
+    "kotoba": "輪奈織物",
+    "yomi": "わな‐おりもの",
+    "link": "/word/%E8%BC%AA%E5%A5%88%E7%B9%94%E7%89%A9/#jn-238491"
+  },
+  {
+    "kotoba": "輪奈天",
+    "yomi": "わな‐てん",
+    "link": "/word/%E8%BC%AA%E5%A5%88%E5%A4%A9/#jn-238494"
+  },
+  {
+    "kotoba": "和生",
+    "yomi": "わ‐なま",
+    "link": "/word/%E5%92%8C%E7%94%9F/#jn-238499"
+  },
+  {
+    "kotoba": "我儕",
+    "yomi": "わ‐なみ",
+    "link": "/word/%E6%88%91%E5%84%95/#jn-238500"
+  },
+  {
+    "kotoba": "輪形",
+    "yomi": "わ‐なり",
+    "link": "/word/%E8%BC%AA%E5%BD%A2_%28%E3%82%8F%E3%81%AA%E3%82%8A%29/#jn-238502"
+  },
+  {
+    "kotoba": "和南",
+    "yomi": "わなん",
+    "link": "/word/%E5%92%8C%E5%8D%97/#jn-238504"
+  },
+  {
+    "kotoba": "王仁",
+    "yomi": "わに",
+    "link": "/word/person/%E7%8E%8B%E4%BB%81/#jn-238505"
+  },
+  {
+    "kotoba": "鰐足",
+    "yomi": "わに‐あし",
+    "link": "/word/%E9%B0%90%E8%B6%B3/#jn-238507"
+  },
+  {
+    "kotoba": "鰐亀",
+    "yomi": "わに‐がめ",
+    "link": "/word/%E9%B0%90%E4%BA%80/#jn-297275"
+  },
+  {
+    "kotoba": "鰐皮",
+    "yomi": "わに‐がわ",
+    "link": "/word/%E9%B0%90%E7%9A%AE/#jn-238508"
+  },
+  {
+    "kotoba": "鰐口",
+    "yomi": "わに‐ぐち",
+    "link": "/word/%E9%B0%90%E5%8F%A3/#jn-238509"
+  },
+  {
+    "kotoba": "鰐鮫",
+    "yomi": "わに‐ざめ",
+    "link": "/word/%E9%B0%90%E9%AE%AB/#jn-238510"
+  },
+  {
+    "kotoba": "鰐塚山地",
+    "yomi": "わにつか‐さんち",
+    "link": "/word/%E9%B0%90%E5%A1%9A%E5%B1%B1%E5%9C%B0/#jn-244889"
+  },
+  {
+    "kotoba": "鰐梨",
+    "yomi": "わに‐なし",
+    "link": "/word/%E9%B0%90%E6%A2%A8/#jn-278508"
+  },
+  {
+    "kotoba": "我入道",
+    "yomi": "わ‐にゅうどう",
+    "link": "/word/%E6%88%91%E5%85%A5%E9%81%93/#jn-238512"
+  },
+  {
+    "kotoba": "我女房",
+    "yomi": "わ‐にょうぼう",
+    "link": "/word/%E6%88%91%E5%A5%B3%E6%88%BF/#jn-238513"
+  },
+  {
+    "kotoba": "我主",
+    "yomi": "わ‐ぬし",
+    "link": "/word/%E6%88%91%E4%B8%BB/#jn-238519"
+  },
+  {
+    "kotoba": "和猫",
+    "yomi": "わ‐ねこ",
+    "link": "/word/%E5%92%8C%E7%8C%AB/#jn-302556"
+  },
+  {
+    "kotoba": "倭奴国",
+    "yomi": "わのな‐こく",
+    "link": "/word/%E5%80%AD%E5%A5%B4%E5%9B%BD_%28%E3%82%8F%E3%81%AE%E3%81%AA%E3%81%93%E3%81%8F%29/#jn-238522"
+  },
+  {
+    "kotoba": "倭奴国王印",
+    "yomi": "わのなのこくおう‐の‐いん",
+    "link": "/word/%E5%80%AD%E5%A5%B4%E5%9B%BD%E7%8E%8B%E5%8D%B0/#jn-238523"
+  },
+  {
+    "kotoba": "和版",
+    "yomi": "わ‐はん",
+    "link": "/word/%E5%92%8C%E7%89%88/#jn-238528"
+  },
+  {
+    "kotoba": "和鋏",
+    "yomi": "わ‐ばさみ",
+    "link": "/word/%E5%92%8C%E9%8B%8F/#jn-238525"
+  },
+  {
+    "kotoba": "和針",
+    "yomi": "わ‐ばり",
+    "link": "/word/%E5%92%8C%E9%87%9D/#jn-238527"
+  },
+  {
+    "kotoba": "輪針",
+    "yomi": "わ‐ばり",
+    "link": "/word/%E8%BC%AA%E9%87%9D/#jn-276684"
+  },
+  {
+    "kotoba": "和蕃公主",
+    "yomi": "わばん‐こうしゅ",
+    "link": "/word/%E5%92%8C%E8%95%83%E5%85%AC%E4%B8%BB/#jn-238529"
+  },
+  {
+    "kotoba": "我人",
+    "yomi": "わ‐ひと",
+    "link": "/word/%E6%88%91%E4%BA%BA_%28%E3%82%8F%E3%81%B2%E3%81%A8%29/#jn-238553"
+  },
+  {
+    "kotoba": "侘助",
+    "yomi": "わびすけ",
+    "link": "/word/%E4%BE%98%E5%8A%A9/#jn-238549"
+  },
+  {
+    "kotoba": "和布",
+    "yomi": "わ‐ふ",
+    "link": "/word/%E5%92%8C%E5%B8%83_%28%E3%82%8F%E3%81%B5%29/#jn-238561"
+  },
+  {
+    "kotoba": "和風",
+    "yomi": "わ‐ふう",
+    "link": "/word/%E5%92%8C%E9%A2%A8/#jn-238564"
+  },
+  {
+    "kotoba": "和風建築",
+    "yomi": "わふう‐けんちく",
+    "link": "/word/%E5%92%8C%E9%A2%A8%E5%BB%BA%E7%AF%89/#jn-290333"
+  },
+  {
+    "kotoba": "和服",
+    "yomi": "わ‐ふく",
+    "link": "/word/%E5%92%8C%E6%9C%8D/#jn-238565"
+  },
+  {
+    "kotoba": "和仏",
+    "yomi": "わ‐ふつ",
+    "link": "/word/%E5%92%8C%E4%BB%8F/#jn-238568"
+  },
+  {
+    "kotoba": "和仏辞典",
+    "yomi": "わふつ‐じてん",
+    "link": "/word/%E5%92%8C%E4%BB%8F%E8%BE%9E%E5%85%B8/#jn-238569"
+  },
+  {
+    "kotoba": "輪節",
+    "yomi": "わ‐ぶし",
+    "link": "/word/%E8%BC%AA%E7%AF%80/#jn-238566"
+  },
+  {
+    "kotoba": "和文",
+    "yomi": "わ‐ぶん",
+    "link": "/word/%E5%92%8C%E6%96%87/#jn-238571"
+  },
+  {
+    "kotoba": "和文英訳",
+    "yomi": "わぶん‐えいやく",
+    "link": "/word/%E5%92%8C%E6%96%87%E8%8B%B1%E8%A8%B3/#jn-238572"
+  },
+  {
+    "kotoba": "和文体",
+    "yomi": "わぶん‐たい",
+    "link": "/word/%E5%92%8C%E6%96%87%E4%BD%93/#jn-238573"
+  },
+  {
+    "kotoba": "和平",
+    "yomi": "わ‐へい",
+    "link": "/word/%E5%92%8C%E5%B9%B3/#jn-238576"
+  },
+  {
+    "kotoba": "話柄",
+    "yomi": "わ‐へい",
+    "link": "/word/%E8%A9%B1%E6%9F%84/#jn-238575"
+  },
+  {
+    "kotoba": "和方",
+    "yomi": "わ‐ほう",
+    "link": "/word/%E5%92%8C%E6%96%B9/#jn-238577"
+  },
+  {
+    "kotoba": "話法",
+    "yomi": "わ‐ほう",
+    "link": "/word/%E8%A9%B1%E6%B3%95/#jn-238578"
+  },
+  {
+    "kotoba": "我法師",
+    "yomi": "わ‐ほうし",
+    "link": "/word/%E6%88%91%E6%B3%95%E5%B8%AB/#jn-238579"
+  },
+  {
+    "kotoba": "和包丁",
+    "yomi": "わ‐ぼうちょう",
+    "link": "/word/%E5%92%8C%E5%8C%85%E4%B8%81/#jn-238581"
+  },
+  {
+    "kotoba": "和本",
+    "yomi": "わ‐ほん",
+    "link": "/word/%E5%92%8C%E6%9C%AC/#jn-238583"
+  },
+  {
+    "kotoba": "話本",
+    "yomi": "わ‐ほん",
+    "link": "/word/%E8%A9%B1%E6%9C%AC/#jn-238584"
+  },
+  {
+    "kotoba": "我坊主",
+    "yomi": "わ‐ぼうず",
+    "link": "/word/%E6%88%91%E5%9D%8A%E4%B8%BB/#jn-238580"
+  },
+  {
+    "kotoba": "和睦",
+    "yomi": "わ‐ぼく",
+    "link": "/word/%E5%92%8C%E7%9D%A6/#jn-238582"
+  },
+  {
+    "kotoba": "我尊",
+    "yomi": "わ‐みこと",
+    "link": "/word/%E6%88%91%E5%B0%8A/#jn-238586"
+  },
+  {
+    "kotoba": "和名",
+    "yomi": "わ‐みょう",
+    "link": "/word/%E5%92%8C%E5%90%8D_%28%E3%82%8F%E3%81%BF%E3%82%87%E3%81%86%29/#jn-238587"
+  },
+  {
+    "kotoba": "和名抄",
+    "yomi": "わみょうしょう",
+    "link": "/word/%E5%92%8C%E5%90%8D%E6%8A%84/#jn-238588"
+  },
+  {
+    "kotoba": "和名類聚抄",
+    "yomi": "わみょうるいじゅしょう",
+    "link": "/word/%E5%92%8C%E5%90%8D%E9%A1%9E%E8%81%9A%E6%8A%84/#jn-238589"
+  },
+  {
+    "kotoba": "輪虫",
+    "yomi": "わ‐むし",
+    "link": "/word/%E8%BC%AA%E8%99%AB/#jn-238590"
+  },
+  {
+    "kotoba": "輪目",
+    "yomi": "わ‐め",
+    "link": "/word/%E8%BC%AA%E7%9B%AE/#jn-238592"
+  },
+  {
+    "kotoba": "和名",
+    "yomi": "わ‐めい",
+    "link": "/word/%E5%92%8C%E5%90%8D_%28%E3%82%8F%E3%82%81%E3%81%84%29/#jn-238593"
+  },
+  {
+    "kotoba": "和綿",
+    "yomi": "わ‐めん",
+    "link": "/word/%E5%92%8C%E7%B6%BF/#jn-238597"
+  },
+  {
+    "kotoba": "我文字",
+    "yomi": "わ‐もじ",
+    "link": "/word/%E6%88%91%E6%96%87%E5%AD%97/#jn-238598"
+  },
+  {
+    "kotoba": "和物",
+    "yomi": "わ‐もの",
+    "link": "/word/%E5%92%8C%E7%89%A9/#jn-238599"
+  },
+  {
+    "kotoba": "輪紋海豹",
+    "yomi": "わもん‐あざらし",
+    "link": "/word/%E8%BC%AA%E7%B4%8B%E6%B5%B7%E8%B1%B9/#jn-238600"
+  },
+  {
+    "kotoba": "和約",
+    "yomi": "わ‐やく",
+    "link": "/word/%E5%92%8C%E7%B4%84/#jn-238602"
+  },
+  {
+    "kotoba": "和訳",
+    "yomi": "わ‐やく",
+    "link": "/word/%E5%92%8C%E8%A8%B3/#jn-238603"
+  },
+  {
+    "kotoba": "和薬",
+    "yomi": "わ‐やく",
+    "link": "/word/%E5%92%8C%E8%96%AC/#jn-238604"
+  },
+  {
+    "kotoba": "和与",
+    "yomi": "わ‐よ",
+    "link": "/word/%E5%92%8C%E4%B8%8E/#jn-238610"
+  },
+  {
+    "kotoba": "和洋",
+    "yomi": "わ‐よう",
+    "link": "/word/%E5%92%8C%E6%B4%8B/#jn-238611"
+  },
+  {
+    "kotoba": "和様",
+    "yomi": "わ‐よう",
+    "link": "/word/%E5%92%8C%E6%A7%98/#jn-238612"
+  },
+  {
+    "kotoba": "和洋合奏",
+    "yomi": "わよう‐がっそう",
+    "link": "/word/%E5%92%8C%E6%B4%8B%E5%90%88%E5%A5%8F/#jn-238613"
+  },
+  {
+    "kotoba": "和様建築",
+    "yomi": "わよう‐けんちく",
+    "link": "/word/%E5%92%8C%E6%A7%98%E5%BB%BA%E7%AF%89/#jn-238614"
+  },
+  {
+    "kotoba": "和洋女子大学",
+    "yomi": "わよう‐じょしだいがく",
+    "link": "/word/%E5%92%8C%E6%B4%8B%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/#jn-238615"
+  },
+  {
+    "kotoba": "和洋折衷",
+    "yomi": "わよう‐せっちゅう",
+    "link": "/word/%E5%92%8C%E6%B4%8B%E6%8A%98%E8%A1%B7/#jn-238616"
+  },
+  {
+    "kotoba": "和与状",
+    "yomi": "わよ‐じょう",
+    "link": "/word/%E5%92%8C%E4%B8%8E%E7%8A%B6/#jn-238617"
+  },
+  {
+    "kotoba": "笑翡翠",
+    "yomi": "わらい‐かわせみ",
+    "link": "/word/%E7%AC%91%E7%BF%A1%E7%BF%A0/#jn-238633"
+  },
+  {
+    "kotoba": "笑尉",
+    "yomi": "わらい‐じょう",
+    "link": "/word/%E7%AC%91%E5%B0%89/#jn-238642"
+  },
+  {
+    "kotoba": "笑茸",
+    "yomi": "わらい‐たけ",
+    "link": "/word/%E7%AC%91%E8%8C%B8/#jn-238644"
+  },
+  {
+    "kotoba": "藁沓",
+    "yomi": "わらうず",
+    "link": "/word/%E8%97%81%E6%B2%93_%28%E3%82%8F%E3%82%89%E3%81%86%E3%81%9A%29/#jn-238653"
+  },
+  {
+    "kotoba": "藁蓋",
+    "yomi": "わらうだ",
+    "link": "/word/%E8%97%81%E8%93%8B/#jn-238654"
+  },
+  {
+    "kotoba": "藁嚊",
+    "yomi": "わら‐かか",
+    "link": "/word/%E8%97%81%E5%9A%8A/#jn-238657"
+  },
+  {
+    "kotoba": "藁紙",
+    "yomi": "わら‐がみ",
+    "link": "/word/%E8%97%81%E7%B4%99/#jn-238660"
+  },
+  {
+    "kotoba": "和楽",
+    "yomi": "わ‐らく",
+    "link": "/word/%E5%92%8C%E6%A5%BD_%28%E3%82%8F%E3%82%89%E3%81%8F%29/#jn-238661"
+  },
+  {
+    "kotoba": "藁沓",
+    "yomi": "わら‐ぐつ",
+    "link": "/word/%E8%97%81%E6%B2%93_%28%E3%82%8F%E3%82%89%E3%81%90%E3%81%A4%29/#jn-238662"
+  },
+  {
+    "kotoba": "藁工品",
+    "yomi": "わら‐こうひん",
+    "link": "/word/%E8%97%81%E5%B7%A5%E5%93%81/#jn-238663"
+  },
+  {
+    "kotoba": "藁金剛",
+    "yomi": "わら‐こんごう",
+    "link": "/word/%E8%97%81%E9%87%91%E5%89%9B/#jn-238665"
+  },
+  {
+    "kotoba": "藁薦",
+    "yomi": "わら‐ごも",
+    "link": "/word/%E8%97%81%E8%96%A6/#jn-238664"
+  },
+  {
+    "kotoba": "稚鰤",
+    "yomi": "わらさ",
+    "link": "/word/%E7%A8%9A%E9%B0%A4/#jn-238666"
+  },
+  {
+    "kotoba": "藁算",
+    "yomi": "わら‐さん",
+    "link": "/word/%E8%97%81%E7%AE%97/#jn-238669"
+  },
+  {
+    "kotoba": "藁座",
+    "yomi": "わら‐ざ",
+    "link": "/word/%E8%97%81%E5%BA%A7/#jn-238667"
+  },
+  {
+    "kotoba": "藁座鳥居",
+    "yomi": "わらざ‐とりい",
+    "link": "/word/%E8%97%81%E5%BA%A7%E9%B3%A5%E5%B1%85/#jn-238668"
+  },
+  {
+    "kotoba": "藁稭",
+    "yomi": "わら‐しべ",
+    "link": "/word/%E8%97%81%E7%A8%AD_%28%E3%82%8F%E3%82%89%E3%81%97%E3%81%B9%29/#jn-238682"
+  },
+  {
+    "kotoba": "藁稭長者",
+    "yomi": "わらしべ‐ちょうじゃ",
+    "link": "/word/%E8%97%81%E7%A8%AD%E9%95%B7%E8%80%85/#jn-238683"
+  },
+  {
+    "kotoba": "草鞋",
+    "yomi": "わらじ",
+    "link": "/word/%E8%8D%89%E9%9E%8B_%28%E3%82%8F%E3%82%89%E3%81%98%29/#jn-238671"
+  },
+  {
+    "kotoba": "草鞋親",
+    "yomi": "わらじ‐おや",
+    "link": "/word/%E8%8D%89%E9%9E%8B%E8%A6%AA/#jn-238674"
+  },
+  {
+    "kotoba": "草鞋酒",
+    "yomi": "わらじ‐ざけ",
+    "link": "/word/%E8%8D%89%E9%9E%8B%E9%85%92/#jn-238677"
+  },
+  {
+    "kotoba": "草鞋銭",
+    "yomi": "わらじ‐せん",
+    "link": "/word/%E8%8D%89%E9%9E%8B%E9%8A%AD/#jn-238679"
+  },
+  {
+    "kotoba": "草鞋大王",
+    "yomi": "わらじ‐だいおう",
+    "link": "/word/%E8%8D%89%E9%9E%8B%E5%A4%A7%E7%8E%8B/#jn-238680"
+  },
+  {
+    "kotoba": "草鞋虫",
+    "yomi": "わらじ‐むし",
+    "link": "/word/%E8%8D%89%E9%9E%8B%E8%99%AB/#jn-238684"
+  },
+  {
+    "kotoba": "藁苆",
+    "yomi": "わら‐すさ",
+    "link": "/word/%E8%97%81%E8%8B%86/#jn-238686"
+  },
+  {
+    "kotoba": "藁筋",
+    "yomi": "わら‐すじ",
+    "link": "/word/%E8%97%81%E7%AD%8B/#jn-238687"
+  },
+  {
+    "kotoba": "藁稭",
+    "yomi": "わら‐すべ",
+    "link": "/word/%E8%97%81%E7%A8%AD_%28%E3%82%8F%E3%82%89%E3%81%99%E3%81%B9%29/#jn-238688"
+  },
+  {
+    "kotoba": "藁素坊",
+    "yomi": "わら‐すぼ",
+    "link": "/word/%E8%97%81%E7%B4%A0%E5%9D%8A/#jn-238689"
+  },
+  {
+    "kotoba": "藁草履",
+    "yomi": "わら‐ぞうり",
+    "link": "/word/%E8%97%81%E8%8D%89%E5%B1%A5/#jn-238690"
+  },
+  {
+    "kotoba": "藁塚",
+    "yomi": "わら‐づか",
+    "link": "/word/%E8%97%81%E5%A1%9A/#jn-238691"
+  },
+  {
+    "kotoba": "藁苞",
+    "yomi": "わら‐づと",
+    "link": "/word/%E8%97%81%E8%8B%9E/#jn-238692"
+  },
+  {
+    "kotoba": "藁縄",
+    "yomi": "わら‐なわ",
+    "link": "/word/%E8%97%81%E7%B8%84/#jn-238693"
+  },
+  {
+    "kotoba": "藁人形",
+    "yomi": "わら‐にんぎょう",
+    "link": "/word/%E8%97%81%E4%BA%BA%E5%BD%A2/#jn-238695"
+  },
+  {
+    "kotoba": "藁灰",
+    "yomi": "わら‐ばい",
+    "link": "/word/%E8%97%81%E7%81%B0/#jn-238696"
+  },
+  {
+    "kotoba": "藁半紙",
+    "yomi": "わら‐ばんし",
+    "link": "/word/%E8%97%81%E5%8D%8A%E7%B4%99/#jn-238697"
+  },
+  {
+    "kotoba": "藁火",
+    "yomi": "わら‐び",
+    "link": "/word/%E8%97%81%E7%81%AB/#jn-238700"
+  },
+  {
+    "kotoba": "蕨粉",
+    "yomi": "わらび‐こ",
+    "link": "/word/%E8%95%A8%E7%B2%89/#jn-238702"
+  },
+  {
+    "kotoba": "蕨市",
+    "yomi": "わらび‐し",
+    "link": "/word/%E8%95%A8%E5%B8%82/#jn-238703"
+  },
+  {
+    "kotoba": "蕨手",
+    "yomi": "わらび‐で",
+    "link": "/word/%E8%95%A8%E6%89%8B/#jn-238704"
+  },
+  {
+    "kotoba": "蕨縄",
+    "yomi": "わらび‐なわ",
+    "link": "/word/%E8%95%A8%E7%B8%84/#jn-238706"
+  },
+  {
+    "kotoba": "蕨熨斗",
+    "yomi": "わらび‐のし",
+    "link": "/word/%E8%95%A8%E7%86%A8%E6%96%97/#jn-238707"
+  },
+  {
+    "kotoba": "蕨糊",
+    "yomi": "わらび‐のり",
+    "link": "/word/%E8%95%A8%E7%B3%8A/#jn-238708"
+  },
+  {
+    "kotoba": "蕨箒",
+    "yomi": "わらび‐ぼうき",
+    "link": "/word/%E8%95%A8%E7%AE%92/#jn-238709"
+  },
+  {
+    "kotoba": "蕨餅",
+    "yomi": "わらび‐もち",
+    "link": "/word/%E8%95%A8%E9%A4%85/#jn-238710"
+  },
+  {
+    "kotoba": "藁蓋",
+    "yomi": "わら‐ふた",
+    "link": "/word/%E8%97%81%E8%93%8B/#jn-238712"
+  },
+  {
+    "kotoba": "藁筆",
+    "yomi": "わら‐ふで",
+    "link": "/word/%E8%97%81%E7%AD%86/#jn-238713"
+  },
+  {
+    "kotoba": "藁布団",
+    "yomi": "わら‐ぶとん",
+    "link": "/word/%E8%97%81%E5%B8%83%E5%9B%A3/#jn-238714"
+  },
+  {
+    "kotoba": "童歌",
+    "yomi": "わらべ‐うた",
+    "link": "/word/%E7%AB%A5%E6%AD%8C/#jn-238716"
+  },
+  {
+    "kotoba": "童名",
+    "yomi": "わらべ‐な",
+    "link": "/word/%E7%AB%A5%E5%90%8D_%28%E3%82%8F%E3%82%89%E3%81%B9%E3%81%AA%29/#jn-238719"
+  },
+  {
+    "kotoba": "藁箒",
+    "yomi": "わら‐ぼうき",
+    "link": "/word/%E8%97%81%E7%AE%92/#jn-238720"
+  },
+  {
+    "kotoba": "藁筵",
+    "yomi": "わら‐むしろ",
+    "link": "/word/%E8%97%81%E7%AD%B5/#jn-238721"
+  },
+  {
+    "kotoba": "藁屋",
+    "yomi": "わら‐や",
+    "link": "/word/%E8%97%81%E5%B1%8B/#jn-238722"
+  },
+  {
+    "kotoba": "藁屋根",
+    "yomi": "わら‐やね",
+    "link": "/word/%E8%97%81%E5%B1%8B%E6%A0%B9/#jn-238724"
+  },
+  {
+    "kotoba": "童車",
+    "yomi": "わらわ‐ぐるま",
+    "link": "/word/%E7%AB%A5%E8%BB%8A/#jn-238733"
+  },
+  {
+    "kotoba": "童心地",
+    "yomi": "わらわ‐ごこち",
+    "link": "/word/%E7%AB%A5%E5%BF%83%E5%9C%B0/#jn-238734"
+  },
+  {
+    "kotoba": "童心",
+    "yomi": "わらわ‐ごころ",
+    "link": "/word/%E7%AB%A5%E5%BF%83_%28%E3%82%8F%E3%82%89%E3%82%8F%E3%81%94%E3%81%93%E3%82%8D%29/#jn-238735"
+  },
+  {
+    "kotoba": "童言",
+    "yomi": "わらわ‐ごと",
+    "link": "/word/%E7%AB%A5%E8%A8%80/#jn-238736"
+  },
+  {
+    "kotoba": "童御覧",
+    "yomi": "わらわ‐ごらん",
+    "link": "/word/%E7%AB%A5%E5%BE%A1%E8%A6%A7/#jn-238737"
+  },
+  {
+    "kotoba": "童装束",
+    "yomi": "わらわ‐しょうぞく",
+    "link": "/word/%E7%AB%A5%E8%A3%85%E6%9D%9F_%28%E3%82%8F%E3%82%89%E3%82%8F%E3%81%97%E3%82%87%E3%81%86%E3%81%9E%E3%81%8F%29/#jn-238739"
+  },
+  {
+    "kotoba": "童姿",
+    "yomi": "わらわ‐すがた",
+    "link": "/word/%E7%AB%A5%E5%A7%BF/#jn-238742"
+  },
+  {
+    "kotoba": "童随身",
+    "yomi": "わらわ‐ずいじん",
+    "link": "/word/%E7%AB%A5%E9%9A%8F%E8%BA%AB/#jn-238741"
+  },
+  {
+    "kotoba": "童装束",
+    "yomi": "わらわ‐そうぞく",
+    "link": "/word/%E7%AB%A5%E8%A3%85%E6%9D%9F_%28%E3%82%8F%E3%82%89%E3%82%8F%E3%81%9D%E3%81%86%E3%81%9E%E3%81%8F%29/#jn-238744"
+  },
+  {
+    "kotoba": "童殿上",
+    "yomi": "わらわ‐てんじょう",
+    "link": "/word/%E7%AB%A5%E6%AE%BF%E4%B8%8A/#jn-238745"
+  },
+  {
+    "kotoba": "童友達",
+    "yomi": "わらわ‐ともだち",
+    "link": "/word/%E7%AB%A5%E5%8F%8B%E9%81%94/#jn-238746"
+  },
+  {
+    "kotoba": "童名",
+    "yomi": "わらわ‐な",
+    "link": "/word/%E7%AB%A5%E5%90%8D_%28%E3%82%8F%E3%82%89%E3%82%8F%E3%81%AA%29/#jn-238747"
+  },
+  {
+    "kotoba": "童部",
+    "yomi": "わらわ‐べ",
+    "link": "/word/%E7%AB%A5%E9%83%A8/#jn-238749"
+  },
+  {
+    "kotoba": "童舞",
+    "yomi": "わらわ‐まい",
+    "link": "/word/%E7%AB%A5%E8%88%9E_%28%E3%82%8F%E3%82%89%E3%82%8F%E3%81%BE%E3%81%84%29/#jn-238751"
+  },
+  {
+    "kotoba": "童女",
+    "yomi": "わらわ‐め",
+    "link": "/word/%E7%AB%A5%E5%A5%B3_%28%E3%82%8F%E3%82%89%E3%82%8F%E3%82%81%29/#jn-238752"
+  },
+  {
+    "kotoba": "草鞋",
+    "yomi": "わらんじ",
+    "link": "/word/%E8%8D%89%E9%9E%8B_%28%E3%82%8F%E3%82%89%E3%82%93%E3%81%98%29/#jn-238756"
+  },
+  {
+    "kotoba": "草鞋",
+    "yomi": "わらんず",
+    "link": "/word/%E8%8D%89%E9%9E%8B_%28%E3%82%8F%E3%82%89%E3%82%93%E3%81%9A%29/#jn-238757"
+  },
+  {
+    "kotoba": "和犂",
+    "yomi": "わ‐り",
+    "link": "/word/%E5%92%8C%E7%8A%82/#jn-238762"
+  },
+  {
+    "kotoba": "割合",
+    "yomi": "わり‐あい",
+    "link": "/word/%E5%89%B2%E5%90%88/#jn-238771"
+  },
+  {
+    "kotoba": "割看板",
+    "yomi": "わり‐かんばん",
+    "link": "/word/%E5%89%B2%E7%9C%8B%E6%9D%BF/#jn-238782"
+  },
+  {
+    "kotoba": "割句",
+    "yomi": "わり‐く",
+    "link": "/word/%E5%89%B2%E5%8F%A5/#jn-238787"
+  },
+  {
+    "kotoba": "割小札",
+    "yomi": "わり‐こざね",
+    "link": "/word/%E5%89%B2%E5%B0%8F%E6%9C%AD/#jn-238797"
+  },
+  {
+    "kotoba": "割台詞",
+    "yomi": "わり‐ぜりふ",
+    "link": "/word/%E5%89%B2%E5%8F%B0%E8%A9%9E/#jn-238811"
+  },
+  {
+    "kotoba": "割高",
+    "yomi": "わり‐だか",
+    "link": "/word/%E5%89%B2%E9%AB%98/#jn-238812"
+  },
+  {
+    "kotoba": "割地",
+    "yomi": "わり‐ち",
+    "link": "/word/%E5%89%B2%E5%9C%B0/#jn-238817"
+  },
+  {
+    "kotoba": "割引",
+    "yomi": "わり‐びき",
+    "link": "/word/%E5%89%B2%E5%BC%95/#jn-238833"
+  },
+  {
+    "kotoba": "割引券",
+    "yomi": "わりびき‐けん",
+    "link": "/word/%E5%89%B2%E5%BC%95%E5%88%B8/#jn-264907"
+  },
+  {
+    "kotoba": "割引国債",
+    "yomi": "わりびき‐こくさい",
+    "link": "/word/%E5%89%B2%E5%BC%95%E5%9B%BD%E5%82%B5/#jn-238835"
+  },
+  {
+    "kotoba": "割引債",
+    "yomi": "わりびき‐さい",
+    "link": "/word/%E5%89%B2%E5%BC%95%E5%82%B5/#jn-238836"
+  },
+  {
+    "kotoba": "割引市場",
+    "yomi": "わりびき‐しじょう",
+    "link": "/word/%E5%89%B2%E5%BC%95%E5%B8%82%E5%A0%B4/#jn-238837"
+  },
+  {
+    "kotoba": "割引短期国債",
+    "yomi": "わりびき‐たんきこくさい",
+    "link": "/word/%E5%89%B2%E5%BC%95%E7%9F%AD%E6%9C%9F%E5%9B%BD%E5%82%B5/#jn-248801"
+  },
+  {
+    "kotoba": "割引短期国庫債券",
+    "yomi": "わりびきたんき‐こっこさいけん",
+    "link": "/word/%E5%89%B2%E5%BC%95%E7%9F%AD%E6%9C%9F%E5%9B%BD%E5%BA%AB%E5%82%B5%E5%88%B8/#jn-248802"
+  },
+  {
+    "kotoba": "割引手形",
+    "yomi": "わりびき‐てがた",
+    "link": "/word/%E5%89%B2%E5%BC%95%E6%89%8B%E5%BD%A2/#jn-238838"
+  },
+  {
+    "kotoba": "割引発行",
+    "yomi": "わりびき‐はっこう",
+    "link": "/word/%E5%89%B2%E5%BC%95%E7%99%BA%E8%A1%8C/#jn-238839"
+  },
+  {
+    "kotoba": "割引歩合",
+    "yomi": "わりびき‐ぶあい",
+    "link": "/word/%E5%89%B2%E5%BC%95%E6%AD%A9%E5%90%88/#jn-238840"
+  },
+  {
+    "kotoba": "割引率",
+    "yomi": "わりびき‐りつ",
+    "link": "/word/%E5%89%B2%E5%BC%95%E7%8E%87/#jn-238841"
+  },
+  {
+    "kotoba": "割引料",
+    "yomi": "わりびき‐りょう",
+    "link": "/word/%E5%89%B2%E5%BC%95%E6%96%99/#jn-238842"
+  },
+  {
+    "kotoba": "割菱",
+    "yomi": "わり‐びし",
+    "link": "/word/%E5%89%B2%E8%8F%B1/#jn-238845"
+  },
+  {
+    "kotoba": "割普請",
+    "yomi": "わり‐ぶしん",
+    "link": "/word/%E5%89%B2%E6%99%AE%E8%AB%8B/#jn-238848"
+  },
+  {
+    "kotoba": "割元",
+    "yomi": "わり‐もと",
+    "link": "/word/%E5%89%B2%E5%85%83/#jn-238862"
+  },
+  {
+    "kotoba": "割安",
+    "yomi": "わり‐やす",
+    "link": "/word/%E5%89%B2%E5%AE%89/#jn-238866"
+  },
+  {
+    "kotoba": "割安株",
+    "yomi": "わりやす‐かぶ",
+    "link": "/word/%E5%89%B2%E5%AE%89%E6%A0%AA/#jn-238867"
+  },
+  {
+    "kotoba": "割安購入益",
+    "yomi": "わりやすこうにゅう‐えき",
+    "link": "/word/%E5%89%B2%E5%AE%89%E8%B3%BC%E5%85%A5%E7%9B%8A/#jn-295575"
+  },
+  {
+    "kotoba": "和硫",
+    "yomi": "わ‐りゅう",
+    "link": "/word/%E5%92%8C%E7%A1%AB/#jn-238869"
+  },
+  {
+    "kotoba": "和林檎",
+    "yomi": "わ‐りんご",
+    "link": "/word/%E5%92%8C%E6%9E%97%E6%AA%8E/#jn-238872"
+  },
+  {
+    "kotoba": "悪戯",
+    "yomi": "わる‐いたずら",
+    "link": "/word/%E6%82%AA%E6%88%AF_%28%E3%82%8F%E3%82%8B%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%29/#jn-238881"
+  },
+  {
+    "kotoba": "悪遠慮",
+    "yomi": "わる‐えんりょ",
+    "link": "/word/%E6%82%AA%E9%81%A0%E6%85%AE/#jn-238882"
+  },
+  {
+    "kotoba": "悪金",
+    "yomi": "わる‐がね",
+    "link": "/word/%E6%82%AA%E9%87%91/#jn-238885"
+  },
+  {
+    "kotoba": "悪気",
+    "yomi": "わる‐ぎ",
+    "link": "/word/%E6%82%AA%E6%B0%97/#jn-238887"
+  },
+  {
+    "kotoba": "悪口",
+    "yomi": "わる‐くち",
+    "link": "/word/%E6%82%AA%E5%8F%A3_%28%E3%82%8F%E3%82%8B%E3%81%8F%E3%81%A1%29/#jn-238891"
+  },
+  {
+    "kotoba": "悪口学校",
+    "yomi": "わるくちがっこう",
+    "link": "/word/%E6%82%AA%E5%8F%A3%E5%AD%A6%E6%A0%A1/#jn-293903"
+  },
+  {
+    "kotoba": "悪癖",
+    "yomi": "わる‐ぐせ",
+    "link": "/word/%E6%82%AA%E7%99%96_%28%E3%82%8F%E3%82%8B%E3%81%90%E3%81%9B%29/#jn-238890"
+  },
+  {
+    "kotoba": "悪功",
+    "yomi": "わる‐ごう",
+    "link": "/word/%E6%82%AA%E5%8A%9F/#jn-238894"
+  },
+  {
+    "kotoba": "悪御達",
+    "yomi": "わる‐ごたち",
+    "link": "/word/%E6%82%AA%E5%BE%A1%E9%81%94/#jn-238895"
+  },
+  {
+    "kotoba": "悪洒落",
+    "yomi": "わる‐じゃれ",
+    "link": "/word/%E6%82%AA%E6%B4%92%E8%90%BD/#jn-238898"
+  },
+  {
+    "kotoba": "悪推",
+    "yomi": "わる‐ずい",
+    "link": "/word/%E6%82%AA%E6%8E%A8/#jn-238904"
+  },
+  {
+    "kotoba": "悪推量",
+    "yomi": "わる‐ずいりょう",
+    "link": "/word/%E6%82%AA%E6%8E%A8%E9%87%8F/#jn-238905"
+  },
+  {
+    "kotoba": "悪達者",
+    "yomi": "わる‐だっしゃ",
+    "link": "/word/%E6%82%AA%E9%81%94%E8%80%85/#jn-238911"
+  },
+  {
+    "kotoba": "悪樽",
+    "yomi": "わる‐だる",
+    "link": "/word/%E6%82%AA%E6%A8%BD/#jn-238912"
+  },
+  {
+    "kotoba": "悪血",
+    "yomi": "わる‐ち",
+    "link": "/word/%E6%82%AA%E8%A1%80_%28%E3%82%8F%E3%82%8B%E3%81%A1%29/#jn-238913"
+  },
+  {
+    "kotoba": "悪知恵",
+    "yomi": "わる‐ぢえ",
+    "link": "/word/%E6%82%AA%E7%9F%A5%E6%81%B5/#jn-238914"
+  },
+  {
+    "kotoba": "悪度胸",
+    "yomi": "わる‐どきょう",
+    "link": "/word/%E6%82%AA%E5%BA%A6%E8%83%B8/#jn-238917"
+  },
+  {
+    "kotoba": "悪茄子",
+    "yomi": "わる‐なすび",
+    "link": "/word/%E6%82%AA%E8%8C%84%E5%AD%90/#jn-238920"
+  },
+  {
+    "kotoba": "悪場",
+    "yomi": "わる‐ば",
+    "link": "/word/%E6%82%AA%E5%A0%B4/#jn-238923"
+  },
+  {
+    "kotoba": "悪巫山戯",
+    "yomi": "わる‐ふざけ",
+    "link": "/word/%E6%82%AA%E5%B7%AB%E5%B1%B1%E6%88%AF/#jn-238927"
+  },
+  {
+    "kotoba": "悪者",
+    "yomi": "わる‐もの",
+    "link": "/word/%E6%82%AA%E8%80%85_%28%E3%82%8F%E3%82%8B%E3%82%82%E3%81%AE%29/#jn-238929"
+  },
+  {
+    "kotoba": "我一",
+    "yomi": "われ‐いち",
+    "link": "/word/%E6%88%91%E4%B8%80/#jn-238954"
+  },
+  {
+    "kotoba": "我賢",
+    "yomi": "われ‐かしこ",
+    "link": "/word/%E6%88%91%E8%B3%A2/#jn-238956"
+  },
+  {
+    "kotoba": "破殻",
+    "yomi": "われ‐から",
+    "link": "/word/%E7%A0%B4%E6%AE%BB/#jn-238959"
+  },
+  {
+    "kotoba": "和暦",
+    "yomi": "わ‐れき",
+    "link": "/word/%E5%92%8C%E6%9A%A6/#jn-238961"
+  },
+  {
+    "kotoba": "我先",
+    "yomi": "われ‐さき",
+    "link": "/word/%E6%88%91%E5%85%88/#jn-238965"
+  },
+  {
+    "kotoba": "我様",
+    "yomi": "われ‐さま",
+    "link": "/word/%E6%88%91%E6%A7%98/#jn-238966"
+  },
+  {
+    "kotoba": "我人",
+    "yomi": "われ‐ひと",
+    "link": "/word/%E6%88%91%E4%BA%BA_%28%E3%82%8F%E3%82%8C%E3%81%B2%E3%81%A8%29/#jn-238982"
+  },
+  {
+    "kotoba": "吾亦紅",
+    "yomi": "われ‐もこう",
+    "link": "/word/%E5%90%BE%E4%BA%A6%E7%B4%85/#jn-238987"
+  },
+  {
+    "kotoba": "我等",
+    "yomi": "われら",
+    "link": "/word/%E6%88%91%E7%AD%89/#jn-286428"
+  },
+  {
+    "kotoba": "我等",
+    "yomi": "われ‐ら",
+    "link": "/word/%E6%88%91%E7%AD%89/#jn-238989"
+  },
+  {
+    "kotoba": "我等式",
+    "yomi": "われら‐しき",
+    "link": "/word/%E6%88%91%E7%AD%89%E5%BC%8F/#jn-238990"
+  },
+  {
+    "kotoba": "我我",
+    "yomi": "われ‐われ",
+    "link": "/word/%E6%88%91%E6%88%91/#jn-238993"
+  },
+  {
+    "kotoba": "我郎",
+    "yomi": "わろ",
+    "link": "/word/%E6%88%91%E9%83%8E/#jn-238996"
+  },
+  {
+    "kotoba": "和露",
+    "yomi": "わ‐ろ",
+    "link": "/word/%E5%92%8C%E9%9C%B2/#jn-238997"
+  },
+  {
+    "kotoba": "藁沓",
+    "yomi": "わろうず",
+    "link": "/word/%E8%97%81%E6%B2%93_%28%E3%82%8F%E3%82%8D%E3%81%86%E3%81%9A%29/#jn-238999"
+  },
+  {
+    "kotoba": "和蝋燭",
+    "yomi": "わ‐ろうそく",
+    "link": "/word/%E5%92%8C%E8%9D%8B%E7%87%AD/#jn-253064"
+  },
+  {
+    "kotoba": "藁蓋",
+    "yomi": "わろうだ",
+    "link": "/word/%E8%97%81%E8%93%8B/#jn-239000"
+  },
+  {
+    "kotoba": "和露辞典",
+    "yomi": "わろ‐じてん",
+    "link": "/word/%E5%92%8C%E9%9C%B2%E8%BE%9E%E5%85%B8/#jn-239002"
+  },
+  {
+    "kotoba": "悪者",
+    "yomi": "わろ‐もの",
+    "link": "/word/%E6%82%AA%E8%80%85_%28%E3%82%8F%E3%82%8D%E3%82%82%E3%81%AE%29/#jn-239005"
+  },
+  {
+    "kotoba": "枉惑",
+    "yomi": "わわく",
+    "link": "/word/%E6%9E%89%E6%83%91_%28%E3%82%8F%E3%82%8F%E3%81%8F%29/#jn-239006"
+  },
+  {
+    "kotoba": "和綿",
+    "yomi": "わ‐わた",
+    "link": "/word/%E5%92%8C%E7%B6%BF/#jn-288336"
+  },
+  {
+    "kotoba": "湾奥",
+    "yomi": "わん‐おう",
+    "link": "/word/%E6%B9%BE%E5%A5%A5/#jn-239021"
+  },
+  {
+    "kotoba": "湾岸",
+    "yomi": "わん‐がん",
+    "link": "/word/%E6%B9%BE%E5%B2%B8/#jn-239027"
+  },
+  {
+    "kotoba": "湾岸協力会議",
+    "yomi": "わんがん‐きょうりょくかいぎ",
+    "link": "/word/%E6%B9%BE%E5%B2%B8%E5%8D%94%E5%8A%9B%E4%BC%9A%E8%AD%B0/#jn-239028"
+  },
+  {
+    "kotoba": "湾岸戦争",
+    "yomi": "わんがん‐せんそう",
+    "link": "/word/%E6%B9%BE%E5%B2%B8%E6%88%A6%E4%BA%89/#jn-239029"
+  },
+  {
+    "kotoba": "椀久",
+    "yomi": "わん‐きゅう",
+    "link": "/word/person/%E6%A4%80%E4%B9%85/#jn-239030"
+  },
+  {
+    "kotoba": "椀久末松山",
+    "yomi": "わんきゅうすえのまつやま",
+    "link": "/word/%E6%A4%80%E4%B9%85%E6%9C%AB%E6%9D%BE%E5%B1%B1/#jn-239031"
+  },
+  {
+    "kotoba": "湾曲",
+    "yomi": "わん‐きょく",
+    "link": "/word/%E6%B9%BE%E6%9B%B2/#jn-239032"
+  },
+  {
+    "kotoba": "湾月",
+    "yomi": "わん‐げつ",
+    "link": "/word/%E6%B9%BE%E6%9C%88/#jn-239040"
+  },
+  {
+    "kotoba": "湾口",
+    "yomi": "わん‐こう",
+    "link": "/word/%E6%B9%BE%E5%8F%A3/#jn-239043"
+  },
+  {
+    "kotoba": "湾口防波堤",
+    "yomi": "わんこう‐ぼうはてい",
+    "link": "/word/%E6%B9%BE%E5%8F%A3%E9%98%B2%E6%B3%A2%E5%A0%A4/#jn-253065"
+  },
+  {
+    "kotoba": "椀子蕎麦",
+    "yomi": "わんこ‐そば",
+    "link": "/word/%E6%A4%80%E5%AD%90%E8%95%8E%E9%BA%A6/#jn-239044"
+  },
+  {
+    "kotoba": "腕骨",
+    "yomi": "わん‐こつ",
+    "link": "/word/%E8%85%95%E9%AA%A8_%28%E3%82%8F%E3%82%93%E3%81%93%E3%81%A4%29/#jn-239045"
+  },
+  {
+    "kotoba": "和讒",
+    "yomi": "わん‐ざん",
+    "link": "/word/%E5%92%8C%E8%AE%92_%28%E3%82%8F%E3%82%93%E3%81%96%E3%82%93%29/#jn-239051"
+  },
+  {
+    "kotoba": "腕車",
+    "yomi": "わん‐しゃ",
+    "link": "/word/%E8%85%95%E8%BB%8A/#jn-239054"
+  },
+  {
+    "kotoba": "腕尺関節",
+    "yomi": "わんしゃく‐かんせつ",
+    "link": "/word/%E8%85%95%E5%B0%BA%E9%96%A2%E7%AF%80/#jn-292221"
+  },
+  {
+    "kotoba": "腕章",
+    "yomi": "わん‐しょう",
+    "link": "/word/%E8%85%95%E7%AB%A0/#jn-239055"
+  },
+  {
+    "kotoba": "腕神経叢",
+    "yomi": "わん‐しんけいそう",
+    "link": "/word/%E8%85%95%E7%A5%9E%E7%B5%8C%E5%8F%A2/#jn-278513"
+  },
+  {
+    "kotoba": "万子",
+    "yomi": "ワンズ",
+    "link": "/word/%E4%B8%87%E5%AD%90_%28%E3%83%AF%E3%83%B3%E3%82%BA%29/#jn-239059"
+  },
+  {
+    "kotoba": "腕足類",
+    "yomi": "わんそく‐るい",
+    "link": "/word/%E8%85%95%E8%B6%B3%E9%A1%9E/#jn-239071"
+  },
+  {
+    "kotoba": "饂飩",
+    "yomi": "ワンタン",
+    "link": "/word/%E9%A5%82%E9%A3%A9_%28%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%B3%29/#jn-239082"
+  },
+  {
+    "kotoba": "饂飩麺",
+    "yomi": "ワンタン‐メン",
+    "link": "/word/%E9%A5%82%E9%A3%A9%E9%BA%BA/#jn-239083"
+  },
+  {
+    "kotoba": "椀種",
+    "yomi": "わん‐だね",
+    "link": "/word/%E6%A4%80%E7%A8%AE/#jn-239077"
+  },
+  {
+    "kotoba": "汪兆銘",
+    "yomi": "ワン‐チャオミン",
+    "link": "/word/person/%E6%B1%AA%E5%85%86%E9%8A%98/#jn-253067"
+  },
+  {
+    "kotoba": "王寵恵",
+    "yomi": "ワン‐チョンホイ",
+    "link": "/word/person/%E7%8E%8B%E5%AF%B5%E6%81%B5/#jn-253068"
+  },
+  {
+    "kotoba": "湾頭",
+    "yomi": "わん‐とう",
+    "link": "/word/%E6%B9%BE%E9%A0%AD/#jn-239092"
+  },
+  {
+    "kotoba": "腕橈関節",
+    "yomi": "わんとう‐かんせつ",
+    "link": "/word/%E8%85%95%E6%A9%88%E9%96%A2%E7%AF%80/#jn-292222"
+  },
+  {
+    "kotoba": "腕頭静脈",
+    "yomi": "わんとう‐じょうみゃく",
+    "link": "/word/%E8%85%95%E9%A0%AD%E9%9D%99%E8%84%88/#jn-300183"
+  },
+  {
+    "kotoba": "腕頭動脈",
+    "yomi": "わんとう‐どうみゃく",
+    "link": "/word/%E8%85%95%E9%A0%AD%E5%8B%95%E8%84%88/#jn-272539"
+  },
+  {
+    "kotoba": "湾入",
+    "yomi": "わん‐にゅう",
+    "link": "/word/%E6%B9%BE%E5%85%A5/#jn-239095"
+  },
+  {
+    "kotoba": "腕白",
+    "yomi": "わん‐ぱく",
+    "link": "/word/%E8%85%95%E7%99%BD/#jn-239097"
+  },
+  {
+    "kotoba": "黄枇",
+    "yomi": "わん‐ぴ",
+    "link": "/word/%E9%BB%84%E6%9E%87/#jn-239101"
+  },
+  {
+    "kotoba": "王府井",
+    "yomi": "ワンフーチン",
+    "link": "/word/%E7%8E%8B%E5%BA%9C%E4%BA%95/#jn-239107"
+  },
+  {
+    "kotoba": "腕法",
+    "yomi": "わん‐ぽう",
+    "link": "/word/%E8%85%95%E6%B3%95/#jn-239112"
+  },
+  {
+    "kotoba": "網紅",
+    "yomi": "ワンホン",
+    "link": "/word/%E7%B6%B2%E7%B4%85/#jn-297276"
+  },
+  {
+    "kotoba": "縕袍",
+    "yomi": "わん‐ぼう",
+    "link": "/word/%E7%B8%95%E8%A2%8D_%28%E3%82%8F%E3%82%93%E3%81%BC%E3%81%86%29/#jn-239111"
+  },
+  {
+    "kotoba": "黄包車",
+    "yomi": "ワンポーツ",
+    "link": "/word/%E9%BB%84%E5%8C%85%E8%BB%8A/#jn-239113"
+  },
+  {
+    "kotoba": "完了",
+    "yomi": "ワンラ",
+    "link": "/word/%E5%AE%8C%E4%BA%86_%28%E3%83%AF%E3%83%B3%E3%83%A9%29/#jn-239123"
+  },
+  {
+    "kotoba": "湾流",
+    "yomi": "わん‐りゅう",
+    "link": "/word/%E6%B9%BE%E6%B5%81/#jn-239125"
+  },
+  {
+    "kotoba": "腕力",
+    "yomi": "わん‐りょく",
+    "link": "/word/%E8%85%95%E5%8A%9B_%28%E3%82%8F%E3%82%93%E3%82%8A%E3%82%87%E3%81%8F%29/#jn-239126"
+  }
+]

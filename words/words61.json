@@ -1,0 +1,4792 @@
+[
+  {
+    "kotoba": "場合",
+    "yomi": "ば‐あい",
+    "link": "/word/%E5%A0%B4%E5%90%88/#jn-172849"
+  },
+  {
+    "kotoba": "馬医",
+    "yomi": "ば‐い",
+    "link": "/word/%E9%A6%AC%E5%8C%BB/#jn-173345"
+  },
+  {
+    "kotoba": "売位",
+    "yomi": "ばい‐い",
+    "link": "/word/%E5%A3%B2%E4%BD%8D/#jn-173387"
+  },
+  {
+    "kotoba": "売淫",
+    "yomi": "ばい‐いん",
+    "link": "/word/%E5%A3%B2%E6%B7%AB/#jn-173404"
+  },
+  {
+    "kotoba": "梅雨",
+    "yomi": "ばい‐う",
+    "link": "/word/%E6%A2%85%E9%9B%A8_%28%E3%81%B0%E3%81%84%E3%81%86%29/#jn-173408"
+  },
+  {
+    "kotoba": "梅雨前線",
+    "yomi": "ばいう‐ぜんせん",
+    "link": "/word/%E6%A2%85%E9%9B%A8%E5%89%8D%E7%B7%9A/#jn-173411"
+  },
+  {
+    "kotoba": "梅園",
+    "yomi": "ばい‐えん",
+    "link": "/word/%E6%A2%85%E5%9C%92/#jn-173429"
+  },
+  {
+    "kotoba": "煤煙",
+    "yomi": "ばい‐えん",
+    "link": "/word/%E7%85%A4%E7%85%99/#jn-173430"
+  },
+  {
+    "kotoba": "煤煙",
+    "yomi": "ばいえん",
+    "link": "/word/%E7%85%A4%E7%85%99/#jn-173431"
+  },
+  {
+    "kotoba": "梅園叢書",
+    "yomi": "ばいえんそうしょ",
+    "link": "/word/%E6%A2%85%E5%9C%92%E5%8F%A2%E6%9B%B8/#jn-173433"
+  },
+  {
+    "kotoba": "倍音",
+    "yomi": "ばい‐おん",
+    "link": "/word/%E5%80%8D%E9%9F%B3/#jn-173500"
+  },
+  {
+    "kotoba": "貝貨",
+    "yomi": "ばい‐か",
+    "link": "/word/%E8%B2%9D%E8%B2%A8/#jn-173510"
+  },
+  {
+    "kotoba": "売価",
+    "yomi": "ばい‐か",
+    "link": "/word/%E5%A3%B2%E4%BE%A1/#jn-173509"
+  },
+  {
+    "kotoba": "倍加",
+    "yomi": "ばい‐か",
+    "link": "/word/%E5%80%8D%E5%8A%A0/#jn-173511"
+  },
+  {
+    "kotoba": "梅花",
+    "yomi": "ばい‐か",
+    "link": "/word/%E6%A2%85%E8%8A%B1_%28%E3%81%B0%E3%81%84%E3%81%8B%29/#jn-173512"
+  },
+  {
+    "kotoba": "買価",
+    "yomi": "ばい‐か",
+    "link": "/word/%E8%B2%B7%E4%BE%A1/#jn-173513"
+  },
+  {
+    "kotoba": "梅花甘茶",
+    "yomi": "ばいか‐あまちゃ",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E7%94%98%E8%8C%B6/#jn-173518"
+  },
+  {
+    "kotoba": "売買",
+    "yomi": "ばい‐かい",
+    "link": "/word/%E5%A3%B2%E8%B2%B7_%28%E3%81%B0%E3%81%84%E3%81%8B%E3%81%84%29/#jn-173528"
+  },
+  {
+    "kotoba": "媒介",
+    "yomi": "ばい‐かい",
+    "link": "/word/%E5%AA%92%E4%BB%8B/#jn-173529"
+  },
+  {
+    "kotoba": "媒介者",
+    "yomi": "ばいかい‐しゃ",
+    "link": "/word/%E5%AA%92%E4%BB%8B%E8%80%85/#jn-173537"
+  },
+  {
+    "kotoba": "媒介動物",
+    "yomi": "ばいかい‐どうぶつ",
+    "link": "/word/%E5%AA%92%E4%BB%8B%E5%8B%95%E7%89%A9/#jn-271787"
+  },
+  {
+    "kotoba": "媒介変数",
+    "yomi": "ばいかい‐へんすう",
+    "link": "/word/%E5%AA%92%E4%BB%8B%E5%A4%89%E6%95%B0/#jn-173543"
+  },
+  {
+    "kotoba": "梅花空木",
+    "yomi": "ばいか‐うつぎ",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E7%A9%BA%E6%9C%A8/#jn-173546"
+  },
+  {
+    "kotoba": "梅花黄蓮",
+    "yomi": "ばいか‐おうれん",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E9%BB%84%E8%93%AE/#jn-173548"
+  },
+  {
+    "kotoba": "倍角",
+    "yomi": "ばい‐かく",
+    "link": "/word/%E5%80%8D%E8%A7%92/#jn-173552"
+  },
+  {
+    "kotoba": "梅花香",
+    "yomi": "ばいか‐こう",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E9%A6%99/#jn-173556"
+  },
+  {
+    "kotoba": "倍加時間",
+    "yomi": "ばいか‐じかん",
+    "link": "/word/%E5%80%8D%E5%8A%A0%E6%99%82%E9%96%93/#jn-289738"
+  },
+  {
+    "kotoba": "梅花女子大学",
+    "yomi": "ばいか‐じょしだいがく",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/#jn-247749"
+  },
+  {
+    "kotoba": "梅花躑躅",
+    "yomi": "ばいか‐つつじ",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E8%BA%91%E8%BA%85/#jn-173562"
+  },
+  {
+    "kotoba": "梅花方",
+    "yomi": "ばいか‐ほう",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E6%96%B9/#jn-173566"
+  },
+  {
+    "kotoba": "梅花藻",
+    "yomi": "ばいか‐も",
+    "link": "/word/%E6%A2%85%E8%8A%B1%E8%97%BB/#jn-173568"
+  },
+  {
+    "kotoba": "売官",
+    "yomi": "ばい‐かん",
+    "link": "/word/%E5%A3%B2%E5%AE%98/#jn-173591"
+  },
+  {
+    "kotoba": "陪観",
+    "yomi": "ばい‐かん",
+    "link": "/word/%E9%99%AA%E8%A6%B3/#jn-173592"
+  },
+  {
+    "kotoba": "媒概念",
+    "yomi": "ばい‐がいねん",
+    "link": "/word/%E5%AA%92%E6%A6%82%E5%BF%B5/#jn-173540"
+  },
+  {
+    "kotoba": "倍額",
+    "yomi": "ばい‐がく",
+    "link": "/word/%E5%80%8D%E9%A1%8D/#jn-173553"
+  },
+  {
+    "kotoba": "貝器",
+    "yomi": "ばい‐き",
+    "link": "/word/%E8%B2%9D%E5%99%A8/#jn-173597"
+  },
+  {
+    "kotoba": "唄器",
+    "yomi": "ばい‐き",
+    "link": "/word/%E5%94%84%E5%99%A8/#jn-173598"
+  },
+  {
+    "kotoba": "売却",
+    "yomi": "ばい‐きゃく",
+    "link": "/word/%E5%A3%B2%E5%8D%B4/#jn-173611"
+  },
+  {
+    "kotoba": "倍脚類",
+    "yomi": "ばいきゃく‐るい",
+    "link": "/word/%E5%80%8D%E8%84%9A%E9%A1%9E/#jn-173612"
+  },
+  {
+    "kotoba": "倍旧",
+    "yomi": "ばい‐きゅう",
+    "link": "/word/%E5%80%8D%E6%97%A7/#jn-173616"
+  },
+  {
+    "kotoba": "黴菌",
+    "yomi": "ばい‐きん",
+    "link": "/word/%E9%BB%B4%E8%8F%8C/#jn-173629"
+  },
+  {
+    "kotoba": "梅尭臣",
+    "yomi": "ばい‐ぎょうしん",
+    "link": "/word/person/%E6%A2%85%E5%B0%AD%E8%87%A3/#jn-173623"
+  },
+  {
+    "kotoba": "梅蕙草",
+    "yomi": "ばいけい‐そう",
+    "link": "/word/%E6%A2%85%E8%95%99%E8%8D%89/#jn-173660"
+  },
+  {
+    "kotoba": "売券",
+    "yomi": "ばい‐けん",
+    "link": "/word/%E5%A3%B2%E5%88%B8_%28%E3%81%B0%E3%81%84%E3%81%91%E3%82%93%29/#jn-173671"
+  },
+  {
+    "kotoba": "梅月",
+    "yomi": "ばい‐げつ",
+    "link": "/word/%E6%A2%85%E6%9C%88/#jn-173663"
+  },
+  {
+    "kotoba": "梅光学院大学",
+    "yomi": "ばいこうがくいん‐だいがく",
+    "link": "/word/%E6%A2%85%E5%85%89%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6/#jn-247753"
+  },
+  {
+    "kotoba": "売国",
+    "yomi": "ばい‐こく",
+    "link": "/word/%E5%A3%B2%E5%9B%BD/#jn-173693"
+  },
+  {
+    "kotoba": "売国奴",
+    "yomi": "ばいこく‐ど",
+    "link": "/word/%E5%A3%B2%E5%9B%BD%E5%A5%B4/#jn-173694"
+  },
+  {
+    "kotoba": "媒合",
+    "yomi": "ばい‐ごう",
+    "link": "/word/%E5%AA%92%E5%90%88/#jn-173685"
+  },
+  {
+    "kotoba": "貝独楽",
+    "yomi": "ばい‐ごま",
+    "link": "/word/%E8%B2%9D%E7%8B%AC%E6%A5%BD_%28%E3%81%B0%E3%81%84%E3%81%94%E3%81%BE%29/#jn-173697"
+  },
+  {
+    "kotoba": "売茶翁",
+    "yomi": "ばいさ‐おう",
+    "link": "/word/person/%E5%A3%B2%E8%8C%B6%E7%BF%81/#jn-173710"
+  },
+  {
+    "kotoba": "媒材",
+    "yomi": "ばい‐ざい",
+    "link": "/word/%E5%AA%92%E6%9D%90/#jn-173708"
+  },
+  {
+    "kotoba": "貝子",
+    "yomi": "ばい‐し",
+    "link": "/word/%E8%B2%9D%E5%AD%90/#jn-173732"
+  },
+  {
+    "kotoba": "倍蓰",
+    "yomi": "ばい‐し",
+    "link": "/word/%E5%80%8D%E8%93%B0/#jn-173733"
+  },
+  {
+    "kotoba": "唄師",
+    "yomi": "ばい‐し",
+    "link": "/word/%E5%94%84%E5%B8%AB/#jn-173734"
+  },
+  {
+    "kotoba": "梅子",
+    "yomi": "ばい‐し",
+    "link": "/word/%E6%A2%85%E5%AD%90/#jn-173735"
+  },
+  {
+    "kotoba": "媒質",
+    "yomi": "ばい‐しつ",
+    "link": "/word/%E5%AA%92%E8%B3%AA/#jn-173749"
+  },
+  {
+    "kotoba": "倍尺",
+    "yomi": "ばい‐しゃく",
+    "link": "/word/%E5%80%8D%E5%B0%BA/#jn-173762"
+  },
+  {
+    "kotoba": "媒酌",
+    "yomi": "ばい‐しゃく",
+    "link": "/word/%E5%AA%92%E9%85%8C/#jn-173763"
+  },
+  {
+    "kotoba": "媒酌人",
+    "yomi": "ばいしゃく‐にん",
+    "link": "/word/%E5%AA%92%E9%85%8C%E4%BA%BA/#jn-173765"
+  },
+  {
+    "kotoba": "売爵令",
+    "yomi": "ばいしゃく‐れい",
+    "link": "/word/%E5%A3%B2%E7%88%B5%E4%BB%A4/#jn-173766"
+  },
+  {
+    "kotoba": "買収",
+    "yomi": "ばい‐しゅう",
+    "link": "/word/%E8%B2%B7%E5%8F%8E/#jn-173777"
+  },
+  {
+    "kotoba": "倍周器",
+    "yomi": "ばいしゅう‐き",
+    "link": "/word/%E5%80%8D%E5%91%A8%E5%99%A8/#jn-271792"
+  },
+  {
+    "kotoba": "買収防衛策",
+    "yomi": "ばいしゅうぼうえい‐さく",
+    "link": "/word/%E8%B2%B7%E5%8F%8E%E9%98%B2%E8%A1%9B%E7%AD%96/#jn-303328"
+  },
+  {
+    "kotoba": "売春",
+    "yomi": "ばい‐しゅん",
+    "link": "/word/%E5%A3%B2%E6%98%A5/#jn-173788"
+  },
+  {
+    "kotoba": "買春",
+    "yomi": "ばい‐しゅん",
+    "link": "/word/%E8%B2%B7%E6%98%A5_%28%E3%81%B0%E3%81%84%E3%81%97%E3%82%85%E3%82%93%29/#jn-173789"
+  },
+  {
+    "kotoba": "売春婦",
+    "yomi": "ばいしゅん‐ふ",
+    "link": "/word/%E5%A3%B2%E6%98%A5%E5%A9%A6/#jn-173791"
+  },
+  {
+    "kotoba": "売春防止法",
+    "yomi": "ばいしゅん‐ぼうしほう",
+    "link": "/word/%E5%A3%B2%E6%98%A5%E9%98%B2%E6%AD%A2%E6%B3%95/#jn-173792"
+  },
+  {
+    "kotoba": "売笑",
+    "yomi": "ばい‐しょう",
+    "link": "/word/%E5%A3%B2%E7%AC%91/#jn-173806"
+  },
+  {
+    "kotoba": "焙焼",
+    "yomi": "ばい‐しょう",
+    "link": "/word/%E7%84%99%E7%84%BC/#jn-173807"
+  },
+  {
+    "kotoba": "賠償",
+    "yomi": "ばい‐しょう",
+    "link": "/word/%E8%B3%A0%E5%84%9F/#jn-173808"
+  },
+  {
+    "kotoba": "賠償義務",
+    "yomi": "ばいしょう‐ぎむ",
+    "link": "/word/%E8%B3%A0%E5%84%9F%E7%BE%A9%E5%8B%99/#jn-173812"
+  },
+  {
+    "kotoba": "賠償責任保険",
+    "yomi": "ばいしょうせきにん‐ほけん",
+    "link": "/word/%E8%B3%A0%E5%84%9F%E8%B2%AC%E4%BB%BB%E4%BF%9D%E9%99%BA/#jn-173813"
+  },
+  {
+    "kotoba": "売笑婦",
+    "yomi": "ばいしょう‐ふ",
+    "link": "/word/%E5%A3%B2%E7%AC%91%E5%A9%A6/#jn-173814"
+  },
+  {
+    "kotoba": "焙焼炉",
+    "yomi": "ばいしょう‐ろ",
+    "link": "/word/%E7%84%99%E7%84%BC%E7%82%89/#jn-173816"
+  },
+  {
+    "kotoba": "梅松論",
+    "yomi": "ばいしょうろん",
+    "link": "/word/%E6%A2%85%E6%9D%BE%E8%AB%96/#jn-173817"
+  },
+  {
+    "kotoba": "売色",
+    "yomi": "ばい‐しょく",
+    "link": "/word/%E5%A3%B2%E8%89%B2/#jn-173822"
+  },
+  {
+    "kotoba": "培植",
+    "yomi": "ばい‐しょく",
+    "link": "/word/%E5%9F%B9%E6%A4%8D/#jn-173823"
+  },
+  {
+    "kotoba": "陪食",
+    "yomi": "ばい‐しょく",
+    "link": "/word/%E9%99%AA%E9%A3%9F/#jn-173824"
+  },
+  {
+    "kotoba": "陪臣",
+    "yomi": "ばい‐しん",
+    "link": "/word/%E9%99%AA%E8%87%A3/#jn-173839"
+  },
+  {
+    "kotoba": "陪審",
+    "yomi": "ばい‐しん",
+    "link": "/word/%E9%99%AA%E5%AF%A9/#jn-173840"
+  },
+  {
+    "kotoba": "陪審員",
+    "yomi": "ばいしん‐いん",
+    "link": "/word/%E9%99%AA%E5%AF%A9%E5%93%A1/#jn-173842"
+  },
+  {
+    "kotoba": "陪審裁判",
+    "yomi": "ばいしん‐さいばん",
+    "link": "/word/%E9%99%AA%E5%AF%A9%E8%A3%81%E5%88%A4/#jn-283801"
+  },
+  {
+    "kotoba": "陪審制度",
+    "yomi": "ばいしん‐せいど",
+    "link": "/word/%E9%99%AA%E5%AF%A9%E5%88%B6%E5%BA%A6/#jn-173846"
+  },
+  {
+    "kotoba": "陪侍",
+    "yomi": "ばい‐じ",
+    "link": "/word/%E9%99%AA%E4%BE%8D/#jn-173736"
+  },
+  {
+    "kotoba": "陪従",
+    "yomi": "ばい‐じゅう",
+    "link": "/word/%E9%99%AA%E5%BE%93_%28%E3%81%B0%E3%81%84%E3%81%98%E3%82%85%E3%81%86%29/#jn-173778"
+  },
+  {
+    "kotoba": "売女",
+    "yomi": "ばい‐じょ",
+    "link": "/word/%E5%A3%B2%E5%A5%B3_%28%E3%81%B0%E3%81%84%E3%81%98%E3%82%87%29/#jn-173797"
+  },
+  {
+    "kotoba": "媒助",
+    "yomi": "ばい‐じょ",
+    "link": "/word/%E5%AA%92%E5%8A%A9/#jn-173798"
+  },
+  {
+    "kotoba": "陪乗",
+    "yomi": "ばい‐じょう",
+    "link": "/word/%E9%99%AA%E4%B9%97/#jn-173809"
+  },
+  {
+    "kotoba": "貝尻",
+    "yomi": "ばい‐じり",
+    "link": "/word/%E8%B2%9D%E5%B0%BB/#jn-173829"
+  },
+  {
+    "kotoba": "煤塵",
+    "yomi": "ばい‐じん",
+    "link": "/word/%E7%85%A4%E5%A1%B5/#jn-173841"
+  },
+  {
+    "kotoba": "倍数",
+    "yomi": "ばい‐すう",
+    "link": "/word/%E5%80%8D%E6%95%B0/#jn-173868"
+  },
+  {
+    "kotoba": "倍数性",
+    "yomi": "ばいすう‐せい",
+    "link": "/word/%E5%80%8D%E6%95%B0%E6%80%A7/#jn-173869"
+  },
+  {
+    "kotoba": "倍数体",
+    "yomi": "ばいすう‐たい",
+    "link": "/word/%E5%80%8D%E6%95%B0%E4%BD%93/#jn-173870"
+  },
+  {
+    "kotoba": "陪随",
+    "yomi": "ばい‐ずい",
+    "link": "/word/%E9%99%AA%E9%9A%8F/#jn-173858"
+  },
+  {
+    "kotoba": "媒精",
+    "yomi": "ばい‐せい",
+    "link": "/word/%E5%AA%92%E7%B2%BE/#jn-173893"
+  },
+  {
+    "kotoba": "陪席",
+    "yomi": "ばい‐せき",
+    "link": "/word/%E9%99%AA%E5%B8%AD/#jn-173901"
+  },
+  {
+    "kotoba": "陪席裁判官",
+    "yomi": "ばいせき‐さいばんかん",
+    "link": "/word/%E9%99%AA%E5%B8%AD%E8%A3%81%E5%88%A4%E5%AE%98/#jn-173902"
+  },
+  {
+    "kotoba": "陪席判事",
+    "yomi": "ばいせき‐はんじ",
+    "link": "/word/%E9%99%AA%E5%B8%AD%E5%88%A4%E4%BA%8B/#jn-173903"
+  },
+  {
+    "kotoba": "媒染",
+    "yomi": "ばい‐せん",
+    "link": "/word/%E5%AA%92%E6%9F%93/#jn-173922"
+  },
+  {
+    "kotoba": "焙煎",
+    "yomi": "ばい‐せん",
+    "link": "/word/%E7%84%99%E7%85%8E/#jn-173923"
+  },
+  {
+    "kotoba": "媒染剤",
+    "yomi": "ばいせん‐ざい",
+    "link": "/word/%E5%AA%92%E6%9F%93%E5%89%A4/#jn-173927"
+  },
+  {
+    "kotoba": "媒染染料",
+    "yomi": "ばいせん‐せんりょう",
+    "link": "/word/%E5%AA%92%E6%9F%93%E6%9F%93%E6%96%99/#jn-173931"
+  },
+  {
+    "kotoba": "陪膳",
+    "yomi": "ばい‐ぜん",
+    "link": "/word/%E9%99%AA%E8%86%B3/#jn-173924"
+  },
+  {
+    "kotoba": "陪葬",
+    "yomi": "ばい‐そう",
+    "link": "/word/%E9%99%AA%E8%91%AC/#jn-173944"
+  },
+  {
+    "kotoba": "馬医草紙",
+    "yomi": "ばいそうし",
+    "link": "/word/%E9%A6%AC%E5%8C%BB%E8%8D%89%E7%B4%99/#jn-173946"
+  },
+  {
+    "kotoba": "倍速再生",
+    "yomi": "ばいそく‐さいせい",
+    "link": "/word/%E5%80%8D%E9%80%9F%E5%86%8D%E7%94%9F/#jn-281689"
+  },
+  {
+    "kotoba": "倍増",
+    "yomi": "ばい‐ぞう",
+    "link": "/word/%E5%80%8D%E5%A2%97/#jn-173945"
+  },
+  {
+    "kotoba": "倍増時間",
+    "yomi": "ばいぞう‐じかん",
+    "link": "/word/%E5%80%8D%E5%A2%97%E6%99%82%E9%96%93/#jn-289745"
+  },
+  {
+    "kotoba": "売女",
+    "yomi": "ばいた",
+    "link": "/word/%E5%A3%B2%E5%A5%B3_%28%E3%81%B0%E3%81%84%E3%81%9F%29/#jn-173962"
+  },
+  {
+    "kotoba": "媒体",
+    "yomi": "ばい‐たい",
+    "link": "/word/%E5%AA%92%E4%BD%93/#jn-173969"
+  },
+  {
+    "kotoba": "貝多羅葉",
+    "yomi": "ばいたら‐よう",
+    "link": "/word/%E8%B2%9D%E5%A4%9A%E7%BE%85%E8%91%89/#jn-173986"
+  },
+  {
+    "kotoba": "煤炭",
+    "yomi": "ばい‐たん",
+    "link": "/word/%E7%85%A4%E7%82%AD/#jn-173994"
+  },
+  {
+    "kotoba": "売炭翁",
+    "yomi": "ばいたんおう",
+    "link": "/word/%E5%A3%B2%E7%82%AD%E7%BF%81/#jn-173995"
+  },
+  {
+    "kotoba": "倍大",
+    "yomi": "ばい‐だい",
+    "link": "/word/%E5%80%8D%E5%A4%A7/#jn-173970"
+  },
+  {
+    "kotoba": "培地",
+    "yomi": "ばい‐ち",
+    "link": "/word/%E5%9F%B9%E5%9C%B0/#jn-174001"
+  },
+  {
+    "kotoba": "陪塚",
+    "yomi": "ばい‐ちょう",
+    "link": "/word/%E9%99%AA%E5%A1%9A/#jn-174020"
+  },
+  {
+    "kotoba": "陪聴",
+    "yomi": "ばい‐ちょう",
+    "link": "/word/%E9%99%AA%E8%81%B4/#jn-174021"
+  },
+  {
+    "kotoba": "媒鳥",
+    "yomi": "ばい‐ちょう",
+    "link": "/word/%E5%AA%92%E9%B3%A5/#jn-174022"
+  },
+  {
+    "kotoba": "陪塚",
+    "yomi": "ばい‐づか",
+    "link": "/word/%E9%99%AA%E5%A1%9A/#jn-174026"
+  },
+  {
+    "kotoba": "梅亭金鵞",
+    "yomi": "ばいてい‐きんが",
+    "link": "/word/person/%E6%A2%85%E4%BA%AD%E9%87%91%E9%B5%9E/#jn-174035"
+  },
+  {
+    "kotoba": "売店",
+    "yomi": "ばい‐てん",
+    "link": "/word/%E5%A3%B2%E5%BA%97/#jn-174056"
+  },
+  {
+    "kotoba": "梅天",
+    "yomi": "ばい‐てん",
+    "link": "/word/%E6%A2%85%E5%A4%A9/#jn-174057"
+  },
+  {
+    "kotoba": "売電",
+    "yomi": "ばい‐でん",
+    "link": "/word/%E5%A3%B2%E9%9B%BB/#jn-174058"
+  },
+  {
+    "kotoba": "買電",
+    "yomi": "ばい‐でん",
+    "link": "/word/%E8%B2%B7%E9%9B%BB/#jn-174059"
+  },
+  {
+    "kotoba": "陪都",
+    "yomi": "ばい‐と",
+    "link": "/word/%E9%99%AA%E9%83%BD/#jn-174069"
+  },
+  {
+    "kotoba": "売得",
+    "yomi": "ばい‐とく",
+    "link": "/word/%E5%A3%B2%E5%BE%97/#jn-174094"
+  },
+  {
+    "kotoba": "買得",
+    "yomi": "ばい‐とく",
+    "link": "/word/%E8%B2%B7%E5%BE%97_%28%E3%81%B0%E3%81%84%E3%81%A8%E3%81%8F%29/#jn-174095"
+  },
+  {
+    "kotoba": "売得金",
+    "yomi": "ばいとく‐きん",
+    "link": "/word/%E5%A3%B2%E5%BE%97%E9%87%91/#jn-174097"
+  },
+  {
+    "kotoba": "百度",
+    "yomi": "バイドゥ",
+    "link": "/word/%E7%99%BE%E5%BA%A6_%28%E3%83%90%E3%82%A4%E3%83%89%E3%82%A5%29/#jn-174080"
+  },
+  {
+    "kotoba": "梅毒",
+    "yomi": "ばい‐どく",
+    "link": "/word/%E6%A2%85%E6%AF%92/#jn-174096"
+  },
+  {
+    "kotoba": "梅肉",
+    "yomi": "ばい‐にく",
+    "link": "/word/%E6%A2%85%E8%82%89/#jn-174142"
+  },
+  {
+    "kotoba": "売人",
+    "yomi": "ばい‐にん",
+    "link": "/word/%E5%A3%B2%E4%BA%BA/#jn-174148"
+  },
+  {
+    "kotoba": "売買",
+    "yomi": "ばい‐ばい",
+    "link": "/word/%E5%A3%B2%E8%B2%B7_%28%E3%81%B0%E3%81%84%E3%81%B0%E3%81%84%29/#jn-174184"
+  },
+  {
+    "kotoba": "売買回転率",
+    "yomi": "ばいばい‐かいてんりつ",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E5%9B%9E%E8%BB%A2%E7%8E%87/#jn-174187"
+  },
+  {
+    "kotoba": "売買価格",
+    "yomi": "ばいばい‐かかく",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E4%BE%A1%E6%A0%BC/#jn-174188"
+  },
+  {
+    "kotoba": "売買契約",
+    "yomi": "ばいばい‐けいやく",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E5%A5%91%E7%B4%84/#jn-174189"
+  },
+  {
+    "kotoba": "売買立会時",
+    "yomi": "ばいばいたちあい‐じ",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E7%AB%8B%E4%BC%9A%E6%99%82/#jn-247761"
+  },
+  {
+    "kotoba": "売買単価",
+    "yomi": "ばいばい‐たんか",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E5%8D%98%E4%BE%A1/#jn-174193"
+  },
+  {
+    "kotoba": "売買代金",
+    "yomi": "ばいばい‐だいきん",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E4%BB%A3%E9%87%91/#jn-174190"
+  },
+  {
+    "kotoba": "売買高",
+    "yomi": "ばいばい‐だか",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E9%AB%98/#jn-174191"
+  },
+  {
+    "kotoba": "売買高加重平均価格",
+    "yomi": "ばいばいだか‐かじゅうへいきんかかく",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E9%AB%98%E5%8A%A0%E9%87%8D%E5%B9%B3%E5%9D%87%E4%BE%A1%E6%A0%BC/#jn-174192"
+  },
+  {
+    "kotoba": "売買同時入札",
+    "yomi": "ばいばいどうじ‐にゅうさつ",
+    "link": "/word/%E5%A3%B2%E8%B2%B7%E5%90%8C%E6%99%82%E5%85%A5%E6%9C%AD/#jn-287770"
+  },
+  {
+    "kotoba": "売品",
+    "yomi": "ばい‐ひん",
+    "link": "/word/%E5%A3%B2%E5%93%81/#jn-174232"
+  },
+  {
+    "kotoba": "陪賓",
+    "yomi": "ばい‐ひん",
+    "link": "/word/%E9%99%AA%E8%B3%93/#jn-174233"
+  },
+  {
+    "kotoba": "売文",
+    "yomi": "ばい‐ぶん",
+    "link": "/word/%E5%A3%B2%E6%96%87/#jn-174311"
+  },
+  {
+    "kotoba": "倍分",
+    "yomi": "ばい‐ぶん",
+    "link": "/word/%E5%80%8D%E5%88%86/#jn-174312"
+  },
+  {
+    "kotoba": "売文社",
+    "yomi": "ばいぶん‐しゃ",
+    "link": "/word/%E5%A3%B2%E6%96%87%E7%A4%BE/#jn-174314"
+  },
+  {
+    "kotoba": "買弁",
+    "yomi": "ばい‐べん",
+    "link": "/word/%E8%B2%B7%E5%BC%81/#jn-174322"
+  },
+  {
+    "kotoba": "買弁的",
+    "yomi": "ばいべん‐てき",
+    "link": "/word/%E8%B2%B7%E5%BC%81%E7%9A%84/#jn-174323"
+  },
+  {
+    "kotoba": "売卜",
+    "yomi": "ばい‐ぼく",
+    "link": "/word/%E5%A3%B2%E5%8D%9C/#jn-174332"
+  },
+  {
+    "kotoba": "売名",
+    "yomi": "ばい‐めい",
+    "link": "/word/%E5%A3%B2%E5%90%8D/#jn-174359"
+  },
+  {
+    "kotoba": "貝母",
+    "yomi": "ばい‐も",
+    "link": "/word/%E8%B2%9D%E6%AF%8D_%28%E3%81%B0%E3%81%84%E3%82%82%29/#jn-174366"
+  },
+  {
+    "kotoba": "売約",
+    "yomi": "ばい‐やく",
+    "link": "/word/%E5%A3%B2%E7%B4%84/#jn-174383"
+  },
+  {
+    "kotoba": "売薬",
+    "yomi": "ばい‐やく",
+    "link": "/word/%E5%A3%B2%E8%96%AC_%28%E3%81%B0%E3%81%84%E3%82%84%E3%81%8F%29/#jn-174384"
+  },
+  {
+    "kotoba": "貝葉",
+    "yomi": "ばい‐よう",
+    "link": "/word/%E8%B2%9D%E8%91%89/#jn-174399"
+  },
+  {
+    "kotoba": "培養",
+    "yomi": "ばい‐よう",
+    "link": "/word/%E5%9F%B9%E9%A4%8A/#jn-174400"
+  },
+  {
+    "kotoba": "培養液",
+    "yomi": "ばいよう‐えき",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E6%B6%B2/#jn-174401"
+  },
+  {
+    "kotoba": "培養基",
+    "yomi": "ばいよう‐き",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E5%9F%BA/#jn-174402"
+  },
+  {
+    "kotoba": "培養細胞",
+    "yomi": "ばいよう‐さいぼう",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E7%B4%B0%E8%83%9E/#jn-271800"
+  },
+  {
+    "kotoba": "培養士",
+    "yomi": "ばいよう‐し",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E5%A3%AB/#jn-174403"
+  },
+  {
+    "kotoba": "培養栓",
+    "yomi": "ばいよう‐せん",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E6%A0%93/#jn-289751"
+  },
+  {
+    "kotoba": "培養土",
+    "yomi": "ばいよう‐ど",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E5%9C%9F/#jn-266702"
+  },
+  {
+    "kotoba": "培養肉",
+    "yomi": "ばいよう‐にく",
+    "link": "/word/%E5%9F%B9%E9%A4%8A%E8%82%89/#jn-299777"
+  },
+  {
+    "kotoba": "梅蘭芳",
+    "yomi": "ばい‐らんほう",
+    "link": "/word/person/%E6%A2%85%E8%98%AD%E8%8A%B3/#jn-174425"
+  },
+  {
+    "kotoba": "倍率",
+    "yomi": "ばい‐りつ",
+    "link": "/word/%E5%80%8D%E7%8E%87/#jn-174442"
+  },
+  {
+    "kotoba": "倍率色収差",
+    "yomi": "ばいりつ‐いろしゅうさ",
+    "link": "/word/%E5%80%8D%E7%8E%87%E8%89%B2%E5%8F%8E%E5%B7%AE/#jn-174443"
+  },
+  {
+    "kotoba": "倍率器",
+    "yomi": "ばいりつ‐き",
+    "link": "/word/%E5%80%8D%E7%8E%87%E5%99%A8/#jn-271802"
+  },
+  {
+    "kotoba": "倍量",
+    "yomi": "ばい‐りょう",
+    "link": "/word/%E5%80%8D%E9%87%8F/#jn-174450"
+  },
+  {
+    "kotoba": "梅林",
+    "yomi": "ばい‐りん",
+    "link": "/word/%E6%A2%85%E6%9E%97/#jn-174452"
+  },
+  {
+    "kotoba": "梅霖",
+    "yomi": "ばい‐りん",
+    "link": "/word/%E6%A2%85%E9%9C%96/#jn-174453"
+  },
+  {
+    "kotoba": "梅林寺",
+    "yomi": "ばいりん‐じ",
+    "link": "/word/%E6%A2%85%E6%9E%97%E5%AF%BA/#jn-174458"
+  },
+  {
+    "kotoba": "梅暦",
+    "yomi": "ばい‐れき",
+    "link": "/word/%E6%A2%85%E6%9A%A6_%28%E3%81%B0%E3%81%84%E3%82%8C%E3%81%8D%29/#jn-174474"
+  },
+  {
+    "kotoba": "陪臚",
+    "yomi": "ばいろ",
+    "link": "/word/%E9%99%AA%E8%87%9A/#jn-174486"
+  },
+  {
+    "kotoba": "貝勒",
+    "yomi": "ばい‐ろく",
+    "link": "/word/%E8%B2%9D%E5%8B%92/#jn-174490"
+  },
+  {
+    "kotoba": "馬英九",
+    "yomi": "ば‐えいきゅう",
+    "link": "/word/person/%E9%A6%AC%E8%8B%B1%E4%B9%9D/#jn-241294"
+  },
+  {
+    "kotoba": "馬疫",
+    "yomi": "ば‐えき",
+    "link": "/word/%E9%A6%AC%E7%96%AB/#jn-174612"
+  },
+  {
+    "kotoba": "馬遠",
+    "yomi": "ば‐えん",
+    "link": "/word/person/%E9%A6%AC%E9%81%A0/#jn-174645"
+  },
+  {
+    "kotoba": "馬鹿",
+    "yomi": "ばか",
+    "link": "/word/%E9%A6%AC%E9%B9%BF/#jn-174677"
+  },
+  {
+    "kotoba": "馬鹿穴",
+    "yomi": "ばか‐あな",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E7%A9%B4/#jn-174690"
+  },
+  {
+    "kotoba": "馬鹿貝",
+    "yomi": "ばか‐がい",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E8%B2%9D/#jn-174710"
+  },
+  {
+    "kotoba": "馬革",
+    "yomi": "ば‐かく",
+    "link": "/word/%E9%A6%AC%E9%9D%A9/#jn-174716"
+  },
+  {
+    "kotoba": "馬鹿声",
+    "yomi": "ばか‐ごえ",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E5%A3%B0/#jn-174725"
+  },
+  {
+    "kotoba": "馬鹿正直",
+    "yomi": "ばか‐しょうじき",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E6%AD%A3%E7%9B%B4/#jn-174736"
+  },
+  {
+    "kotoba": "場数",
+    "yomi": "ば‐かず",
+    "link": "/word/%E5%A0%B4%E6%95%B0/#jn-174743"
+  },
+  {
+    "kotoba": "馬鹿力",
+    "yomi": "ばか‐ぢから",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E5%8A%9B/#jn-174771"
+  },
+  {
+    "kotoba": "馬鹿面",
+    "yomi": "ばか‐づら",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E9%9D%A2/#jn-174774"
+  },
+  {
+    "kotoba": "馬鹿丁寧",
+    "yomi": "ばか‐ていねい",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E4%B8%81%E5%AF%A7/#jn-174775"
+  },
+  {
+    "kotoba": "馬鹿鳥",
+    "yomi": "ばか‐どり",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E9%B3%A5/#jn-174779"
+  },
+  {
+    "kotoba": "馬鹿苗病",
+    "yomi": "ばかなえ‐びょう",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E8%8B%97%E7%97%85/#jn-174783"
+  },
+  {
+    "kotoba": "馬鹿値",
+    "yomi": "ばか‐ね",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E5%80%A4/#jn-174794"
+  },
+  {
+    "kotoba": "馬鹿話",
+    "yomi": "ばか‐ばなし",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E8%A9%B1/#jn-174801"
+  },
+  {
+    "kotoba": "馬鹿囃子",
+    "yomi": "ばか‐ばやし",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E5%9B%83%E5%AD%90/#jn-174802"
+  },
+  {
+    "kotoba": "馬鹿舞",
+    "yomi": "ばか‐まい",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E8%88%9E/#jn-174809"
+  },
+  {
+    "kotoba": "馬鹿者",
+    "yomi": "ばか‐もの",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E8%80%85/#jn-174819"
+  },
+  {
+    "kotoba": "馬鹿野郎",
+    "yomi": "ばか‐やろう",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E9%87%8E%E9%83%8E/#jn-174822"
+  },
+  {
+    "kotoba": "馬鹿野郎解散",
+    "yomi": "ばかやろう‐かいさん",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E9%87%8E%E9%83%8E%E8%A7%A3%E6%95%A3/#jn-254945"
+  },
+  {
+    "kotoba": "馬鹿律義",
+    "yomi": "ばか‐りちぎ",
+    "link": "/word/%E9%A6%AC%E9%B9%BF%E5%BE%8B%E7%BE%A9/#jn-174848"
+  },
+  {
+    "kotoba": "馬関",
+    "yomi": "ばかん",
+    "link": "/word/%E9%A6%AC%E9%96%A2/#jn-174862"
+  },
+  {
+    "kotoba": "馬韓",
+    "yomi": "ばかん",
+    "link": "/word/%E9%A6%AC%E9%9F%93/#jn-174863"
+  },
+  {
+    "kotoba": "場外",
+    "yomi": "ば‐がい",
+    "link": "/word/%E5%A0%B4%E5%A4%96_%28%E3%81%B0%E3%81%8C%E3%81%84%29/#jn-271805"
+  },
+  {
+    "kotoba": "薄伽梵",
+    "yomi": "ばがぼん",
+    "link": "/word/%E8%96%84%E4%BC%BD%E6%A2%B5/#jn-174805"
+  },
+  {
+    "kotoba": "馬脚",
+    "yomi": "ば‐きゃく",
+    "link": "/word/%E9%A6%AC%E8%84%9A/#jn-174942"
+  },
+  {
+    "kotoba": "爆圧",
+    "yomi": "ばく‐あつ",
+    "link": "/word/%E7%88%86%E5%9C%A7/#jn-175035"
+  },
+  {
+    "kotoba": "麦雨",
+    "yomi": "ばく‐う",
+    "link": "/word/%E9%BA%A6%E9%9B%A8/#jn-175049"
+  },
+  {
+    "kotoba": "幕営",
+    "yomi": "ばく‐えい",
+    "link": "/word/%E5%B9%95%E5%96%B6/#jn-175064"
+  },
+  {
+    "kotoba": "博奕",
+    "yomi": "ばく‐えき",
+    "link": "/word/%E5%8D%9A%E5%A5%95_%28%E3%81%B0%E3%81%8F%E3%81%88%E3%81%8D%29/#jn-175066"
+  },
+  {
+    "kotoba": "爆音",
+    "yomi": "ばく‐おん",
+    "link": "/word/%E7%88%86%E9%9F%B3/#jn-175073"
+  },
+  {
+    "kotoba": "幕下",
+    "yomi": "ばく‐か",
+    "link": "/word/%E5%B9%95%E4%B8%8B_%28%E3%81%B0%E3%81%8F%E3%81%8B%29/#jn-175078"
+  },
+  {
+    "kotoba": "麦芽",
+    "yomi": "ばく‐が",
+    "link": "/word/%E9%BA%A6%E8%8A%BD/#jn-175079"
+  },
+  {
+    "kotoba": "麦蛾",
+    "yomi": "ばく‐が",
+    "link": "/word/%E9%BA%A6%E8%9B%BE/#jn-175080"
+  },
+  {
+    "kotoba": "麦芽糖",
+    "yomi": "ばくが‐とう",
+    "link": "/word/%E9%BA%A6%E8%8A%BD%E7%B3%96/#jn-175083"
+  },
+  {
+    "kotoba": "博戯",
+    "yomi": "はく‐ぎ",
+    "link": "/word/%E5%8D%9A%E6%88%AF/#jn-175089"
+  },
+  {
+    "kotoba": "幕議",
+    "yomi": "ばく‐ぎ",
+    "link": "/word/%E5%B9%95%E8%AD%B0/#jn-175092"
+  },
+  {
+    "kotoba": "駁議",
+    "yomi": "ばく‐ぎ",
+    "link": "/word/%E9%A7%81%E8%AD%B0/#jn-175093"
+  },
+  {
+    "kotoba": "莫逆",
+    "yomi": "ばく‐ぎゃく",
+    "link": "/word/%E8%8E%AB%E9%80%86/#jn-175095"
+  },
+  {
+    "kotoba": "莫逆",
+    "yomi": "ばく‐げき",
+    "link": "/word/%E8%8E%AB%E9%80%86/#jn-175110"
+  },
+  {
+    "kotoba": "駁撃",
+    "yomi": "ばく‐げき",
+    "link": "/word/%E9%A7%81%E6%92%83/#jn-175111"
+  },
+  {
+    "kotoba": "爆撃",
+    "yomi": "ばく‐げき",
+    "link": "/word/%E7%88%86%E6%92%83/#jn-175112"
+  },
+  {
+    "kotoba": "爆撃機",
+    "yomi": "ばくげき‐き",
+    "link": "/word/%E7%88%86%E6%92%83%E6%A9%9F/#jn-175113"
+  },
+  {
+    "kotoba": "莫高窟",
+    "yomi": "ばっこう‐くつ",
+    "link": "/word/%E8%8E%AB%E9%AB%98%E7%AA%9F/#jn-177421"
+  },
+  {
+    "kotoba": "爆轟",
+    "yomi": "ばく‐ごう",
+    "link": "/word/%E7%88%86%E8%BD%9F/#jn-175119"
+  },
+  {
+    "kotoba": "博才",
+    "yomi": "ばく‐さい",
+    "link": "/word/%E5%8D%9A%E6%89%8D/#jn-175127"
+  },
+  {
+    "kotoba": "爆砕",
+    "yomi": "ばく‐さい",
+    "link": "/word/%E7%88%86%E7%A0%95/#jn-175128"
+  },
+  {
+    "kotoba": "爆殺",
+    "yomi": "ばく‐さつ",
+    "link": "/word/%E7%88%86%E6%AE%BA/#jn-175130"
+  },
+  {
+    "kotoba": "駁雑",
+    "yomi": "ばく‐ざつ",
+    "link": "/word/%E9%A7%81%E9%9B%91/#jn-175131"
+  },
+  {
+    "kotoba": "爆死",
+    "yomi": "ばく‐し",
+    "link": "/word/%E7%88%86%E6%AD%BB/#jn-175154"
+  },
+  {
+    "kotoba": "幕舎",
+    "yomi": "ばく‐しゃ",
+    "link": "/word/%E5%B9%95%E8%88%8E/#jn-175172"
+  },
+  {
+    "kotoba": "麦酒",
+    "yomi": "ばく‐しゅ",
+    "link": "/word/%E9%BA%A6%E9%85%92_%28%E3%81%B0%E3%81%8F%E3%81%97%E3%82%85%29/#jn-175179"
+  },
+  {
+    "kotoba": "麦秀",
+    "yomi": "ばく‐しゅう",
+    "link": "/word/%E9%BA%A6%E7%A7%80/#jn-175183"
+  },
+  {
+    "kotoba": "麦秋",
+    "yomi": "ばく‐しゅう",
+    "link": "/word/%E9%BA%A6%E7%A7%8B_%28%E3%81%B0%E3%81%8F%E3%81%97%E3%82%85%E3%81%86%29/#jn-175185"
+  },
+  {
+    "kotoba": "麦秋",
+    "yomi": "ばくしゅう",
+    "link": "/word/%E9%BA%A6%E7%A7%8B_%28%E3%81%B0%E3%81%8F%E3%81%97%E3%82%85%E3%81%86%29/#jn-269417"
+  },
+  {
+    "kotoba": "爆縮",
+    "yomi": "ばく‐しゅく",
+    "link": "/word/%E7%88%86%E7%B8%AE/#jn-258900"
+  },
+  {
+    "kotoba": "爆縮型核爆弾",
+    "yomi": "ばくしゅくがた‐かくばくだん",
+    "link": "/word/%E7%88%86%E7%B8%AE%E5%9E%8B%E6%A0%B8%E7%88%86%E5%BC%BE/#jn-289755"
+  },
+  {
+    "kotoba": "曝書",
+    "yomi": "ばく‐しょ",
+    "link": "/word/%E6%9B%9D%E6%9B%B8/#jn-175192"
+  },
+  {
+    "kotoba": "爆笑",
+    "yomi": "ばく‐しょう",
+    "link": "/word/%E7%88%86%E7%AC%91/#jn-175197"
+  },
+  {
+    "kotoba": "爆傷",
+    "yomi": "ばく‐しょう",
+    "link": "/word/%E7%88%86%E5%82%B7/#jn-175198"
+  },
+  {
+    "kotoba": "爆食",
+    "yomi": "ばく‐しょく",
+    "link": "/word/%E7%88%86%E9%A3%9F/#jn-175200"
+  },
+  {
+    "kotoba": "幕臣",
+    "yomi": "ばく‐しん",
+    "link": "/word/%E5%B9%95%E8%87%A3/#jn-175214"
+  },
+  {
+    "kotoba": "爆心",
+    "yomi": "ばく‐しん",
+    "link": "/word/%E7%88%86%E5%BF%83/#jn-175215"
+  },
+  {
+    "kotoba": "驀進",
+    "yomi": "ばく‐しん",
+    "link": "/word/%E9%A9%80%E9%80%B2/#jn-175216"
+  },
+  {
+    "kotoba": "爆心",
+    "yomi": "ばくしん",
+    "link": "/word/%E7%88%86%E5%BF%83/#jn-269418"
+  },
+  {
+    "kotoba": "麦穂",
+    "yomi": "ばく‐すい",
+    "link": "/word/%E9%BA%A6%E7%A9%82/#jn-175222"
+  },
+  {
+    "kotoba": "爆睡",
+    "yomi": "ばく‐すい",
+    "link": "/word/%E7%88%86%E7%9D%A1/#jn-175223"
+  },
+  {
+    "kotoba": "幕政",
+    "yomi": "ばく‐せい",
+    "link": "/word/%E5%B9%95%E6%94%BF/#jn-175239"
+  },
+  {
+    "kotoba": "瀑声",
+    "yomi": "ばく‐せい",
+    "link": "/word/%E7%80%91%E5%A3%B0/#jn-175240"
+  },
+  {
+    "kotoba": "麦積山石窟",
+    "yomi": "ばくせきざん‐せっくつ",
+    "link": "/word/%E9%BA%A6%E7%A9%8D%E5%B1%B1%E7%9F%B3%E7%AA%9F/#jn-175242"
+  },
+  {
+    "kotoba": "駁説",
+    "yomi": "ばく‐せつ",
+    "link": "/word/%E9%A7%81%E8%AA%AC/#jn-175246"
+  },
+  {
+    "kotoba": "漠然",
+    "yomi": "ばく‐ぜん",
+    "link": "/word/%E6%BC%A0%E7%84%B6/#jn-175257"
+  },
+  {
+    "kotoba": "驀然",
+    "yomi": "ばく‐ぜん",
+    "link": "/word/%E9%A9%80%E7%84%B6/#jn-175258"
+  },
+  {
+    "kotoba": "曝葬",
+    "yomi": "ばく‐そう",
+    "link": "/word/%E6%9B%9D%E8%91%AC/#jn-175262"
+  },
+  {
+    "kotoba": "爆走",
+    "yomi": "ばく‐そう",
+    "link": "/word/%E7%88%86%E8%B5%B0/#jn-289756"
+  },
+  {
+    "kotoba": "爆速",
+    "yomi": "ばく‐そく",
+    "link": "/word/%E7%88%86%E9%80%9F/#jn-258904"
+  },
+  {
+    "kotoba": "縛帯",
+    "yomi": "ばく‐たい",
+    "link": "/word/%E7%B8%9B%E5%B8%AF/#jn-175272"
+  },
+  {
+    "kotoba": "莫大",
+    "yomi": "ばく‐だい",
+    "link": "/word/%E8%8E%AB%E5%A4%A7/#jn-175273"
+  },
+  {
+    "kotoba": "爆誕",
+    "yomi": "ばく‐たん",
+    "link": "/word/%E7%88%86%E8%AA%95/#jn-299781"
+  },
+  {
+    "kotoba": "爆弾",
+    "yomi": "ばく‐だん",
+    "link": "/word/%E7%88%86%E5%BC%BE/#jn-175283"
+  },
+  {
+    "kotoba": "爆弾霰",
+    "yomi": "ばくだん‐あられ",
+    "link": "/word/%E7%88%86%E5%BC%BE%E9%9C%B0/#jn-175284"
+  },
+  {
+    "kotoba": "爆弾低気圧",
+    "yomi": "ばくだん‐ていきあつ",
+    "link": "/word/%E7%88%86%E5%BC%BE%E4%BD%8E%E6%B0%97%E5%9C%A7/#jn-175285"
+  },
+  {
+    "kotoba": "爆弾発言",
+    "yomi": "ばくだん‐はつげん",
+    "link": "/word/%E7%88%86%E5%BC%BE%E7%99%BA%E8%A8%80/#jn-175286"
+  },
+  {
+    "kotoba": "博打",
+    "yomi": "ばく‐ち",
+    "link": "/word/%E5%8D%9A%E6%89%93/#jn-175295"
+  },
+  {
+    "kotoba": "驀地",
+    "yomi": "ばく‐ち",
+    "link": "/word/%E9%A9%80%E5%9C%B0_%28%E3%81%B0%E3%81%8F%E3%81%A1%29/#jn-175296"
+  },
+  {
+    "kotoba": "爆竹",
+    "yomi": "ばく‐ちく",
+    "link": "/word/%E7%88%86%E7%AB%B9/#jn-175299"
+  },
+  {
+    "kotoba": "博打汁",
+    "yomi": "ばくち‐じる",
+    "link": "/word/%E5%8D%9A%E6%89%93%E6%B1%81/#jn-175301"
+  },
+  {
+    "kotoba": "爆着",
+    "yomi": "ばく‐ちゃく",
+    "link": "/word/%E7%88%86%E7%9D%80/#jn-254950"
+  },
+  {
+    "kotoba": "爆沈",
+    "yomi": "ばく‐ちん",
+    "link": "/word/%E7%88%86%E6%B2%88/#jn-175322"
+  },
+  {
+    "kotoba": "博徒",
+    "yomi": "ばく‐と",
+    "link": "/word/%E5%8D%9A%E5%BE%92/#jn-175336"
+  },
+  {
+    "kotoba": "爆取",
+    "yomi": "ばく‐とり",
+    "link": "/word/%E7%88%86%E5%8F%96/#jn-241303"
+  },
+  {
+    "kotoba": "麥繞",
+    "yomi": "ばく‐にょう",
+    "link": "/word/%E9%BA%A5%E7%B9%9E/#jn-175355"
+  },
+  {
+    "kotoba": "爆燃",
+    "yomi": "ばく‐ねん",
+    "link": "/word/%E7%88%86%E7%87%83/#jn-175360"
+  },
+  {
+    "kotoba": "爆破",
+    "yomi": "ばく‐は",
+    "link": "/word/%E7%88%86%E7%A0%B4/#jn-175367"
+  },
+  {
+    "kotoba": "爆発",
+    "yomi": "ばく‐はつ",
+    "link": "/word/%E7%88%86%E7%99%BA/#jn-175378"
+  },
+  {
+    "kotoba": "爆発圧接",
+    "yomi": "ばくはつ‐あっせつ",
+    "link": "/word/%E7%88%86%E7%99%BA%E5%9C%A7%E6%8E%A5/#jn-254951"
+  },
+  {
+    "kotoba": "爆発火口",
+    "yomi": "ばくはつ‐かこう",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%81%AB%E5%8F%A3/#jn-278002"
+  },
+  {
+    "kotoba": "爆発限界",
+    "yomi": "ばくはつ‐げんかい",
+    "link": "/word/%E7%88%86%E7%99%BA%E9%99%90%E7%95%8C/#jn-251759"
+  },
+  {
+    "kotoba": "爆発図",
+    "yomi": "ばくはつ‐ず",
+    "link": "/word/%E7%88%86%E7%99%BA%E5%9B%B3/#jn-299783"
+  },
+  {
+    "kotoba": "爆発性戦争残存物",
+    "yomi": "ばくはつせい‐せんそうざんそんぶつ",
+    "link": "/word/%E7%88%86%E7%99%BA%E6%80%A7%E6%88%A6%E4%BA%89%E6%AE%8B%E5%AD%98%E7%89%A9/#jn-274051"
+  },
+  {
+    "kotoba": "爆発的",
+    "yomi": "ばくはつ‐てき",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%9A%84/#jn-175380"
+  },
+  {
+    "kotoba": "爆発的星形成",
+    "yomi": "ばくはつてき‐ほしけいせい",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%9A%84%E6%98%9F%E5%BD%A2%E6%88%90/#jn-289759"
+  },
+  {
+    "kotoba": "爆発的星形成銀河",
+    "yomi": "ばくはつてき‐ほしけいせいぎんが",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%9A%84%E6%98%9F%E5%BD%A2%E6%88%90%E9%8A%80%E6%B2%B3/#jn-289760"
+  },
+  {
+    "kotoba": "爆発的星生成",
+    "yomi": "ばくはつてき‐ほしせいせい",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%9A%84%E6%98%9F%E7%94%9F%E6%88%90/#jn-289761"
+  },
+  {
+    "kotoba": "爆発的星生成銀河",
+    "yomi": "ばくはつてき‐ほしせいせいぎんが",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%9A%84%E6%98%9F%E7%94%9F%E6%88%90%E9%8A%80%E6%B2%B3/#jn-289762"
+  },
+  {
+    "kotoba": "爆発範囲",
+    "yomi": "ばくはつ‐はんい",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%AF%84%E5%9B%B2/#jn-251760"
+  },
+  {
+    "kotoba": "爆発物",
+    "yomi": "ばくはつ‐ぶつ",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%89%A9/#jn-175381"
+  },
+  {
+    "kotoba": "爆発物取締罰則",
+    "yomi": "ばくはつぶつとりしまり‐ばっそく",
+    "link": "/word/%E7%88%86%E7%99%BA%E7%89%A9%E5%8F%96%E7%B7%A0%E7%BD%B0%E5%89%87/#jn-241304"
+  },
+  {
+    "kotoba": "爆発薬",
+    "yomi": "ばくはつ‐やく",
+    "link": "/word/%E7%88%86%E7%99%BA%E8%96%AC/#jn-175382"
+  },
+  {
+    "kotoba": "麦飯",
+    "yomi": "ばく‐はん",
+    "link": "/word/%E9%BA%A6%E9%A3%AF_%28%E3%81%B0%E3%81%8F%E3%81%AF%E3%82%93%29/#jn-175387"
+  },
+  {
+    "kotoba": "幕藩体制",
+    "yomi": "ばくはん‐たいせい",
+    "link": "/word/%E5%B9%95%E8%97%A9%E4%BD%93%E5%88%B6/#jn-175388"
+  },
+  {
+    "kotoba": "寞寞",
+    "yomi": "ばく‐ばく",
+    "link": "/word/%E5%AF%9E%E5%AF%9E/#jn-175373"
+  },
+  {
+    "kotoba": "漠漠",
+    "yomi": "ばく‐ばく",
+    "link": "/word/%E6%BC%A0%E6%BC%A0/#jn-175372"
+  },
+  {
+    "kotoba": "幕府",
+    "yomi": "ばく‐ふ",
+    "link": "/word/%E5%B9%95%E5%BA%9C/#jn-175404"
+  },
+  {
+    "kotoba": "瀑布",
+    "yomi": "ばく‐ふ",
+    "link": "/word/%E7%80%91%E5%B8%83/#jn-175405"
+  },
+  {
+    "kotoba": "爆風",
+    "yomi": "ばく‐ふう",
+    "link": "/word/%E7%88%86%E9%A2%A8/#jn-175407"
+  },
+  {
+    "kotoba": "瀑布線",
+    "yomi": "ばくふ‐せん",
+    "link": "/word/%E7%80%91%E5%B8%83%E7%B7%9A/#jn-175408"
+  },
+  {
+    "kotoba": "漠北",
+    "yomi": "ばく‐ほく",
+    "link": "/word/%E6%BC%A0%E5%8C%97/#jn-175440"
+  },
+  {
+    "kotoba": "幕末",
+    "yomi": "ばく‐まつ",
+    "link": "/word/%E5%B9%95%E6%9C%AB/#jn-175447"
+  },
+  {
+    "kotoba": "幕末早春賦",
+    "yomi": "ばくまつそうしゅんふ",
+    "link": "/word/%E5%B9%95%E6%9C%AB%E6%97%A9%E6%98%A5%E8%B3%A6/#jn-269420"
+  },
+  {
+    "kotoba": "幕命",
+    "yomi": "ばく‐めい",
+    "link": "/word/%E5%B9%95%E5%91%BD/#jn-175451"
+  },
+  {
+    "kotoba": "爆鳴",
+    "yomi": "ばく‐めい",
+    "link": "/word/%E7%88%86%E9%B3%B4/#jn-175452"
+  },
+  {
+    "kotoba": "爆鳴気",
+    "yomi": "ばくめい‐き",
+    "link": "/word/%E7%88%86%E9%B3%B4%E6%B0%97/#jn-175453"
+  },
+  {
+    "kotoba": "麦門冬",
+    "yomi": "ばくもんどう",
+    "link": "/word/%E9%BA%A6%E9%96%80%E5%86%AC/#jn-175459"
+  },
+  {
+    "kotoba": "莫耶",
+    "yomi": "ばくや",
+    "link": "/word/%E8%8E%AB%E8%80%B6/#jn-175462"
+  },
+  {
+    "kotoba": "爆薬",
+    "yomi": "ばく‐やく",
+    "link": "/word/%E7%88%86%E8%96%AC/#jn-175464"
+  },
+  {
+    "kotoba": "博奕",
+    "yomi": "ばく‐よう",
+    "link": "/word/%E5%8D%9A%E5%A5%95_%28%E3%81%B0%E3%81%8F%E3%82%88%E3%81%86%29/#jn-175467"
+  },
+  {
+    "kotoba": "爆雷",
+    "yomi": "ばく‐らい",
+    "link": "/word/%E7%88%86%E9%9B%B7/#jn-175472"
+  },
+  {
+    "kotoba": "幕吏",
+    "yomi": "ばく‐り",
+    "link": "/word/%E5%B9%95%E5%90%8F/#jn-175489"
+  },
+  {
+    "kotoba": "麦粒腫",
+    "yomi": "ばくりゅう‐しゅ",
+    "link": "/word/%E9%BA%A6%E7%B2%92%E8%85%AB/#jn-175495"
+  },
+  {
+    "kotoba": "幕僚",
+    "yomi": "ばく‐りょう",
+    "link": "/word/%E5%B9%95%E5%83%9A/#jn-175498"
+  },
+  {
+    "kotoba": "曝涼",
+    "yomi": "ばく‐りょう",
+    "link": "/word/%E6%9B%9D%E6%B6%BC/#jn-175499"
+  },
+  {
+    "kotoba": "幕領",
+    "yomi": "ばく‐りょう",
+    "link": "/word/%E5%B9%95%E9%A0%98/#jn-278004"
+  },
+  {
+    "kotoba": "幕僚監部",
+    "yomi": "ばくりょう‐かんぶ",
+    "link": "/word/%E5%B9%95%E5%83%9A%E7%9B%A3%E9%83%A8/#jn-175500"
+  },
+  {
+    "kotoba": "幕僚長",
+    "yomi": "ばくりょう‐ちょう",
+    "link": "/word/%E5%B9%95%E5%83%9A%E9%95%B7/#jn-175504"
+  },
+  {
+    "kotoba": "爆裂",
+    "yomi": "ばく‐れつ",
+    "link": "/word/%E7%88%86%E8%A3%82/#jn-175518"
+  },
+  {
+    "kotoba": "爆裂火口",
+    "yomi": "ばくれつ‐かこう",
+    "link": "/word/%E7%88%86%E8%A3%82%E7%81%AB%E5%8F%A3/#jn-175519"
+  },
+  {
+    "kotoba": "爆裂弾",
+    "yomi": "ばくれつ‐だん",
+    "link": "/word/%E7%88%86%E8%A3%82%E5%BC%BE/#jn-175520"
+  },
+  {
+    "kotoba": "爆裂薬",
+    "yomi": "ばくれつ‐やく",
+    "link": "/word/%E7%88%86%E8%A3%82%E8%96%AC/#jn-175521"
+  },
+  {
+    "kotoba": "莫連",
+    "yomi": "ばく‐れん",
+    "link": "/word/%E8%8E%AB%E9%80%A3/#jn-175525"
+  },
+  {
+    "kotoba": "暴露",
+    "yomi": "ばく‐ろ",
+    "link": "/word/%E6%9A%B4%E9%9C%B2/#jn-175530"
+  },
+  {
+    "kotoba": "麦浪",
+    "yomi": "ばく‐ろう",
+    "link": "/word/%E9%BA%A6%E6%B5%AA/#jn-175536"
+  },
+  {
+    "kotoba": "麦隴",
+    "yomi": "ばく‐ろう",
+    "link": "/word/%E9%BA%A6%E9%9A%B4/#jn-175537"
+  },
+  {
+    "kotoba": "博労",
+    "yomi": "ばく‐ろう",
+    "link": "/word/%E5%8D%9A%E5%8A%B4/#jn-175538"
+  },
+  {
+    "kotoba": "幕老",
+    "yomi": "ばく‐ろう",
+    "link": "/word/%E5%B9%95%E8%80%81/#jn-175539"
+  },
+  {
+    "kotoba": "暴露戦術",
+    "yomi": "ばくろ‐せんじゅつ",
+    "link": "/word/%E6%9A%B4%E9%9C%B2%E6%88%A6%E8%A1%93/#jn-175546"
+  },
+  {
+    "kotoba": "馬喰町",
+    "yomi": "ばくろ‐ちょう",
+    "link": "/word/%E9%A6%AC%E5%96%B0%E7%94%BA/#jn-175548"
+  },
+  {
+    "kotoba": "駁論",
+    "yomi": "ばく‐ろん",
+    "link": "/word/%E9%A7%81%E8%AB%96/#jn-175553"
+  },
+  {
+    "kotoba": "馬具",
+    "yomi": "ば‐ぐ",
+    "link": "/word/%E9%A6%AC%E5%85%B7/#jn-175024"
+  },
+  {
+    "kotoba": "馬具足",
+    "yomi": "ば‐ぐそく",
+    "link": "/word/%E9%A6%AC%E5%85%B7%E8%B6%B3/#jn-175264"
+  },
+  {
+    "kotoba": "馬群",
+    "yomi": "ば‐ぐん",
+    "link": "/word/%E9%A6%AC%E7%BE%A4/#jn-175558"
+  },
+  {
+    "kotoba": "化学",
+    "yomi": "ばけ‐がく",
+    "link": "/word/%E5%8C%96%E5%AD%A6_%28%E3%81%B0%E3%81%91%E3%81%8C%E3%81%8F%29/#jn-175573"
+  },
+  {
+    "kotoba": "馬券",
+    "yomi": "ば‐けん",
+    "link": "/word/%E9%A6%AC%E5%88%B8/#jn-175622"
+  },
+  {
+    "kotoba": "馬券師街道",
+    "yomi": "ばけんしかいどう",
+    "link": "/word/%E9%A6%AC%E5%88%B8%E5%B8%AB%E8%A1%97%E9%81%93/#jn-279814"
+  },
+  {
+    "kotoba": "馬見所",
+    "yomi": "ば‐けんじょ",
+    "link": "/word/%E9%A6%AC%E8%A6%8B%E6%89%80/#jn-175626"
+  },
+  {
+    "kotoba": "馬建忠",
+    "yomi": "ば‐けんちゅう",
+    "link": "/word/person/%E9%A6%AC%E5%BB%BA%E5%BF%A0/#jn-175627"
+  },
+  {
+    "kotoba": "罵言",
+    "yomi": "ば‐げん",
+    "link": "/word/%E7%BD%B5%E8%A8%80/#jn-175623"
+  },
+  {
+    "kotoba": "馬耕",
+    "yomi": "ば‐こう",
+    "link": "/word/%E9%A6%AC%E8%80%95/#jn-175643"
+  },
+  {
+    "kotoba": "場口銭",
+    "yomi": "ば‐こうせん",
+    "link": "/word/%E5%A0%B4%E5%8F%A3%E9%8A%AD/#jn-175644"
+  },
+  {
+    "kotoba": "婆娑",
+    "yomi": "ばさ",
+    "link": "/word/%E5%A9%86%E5%A8%91/#jn-175752"
+  },
+  {
+    "kotoba": "罵殺",
+    "yomi": "ば‐さつ",
+    "link": "/word/%E7%BD%B5%E6%AE%BA/#jn-175773"
+  },
+  {
+    "kotoba": "伐折羅",
+    "yomi": "ばさら",
+    "link": "/word/%E4%BC%90%E6%8A%98%E7%BE%85/#jn-175812"
+  },
+  {
+    "kotoba": "婆娑羅",
+    "yomi": "ばさら",
+    "link": "/word/%E5%A9%86%E5%A8%91%E7%BE%85_%28%E3%81%B0%E3%81%95%E3%82%89%29/#jn-175813"
+  },
+  {
+    "kotoba": "婆娑羅絵",
+    "yomi": "ばさら‐え",
+    "link": "/word/%E5%A9%86%E5%A8%91%E7%BE%85%E7%B5%B5/#jn-175814"
+  },
+  {
+    "kotoba": "婆娑羅扇",
+    "yomi": "ばさら‐おうぎ",
+    "link": "/word/%E5%A9%86%E5%A8%91%E7%BE%85%E6%89%87/#jn-175815"
+  },
+  {
+    "kotoba": "婆娑羅髪",
+    "yomi": "ばさら‐がみ",
+    "link": "/word/%E5%A9%86%E5%A8%91%E7%BE%85%E9%AB%AA/#jn-175816"
+  },
+  {
+    "kotoba": "伐折羅大将",
+    "yomi": "ばさら‐だいしょう",
+    "link": "/word/%E4%BC%90%E6%8A%98%E7%BE%85%E5%A4%A7%E5%B0%86/#jn-175817"
+  },
+  {
+    "kotoba": "馬山",
+    "yomi": "ばさん",
+    "link": "/word/%E9%A6%AC%E5%B1%B1/#jn-175824"
+  },
+  {
+    "kotoba": "馬歯",
+    "yomi": "ば‐し",
+    "link": "/word/%E9%A6%AC%E6%AD%AF/#jn-175868"
+  },
+  {
+    "kotoba": "馬氏文通",
+    "yomi": "ばしぶんつう",
+    "link": "/word/%E9%A6%AC%E6%B0%8F%E6%96%87%E9%80%9A/#jn-176027"
+  },
+  {
+    "kotoba": "馬車",
+    "yomi": "ば‐しゃ",
+    "link": "/word/%E9%A6%AC%E8%BB%8A_%28%E3%81%B0%E3%81%97%E3%82%83%29/#jn-176077"
+  },
+  {
+    "kotoba": "馬車馬",
+    "yomi": "ばしゃ‐うま",
+    "link": "/word/%E9%A6%AC%E8%BB%8A%E9%A6%AC/#jn-176080"
+  },
+  {
+    "kotoba": "馬借",
+    "yomi": "ば‐しゃく",
+    "link": "/word/%E9%A6%AC%E5%80%9F/#jn-176084"
+  },
+  {
+    "kotoba": "馬借一揆",
+    "yomi": "ばしゃく‐いっき",
+    "link": "/word/%E9%A6%AC%E5%80%9F%E4%B8%80%E6%8F%86/#jn-176085"
+  },
+  {
+    "kotoba": "馬車鉄道",
+    "yomi": "ばしゃ‐てつどう",
+    "link": "/word/%E9%A6%AC%E8%BB%8A%E9%89%84%E9%81%93/#jn-176088"
+  },
+  {
+    "kotoba": "婆娑羅",
+    "yomi": "ばしゃら",
+    "link": "/word/%E5%A9%86%E5%A8%91%E7%BE%85_%28%E3%81%B0%E3%81%97%E3%82%83%E3%82%89%29/#jn-176095"
+  },
+  {
+    "kotoba": "馬主",
+    "yomi": "ば‐しゅ",
+    "link": "/word/%E9%A6%AC%E4%B8%BB_%28%E3%81%B0%E3%81%97%E3%82%85%29/#jn-176101"
+  },
+  {
+    "kotoba": "馬首",
+    "yomi": "ば‐しゅ",
+    "link": "/word/%E9%A6%AC%E9%A6%96/#jn-176102"
+  },
+  {
+    "kotoba": "場所",
+    "yomi": "ば‐しょ",
+    "link": "/word/%E5%A0%B4%E6%89%80/#jn-176113"
+  },
+  {
+    "kotoba": "場所",
+    "yomi": "ばしょ",
+    "link": "/word/%E5%A0%B4%E6%89%80/#jn-269428"
+  },
+  {
+    "kotoba": "芭蕉",
+    "yomi": "ば‐しょう",
+    "link": "/word/%E8%8A%AD%E8%95%89_%28%E3%81%B0%E3%81%97%E3%82%87%E3%81%86%29/#jn-176119"
+  },
+  {
+    "kotoba": "芭蕉",
+    "yomi": "ばしょう",
+    "link": "/word/person/%E8%8A%AD%E8%95%89/#jn-176120"
+  },
+  {
+    "kotoba": "芭蕉",
+    "yomi": "ばしょう",
+    "link": "/word/%E8%8A%AD%E8%95%89_%28%E3%81%B0%E3%81%97%E3%82%87%E3%81%86%29/#jn-176121"
+  },
+  {
+    "kotoba": "馬上",
+    "yomi": "ば‐じょう",
+    "link": "/word/%E9%A6%AC%E4%B8%8A/#jn-176122"
+  },
+  {
+    "kotoba": "芭蕉庵",
+    "yomi": "ばしょう‐あん",
+    "link": "/word/%E8%8A%AD%E8%95%89%E5%BA%B5/#jn-176123"
+  },
+  {
+    "kotoba": "芭蕉翁行状記",
+    "yomi": "ばしょうおうぎょうじょうき",
+    "link": "/word/%E8%8A%AD%E8%95%89%E7%BF%81%E8%A1%8C%E7%8A%B6%E8%A8%98/#jn-176125"
+  },
+  {
+    "kotoba": "芭蕉翁廿五箇条",
+    "yomi": "ばしょうおうにじゅうごかじょう",
+    "link": "/word/%E8%8A%AD%E8%95%89%E7%BF%81%E5%BB%BF%E4%BA%94%E7%AE%87%E6%9D%A1/#jn-176126"
+  },
+  {
+    "kotoba": "芭蕉梶木",
+    "yomi": "ばしょう‐かじき",
+    "link": "/word/%E8%8A%AD%E8%95%89%E6%A2%B6%E6%9C%A8/#jn-176128"
+  },
+  {
+    "kotoba": "芭蕉忌",
+    "yomi": "ばしょう‐き",
+    "link": "/word/%E8%8A%AD%E8%95%89%E5%BF%8C/#jn-176129"
+  },
+  {
+    "kotoba": "芭蕉七部集",
+    "yomi": "ばしょうしちぶしゅう",
+    "link": "/word/%E8%8A%AD%E8%95%89%E4%B8%83%E9%83%A8%E9%9B%86/#jn-176132"
+  },
+  {
+    "kotoba": "芭蕉七部集評釈",
+    "yomi": "ばしょうしちぶしゅうひょうしゃく",
+    "link": "/word/%E8%8A%AD%E8%95%89%E4%B8%83%E9%83%A8%E9%9B%86%E8%A9%95%E9%87%88/#jn-295103"
+  },
+  {
+    "kotoba": "芭蕉扇",
+    "yomi": "ばしょう‐せん",
+    "link": "/word/%E8%8A%AD%E8%95%89%E6%89%87/#jn-176133"
+  },
+  {
+    "kotoba": "芭蕉布",
+    "yomi": "ばしょう‐ふ",
+    "link": "/word/%E8%8A%AD%E8%95%89%E5%B8%83/#jn-176137"
+  },
+  {
+    "kotoba": "場所柄",
+    "yomi": "ばしょ‐がら",
+    "link": "/word/%E5%A0%B4%E6%89%80%E6%9F%84/#jn-176142"
+  },
+  {
+    "kotoba": "馬食",
+    "yomi": "ば‐しょく",
+    "link": "/word/%E9%A6%AC%E9%A3%9F/#jn-176147"
+  },
+  {
+    "kotoba": "馬謖",
+    "yomi": "ば‐しょく",
+    "link": "/word/person/%E9%A6%AC%E8%AC%96/#jn-176148"
+  },
+  {
+    "kotoba": "場所細胞",
+    "yomi": "ばしょ‐さいぼう",
+    "link": "/word/%E5%A0%B4%E6%89%80%E7%B4%B0%E8%83%9E/#jn-274056"
+  },
+  {
+    "kotoba": "場所代",
+    "yomi": "ばしょ‐だい",
+    "link": "/word/%E5%A0%B4%E6%89%80%E4%BB%A3/#jn-258920"
+  },
+  {
+    "kotoba": "馬身",
+    "yomi": "ば‐しん",
+    "link": "/word/%E9%A6%AC%E8%BA%AB/#jn-176238"
+  },
+  {
+    "kotoba": "婆心",
+    "yomi": "ば‐しん",
+    "link": "/word/%E5%A9%86%E5%BF%83/#jn-176239"
+  },
+  {
+    "kotoba": "馬事公苑",
+    "yomi": "ばじ‐こうえん",
+    "link": "/word/%E9%A6%AC%E4%BA%8B%E5%85%AC%E8%8B%91/#jn-251770"
+  },
+  {
+    "kotoba": "場磁石",
+    "yomi": "ば‐じしゃく",
+    "link": "/word/%E5%A0%B4%E7%A3%81%E7%9F%B3/#jn-175947"
+  },
+  {
+    "kotoba": "馬耳東風",
+    "yomi": "ばじ‐とうふう",
+    "link": "/word/%E9%A6%AC%E8%80%B3%E6%9D%B1%E9%A2%A8/#jn-175989"
+  },
+  {
+    "kotoba": "馬術",
+    "yomi": "ば‐じゅつ",
+    "link": "/word/%E9%A6%AC%E8%A1%93/#jn-176106"
+  },
+  {
+    "kotoba": "馬術師",
+    "yomi": "ばじゅつ‐し",
+    "link": "/word/%E9%A6%AC%E8%A1%93%E5%B8%AB/#jn-176108"
+  },
+  {
+    "kotoba": "馬上沓",
+    "yomi": "ばじょう‐ぐつ",
+    "link": "/word/%E9%A6%AC%E4%B8%8A%E6%B2%93/#jn-176130"
+  },
+  {
+    "kotoba": "馬上提灯",
+    "yomi": "ばじょう‐ぢょうちん",
+    "link": "/word/%E9%A6%AC%E4%B8%8A%E6%8F%90%E7%81%AF/#jn-176134"
+  },
+  {
+    "kotoba": "馬上杯",
+    "yomi": "ばじょう‐はい",
+    "link": "/word/%E9%A6%AC%E4%B8%8A%E6%9D%AF/#jn-176136"
+  },
+  {
+    "kotoba": "馬素",
+    "yomi": "ば‐す",
+    "link": "/word/%E9%A6%AC%E7%B4%A0/#jn-176252"
+  },
+  {
+    "kotoba": "馬酔木",
+    "yomi": "ばすい‐ぼく",
+    "link": "/word/%E9%A6%AC%E9%85%94%E6%9C%A8_%28%E3%81%B0%E3%81%99%E3%81%84%E3%81%BC%E3%81%8F%29/#jn-176269"
+  },
+  {
+    "kotoba": "場末",
+    "yomi": "ば‐すえ",
+    "link": "/word/%E5%A0%B4%E6%9C%AB/#jn-176278"
+  },
+  {
+    "kotoba": "馬爪",
+    "yomi": "ば‐ず",
+    "link": "/word/%E9%A6%AC%E7%88%AA/#jn-176258"
+  },
+  {
+    "kotoba": "罵声",
+    "yomi": "ば‐せい",
+    "link": "/word/%E7%BD%B5%E5%A3%B0/#jn-176419"
+  },
+  {
+    "kotoba": "場席",
+    "yomi": "ば‐せき",
+    "link": "/word/%E5%A0%B4%E5%B8%AD/#jn-176445"
+  },
+  {
+    "kotoba": "場銭",
+    "yomi": "ば‐せん",
+    "link": "/word/%E5%A0%B4%E9%8A%AD/#jn-176478"
+  },
+  {
+    "kotoba": "馬氈",
+    "yomi": "ば‐せん",
+    "link": "/word/%E9%A6%AC%E6%B0%88/#jn-176477"
+  },
+  {
+    "kotoba": "馬仙峡",
+    "yomi": "ばせん‐きょう",
+    "link": "/word/%E9%A6%AC%E4%BB%99%E5%B3%A1/#jn-176480"
+  },
+  {
+    "kotoba": "馬占山",
+    "yomi": "ば‐せんざん",
+    "link": "/word/person/%E9%A6%AC%E5%8D%A0%E5%B1%B1/#jn-176481"
+  },
+  {
+    "kotoba": "馬前",
+    "yomi": "ば‐ぜん",
+    "link": "/word/%E9%A6%AC%E5%89%8D/#jn-176479"
+  },
+  {
+    "kotoba": "馬装",
+    "yomi": "ば‐そう",
+    "link": "/word/%E9%A6%AC%E8%A3%85/#jn-176484"
+  },
+  {
+    "kotoba": "馬足",
+    "yomi": "ば‐そく",
+    "link": "/word/%E9%A6%AC%E8%B6%B3/#jn-176487"
+  },
+  {
+    "kotoba": "馬祖道一",
+    "yomi": "ばそ‐どういつ",
+    "link": "/word/person/%E9%A6%AC%E7%A5%96%E9%81%93%E4%B8%80/#jn-176494"
+  },
+  {
+    "kotoba": "馬橇",
+    "yomi": "ば‐そり",
+    "link": "/word/%E9%A6%AC%E6%A9%87/#jn-176499"
+  },
+  {
+    "kotoba": "馬賊",
+    "yomi": "ば‐ぞく",
+    "link": "/word/%E9%A6%AC%E8%B3%8A/#jn-176488"
+  },
+  {
+    "kotoba": "馬体",
+    "yomi": "ば‐たい",
+    "link": "/word/%E9%A6%AC%E4%BD%93/#jn-176556"
+  },
+  {
+    "kotoba": "馬鐸",
+    "yomi": "ば‐たく",
+    "link": "/word/%E9%A6%AC%E9%90%B8/#jn-176612"
+  },
+  {
+    "kotoba": "場代",
+    "yomi": "ば‐だい",
+    "link": "/word/%E5%A0%B4%E4%BB%A3/#jn-176558"
+  },
+  {
+    "kotoba": "馬代",
+    "yomi": "ば‐だい",
+    "link": "/word/%E9%A6%AC%E4%BB%A3/#jn-176557"
+  },
+  {
+    "kotoba": "馬盥",
+    "yomi": "ば‐だらい",
+    "link": "/word/%E9%A6%AC%E7%9B%A5/#jn-176745"
+  },
+  {
+    "kotoba": "撥脚",
+    "yomi": "ばち‐あし",
+    "link": "/word/%E6%92%A5%E8%84%9A/#jn-176796"
+  },
+  {
+    "kotoba": "撥襟",
+    "yomi": "ばち‐えり",
+    "link": "/word/%E6%92%A5%E8%A5%9F/#jn-176808"
+  },
+  {
+    "kotoba": "馬致遠",
+    "yomi": "ば‐ちえん",
+    "link": "/word/person/%E9%A6%AC%E8%87%B4%E9%81%A0/#jn-176809"
+  },
+  {
+    "kotoba": "撥音",
+    "yomi": "ばち‐おと",
+    "link": "/word/%E6%92%A5%E9%9F%B3_%28%E3%81%B0%E3%81%A1%E3%81%8A%E3%81%A8%29/#jn-176817"
+  },
+  {
+    "kotoba": "撥皮",
+    "yomi": "ばち‐かわ",
+    "link": "/word/%E6%92%A5%E7%9A%AE/#jn-176829"
+  },
+  {
+    "kotoba": "撥胼胝",
+    "yomi": "ばち‐だこ",
+    "link": "/word/%E6%92%A5%E8%83%BC%E8%83%9D/#jn-176915"
+  },
+  {
+    "kotoba": "撥鬢",
+    "yomi": "ばち‐びん",
+    "link": "/word/%E6%92%A5%E9%AC%A2/#jn-176951"
+  },
+  {
+    "kotoba": "撥鬢小説",
+    "yomi": "ばちびん‐しょうせつ",
+    "link": "/word/%E6%92%A5%E9%AC%A2%E5%B0%8F%E8%AA%AC/#jn-176953"
+  },
+  {
+    "kotoba": "撥鬢奴",
+    "yomi": "ばちびん‐やっこ",
+    "link": "/word/%E6%92%A5%E9%AC%A2%E5%A5%B4/#jn-176954"
+  },
+  {
+    "kotoba": "撥面",
+    "yomi": "ばち‐めん",
+    "link": "/word/%E6%92%A5%E9%9D%A2/#jn-177007"
+  },
+  {
+    "kotoba": "撥指",
+    "yomi": "ばち‐ゆび",
+    "link": "/word/%E6%92%A5%E6%8C%87/#jn-241316"
+  },
+  {
+    "kotoba": "撥鏤",
+    "yomi": "ばち‐る",
+    "link": "/word/%E6%92%A5%E9%8F%A4/#jn-177038"
+  },
+  {
+    "kotoba": "幕下",
+    "yomi": "ばっ‐か",
+    "link": "/word/%E5%B9%95%E4%B8%8B_%28%E3%81%B0%E3%81%8F%E3%81%8B%29/#jn-177133"
+  },
+  {
+    "kotoba": "麦角",
+    "yomi": "ばっ‐かく",
+    "link": "/word/%E9%BA%A6%E8%A7%92/#jn-177155"
+  },
+  {
+    "kotoba": "麦角菌",
+    "yomi": "ばっかく‐きん",
+    "link": "/word/%E9%BA%A6%E8%A7%92%E8%8F%8C/#jn-177157"
+  },
+  {
+    "kotoba": "麦稈",
+    "yomi": "ばっ‐かん",
+    "link": "/word/%E9%BA%A6%E7%A8%88_%28%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%93%29/#jn-177205"
+  },
+  {
+    "kotoba": "爆管",
+    "yomi": "ばっ‐かん",
+    "link": "/word/%E7%88%86%E7%AE%A1/#jn-177206"
+  },
+  {
+    "kotoba": "麦稈真田",
+    "yomi": "ばっかん‐さなだ",
+    "link": "/word/%E9%BA%A6%E7%A8%88%E7%9C%9F%E7%94%B0/#jn-177208"
+  },
+  {
+    "kotoba": "伐期",
+    "yomi": "ばっ‐き",
+    "link": "/word/%E4%BC%90%E6%9C%9F/#jn-177223"
+  },
+  {
+    "kotoba": "曝気",
+    "yomi": "ばっ‐き",
+    "link": "/word/%E6%9B%9D%E6%B0%97/#jn-177224"
+  },
+  {
+    "kotoba": "抜去",
+    "yomi": "ばっ‐きょ",
+    "link": "/word/%E6%8A%9C%E5%8E%BB/#jn-247794"
+  },
+  {
+    "kotoba": "罰金",
+    "yomi": "ばっ‐きん",
+    "link": "/word/%E7%BD%B0%E9%87%91/#jn-177239"
+  },
+  {
+    "kotoba": "抜苦与楽",
+    "yomi": "ばっく‐よらく",
+    "link": "/word/%E6%8A%9C%E8%8B%A6%E4%B8%8E%E6%A5%BD/#jn-177340"
+  },
+  {
+    "kotoba": "抜群",
+    "yomi": "ばつ‐ぐん",
+    "link": "/word/%E6%8A%9C%E7%BE%A4/#jn-177354"
+  },
+  {
+    "kotoba": "末家",
+    "yomi": "ばっ‐け",
+    "link": "/word/%E6%9C%AB%E5%AE%B6_%28%E3%81%B0%E3%81%A3%E3%81%91%29/#jn-177357"
+  },
+  {
+    "kotoba": "抜剣",
+    "yomi": "ばっ‐けん",
+    "link": "/word/%E6%8A%9C%E5%89%A3/#jn-177384"
+  },
+  {
+    "kotoba": "跋扈",
+    "yomi": "ばっ‐こ",
+    "link": "/word/%E8%B7%8B%E6%89%88/#jn-177398"
+  },
+  {
+    "kotoba": "抜港",
+    "yomi": "ばっ‐こう",
+    "link": "/word/%E6%8A%9C%E6%B8%AF/#jn-251795"
+  },
+  {
+    "kotoba": "跋扈柳",
+    "yomi": "ばっこ‐やなぎ",
+    "link": "/word/%E8%B7%8B%E6%89%88%E6%9F%B3/#jn-177442"
+  },
+  {
+    "kotoba": "抜根",
+    "yomi": "ばっ‐こん",
+    "link": "/word/%E6%8A%9C%E6%A0%B9/#jn-278017"
+  },
+  {
+    "kotoba": "伐採",
+    "yomi": "ばっ‐さい",
+    "link": "/word/%E4%BC%90%E6%8E%A1/#jn-177451"
+  },
+  {
+    "kotoba": "末子",
+    "yomi": "ばっ‐し",
+    "link": "/word/%E6%9C%AB%E5%AD%90_%28%E3%81%B0%E3%81%A3%E3%81%97%29/#jn-177469"
+  },
+  {
+    "kotoba": "抜糸",
+    "yomi": "ばっ‐し",
+    "link": "/word/%E6%8A%9C%E7%B3%B8_%28%E3%81%B0%E3%81%A3%E3%81%97%29/#jn-177470"
+  },
+  {
+    "kotoba": "抜歯",
+    "yomi": "ばっ‐し",
+    "link": "/word/%E6%8A%9C%E6%AD%AF/#jn-177471"
+  },
+  {
+    "kotoba": "末子相続",
+    "yomi": "ばっし‐そうぞく",
+    "link": "/word/%E6%9C%AB%E5%AD%90%E7%9B%B8%E7%B6%9A/#jn-177481"
+  },
+  {
+    "kotoba": "罰酒",
+    "yomi": "ばっ‐しゅ",
+    "link": "/word/%E7%BD%B0%E9%85%92/#jn-177503"
+  },
+  {
+    "kotoba": "跋渉",
+    "yomi": "ばっ‐しょう",
+    "link": "/word/%E8%B7%8B%E6%B8%89/#jn-177521"
+  },
+  {
+    "kotoba": "抜粋",
+    "yomi": "ばっ‐すい",
+    "link": "/word/%E6%8A%9C%E7%B2%8B/#jn-177554"
+  },
+  {
+    "kotoba": "末席",
+    "yomi": "ばっ‐せき",
+    "link": "/word/%E6%9C%AB%E5%B8%AD/#jn-177583"
+  },
+  {
+    "kotoba": "罰責",
+    "yomi": "ばっ‐せき",
+    "link": "/word/%E7%BD%B0%E8%B2%AC/#jn-177584"
+  },
+  {
+    "kotoba": "末節",
+    "yomi": "ばっ‐せつ",
+    "link": "/word/%E6%9C%AB%E7%AF%80/#jn-177586"
+  },
+  {
+    "kotoba": "抜染",
+    "yomi": "ばっ‐せん",
+    "link": "/word/%E6%8A%9C%E6%9F%93/#jn-177595"
+  },
+  {
+    "kotoba": "抜染絣",
+    "yomi": "ばっせん‐がすり",
+    "link": "/word/%E6%8A%9C%E6%9F%93%E7%B5%A3/#jn-177597"
+  },
+  {
+    "kotoba": "抜染剤",
+    "yomi": "ばっせん‐ざい",
+    "link": "/word/%E6%8A%9C%E6%9F%93%E5%89%A4/#jn-177598"
+  },
+  {
+    "kotoba": "抜挿",
+    "yomi": "ばっ‐そう",
+    "link": "/word/%E6%8A%9C%E6%8C%BF/#jn-266737"
+  },
+  {
+    "kotoba": "罰則",
+    "yomi": "ばっ‐そく",
+    "link": "/word/%E7%BD%B0%E5%89%87/#jn-177615"
+  },
+  {
+    "kotoba": "末孫",
+    "yomi": "ばっ‐そん",
+    "link": "/word/%E6%9C%AB%E5%AD%AB/#jn-177621"
+  },
+  {
+    "kotoba": "飛蝗",
+    "yomi": "ばった",
+    "link": "/word/%E9%A3%9B%E8%9D%97_%28%E3%81%B0%E3%81%A3%E3%81%9F%29/#jn-177628"
+  },
+  {
+    "kotoba": "抜擢",
+    "yomi": "ばっ‐たく",
+    "link": "/word/%E6%8A%9C%E6%93%A2/#jn-177636"
+  },
+  {
+    "kotoba": "末弟",
+    "yomi": "ばっ‐てい",
+    "link": "/word/%E6%9C%AB%E5%BC%9F/#jn-177699"
+  },
+  {
+    "kotoba": "抜擢",
+    "yomi": "ばっ‐てき",
+    "link": "/word/%E6%8A%9C%E6%93%A2/#jn-177707"
+  },
+  {
+    "kotoba": "罰点",
+    "yomi": "ばっ‐てん",
+    "link": "/word/%E7%BD%B0%E7%82%B9/#jn-177713"
+  },
+  {
+    "kotoba": "抜刀",
+    "yomi": "ばっ‐とう",
+    "link": "/word/%E6%8A%9C%E5%88%80/#jn-177740"
+  },
+  {
+    "kotoba": "抜刀隊",
+    "yomi": "ばっとう‐たい",
+    "link": "/word/%E6%8A%9C%E5%88%80%E9%9A%8A/#jn-177744"
+  },
+  {
+    "kotoba": "罰杯",
+    "yomi": "ばっ‐ぱい",
+    "link": "/word/%E7%BD%B0%E6%9D%AF/#jn-177802"
+  },
+  {
+    "kotoba": "罰俸",
+    "yomi": "ばっ‐ぽう",
+    "link": "/word/%E7%BD%B0%E4%BF%B8/#jn-177874"
+  },
+  {
+    "kotoba": "抜本",
+    "yomi": "ばっ‐ぽん",
+    "link": "/word/%E6%8A%9C%E6%9C%AC_%28%E3%81%B0%E3%81%A3%E3%81%BD%E3%82%93%29/#jn-177897"
+  },
+  {
+    "kotoba": "抜本塞源",
+    "yomi": "ばっぽん‐そくげん",
+    "link": "/word/%E6%8A%9C%E6%9C%AC%E5%A1%9E%E6%BA%90/#jn-177898"
+  },
+  {
+    "kotoba": "抜本的",
+    "yomi": "ばっぽん‐てき",
+    "link": "/word/%E6%8A%9C%E6%9C%AC%E7%9A%84/#jn-177899"
+  },
+  {
+    "kotoba": "末裔",
+    "yomi": "ばつ‐えい",
+    "link": "/word/%E6%9C%AB%E8%A3%94/#jn-177102"
+  },
+  {
+    "kotoba": "末学",
+    "yomi": "ばつ‐がく",
+    "link": "/word/%E6%9C%AB%E5%AD%A6/#jn-177156"
+  },
+  {
+    "kotoba": "跋語",
+    "yomi": "ばつ‐ご",
+    "link": "/word/%E8%B7%8B%E8%AA%9E/#jn-177399"
+  },
+  {
+    "kotoba": "末座",
+    "yomi": "ばつ‐ざ",
+    "link": "/word/%E6%9C%AB%E5%BA%A7_%28%E3%81%B0%E3%81%A4%E3%81%96%29/#jn-177446"
+  },
+  {
+    "kotoba": "抜山蓋世",
+    "yomi": "ばつざん‐がいせい",
+    "link": "/word/%E6%8A%9C%E5%B1%B1%E8%93%8B%E4%B8%96/#jn-177464"
+  },
+  {
+    "kotoba": "抜重",
+    "yomi": "ばつ‐じゅう",
+    "link": "/word/%E6%8A%9C%E9%87%8D/#jn-254976"
+  },
+  {
+    "kotoba": "末女",
+    "yomi": "ばつ‐じょ",
+    "link": "/word/%E6%9C%AB%E5%A5%B3_%28%E3%81%B0%E3%81%A4%E3%81%98%E3%82%87%29/#jn-177512"
+  },
+  {
+    "kotoba": "祓除",
+    "yomi": "ばつ‐じょ",
+    "link": "/word/%E7%A5%93%E9%99%A4/#jn-177513"
+  },
+  {
+    "kotoba": "末造",
+    "yomi": "ばつ‐ぞう",
+    "link": "/word/%E6%9C%AB%E9%80%A0/#jn-177609"
+  },
+  {
+    "kotoba": "閥族",
+    "yomi": "ばつ‐ぞく",
+    "link": "/word/%E9%96%A5%E6%97%8F/#jn-177616"
+  },
+  {
+    "kotoba": "末男",
+    "yomi": "ばつ‐なん",
+    "link": "/word/%E6%9C%AB%E7%94%B7/#jn-177778"
+  },
+  {
+    "kotoba": "跋難陀",
+    "yomi": "ばつなんだ",
+    "link": "/word/%E8%B7%8B%E9%9B%A3%E9%99%80/#jn-177779"
+  },
+  {
+    "kotoba": "伐日",
+    "yomi": "ばつ‐にち",
+    "link": "/word/%E4%BC%90%E6%97%A5/#jn-177782"
+  },
+  {
+    "kotoba": "末年",
+    "yomi": "ばつ‐ねん",
+    "link": "/word/%E6%9C%AB%E5%B9%B4/#jn-177790"
+  },
+  {
+    "kotoba": "抜錨",
+    "yomi": "ばつ‐びょう",
+    "link": "/word/%E6%8A%9C%E9%8C%A8/#jn-177834"
+  },
+  {
+    "kotoba": "跋文",
+    "yomi": "ばつ‐ぶん",
+    "link": "/word/%E8%B7%8B%E6%96%87/#jn-177869"
+  },
+  {
+    "kotoba": "伐木",
+    "yomi": "ばつ‐ぼく",
+    "link": "/word/%E4%BC%90%E6%9C%A8/#jn-177894"
+  },
+  {
+    "kotoba": "抜毛",
+    "yomi": "ばつ‐もう",
+    "link": "/word/%E6%8A%9C%E6%AF%9B/#jn-247799"
+  },
+  {
+    "kotoba": "抜毛症",
+    "yomi": "ばつもう‐しょう",
+    "link": "/word/%E6%8A%9C%E6%AF%9B%E7%97%87/#jn-247800"
+  },
+  {
+    "kotoba": "末葉",
+    "yomi": "ばつ‐よう",
+    "link": "/word/%E6%9C%AB%E8%91%89_%28%E3%81%B0%E3%81%A4%E3%82%88%E3%81%86%29/#jn-177941"
+  },
+  {
+    "kotoba": "末流",
+    "yomi": "ばつ‐りゅう",
+    "link": "/word/%E6%9C%AB%E6%B5%81_%28%E3%81%B0%E3%81%A4%E3%82%8A%E3%82%85%E3%81%86%29/#jn-177949"
+  },
+  {
+    "kotoba": "末路",
+    "yomi": "ばつ‐ろ",
+    "link": "/word/%E6%9C%AB%E8%B7%AF_%28%E3%81%B0%E3%81%A4%E3%82%8D%29/#jn-177957"
+  },
+  {
+    "kotoba": "馬丁",
+    "yomi": "ば‐てい",
+    "link": "/word/%E9%A6%AC%E4%B8%81/#jn-177966"
+  },
+  {
+    "kotoba": "馬蹄",
+    "yomi": "ば‐てい",
+    "link": "/word/%E9%A6%AC%E8%B9%84/#jn-177967"
+  },
+  {
+    "kotoba": "馬蹄銀",
+    "yomi": "ばてい‐ぎん",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E9%8A%80/#jn-177974"
+  },
+  {
+    "kotoba": "馬蹄形",
+    "yomi": "ばてい‐けい",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E5%BD%A2/#jn-177975"
+  },
+  {
+    "kotoba": "馬蹄形磁石",
+    "yomi": "ばていけい‐じしゃく",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E5%BD%A2%E7%A3%81%E7%9F%B3/#jn-177976"
+  },
+  {
+    "kotoba": "馬蹄腎",
+    "yomi": "ばてい‐じん",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E8%85%8E/#jn-299799"
+  },
+  {
+    "kotoba": "馬蹄石",
+    "yomi": "ばてい‐せき",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E7%9F%B3/#jn-177979"
+  },
+  {
+    "kotoba": "馬蹄鉄腎",
+    "yomi": "ばていてつ‐じん",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E9%89%84%E8%85%8E/#jn-299801"
+  },
+  {
+    "kotoba": "馬蹄螺",
+    "yomi": "ばてい‐ら",
+    "link": "/word/%E9%A6%AC%E8%B9%84%E8%9E%BA/#jn-177982"
+  },
+  {
+    "kotoba": "伴天連",
+    "yomi": "バテレン",
+    "link": "/word/%E4%BC%B4%E5%A4%A9%E9%80%A3/#jn-178011"
+  },
+  {
+    "kotoba": "伴天連宗",
+    "yomi": "バテレン‐しゅう",
+    "link": "/word/%E4%BC%B4%E5%A4%A9%E9%80%A3%E5%AE%97/#jn-178012"
+  },
+  {
+    "kotoba": "伴天連追放令",
+    "yomi": "バテレン‐ついほうれい",
+    "link": "/word/%E4%BC%B4%E5%A4%A9%E9%80%A3%E8%BF%BD%E6%94%BE%E4%BB%A4/#jn-178013"
+  },
+  {
+    "kotoba": "抜頭",
+    "yomi": "ばとう",
+    "link": "/word/%E6%8A%9C%E9%A0%AD/#jn-178029"
+  },
+  {
+    "kotoba": "罵倒",
+    "yomi": "ば‐とう",
+    "link": "/word/%E7%BD%B5%E5%80%92/#jn-178030"
+  },
+  {
+    "kotoba": "馬頭観音",
+    "yomi": "ばとう‐かんのん",
+    "link": "/word/%E9%A6%AC%E9%A0%AD%E8%A6%B3%E9%9F%B3/#jn-178034"
+  },
+  {
+    "kotoba": "馬頭琴",
+    "yomi": "ばとう‐きん",
+    "link": "/word/%E9%A6%AC%E9%A0%AD%E7%90%B4/#jn-178035"
+  },
+  {
+    "kotoba": "馬頭星雲",
+    "yomi": "ばとう‐せいうん",
+    "link": "/word/%E9%A6%AC%E9%A0%AD%E6%98%9F%E9%9B%B2/#jn-178037"
+  },
+  {
+    "kotoba": "馬桐油",
+    "yomi": "ば‐とうゆ",
+    "link": "/word/%E9%A6%AC%E6%A1%90%E6%B2%B9/#jn-178041"
+  },
+  {
+    "kotoba": "場中",
+    "yomi": "ば‐なか",
+    "link": "/word/%E5%A0%B4%E4%B8%AD/#jn-178216"
+  },
+  {
+    "kotoba": "馬肉",
+    "yomi": "ば‐にく",
+    "link": "/word/%E9%A6%AC%E8%82%89/#jn-178695"
+  },
+  {
+    "kotoba": "馬入川",
+    "yomi": "ばにゅう‐がわ",
+    "link": "/word/%E9%A6%AC%E5%85%A5%E5%B7%9D/#jn-178719"
+  },
+  {
+    "kotoba": "馬乳酒",
+    "yomi": "ばにゅう‐しゅ",
+    "link": "/word/%E9%A6%AC%E4%B9%B3%E9%85%92/#jn-261796"
+  },
+  {
+    "kotoba": "馬尿酸",
+    "yomi": "ばにょう‐さん",
+    "link": "/word/%E9%A6%AC%E5%B0%BF%E9%85%B8/#jn-178725"
+  },
+  {
+    "kotoba": "馬主",
+    "yomi": "ば‐ぬし",
+    "link": "/word/%E9%A6%AC%E4%B8%BB_%28%E3%81%B0%E3%81%AC%E3%81%97%29/#jn-266751"
+  },
+  {
+    "kotoba": "発条",
+    "yomi": "ばね",
+    "link": "/word/%E7%99%BA%E6%9D%A1_%28%E3%81%B0%E3%81%AD%29/#jn-178750"
+  },
+  {
+    "kotoba": "発条定数",
+    "yomi": "ばね‐ていすう",
+    "link": "/word/%E7%99%BA%E6%9D%A1%E5%AE%9A%E6%95%B0/#jn-178791"
+  },
+  {
+    "kotoba": "発条秤",
+    "yomi": "ばね‐ばかり",
+    "link": "/word/%E7%99%BA%E6%9D%A1%E7%A7%A4_%28%E3%81%B0%E3%81%AD%E3%81%B0%E3%81%8B%E3%82%8A%29/#jn-178802"
+  },
+  {
+    "kotoba": "八幡",
+    "yomi": "ばはん",
+    "link": "/word/%E5%85%AB%E5%B9%A1_%28%E3%81%B0%E3%81%AF%E3%82%93%29/#jn-178969"
+  },
+  {
+    "kotoba": "八幡船",
+    "yomi": "ばはん‐せん",
+    "link": "/word/%E5%85%AB%E5%B9%A1%E8%88%B9_%28%E3%81%B0%E3%81%AF%E3%82%93%E3%81%9B%E3%82%93%29/#jn-178970"
+  },
+  {
+    "kotoba": "八幡船",
+    "yomi": "ばはん‐ぶね",
+    "link": "/word/%E5%85%AB%E5%B9%A1%E8%88%B9_%28%E3%81%B0%E3%81%AF%E3%82%93%E3%81%B6%E3%81%AD%29/#jn-178972"
+  },
+  {
+    "kotoba": "祖母",
+    "yomi": "ばば",
+    "link": "/word/%E7%A5%96%E6%AF%8D_%28%E3%81%B0%E3%81%B0%29/#jn-178859"
+  },
+  {
+    "kotoba": "馬場",
+    "yomi": "ば‐ば",
+    "link": "/word/%E9%A6%AC%E5%A0%B4_%28%E3%81%B0%E3%81%B0%29/#jn-178861"
+  },
+  {
+    "kotoba": "馬場",
+    "yomi": "ばば",
+    "link": "/word/%E9%A6%AC%E5%A0%B4_%28%E3%81%B0%E3%81%B0%29/#jn-178862"
+  },
+  {
+    "kotoba": "婆背",
+    "yomi": "ばば‐が‐せ",
+    "link": "/word/%E5%A9%86%E8%83%8C/#jn-178881"
+  },
+  {
+    "kotoba": "婆鰈",
+    "yomi": "ばば‐がれい",
+    "link": "/word/%E5%A9%86%E9%B0%88/#jn-266753"
+  },
+  {
+    "kotoba": "馬場金埒",
+    "yomi": "ばば‐きんらち",
+    "link": "/word/person/%E9%A6%AC%E5%A0%B4%E9%87%91%E5%9F%92/#jn-178902"
+  },
+  {
+    "kotoba": "馬場孤蝶",
+    "yomi": "ばば‐こちょう",
+    "link": "/word/person/%E9%A6%AC%E5%A0%B4%E5%AD%A4%E8%9D%B6/#jn-178914"
+  },
+  {
+    "kotoba": "馬場先",
+    "yomi": "ばば‐さき",
+    "link": "/word/%E9%A6%AC%E5%A0%B4%E5%85%88/#jn-178915"
+  },
+  {
+    "kotoba": "馬場先門",
+    "yomi": "ばばさき‐もん",
+    "link": "/word/%E9%A6%AC%E5%A0%B4%E5%85%88%E9%96%80/#jn-178916"
+  },
+  {
+    "kotoba": "馬場佐十郎",
+    "yomi": "ばば‐さじゅうろう",
+    "link": "/word/person/%E9%A6%AC%E5%A0%B4%E4%BD%90%E5%8D%81%E9%83%8E/#jn-178917"
+  },
+  {
+    "kotoba": "馬場末",
+    "yomi": "ばば‐すえ",
+    "link": "/word/%E9%A6%AC%E5%A0%B4%E6%9C%AB/#jn-178923"
+  },
+  {
+    "kotoba": "馬場辰猪",
+    "yomi": "ばば‐たつい",
+    "link": "/word/person/%E9%A6%AC%E5%A0%B4%E8%BE%B0%E7%8C%AA/#jn-178929"
+  },
+  {
+    "kotoba": "祖母谷温泉",
+    "yomi": "ばばだに‐おんせん",
+    "link": "/word/%E7%A5%96%E6%AF%8D%E8%B0%B7%E6%B8%A9%E6%B3%89/#jn-178930"
+  },
+  {
+    "kotoba": "馬場恒吾",
+    "yomi": "ばば‐つねご",
+    "link": "/word/person/%E9%A6%AC%E5%A0%B4%E6%81%92%E5%90%BE/#jn-178936"
+  },
+  {
+    "kotoba": "馬場殿",
+    "yomi": "ばば‐どの",
+    "link": "/word/%E9%A6%AC%E5%A0%B4%E6%AE%BF_%28%E3%81%B0%E3%81%B0%E3%81%A9%E3%81%AE%29/#jn-178938"
+  },
+  {
+    "kotoba": "馬場文耕",
+    "yomi": "ばば‐ぶんこう",
+    "link": "/word/%E9%A6%AC%E5%A0%B4%E6%96%87%E8%80%95/#jn-178951"
+  },
+  {
+    "kotoba": "馬場本",
+    "yomi": "ばば‐もと",
+    "link": "/word/%E9%A6%AC%E5%A0%B4%E6%9C%AC/#jn-178959"
+  },
+  {
+    "kotoba": "馬匹",
+    "yomi": "ば‐ひつ",
+    "link": "/word/%E9%A6%AC%E5%8C%B9/#jn-178992"
+  },
+  {
+    "kotoba": "馬脾風",
+    "yomi": "ばひ‐ふう",
+    "link": "/word/%E9%A6%AC%E8%84%BE%E9%A2%A8/#jn-178995"
+  },
+  {
+    "kotoba": "馬尾",
+    "yomi": "ば‐び",
+    "link": "/word/%E9%A6%AC%E5%B0%BE/#jn-178975"
+  },
+  {
+    "kotoba": "馬鼻疽",
+    "yomi": "ばび‐そ",
+    "link": "/word/%E9%A6%AC%E9%BC%BB%E7%96%BD/#jn-178988"
+  },
+  {
+    "kotoba": "馬尾蜂",
+    "yomi": "ばび‐ほう",
+    "link": "/word/%E9%A6%AC%E5%B0%BE%E8%9C%82/#jn-178996"
+  },
+  {
+    "kotoba": "馬腹",
+    "yomi": "ば‐ふく",
+    "link": "/word/%E9%A6%AC%E8%85%B9/#jn-179039"
+  },
+  {
+    "kotoba": "場札",
+    "yomi": "ば‐ふだ",
+    "link": "/word/%E5%A0%B4%E6%9C%AD/#jn-179051"
+  },
+  {
+    "kotoba": "馬糞",
+    "yomi": "ば‐ふん",
+    "link": "/word/%E9%A6%AC%E7%B3%9E_%28%E3%81%B0%E3%81%B5%E3%82%93%29/#jn-179130"
+  },
+  {
+    "kotoba": "馬糞海胆",
+    "yomi": "ばふん‐うに",
+    "link": "/word/%E9%A6%AC%E7%B3%9E%E6%B5%B7%E8%83%86/#jn-179131"
+  },
+  {
+    "kotoba": "馬糞紙",
+    "yomi": "ばふん‐し",
+    "link": "/word/%E9%A6%AC%E7%B3%9E%E7%B4%99/#jn-179132"
+  },
+  {
+    "kotoba": "馬鞭草",
+    "yomi": "ばべん‐そう",
+    "link": "/word/%E9%A6%AC%E9%9E%AD%E8%8D%89/#jn-179146"
+  },
+  {
+    "kotoba": "場面",
+    "yomi": "ば‐めん",
+    "link": "/word/%E5%A0%B4%E9%9D%A2/#jn-179369"
+  },
+  {
+    "kotoba": "馬面",
+    "yomi": "ば‐めん",
+    "link": "/word/%E9%A6%AC%E9%9D%A2_%28%E3%81%B0%E3%82%81%E3%82%93%29/#jn-179368"
+  },
+  {
+    "kotoba": "場面緘黙症",
+    "yomi": "ばめん‐かんもくしょう",
+    "link": "/word/%E5%A0%B4%E9%9D%A2%E7%B7%98%E9%BB%99%E7%97%87/#jn-274089"
+  },
+  {
+    "kotoba": "荊棘",
+    "yomi": "ばら",
+    "link": "/word/%E8%8D%8A%E6%A3%98_%28%E3%81%B0%E3%82%89%29/#jn-179662"
+  },
+  {
+    "kotoba": "薔薇",
+    "yomi": "ばら",
+    "link": "/word/%E8%96%94%E8%96%87_%28%E3%81%B0%E3%82%89%29/#jn-179664"
+  },
+  {
+    "kotoba": "薔薇苺",
+    "yomi": "ばら‐いちご",
+    "link": "/word/%E8%96%94%E8%96%87%E8%8B%BA/#jn-179697"
+  },
+  {
+    "kotoba": "薔薇色",
+    "yomi": "ばら‐いろ",
+    "link": "/word/%E8%96%94%E8%96%87%E8%89%B2/#jn-179706"
+  },
+  {
+    "kotoba": "散緒",
+    "yomi": "ばら‐お",
+    "link": "/word/%E6%95%A3%E7%B7%92/#jn-179731"
+  },
+  {
+    "kotoba": "薔薇革命",
+    "yomi": "ばら‐かくめい",
+    "link": "/word/%E8%96%94%E8%96%87%E9%9D%A9%E5%91%BD/#jn-281733"
+  },
+  {
+    "kotoba": "散粕",
+    "yomi": "ばら‐かす",
+    "link": "/word/%E6%95%A3%E7%B2%95/#jn-281734"
+  },
+  {
+    "kotoba": "薔薇忌",
+    "yomi": "ばらき",
+    "link": "/word/%E8%96%94%E8%96%87%E5%BF%8C/#jn-289794"
+  },
+  {
+    "kotoba": "薔薇輝石",
+    "yomi": "ばら‐きせき",
+    "link": "/word/%E8%96%94%E8%96%87%E8%BC%9D%E7%9F%B3/#jn-179745"
+  },
+  {
+    "kotoba": "散毛",
+    "yomi": "ばら‐げ",
+    "link": "/word/%E6%95%A3%E6%AF%9B/#jn-179761"
+  },
+  {
+    "kotoba": "薔薇状果",
+    "yomi": "ばらじょう‐か",
+    "link": "/word/%E8%96%94%E8%96%87%E7%8A%B6%E6%9E%9C/#jn-179782"
+  },
+  {
+    "kotoba": "散鮨",
+    "yomi": "ばら‐ずし",
+    "link": "/word/%E6%95%A3%E9%AE%A8/#jn-179791"
+  },
+  {
+    "kotoba": "散炭",
+    "yomi": "ばら‐ずみ",
+    "link": "/word/%E6%95%A3%E7%82%AD/#jn-179795"
+  },
+  {
+    "kotoba": "薔薇星雲",
+    "yomi": "ばら‐せいうん",
+    "link": "/word/%E8%96%94%E8%96%87%E6%98%9F%E9%9B%B2/#jn-244056"
+  },
+  {
+    "kotoba": "散銭",
+    "yomi": "ばら‐せん",
+    "link": "/word/%E6%95%A3%E9%8A%AD_%28%E3%81%B0%E3%82%89%E3%81%9B%E3%82%93%29/#jn-179800"
+  },
+  {
+    "kotoba": "荊棘線",
+    "yomi": "ばら‐せん",
+    "link": "/word/%E8%8D%8A%E6%A3%98%E7%B7%9A/#jn-179799"
+  },
+  {
+    "kotoba": "薔薇戦争",
+    "yomi": "ばら‐せんそう",
+    "link": "/word/%E8%96%94%E8%96%87%E6%88%A6%E4%BA%89/#jn-179801"
+  },
+  {
+    "kotoba": "薔薇鱮",
+    "yomi": "ばら‐たなご",
+    "link": "/word/%E8%96%94%E8%96%87%E9%B1%AE/#jn-179821"
+  },
+  {
+    "kotoba": "散弾",
+    "yomi": "ばら‐だま",
+    "link": "/word/%E6%95%A3%E5%BC%BE_%28%E3%81%B0%E3%82%89%E3%81%A0%E3%81%BE%29/#jn-179823"
+  },
+  {
+    "kotoba": "散荷",
+    "yomi": "ばら‐に",
+    "link": "/word/%E6%95%A3%E8%8D%B7/#jn-179872"
+  },
+  {
+    "kotoba": "肋肉",
+    "yomi": "ばら‐にく",
+    "link": "/word/%E8%82%8B%E8%82%89/#jn-179873"
+  },
+  {
+    "kotoba": "薔薇羽太",
+    "yomi": "ばら‐はた",
+    "link": "/word/%E8%96%94%E8%96%87%E7%BE%BD%E5%A4%AA/#jn-283872"
+  },
+  {
+    "kotoba": "散斑",
+    "yomi": "ばら‐ふ",
+    "link": "/word/%E6%95%A3%E6%96%91/#jn-179900"
+  },
+  {
+    "kotoba": "薔薇窓",
+    "yomi": "ばら‐まど",
+    "link": "/word/%E8%96%94%E8%96%87%E7%AA%93/#jn-179926"
+  },
+  {
+    "kotoba": "薔薇鯥",
+    "yomi": "ばら‐むつ",
+    "link": "/word/%E8%96%94%E8%96%87%E9%AF%A5/#jn-279851"
+  },
+  {
+    "kotoba": "薔薇物語",
+    "yomi": "ばらものがたり",
+    "link": "/word/%E8%96%94%E8%96%87%E7%89%A9%E8%AA%9E/#jn-179948"
+  },
+  {
+    "kotoba": "婆羅門僧正",
+    "yomi": "バラモン‐そうじょう",
+    "link": "/word/person/%E5%A9%86%E7%BE%85%E9%96%80%E5%83%A7%E6%AD%A3/#jn-179952"
+  },
+  {
+    "kotoba": "婆羅門天",
+    "yomi": "バラモン‐てん",
+    "link": "/word/%E5%A9%86%E7%BE%85%E9%96%80%E5%A4%A9/#jn-179953"
+  },
+  {
+    "kotoba": "薔薇油",
+    "yomi": "ばら‐ゆ",
+    "link": "/word/%E8%96%94%E8%96%87%E6%B2%B9/#jn-179955"
+  },
+  {
+    "kotoba": "罵詈",
+    "yomi": "ば‐り",
+    "link": "/word/%E7%BD%B5%E8%A9%88_%28%E3%81%B0%E3%82%8A%29/#jn-180009"
+  },
+  {
+    "kotoba": "馬力",
+    "yomi": "ば‐りき",
+    "link": "/word/%E9%A6%AC%E5%8A%9B/#jn-180067"
+  },
+  {
+    "kotoba": "罵詈讒謗",
+    "yomi": "ばり‐ざんぼう",
+    "link": "/word/%E7%BD%B5%E8%A9%88%E8%AE%92%E8%AC%97/#jn-180105"
+  },
+  {
+    "kotoba": "罵詈雑言",
+    "yomi": "ばり‐ぞうごん",
+    "link": "/word/%E7%BD%B5%E8%A9%88%E9%9B%91%E8%A8%80/#jn-180128"
+  },
+  {
+    "kotoba": "馬糧",
+    "yomi": "ば‐りょう",
+    "link": "/word/%E9%A6%AC%E7%B3%A7/#jn-180250"
+  },
+  {
+    "kotoba": "馬齢",
+    "yomi": "ば‐れい",
+    "link": "/word/%E9%A6%AC%E9%BD%A2/#jn-180538"
+  },
+  {
+    "kotoba": "馬鈴薯",
+    "yomi": "ばれい‐しょ",
+    "link": "/word/%E9%A6%AC%E9%88%B4%E8%96%AF/#jn-180540"
+  },
+  {
+    "kotoba": "馬櫪",
+    "yomi": "ば‐れき",
+    "link": "/word/%E9%A6%AC%E6%AB%AA/#jn-180557"
+  },
+  {
+    "kotoba": "馬櫪神",
+    "yomi": "ばれき‐じん",
+    "link": "/word/%E9%A6%AC%E6%AB%AA%E7%A5%9E/#jn-180558"
+  },
+  {
+    "kotoba": "馬楝",
+    "yomi": "ば‐れん",
+    "link": "/word/%E9%A6%AC%E6%A5%9D/#jn-180607"
+  },
+  {
+    "kotoba": "馬簾",
+    "yomi": "ば‐れん",
+    "link": "/word/%E9%A6%AC%E7%B0%BE/#jn-180608"
+  },
+  {
+    "kotoba": "晩靄",
+    "yomi": "ばん‐あい",
+    "link": "/word/%E6%99%A9%E9%9D%84/#jn-180799"
+  },
+  {
+    "kotoba": "蛮夷",
+    "yomi": "ばん‐い",
+    "link": "/word/%E8%9B%AE%E5%A4%B7/#jn-180813"
+  },
+  {
+    "kotoba": "番医師",
+    "yomi": "ばん‐いし",
+    "link": "/word/%E7%95%AA%E5%8C%BB%E5%B8%AB/#jn-180815"
+  },
+  {
+    "kotoba": "万一",
+    "yomi": "ばん‐いち",
+    "link": "/word/%E4%B8%87%E4%B8%80_%28%E3%81%B0%E3%82%93%E3%81%84%E3%81%A1%29/#jn-180817"
+  },
+  {
+    "kotoba": "番謡",
+    "yomi": "ばん‐うたい",
+    "link": "/word/%E7%95%AA%E8%AC%A1/#jn-180822"
+  },
+  {
+    "kotoba": "蛮絵",
+    "yomi": "ばん‐え",
+    "link": "/word/%E8%9B%AE%E7%B5%B5/#jn-180823"
+  },
+  {
+    "kotoba": "輓曳競馬",
+    "yomi": "ばんえい‐けいば",
+    "link": "/word/%E8%BC%93%E6%9B%B3%E7%AB%B6%E9%A6%AC/#jn-180830"
+  },
+  {
+    "kotoba": "磐越西線",
+    "yomi": "ばんえつ‐さいせん",
+    "link": "/word/%E7%A3%90%E8%B6%8A%E8%A5%BF%E7%B7%9A/#jn-180832"
+  },
+  {
+    "kotoba": "磐越自動車道",
+    "yomi": "ばんえつ‐じどうしゃどう",
+    "link": "/word/%E7%A3%90%E8%B6%8A%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93/#jn-278057"
+  },
+  {
+    "kotoba": "磐越東線",
+    "yomi": "ばんえつ‐とうせん",
+    "link": "/word/%E7%A3%90%E8%B6%8A%E6%9D%B1%E7%B7%9A/#jn-180833"
+  },
+  {
+    "kotoba": "磐越道",
+    "yomi": "ばんえつ‐どう",
+    "link": "/word/%E7%A3%90%E8%B6%8A%E9%81%93/#jn-278058"
+  },
+  {
+    "kotoba": "晩鶯",
+    "yomi": "ばん‐おう",
+    "link": "/word/%E6%99%A9%E9%B6%AF/#jn-180842"
+  },
+  {
+    "kotoba": "万化",
+    "yomi": "ばん‐か",
+    "link": "/word/%E4%B8%87%E5%8C%96/#jn-180858"
+  },
+  {
+    "kotoba": "万花",
+    "yomi": "ばん‐か",
+    "link": "/word/%E4%B8%87%E8%8A%B1/#jn-180859"
+  },
+  {
+    "kotoba": "挽歌",
+    "yomi": "ばん‐か",
+    "link": "/word/%E6%8C%BD%E6%AD%8C/#jn-180860"
+  },
+  {
+    "kotoba": "晩夏",
+    "yomi": "ばん‐か",
+    "link": "/word/%E6%99%A9%E5%A4%8F/#jn-180861"
+  },
+  {
+    "kotoba": "晩霞",
+    "yomi": "ばん‐か",
+    "link": "/word/%E6%99%A9%E9%9C%9E/#jn-180862"
+  },
+  {
+    "kotoba": "蕃茄",
+    "yomi": "ばん‐か",
+    "link": "/word/%E8%95%83%E8%8C%84/#jn-180863"
+  },
+  {
+    "kotoba": "挽歌",
+    "yomi": "ばんか",
+    "link": "/word/%E6%8C%BD%E6%AD%8C/#jn-287835"
+  },
+  {
+    "kotoba": "挽回",
+    "yomi": "ばん‐かい",
+    "link": "/word/%E6%8C%BD%E5%9B%9E/#jn-180881"
+  },
+  {
+    "kotoba": "万華鏡",
+    "yomi": "ばんか‐きょう",
+    "link": "/word/%E4%B8%87%E8%8F%AF%E9%8F%A1/#jn-180887"
+  },
+  {
+    "kotoba": "万客",
+    "yomi": "ばん‐かく",
+    "link": "/word/%E4%B8%87%E5%AE%A2/#jn-180894"
+  },
+  {
+    "kotoba": "蕃客",
+    "yomi": "ばん‐かく",
+    "link": "/word/%E8%95%83%E5%AE%A2/#jn-180895"
+  },
+  {
+    "kotoba": "番鍛冶",
+    "yomi": "ばん‐かじ",
+    "link": "/word/%E7%95%AA%E9%8D%9B%E5%86%B6/#jn-180904"
+  },
+  {
+    "kotoba": "挽歌抒情",
+    "yomi": "ばんかじょじょう",
+    "link": "/word/%E6%8C%BD%E6%AD%8C%E6%8A%92%E6%83%85/#jn-283892"
+  },
+  {
+    "kotoba": "番数",
+    "yomi": "ばん‐かず",
+    "link": "/word/%E7%95%AA%E6%95%B0/#jn-180907"
+  },
+  {
+    "kotoba": "番方",
+    "yomi": "ばん‐かた",
+    "link": "/word/%E7%95%AA%E6%96%B9/#jn-180913"
+  },
+  {
+    "kotoba": "盤割",
+    "yomi": "ばん‐かつ",
+    "link": "/word/%E7%9B%A4%E5%89%B2/#jn-180919"
+  },
+  {
+    "kotoba": "万巻",
+    "yomi": "ばん‐かん",
+    "link": "/word/%E4%B8%87%E5%B7%BB_%28%E3%81%B0%E3%82%93%E3%81%8B%E3%82%93%29/#jn-180945"
+  },
+  {
+    "kotoba": "万感",
+    "yomi": "ばん‐かん",
+    "link": "/word/%E4%B8%87%E6%84%9F/#jn-180946"
+  },
+  {
+    "kotoba": "盤桓",
+    "yomi": "ばん‐かん",
+    "link": "/word/%E7%9B%A4%E6%A1%93/#jn-180948"
+  },
+  {
+    "kotoba": "晩柑",
+    "yomi": "ばん‐かん",
+    "link": "/word/%E6%99%A9%E6%9F%91/#jn-301013"
+  },
+  {
+    "kotoba": "番外",
+    "yomi": "ばん‐がい",
+    "link": "/word/%E7%95%AA%E5%A4%96/#jn-180882"
+  },
+  {
+    "kotoba": "盤外戦",
+    "yomi": "ばんがい‐せん",
+    "link": "/word/%E7%9B%A4%E5%A4%96%E6%88%A6/#jn-295134"
+  },
+  {
+    "kotoba": "番外地",
+    "yomi": "ばんがい‐ち",
+    "link": "/word/%E7%95%AA%E5%A4%96%E5%9C%B0/#jn-180883"
+  },
+  {
+    "kotoba": "万岳",
+    "yomi": "ばん‐がく",
+    "link": "/word/%E4%B8%87%E5%B2%B3/#jn-180896"
+  },
+  {
+    "kotoba": "晩学",
+    "yomi": "ばん‐がく",
+    "link": "/word/%E6%99%A9%E5%AD%A6/#jn-180897"
+  },
+  {
+    "kotoba": "番楽",
+    "yomi": "ばん‐がく",
+    "link": "/word/%E7%95%AA%E6%A5%BD/#jn-180898"
+  },
+  {
+    "kotoba": "番傘",
+    "yomi": "ばん‐がさ",
+    "link": "/word/%E7%95%AA%E5%82%98/#jn-180903"
+  },
+  {
+    "kotoba": "番頭",
+    "yomi": "ばん‐がしら",
+    "link": "/word/%E7%95%AA%E9%A0%AD_%28%E3%81%B0%E3%82%93%E3%81%8C%E3%81%97%E3%82%89%29/#jn-180906"
+  },
+  {
+    "kotoba": "晩方",
+    "yomi": "ばん‐がた",
+    "link": "/word/%E6%99%A9%E6%96%B9/#jn-180914"
+  },
+  {
+    "kotoba": "万機",
+    "yomi": "ばん‐き",
+    "link": "/word/%E4%B8%87%E6%A9%9F/#jn-180959"
+  },
+  {
+    "kotoba": "晩期",
+    "yomi": "ばん‐き",
+    "link": "/word/%E6%99%A9%E6%9C%9F/#jn-180961"
+  },
+  {
+    "kotoba": "晩期合併症",
+    "yomi": "ばんき‐がっぺいしょう",
+    "link": "/word/%E6%99%A9%E6%9C%9F%E5%90%88%E4%BD%B5%E7%97%87/#jn-259021"
+  },
+  {
+    "kotoba": "番記者",
+    "yomi": "ばん‐きしゃ",
+    "link": "/word/%E7%95%AA%E8%A8%98%E8%80%85/#jn-180969"
+  },
+  {
+    "kotoba": "晩期障害",
+    "yomi": "ばんき‐しょうがい",
+    "link": "/word/%E6%99%A9%E6%9C%9F%E9%9A%9C%E5%AE%B3/#jn-259022"
+  },
+  {
+    "kotoba": "万客",
+    "yomi": "ばん‐きゃく",
+    "link": "/word/%E4%B8%87%E5%AE%A2/#jn-180975"
+  },
+  {
+    "kotoba": "盤踞",
+    "yomi": "ばん‐きょ",
+    "link": "/word/%E7%9B%A4%E8%B8%9E/#jn-180985"
+  },
+  {
+    "kotoba": "盤曲",
+    "yomi": "ばん‐きょく",
+    "link": "/word/%E7%9B%A4%E6%9B%B2/#jn-180994"
+  },
+  {
+    "kotoba": "万金",
+    "yomi": "ばん‐きん",
+    "link": "/word/%E4%B8%87%E9%87%91/#jn-181001"
+  },
+  {
+    "kotoba": "万鈞",
+    "yomi": "ばん‐きん",
+    "link": "/word/%E4%B8%87%E9%88%9E_%28%E3%81%B0%E3%82%93%E3%81%8D%E3%82%93%29/#jn-181002"
+  },
+  {
+    "kotoba": "判金",
+    "yomi": "ばん‐きん",
+    "link": "/word/%E5%88%A4%E9%87%91/#jn-181003"
+  },
+  {
+    "kotoba": "板金",
+    "yomi": "ばん‐きん",
+    "link": "/word/%E6%9D%BF%E9%87%91_%28%E3%81%B0%E3%82%93%E3%81%8D%E3%82%93%29/#jn-181004"
+  },
+  {
+    "kotoba": "輓近",
+    "yomi": "ばん‐きん",
+    "link": "/word/%E8%BC%93%E8%BF%91/#jn-181005"
+  },
+  {
+    "kotoba": "板木",
+    "yomi": "ばん‐ぎ",
+    "link": "/word/%E6%9D%BF%E6%9C%A8/#jn-180962"
+  },
+  {
+    "kotoba": "盤木",
+    "yomi": "ばん‐ぎ",
+    "link": "/word/%E7%9B%A4%E6%9C%A8/#jn-180963"
+  },
+  {
+    "kotoba": "晩菊",
+    "yomi": "ばん‐ぎく",
+    "link": "/word/%E6%99%A9%E8%8F%8A/#jn-180967"
+  },
+  {
+    "kotoba": "晩菊",
+    "yomi": "ばんぎく",
+    "link": "/word/%E6%99%A9%E8%8F%8A/#jn-287836"
+  },
+  {
+    "kotoba": "伴銀河",
+    "yomi": "ばん‐ぎんが",
+    "link": "/word/%E4%BC%B4%E9%8A%80%E6%B2%B3/#jn-251892"
+  },
+  {
+    "kotoba": "万苦",
+    "yomi": "ばん‐く",
+    "link": "/word/%E4%B8%87%E8%8B%A6/#jn-181012"
+  },
+  {
+    "kotoba": "盤屈",
+    "yomi": "ばん‐くつ",
+    "link": "/word/%E7%9B%A4%E5%B1%88/#jn-181034"
+  },
+  {
+    "kotoba": "万愚節",
+    "yomi": "ばんぐ‐せつ",
+    "link": "/word/%E4%B8%87%E6%84%9A%E7%AF%80/#jn-181029"
+  },
+  {
+    "kotoba": "番具足",
+    "yomi": "ばん‐ぐそく",
+    "link": "/word/%E7%95%AA%E5%85%B7%E8%B6%B3/#jn-181030"
+  },
+  {
+    "kotoba": "番組",
+    "yomi": "ばん‐ぐみ",
+    "link": "/word/%E7%95%AA%E7%B5%84/#jn-181036"
+  },
+  {
+    "kotoba": "万頃",
+    "yomi": "ばん‐けい",
+    "link": "/word/%E4%B8%87%E9%A0%83/#jn-181060"
+  },
+  {
+    "kotoba": "晩景",
+    "yomi": "ばん‐けい",
+    "link": "/word/%E6%99%A9%E6%99%AF/#jn-181061"
+  },
+  {
+    "kotoba": "盤珪永琢",
+    "yomi": "ばんけい‐ようたく",
+    "link": "/word/person/%E7%9B%A4%E7%8F%AA%E6%B0%B8%E7%90%A2/#jn-181062"
+  },
+  {
+    "kotoba": "番犬",
+    "yomi": "ばん‐けん",
+    "link": "/word/%E7%95%AA%E7%8A%AC/#jn-181086"
+  },
+  {
+    "kotoba": "晩気",
+    "yomi": "ばん‐げ",
+    "link": "/word/%E6%99%A9%E6%B0%97/#jn-181056"
+  },
+  {
+    "kotoba": "万言",
+    "yomi": "ばん‐げん",
+    "link": "/word/%E4%B8%87%E8%A8%80/#jn-181087"
+  },
+  {
+    "kotoba": "万戸",
+    "yomi": "ばん‐こ",
+    "link": "/word/%E4%B8%87%E6%88%B8/#jn-181095"
+  },
+  {
+    "kotoba": "万古",
+    "yomi": "ばん‐こ",
+    "link": "/word/%E4%B8%87%E5%8F%A4/#jn-181096"
+  },
+  {
+    "kotoba": "番子",
+    "yomi": "ばん‐こ",
+    "link": "/word/%E7%95%AA%E5%AD%90/#jn-181097"
+  },
+  {
+    "kotoba": "盤古",
+    "yomi": "ばん‐こ",
+    "link": "/word/%E7%9B%A4%E5%8F%A4/#jn-181098"
+  },
+  {
+    "kotoba": "万口",
+    "yomi": "ばん‐こう",
+    "link": "/word/%E4%B8%87%E5%8F%A3/#jn-181111"
+  },
+  {
+    "kotoba": "万考",
+    "yomi": "ばん‐こう",
+    "link": "/word/%E4%B8%87%E8%80%83/#jn-181112"
+  },
+  {
+    "kotoba": "蛮行",
+    "yomi": "ばん‐こう",
+    "link": "/word/%E8%9B%AE%E8%A1%8C/#jn-181113"
+  },
+  {
+    "kotoba": "番紅花",
+    "yomi": "ばんこう‐か",
+    "link": "/word/%E7%95%AA%E7%B4%85%E8%8A%B1/#jn-181117"
+  },
+  {
+    "kotoba": "伴蒿蹊",
+    "yomi": "ばん‐こうけい",
+    "link": "/word/person/%E4%BC%B4%E8%92%BF%E8%B9%8A/#jn-181119"
+  },
+  {
+    "kotoba": "万国",
+    "yomi": "ばん‐こく",
+    "link": "/word/%E4%B8%87%E5%9B%BD/#jn-181131"
+  },
+  {
+    "kotoba": "万斛",
+    "yomi": "ばん‐こく",
+    "link": "/word/%E4%B8%87%E6%96%9B/#jn-181132"
+  },
+  {
+    "kotoba": "晩刻",
+    "yomi": "ばん‐こく",
+    "link": "/word/%E6%99%A9%E5%88%BB/#jn-181133"
+  },
+  {
+    "kotoba": "蛮国",
+    "yomi": "ばん‐こく",
+    "link": "/word/%E8%9B%AE%E5%9B%BD/#jn-181134"
+  },
+  {
+    "kotoba": "万国音標文字",
+    "yomi": "ばんこく‐おんぴょうもじ",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E9%9F%B3%E6%A8%99%E6%96%87%E5%AD%97/#jn-181136"
+  },
+  {
+    "kotoba": "万国旗",
+    "yomi": "ばんこく‐き",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E6%97%97/#jn-181137"
+  },
+  {
+    "kotoba": "万国公法",
+    "yomi": "ばんこく‐こうほう",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E5%85%AC%E6%B3%95/#jn-181138"
+  },
+  {
+    "kotoba": "万国地図",
+    "yomi": "ばんこく‐ちず",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E5%9C%B0%E5%9B%B3/#jn-181140"
+  },
+  {
+    "kotoba": "万国著作権条約",
+    "yomi": "ばんこく‐ちょさくけんじょうやく",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E8%91%97%E4%BD%9C%E6%A8%A9%E6%9D%A1%E7%B4%84/#jn-181141"
+  },
+  {
+    "kotoba": "万国著作権保護同盟条約",
+    "yomi": "ばんこく‐ちょさくけんほごどうめいじょうやく",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E8%91%97%E4%BD%9C%E6%A8%A9%E4%BF%9D%E8%AD%B7%E5%90%8C%E7%9B%9F%E6%9D%A1%E7%B4%84/#jn-181142"
+  },
+  {
+    "kotoba": "万国博記念公園",
+    "yomi": "ばんこくはく‐きねんこうえん",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92/#jn-181143"
+  },
+  {
+    "kotoba": "万国博覧会",
+    "yomi": "ばんこく‐はくらんかい",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E5%8D%9A%E8%A6%A7%E4%BC%9A/#jn-181144"
+  },
+  {
+    "kotoba": "万国平和会議",
+    "yomi": "ばんこく‐へいわかいぎ",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E5%B9%B3%E5%92%8C%E4%BC%9A%E8%AD%B0/#jn-181145"
+  },
+  {
+    "kotoba": "万国郵便連合",
+    "yomi": "ばんこく‐ゆうびんれんごう",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E9%83%B5%E4%BE%BF%E9%80%A3%E5%90%88/#jn-181146"
+  },
+  {
+    "kotoba": "万国旗",
+    "yomi": "ばんこっ‐き",
+    "link": "/word/%E4%B8%87%E5%9B%BD%E6%97%97/#jn-261831"
+  },
+  {
+    "kotoba": "万骨",
+    "yomi": "ばん‐こつ",
+    "link": "/word/%E4%B8%87%E9%AA%A8/#jn-181148"
+  },
+  {
+    "kotoba": "蛮骨",
+    "yomi": "ばん‐こつ",
+    "link": "/word/%E8%9B%AE%E9%AA%A8/#jn-181149"
+  },
+  {
+    "kotoba": "万古不易",
+    "yomi": "ばんこ‐ふえき",
+    "link": "/word/%E4%B8%87%E5%8F%A4%E4%B8%8D%E6%98%93/#jn-181152"
+  },
+  {
+    "kotoba": "万古焼",
+    "yomi": "ばんこ‐やき",
+    "link": "/word/%E4%B8%87%E5%8F%A4%E7%84%BC/#jn-181155"
+  },
+  {
+    "kotoba": "晩婚",
+    "yomi": "ばん‐こん",
+    "link": "/word/%E6%99%A9%E5%A9%9A/#jn-181160"
+  },
+  {
+    "kotoba": "盤根",
+    "yomi": "ばん‐こん",
+    "link": "/word/%E7%9B%A4%E6%A0%B9/#jn-181161"
+  },
+  {
+    "kotoba": "盤根錯節",
+    "yomi": "ばんこん‐さくせつ",
+    "link": "/word/%E7%9B%A4%E6%A0%B9%E9%8C%AF%E7%AF%80/#jn-181163"
+  },
+  {
+    "kotoba": "蛮語",
+    "yomi": "ばん‐ご",
+    "link": "/word/%E8%9B%AE%E8%AA%9E/#jn-181100"
+  },
+  {
+    "kotoba": "万劫",
+    "yomi": "ばん‐ごう",
+    "link": "/word/%E4%B8%87%E5%8A%AB_%28%E3%81%B0%E3%82%93%E3%81%94%E3%81%86%29/#jn-181114"
+  },
+  {
+    "kotoba": "番号",
+    "yomi": "ばん‐ごう",
+    "link": "/word/%E7%95%AA%E5%8F%B7/#jn-181115"
+  },
+  {
+    "kotoba": "番号印字器",
+    "yomi": "ばんごう‐いんじき",
+    "link": "/word/%E7%95%AA%E5%8F%B7%E5%8D%B0%E5%AD%97%E5%99%A8/#jn-181116"
+  },
+  {
+    "kotoba": "番号記号",
+    "yomi": "ばんごう‐きごう",
+    "link": "/word/%E7%95%AA%E5%8F%B7%E8%A8%98%E5%8F%B7/#jn-241369"
+  },
+  {
+    "kotoba": "番号継続制度",
+    "yomi": "ばんごうけいぞく‐せいど",
+    "link": "/word/%E7%95%AA%E5%8F%B7%E7%B6%99%E7%B6%9A%E5%88%B6%E5%BA%A6/#jn-255044"
+  },
+  {
+    "kotoba": "番号札",
+    "yomi": "ばんごう‐ふだ",
+    "link": "/word/%E7%95%AA%E5%8F%B7%E6%9C%AD/#jn-264204"
+  },
+  {
+    "kotoba": "番号法",
+    "yomi": "ばんごう‐ほう",
+    "link": "/word/%E7%95%AA%E5%8F%B7%E6%B3%95/#jn-276184"
+  },
+  {
+    "kotoba": "晩御飯",
+    "yomi": "ばん‐ごはん",
+    "link": "/word/%E6%99%A9%E5%BE%A1%E9%A3%AF/#jn-181151"
+  },
+  {
+    "kotoba": "番小屋",
+    "yomi": "ばん‐ごや",
+    "link": "/word/%E7%95%AA%E5%B0%8F%E5%B1%8B/#jn-181154"
+  },
+  {
+    "kotoba": "坂西",
+    "yomi": "ばん‐さい",
+    "link": "/word/%E5%9D%82%E8%A5%BF/#jn-181179"
+  },
+  {
+    "kotoba": "晩歳",
+    "yomi": "ばん‐さい",
+    "link": "/word/%E6%99%A9%E6%AD%B3/#jn-181180"
+  },
+  {
+    "kotoba": "板鰓類",
+    "yomi": "ばんさい‐るい",
+    "link": "/word/%E6%9D%BF%E9%B0%93%E9%A1%9E/#jn-181203"
+  },
+  {
+    "kotoba": "万策",
+    "yomi": "ばん‐さく",
+    "link": "/word/%E4%B8%87%E7%AD%96/#jn-181206"
+  },
+  {
+    "kotoba": "晩産",
+    "yomi": "ばん‐さん",
+    "link": "/word/%E6%99%A9%E7%94%A3/#jn-181214"
+  },
+  {
+    "kotoba": "晩餐",
+    "yomi": "ばん‐さん",
+    "link": "/word/%E6%99%A9%E9%A4%90/#jn-181215"
+  },
+  {
+    "kotoba": "晩餐会",
+    "yomi": "ばんさん‐かい",
+    "link": "/word/%E6%99%A9%E9%A4%90%E4%BC%9A/#jn-276185"
+  },
+  {
+    "kotoba": "拌三絲",
+    "yomi": "バンサンスー",
+    "link": "/word/%E6%8B%8C%E4%B8%89%E7%B5%B2/#jn-278060"
+  },
+  {
+    "kotoba": "万歳",
+    "yomi": "ばん‐ざい",
+    "link": "/word/%E4%B8%87%E6%AD%B3_%28%E3%81%B0%E3%82%93%E3%81%96%E3%81%84%29/#jn-181181"
+  },
+  {
+    "kotoba": "晩材",
+    "yomi": "ばん‐ざい",
+    "link": "/word/%E6%99%A9%E6%9D%90/#jn-285912"
+  },
+  {
+    "kotoba": "万歳事件",
+    "yomi": "ばんざい‐じけん",
+    "link": "/word/%E4%B8%87%E6%AD%B3%E4%BA%8B%E4%BB%B6/#jn-181184"
+  },
+  {
+    "kotoba": "万歳旛",
+    "yomi": "ばんざい‐ばん",
+    "link": "/word/%E4%B8%87%E6%AD%B3%E6%97%9B/#jn-181193"
+  },
+  {
+    "kotoba": "万歳楽",
+    "yomi": "ばんざいらく",
+    "link": "/word/%E4%B8%87%E6%AD%B3%E6%A5%BD/#jn-181202"
+  },
+  {
+    "kotoba": "万死",
+    "yomi": "ばん‐し",
+    "link": "/word/%E4%B8%87%E6%AD%BB/#jn-181226"
+  },
+  {
+    "kotoba": "挽詩",
+    "yomi": "ばん‐し",
+    "link": "/word/%E6%8C%BD%E8%A9%A9/#jn-181228"
+  },
+  {
+    "kotoba": "番士",
+    "yomi": "ばん‐し",
+    "link": "/word/%E7%95%AA%E5%A3%AB/#jn-181229"
+  },
+  {
+    "kotoba": "万死一生",
+    "yomi": "ばんし‐いっしょう",
+    "link": "/word/%E4%B8%87%E6%AD%BB%E4%B8%80%E7%94%9F/#jn-181234"
+  },
+  {
+    "kotoba": "盤渉",
+    "yomi": "ばん‐しき",
+    "link": "/word/%E7%9B%A4%E6%B8%89/#jn-181240"
+  },
+  {
+    "kotoba": "盤子器",
+    "yomi": "ばんし‐き",
+    "link": "/word/%E7%9B%A4%E5%AD%90%E5%99%A8/#jn-295137"
+  },
+  {
+    "kotoba": "盤渉調",
+    "yomi": "ばんしき‐ちょう",
+    "link": "/word/%E7%9B%A4%E6%B8%89%E8%AA%BF/#jn-181241"
+  },
+  {
+    "kotoba": "万謝",
+    "yomi": "ばん‐しゃ",
+    "link": "/word/%E4%B8%87%E8%AC%9D/#jn-181254"
+  },
+  {
+    "kotoba": "挽車",
+    "yomi": "ばん‐しゃ",
+    "link": "/word/%E6%8C%BD%E8%BB%8A/#jn-181255"
+  },
+  {
+    "kotoba": "蕃社",
+    "yomi": "ばん‐しゃ",
+    "link": "/word/%E8%95%83%E7%A4%BE/#jn-181256"
+  },
+  {
+    "kotoba": "晩酌",
+    "yomi": "ばん‐しゃく",
+    "link": "/word/%E6%99%A9%E9%85%8C/#jn-181264"
+  },
+  {
+    "kotoba": "番衆",
+    "yomi": "ばん‐しゅ",
+    "link": "/word/%E7%95%AA%E8%A1%86_%28%E3%81%B0%E3%82%93%E3%81%97%E3%82%85%29/#jn-181288"
+  },
+  {
+    "kotoba": "晩秋",
+    "yomi": "ばん‐しゅう",
+    "link": "/word/%E6%99%A9%E7%A7%8B_%28%E3%81%B0%E3%82%93%E3%81%97%E3%82%85%E3%81%86%29/#jn-181293"
+  },
+  {
+    "kotoba": "番衆",
+    "yomi": "ばん‐しゅう",
+    "link": "/word/%E7%95%AA%E8%A1%86_%28%E3%81%B0%E3%82%93%E3%81%97%E3%82%85%E3%81%86%29/#jn-181294"
+  },
+  {
+    "kotoba": "蛮習",
+    "yomi": "ばん‐しゅう",
+    "link": "/word/%E8%9B%AE%E7%BF%92/#jn-181295"
+  },
+  {
+    "kotoba": "播州",
+    "yomi": "ばん‐しゅう",
+    "link": "/word/%E6%92%AD%E5%B7%9E/#jn-181296"
+  },
+  {
+    "kotoba": "磐州",
+    "yomi": "ばん‐しゅう",
+    "link": "/word/%E7%A3%90%E5%B7%9E/#jn-181297"
+  },
+  {
+    "kotoba": "播州皿屋敷",
+    "yomi": "ばんしゅうさらやしき",
+    "link": "/word/%E6%92%AD%E5%B7%9E%E7%9A%BF%E5%B1%8B%E6%95%B7/#jn-181299"
+  },
+  {
+    "kotoba": "晩秋蚕",
+    "yomi": "ばんしゅう‐さん",
+    "link": "/word/%E6%99%A9%E7%A7%8B%E8%9A%95/#jn-181300"
+  },
+  {
+    "kotoba": "播州平野",
+    "yomi": "ばんしゅうへいや",
+    "link": "/word/%E6%92%AD%E5%B7%9E%E5%B9%B3%E9%87%8E/#jn-289817"
+  },
+  {
+    "kotoba": "晩春",
+    "yomi": "ばん‐しゅん",
+    "link": "/word/%E6%99%A9%E6%98%A5/#jn-181312"
+  },
+  {
+    "kotoba": "晩春",
+    "yomi": "ばんしゅん",
+    "link": "/word/%E6%99%A9%E6%98%A5/#jn-269517"
+  },
+  {
+    "kotoba": "万春楽",
+    "yomi": "ばんしゅんらく",
+    "link": "/word/%E4%B8%87%E6%98%A5%E6%A5%BD/#jn-181313"
+  },
+  {
+    "kotoba": "万庶",
+    "yomi": "ばん‐しょ",
+    "link": "/word/%E4%B8%87%E5%BA%B6/#jn-181318"
+  },
+  {
+    "kotoba": "板書",
+    "yomi": "ばん‐しょ",
+    "link": "/word/%E6%9D%BF%E6%9B%B8/#jn-181319"
+  },
+  {
+    "kotoba": "番所",
+    "yomi": "ばん‐しょ",
+    "link": "/word/%E7%95%AA%E6%89%80/#jn-181320"
+  },
+  {
+    "kotoba": "蕃書",
+    "yomi": "ばん‐しょ",
+    "link": "/word/%E8%95%83%E6%9B%B8/#jn-181321"
+  },
+  {
+    "kotoba": "蕃藷",
+    "yomi": "ばん‐しょ",
+    "link": "/word/%E8%95%83%E8%97%B7/#jn-181322"
+  },
+  {
+    "kotoba": "万象",
+    "yomi": "ばん‐しょう",
+    "link": "/word/%E4%B8%87%E8%B1%A1/#jn-181345"
+  },
+  {
+    "kotoba": "万障",
+    "yomi": "ばん‐しょう",
+    "link": "/word/%E4%B8%87%E9%9A%9C/#jn-181346"
+  },
+  {
+    "kotoba": "晩照",
+    "yomi": "ばん‐しょう",
+    "link": "/word/%E6%99%A9%E7%85%A7/#jn-181347"
+  },
+  {
+    "kotoba": "晩餉",
+    "yomi": "ばん‐しょう",
+    "link": "/word/%E6%99%A9%E9%A4%89/#jn-181348"
+  },
+  {
+    "kotoba": "晩鐘",
+    "yomi": "ばん‐しょう",
+    "link": "/word/%E6%99%A9%E9%90%98/#jn-181349"
+  },
+  {
+    "kotoba": "蕃椒",
+    "yomi": "ばん‐しょう",
+    "link": "/word/%E8%95%83%E6%A4%92/#jn-181350"
+  },
+  {
+    "kotoba": "番匠",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E7%95%AA%E5%8C%A0/#jn-181356"
+  },
+  {
+    "kotoba": "番匠川",
+    "yomi": "ばんじょう‐がわ",
+    "link": "/word/%E7%95%AA%E5%8C%A0%E5%B7%9D/#jn-244083"
+  },
+  {
+    "kotoba": "伴食",
+    "yomi": "ばん‐しょく",
+    "link": "/word/%E4%BC%B4%E9%A3%9F/#jn-181373"
+  },
+  {
+    "kotoba": "晩食",
+    "yomi": "ばん‐しょく",
+    "link": "/word/%E6%99%A9%E9%A3%9F/#jn-181374"
+  },
+  {
+    "kotoba": "伴食宰相",
+    "yomi": "ばんしょく‐さいしょう",
+    "link": "/word/%E4%BC%B4%E9%A3%9F%E5%AE%B0%E7%9B%B8/#jn-181378"
+  },
+  {
+    "kotoba": "蕃藷考",
+    "yomi": "ばんしょこう",
+    "link": "/word/%E8%95%83%E8%97%B7%E8%80%83/#jn-181381"
+  },
+  {
+    "kotoba": "蕃書調所",
+    "yomi": "ばんしょ‐しらべしょ",
+    "link": "/word/%E8%95%83%E6%9B%B8%E8%AA%BF%E6%89%80/#jn-181382"
+  },
+  {
+    "kotoba": "番新",
+    "yomi": "ばん‐しん",
+    "link": "/word/%E7%95%AA%E6%96%B0/#jn-181395"
+  },
+  {
+    "kotoba": "蕃神",
+    "yomi": "ばん‐しん",
+    "link": "/word/%E8%95%83%E7%A5%9E/#jn-181396"
+  },
+  {
+    "kotoba": "万事",
+    "yomi": "ばん‐じ",
+    "link": "/word/%E4%B8%87%E4%BA%8B/#jn-181230"
+  },
+  {
+    "kotoba": "磐次磐三郎",
+    "yomi": "ばんじ‐ばんざぶろう",
+    "link": "/word/%E7%A3%90%E6%AC%A1%E7%A3%90%E4%B8%89%E9%83%8E/#jn-181247"
+  },
+  {
+    "kotoba": "磐石",
+    "yomi": "ばん‐じゃく",
+    "link": "/word/%E7%A3%90%E7%9F%B3_%28%E3%81%B0%E3%82%93%E3%81%98%E3%82%83%E3%81%8F%29/#jn-181265"
+  },
+  {
+    "kotoba": "磐石糊",
+    "yomi": "ばんじゃく‐のり",
+    "link": "/word/%E7%A3%90%E7%9F%B3%E7%B3%8A/#jn-181266"
+  },
+  {
+    "kotoba": "万寿",
+    "yomi": "ばん‐じゅ",
+    "link": "/word/%E4%B8%87%E5%AF%BF_%28%E3%81%B0%E3%82%93%E3%81%98%E3%82%85%29/#jn-181289"
+  },
+  {
+    "kotoba": "盤寿",
+    "yomi": "ばん‐じゅ",
+    "link": "/word/%E7%9B%A4%E5%AF%BF/#jn-264207"
+  },
+  {
+    "kotoba": "番重",
+    "yomi": "ばん‐じゅう",
+    "link": "/word/%E7%95%AA%E9%87%8D/#jn-279867"
+  },
+  {
+    "kotoba": "晩熟",
+    "yomi": "ばん‐じゅく",
+    "link": "/word/%E6%99%A9%E7%86%9F/#jn-181304"
+  },
+  {
+    "kotoba": "万寿節",
+    "yomi": "ばんじゅ‐せつ",
+    "link": "/word/%E4%B8%87%E5%AF%BF%E7%AF%80/#jn-181309"
+  },
+  {
+    "kotoba": "万丈",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E4%B8%87%E4%B8%88/#jn-181351"
+  },
+  {
+    "kotoba": "万状",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E4%B8%87%E7%8A%B6/#jn-181352"
+  },
+  {
+    "kotoba": "万乗",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E4%B8%87%E4%B9%97/#jn-181353"
+  },
+  {
+    "kotoba": "板状",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E6%9D%BF%E7%8A%B6/#jn-181354"
+  },
+  {
+    "kotoba": "番上",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E7%95%AA%E4%B8%8A/#jn-181355"
+  },
+  {
+    "kotoba": "盤上",
+    "yomi": "ばん‐じょう",
+    "link": "/word/%E7%9B%A4%E4%B8%8A/#jn-181357"
+  },
+  {
+    "kotoba": "番匠笠",
+    "yomi": "ばんじょう‐がさ",
+    "link": "/word/%E7%95%AA%E5%8C%A0%E7%AC%A0/#jn-181358"
+  },
+  {
+    "kotoba": "板状節理",
+    "yomi": "ばんじょう‐せつり",
+    "link": "/word/%E6%9D%BF%E7%8A%B6%E7%AF%80%E7%90%86/#jn-181360"
+  },
+  {
+    "kotoba": "板状動物",
+    "yomi": "ばんじょう‐どうぶつ",
+    "link": "/word/%E6%9D%BF%E7%8A%B6%E5%8B%95%E7%89%A9/#jn-274099"
+  },
+  {
+    "kotoba": "板状軟氷",
+    "yomi": "ばんじょう‐なんぴょう",
+    "link": "/word/%E6%9D%BF%E7%8A%B6%E8%BB%9F%E6%B0%B7/#jn-285914"
+  },
+  {
+    "kotoba": "番匠箱",
+    "yomi": "ばんじょう‐ばこ",
+    "link": "/word/%E7%95%AA%E5%8C%A0%E7%AE%B1/#jn-181368"
+  },
+  {
+    "kotoba": "板状立脚土偶",
+    "yomi": "ばんじょうりっきゃく‐どぐう",
+    "link": "/word/%E6%9D%BF%E7%8A%B6%E7%AB%8B%E8%84%9A%E5%9C%9F%E5%81%B6/#jn-298443"
+  },
+  {
+    "kotoba": "万人",
+    "yomi": "ばん‐じん",
+    "link": "/word/%E4%B8%87%E4%BA%BA_%28%E3%81%B0%E3%82%93%E3%81%98%E3%82%93%29/#jn-181397"
+  },
+  {
+    "kotoba": "万尋",
+    "yomi": "ばん‐じん",
+    "link": "/word/%E4%B8%87%E5%B0%8B/#jn-181399"
+  },
+  {
+    "kotoba": "蛮人",
+    "yomi": "ばん‐じん",
+    "link": "/word/%E8%9B%AE%E4%BA%BA/#jn-181400"
+  },
+  {
+    "kotoba": "蕃人",
+    "yomi": "ばん‐じん",
+    "link": "/word/%E8%95%83%E4%BA%BA/#jn-181401"
+  },
+  {
+    "kotoba": "万水",
+    "yomi": "ばん‐すい",
+    "link": "/word/%E4%B8%87%E6%B0%B4/#jn-181425"
+  },
+  {
+    "kotoba": "晩翠",
+    "yomi": "ばん‐すい",
+    "link": "/word/%E6%99%A9%E7%BF%A0/#jn-181426"
+  },
+  {
+    "kotoba": "番水",
+    "yomi": "ばん‐すい",
+    "link": "/word/%E7%95%AA%E6%B0%B4/#jn-283898"
+  },
+  {
+    "kotoba": "万春楽",
+    "yomi": "ばんすらく",
+    "link": "/word/%E4%B8%87%E6%98%A5%E6%A5%BD/#jn-181449"
+  },
+  {
+    "kotoba": "弁事",
+    "yomi": "ばん‐ず",
+    "link": "/word/%E5%BC%81%E4%BA%8B_%28%E3%81%B0%E3%82%93%E3%81%9A%29/#jn-181419"
+  },
+  {
+    "kotoba": "幡随院",
+    "yomi": "ばんずい‐いん",
+    "link": "/word/%E5%B9%A1%E9%9A%8F%E9%99%A2/#jn-181427"
+  },
+  {
+    "kotoba": "幡随院長兵衛",
+    "yomi": "ばんずいいん‐ちょうべえ",
+    "link": "/word/person/%E5%B9%A1%E9%9A%8F%E9%99%A2%E9%95%B7%E5%85%B5%E8%A1%9B/#jn-181428"
+  },
+  {
+    "kotoba": "万世",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E4%B8%87%E4%B8%96_%28%E3%81%B0%E3%82%93%E3%81%9B%E3%81%84%29/#jn-181468"
+  },
+  {
+    "kotoba": "万姓",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E4%B8%87%E5%A7%93/#jn-181469"
+  },
+  {
+    "kotoba": "伴星",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E4%BC%B4%E6%98%9F/#jn-181470"
+  },
+  {
+    "kotoba": "坂西",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E5%9D%82%E8%A5%BF/#jn-181471"
+  },
+  {
+    "kotoba": "晩生",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E6%99%A9%E7%94%9F/#jn-181472"
+  },
+  {
+    "kotoba": "晩成",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E6%99%A9%E6%88%90/#jn-181473"
+  },
+  {
+    "kotoba": "蛮声",
+    "yomi": "ばん‐せい",
+    "link": "/word/%E8%9B%AE%E5%A3%B0/#jn-181474"
+  },
+  {
+    "kotoba": "万世一系",
+    "yomi": "ばんせい‐いっけい",
+    "link": "/word/%E4%B8%87%E4%B8%96%E4%B8%80%E7%B3%BB/#jn-181476"
+  },
+  {
+    "kotoba": "伴性遺伝",
+    "yomi": "ばんせい‐いでん",
+    "link": "/word/%E4%BC%B4%E6%80%A7%E9%81%BA%E4%BC%9D/#jn-181477"
+  },
+  {
+    "kotoba": "晩成性",
+    "yomi": "ばんせい‐せい",
+    "link": "/word/%E6%99%A9%E6%88%90%E6%80%A7/#jn-181479"
+  },
+  {
+    "kotoba": "万聖節",
+    "yomi": "ばんせい‐せつ",
+    "link": "/word/%E4%B8%87%E8%81%96%E7%AF%80/#jn-181480"
+  },
+  {
+    "kotoba": "万世不易",
+    "yomi": "ばんせい‐ふえき",
+    "link": "/word/%E4%B8%87%E4%B8%96%E4%B8%8D%E6%98%93/#jn-181486"
+  },
+  {
+    "kotoba": "万世不朽",
+    "yomi": "ばんせい‐ふきゅう",
+    "link": "/word/%E4%B8%87%E4%B8%96%E4%B8%8D%E6%9C%BD/#jn-181487"
+  },
+  {
+    "kotoba": "伴性優性遺伝",
+    "yomi": "はんせい‐ゆうせいいでん",
+    "link": "/word/%E4%BC%B4%E6%80%A7%E5%84%AA%E6%80%A7%E9%81%BA%E4%BC%9D/#jn-276189"
+  },
+  {
+    "kotoba": "伴性劣性遺伝",
+    "yomi": "はんせい‐れっせいいでん",
+    "link": "/word/%E4%BC%B4%E6%80%A7%E5%8A%A3%E6%80%A7%E9%81%BA%E4%BC%9D/#jn-276190"
+  },
+  {
+    "kotoba": "磐石",
+    "yomi": "ばん‐せき",
+    "link": "/word/%E7%A3%90%E7%9F%B3_%28%E3%81%B0%E3%82%93%E3%81%9B%E3%81%8D%29/#jn-181492"
+  },
+  {
+    "kotoba": "晩節",
+    "yomi": "ばん‐せつ",
+    "link": "/word/%E6%99%A9%E7%AF%80/#jn-181497"
+  },
+  {
+    "kotoba": "盤旋",
+    "yomi": "はん‐せん",
+    "link": "/word/%E7%9B%A4%E6%97%8B/#jn-181501"
+  },
+  {
+    "kotoba": "番船",
+    "yomi": "ばん‐せん",
+    "link": "/word/%E7%95%AA%E8%88%B9/#jn-181503"
+  },
+  {
+    "kotoba": "番線",
+    "yomi": "ばん‐せん",
+    "link": "/word/%E7%95%AA%E7%B7%9A/#jn-181504"
+  },
+  {
+    "kotoba": "番宣",
+    "yomi": "ばん‐せん",
+    "link": "/word/%E7%95%AA%E5%AE%A3/#jn-255049"
+  },
+  {
+    "kotoba": "万歳",
+    "yomi": "ばん‐ぜい",
+    "link": "/word/%E4%B8%87%E6%AD%B3_%28%E3%81%B0%E3%82%93%E3%81%9C%E3%81%84%29/#jn-181475"
+  },
+  {
+    "kotoba": "万全",
+    "yomi": "ばん‐ぜん",
+    "link": "/word/%E4%B8%87%E5%85%A8/#jn-181505"
+  },
+  {
+    "kotoba": "伴走",
+    "yomi": "ばん‐そう",
+    "link": "/word/%E4%BC%B4%E8%B5%B0/#jn-181516"
+  },
+  {
+    "kotoba": "伴奏",
+    "yomi": "ばん‐そう",
+    "link": "/word/%E4%BC%B4%E5%A5%8F/#jn-181517"
+  },
+  {
+    "kotoba": "伴僧",
+    "yomi": "ばん‐そう",
+    "link": "/word/%E4%BC%B4%E5%83%A7/#jn-181518"
+  },
+  {
+    "kotoba": "晩霜",
+    "yomi": "ばん‐そう",
+    "link": "/word/%E6%99%A9%E9%9C%9C/#jn-181519"
+  },
+  {
+    "kotoba": "番僧",
+    "yomi": "ばん‐そう",
+    "link": "/word/%E7%95%AA%E5%83%A7/#jn-181520"
+  },
+  {
+    "kotoba": "伴走型支援",
+    "yomi": "ばんそうがた‐しえん",
+    "link": "/word/%E4%BC%B4%E8%B5%B0%E5%9E%8B%E6%94%AF%E6%8F%B4/#jn-266784"
+  },
+  {
+    "kotoba": "絆創膏",
+    "yomi": "ばんそう‐こう",
+    "link": "/word/%E7%B5%86%E5%89%B5%E8%86%8F/#jn-181521"
+  },
+  {
+    "kotoba": "伴走者",
+    "yomi": "ばんそう‐しゃ",
+    "link": "/word/%E4%BC%B4%E8%B5%B0%E8%80%85/#jn-264209"
+  },
+  {
+    "kotoba": "万卒",
+    "yomi": "ばん‐そつ",
+    "link": "/word/%E4%B8%87%E5%8D%92/#jn-181540"
+  },
+  {
+    "kotoba": "番卒",
+    "yomi": "ばん‐そつ",
+    "link": "/word/%E7%95%AA%E5%8D%92/#jn-181541"
+  },
+  {
+    "kotoba": "蛮族",
+    "yomi": "ばん‐ぞく",
+    "link": "/word/%E8%9B%AE%E6%97%8F/#jn-181534"
+  },
+  {
+    "kotoba": "蕃俗",
+    "yomi": "ばん‐ぞく",
+    "link": "/word/%E8%95%83%E4%BF%97/#jn-181535"
+  },
+  {
+    "kotoba": "番太",
+    "yomi": "ばん‐た",
+    "link": "/word/%E7%95%AA%E5%A4%AA/#jn-181549"
+  },
+  {
+    "kotoba": "万態",
+    "yomi": "ばん‐たい",
+    "link": "/word/%E4%B8%87%E6%85%8B/#jn-181559"
+  },
+  {
+    "kotoba": "番太郎",
+    "yomi": "ばん‐たろう",
+    "link": "/word/%E7%95%AA%E5%A4%AA%E9%83%8E/#jn-181604"
+  },
+  {
+    "kotoba": "万端",
+    "yomi": "ばん‐たん",
+    "link": "/word/%E4%B8%87%E7%AB%AF/#jn-181607"
+  },
+  {
+    "kotoba": "万朶",
+    "yomi": "ばん‐だ",
+    "link": "/word/%E4%B8%87%E6%9C%B6/#jn-181550"
+  },
+  {
+    "kotoba": "万代",
+    "yomi": "ばん‐だい",
+    "link": "/word/%E4%B8%87%E4%BB%A3/#jn-181560"
+  },
+  {
+    "kotoba": "番台",
+    "yomi": "ばん‐だい",
+    "link": "/word/%E7%95%AA%E5%8F%B0/#jn-181561"
+  },
+  {
+    "kotoba": "盤台",
+    "yomi": "ばん‐だい",
+    "link": "/word/%E7%9B%A4%E5%8F%B0/#jn-181562"
+  },
+  {
+    "kotoba": "磐梯朝日国立公園",
+    "yomi": "ばんだいあさひ‐こくりつこうえん",
+    "link": "/word/%E7%A3%90%E6%A2%AF%E6%9C%9D%E6%97%A5%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92/#jn-181563"
+  },
+  {
+    "kotoba": "磐梯山",
+    "yomi": "ばんだい‐さん",
+    "link": "/word/%E7%A3%90%E6%A2%AF%E5%B1%B1/#jn-181569"
+  },
+  {
+    "kotoba": "盤台面",
+    "yomi": "ばんだい‐づら",
+    "link": "/word/%E7%9B%A4%E5%8F%B0%E9%9D%A2/#jn-181576"
+  },
+  {
+    "kotoba": "伴大納言絵詞",
+    "yomi": "ばんだいなごんえことば",
+    "link": "/word/%E4%BC%B4%E5%A4%A7%E7%B4%8D%E8%A8%80%E7%B5%B5%E8%A9%9E/#jn-181577"
+  },
+  {
+    "kotoba": "万代不易",
+    "yomi": "ばんだい‐ふえき",
+    "link": "/word/%E4%B8%87%E4%BB%A3%E4%B8%8D%E6%98%93/#jn-181578"
+  },
+  {
+    "kotoba": "番立",
+    "yomi": "ばん‐だち",
+    "link": "/word/%E7%95%AA%E7%AB%8B/#jn-181588"
+  },
+  {
+    "kotoba": "塙団右衛門",
+    "yomi": "ばん‐だんえもん",
+    "link": "/word/person/%E5%A1%99%E5%9B%A3%E5%8F%B3%E8%A1%9B%E9%96%80/#jn-181608"
+  },
+  {
+    "kotoba": "番地",
+    "yomi": "ばん‐ち",
+    "link": "/word/%E7%95%AA%E5%9C%B0/#jn-181613"
+  },
+  {
+    "kotoba": "蛮地",
+    "yomi": "ばん‐ち",
+    "link": "/word/%E8%9B%AE%E5%9C%B0/#jn-181614"
+  },
+  {
+    "kotoba": "番茶",
+    "yomi": "ばん‐ちゃ",
+    "link": "/word/%E7%95%AA%E8%8C%B6/#jn-181628"
+  },
+  {
+    "kotoba": "晩潮",
+    "yomi": "ばん‐ちょう",
+    "link": "/word/%E6%99%A9%E6%BD%AE/#jn-181640"
+  },
+  {
+    "kotoba": "番長",
+    "yomi": "ばん‐ちょう",
+    "link": "/word/%E7%95%AA%E9%95%B7/#jn-181641"
+  },
+  {
+    "kotoba": "番帳",
+    "yomi": "ばん‐ちょう",
+    "link": "/word/%E7%95%AA%E5%B8%B3/#jn-181642"
+  },
+  {
+    "kotoba": "番町",
+    "yomi": "ばん‐ちょう",
+    "link": "/word/%E7%95%AA%E7%94%BA/#jn-244088"
+  },
+  {
+    "kotoba": "番町政策研究所",
+    "yomi": "ばんちょう‐せいさくけんきゅうじょ",
+    "link": "/word/%E7%95%AA%E7%94%BA%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E6%89%80/#jn-244089"
+  },
+  {
+    "kotoba": "阪妻",
+    "yomi": "ばん‐つま",
+    "link": "/word/person/%E9%98%AA%E5%A6%BB/#jn-247851"
+  },
+  {
+    "kotoba": "番付",
+    "yomi": "ばん‐づけ",
+    "link": "/word/%E7%95%AA%E4%BB%98/#jn-181660"
+  },
+  {
+    "kotoba": "番手",
+    "yomi": "ばん‐て",
+    "link": "/word/%E7%95%AA%E6%89%8B/#jn-181665"
+  },
+  {
+    "kotoba": "蛮的",
+    "yomi": "ばん‐てき",
+    "link": "/word/%E8%9B%AE%E7%9A%84/#jn-181693"
+  },
+  {
+    "kotoba": "晩冬",
+    "yomi": "ばん‐とう",
+    "link": "/word/%E6%99%A9%E5%86%AC/#jn-181732"
+  },
+  {
+    "kotoba": "晩唐",
+    "yomi": "ばん‐とう",
+    "link": "/word/%E6%99%A9%E5%94%90/#jn-181733"
+  },
+  {
+    "kotoba": "晩稲",
+    "yomi": "ばん‐とう",
+    "link": "/word/%E6%99%A9%E7%A8%B2_%28%E3%81%B0%E3%82%93%E3%81%A8%E3%81%86%29/#jn-181734"
+  },
+  {
+    "kotoba": "番頭",
+    "yomi": "ばん‐とう",
+    "link": "/word/%E7%95%AA%E9%A0%AD_%28%E3%81%B0%E3%82%93%E3%81%A8%E3%81%86%29/#jn-181735"
+  },
+  {
+    "kotoba": "番頭株",
+    "yomi": "ばんとう‐かぶ",
+    "link": "/word/%E7%95%AA%E9%A0%AD%E6%A0%AA/#jn-181746"
+  },
+  {
+    "kotoba": "番頭新造",
+    "yomi": "ばんとう‐しんぞう",
+    "link": "/word/%E7%95%AA%E9%A0%AD%E6%96%B0%E9%80%A0/#jn-181752"
+  },
+  {
+    "kotoba": "礬土",
+    "yomi": "ばん‐ど",
+    "link": "/word/%E7%A4%AC%E5%9C%9F/#jn-181718"
+  },
+  {
+    "kotoba": "坂東",
+    "yomi": "ばん‐どう",
+    "link": "/word/%E5%9D%82%E6%9D%B1/#jn-181736"
+  },
+  {
+    "kotoba": "坂東",
+    "yomi": "ばんどう",
+    "link": "/word/%E5%9D%82%E6%9D%B1/#jn-181737"
+  },
+  {
+    "kotoba": "坂東",
+    "yomi": "ばんどう",
+    "link": "/word/%E5%9D%82%E6%9D%B1/#jn-181738"
+  },
+  {
+    "kotoba": "坂東海豚",
+    "yomi": "ばんどう‐いるか",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E6%B5%B7%E8%B1%9A/#jn-181739"
+  },
+  {
+    "kotoba": "坂東声",
+    "yomi": "ばんどう‐ごえ",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E5%A3%B0/#jn-181749"
+  },
+  {
+    "kotoba": "坂東三十三所",
+    "yomi": "ばんどう‐さんじゅうさんしょ",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E4%B8%89%E5%8D%81%E4%B8%89%E6%89%80/#jn-181750"
+  },
+  {
+    "kotoba": "坂東市",
+    "yomi": "ばんどう‐し",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E5%B8%82/#jn-181751"
+  },
+  {
+    "kotoba": "坂東太郎",
+    "yomi": "ばんどう‐たろう",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E5%A4%AA%E9%83%8E/#jn-181761"
+  },
+  {
+    "kotoba": "阪東妻三郎",
+    "yomi": "ばんどう‐つまさぶろう",
+    "link": "/word/person/%E9%98%AA%E6%9D%B1%E5%A6%BB%E4%B8%89%E9%83%8E/#jn-181762"
+  },
+  {
+    "kotoba": "坂東八箇国",
+    "yomi": "ばんどう‐はっかこく",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E5%85%AB%E7%AE%87%E5%9B%BD/#jn-181764"
+  },
+  {
+    "kotoba": "坂東真砂子",
+    "yomi": "ばんどう‐まさこ",
+    "link": "/word/person/%E5%9D%82%E6%9D%B1%E7%9C%9F%E7%A0%82%E5%AD%90/#jn-181766"
+  },
+  {
+    "kotoba": "坂東三津五郎",
+    "yomi": "ばんどう‐みつごろう",
+    "link": "/word/person/%E5%9D%82%E6%9D%B1%E4%B8%89%E6%B4%A5%E4%BA%94%E9%83%8E/#jn-181767"
+  },
+  {
+    "kotoba": "坂東武者",
+    "yomi": "ばんどう‐むしゃ",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E6%AD%A6%E8%80%85/#jn-181768"
+  },
+  {
+    "kotoba": "坂東流",
+    "yomi": "ばんどう‐りゅう",
+    "link": "/word/%E5%9D%82%E6%9D%B1%E6%B5%81/#jn-181771"
+  },
+  {
+    "kotoba": "鑁阿寺",
+    "yomi": "ばんな‐じ",
+    "link": "/word/%E9%91%81%E9%98%BF%E5%AF%BA/#jn-181843"
+  },
+  {
+    "kotoba": "万難",
+    "yomi": "ばん‐なん",
+    "link": "/word/%E4%B8%87%E9%9B%A3/#jn-181849"
+  },
+  {
+    "kotoba": "万人",
+    "yomi": "ばん‐にん",
+    "link": "/word/%E4%B8%87%E4%BA%BA_%28%E3%81%B0%E3%82%93%E3%81%AB%E3%82%93%29/#jn-181874"
+  },
+  {
+    "kotoba": "番人",
+    "yomi": "ばん‐にん",
+    "link": "/word/%E7%95%AA%E4%BA%BA/#jn-181876"
+  },
+  {
+    "kotoba": "晩年",
+    "yomi": "ばん‐ねん",
+    "link": "/word/%E6%99%A9%E5%B9%B4/#jn-181887"
+  },
+  {
+    "kotoba": "万能",
+    "yomi": "ばん‐のう",
+    "link": "/word/%E4%B8%87%E8%83%BD_%28%E3%81%B0%E3%82%93%E3%81%AE%E3%81%86%29/#jn-181892"
+  },
+  {
+    "kotoba": "万能研削盤",
+    "yomi": "ばんのう‐けんさくばん",
+    "link": "/word/%E4%B8%87%E8%83%BD%E7%A0%94%E5%89%8A%E7%9B%A4/#jn-181894"
+  },
+  {
+    "kotoba": "万能細胞",
+    "yomi": "ばんのう‐さいぼう",
+    "link": "/word/%E4%B8%87%E8%83%BD%E7%B4%B0%E8%83%9E/#jn-181895"
+  },
+  {
+    "kotoba": "万能試験機",
+    "yomi": "ばんのう‐しけんき",
+    "link": "/word/%E4%B8%87%E8%83%BD%E8%A9%A6%E9%A8%93%E6%A9%9F/#jn-181898"
+  },
+  {
+    "kotoba": "万能性",
+    "yomi": "ばんのう‐せい",
+    "link": "/word/%E4%B8%87%E8%83%BD%E6%80%A7/#jn-269537"
+  },
+  {
+    "kotoba": "万能葱",
+    "yomi": "ばんのう‐ねぎ",
+    "link": "/word/%E4%B8%87%E8%83%BD%E8%91%B1/#jn-181901"
+  },
+  {
+    "kotoba": "万能鋏",
+    "yomi": "ばんのう‐はさみ",
+    "link": "/word/%E4%B8%87%E8%83%BD%E9%8B%8F/#jn-276194"
+  },
+  {
+    "kotoba": "万能包丁",
+    "yomi": "ばんのう‐ぼうちょう",
+    "link": "/word/%E4%B8%87%E8%83%BD%E5%8C%85%E4%B8%81/#jn-181906"
+  },
+  {
+    "kotoba": "伴信友",
+    "yomi": "ばん‐のぶとも",
+    "link": "/word/person/%E4%BC%B4%E4%BF%A1%E5%8F%8B/#jn-181912"
+  },
+  {
+    "kotoba": "晩発性障害",
+    "yomi": "ばんぱつせい‐しょうがい",
+    "link": "/word/%E6%99%A9%E7%99%BA%E6%80%A7%E9%9A%9C%E5%AE%B3/#jn-251910"
+  },
+  {
+    "kotoba": "番場",
+    "yomi": "ばんば",
+    "link": "/word/%E7%95%AA%E5%A0%B4/#jn-181915"
+  },
+  {
+    "kotoba": "輓馬",
+    "yomi": "ばん‐ば",
+    "link": "/word/%E8%BC%93%E9%A6%AC/#jn-181916"
+  },
+  {
+    "kotoba": "番囃子",
+    "yomi": "ばん‐ばやし",
+    "link": "/word/%E7%95%AA%E5%9B%83%E5%AD%90/#jn-181949"
+  },
+  {
+    "kotoba": "伴林光平",
+    "yomi": "ばんばやし‐みつひら",
+    "link": "/word/person/%E4%BC%B4%E6%9E%97%E5%85%89%E5%B9%B3/#jn-181950"
+  },
+  {
+    "kotoba": "万万",
+    "yomi": "ばん‐ばん",
+    "link": "/word/%E4%B8%87%E4%B8%87_%28%E3%81%B0%E3%82%93%E3%81%B0%E3%82%93%29/#jn-181955"
+  },
+  {
+    "kotoba": "万万一",
+    "yomi": "ばんばん‐いつ",
+    "link": "/word/%E4%B8%87%E4%B8%87%E4%B8%80_%28%E3%81%B0%E3%82%93%E3%81%B0%E3%82%93%E3%81%84%E3%81%A4%29/#jn-181958"
+  },
+  {
+    "kotoba": "万万歳",
+    "yomi": "ばん‐ばんざい",
+    "link": "/word/%E4%B8%87%E4%B8%87%E6%AD%B3/#jn-181959"
+  },
+  {
+    "kotoba": "棒棒鶏",
+    "yomi": "バンバンジー",
+    "link": "/word/%E6%A3%92%E6%A3%92%E9%B6%8F/#jn-181960"
+  },
+  {
+    "kotoba": "万波",
+    "yomi": "ばん‐ぱ",
+    "link": "/word/%E4%B8%87%E6%B3%A2_%28%E3%81%B0%E3%82%93%E3%81%B1%29/#jn-181917"
+  },
+  {
+    "kotoba": "万博",
+    "yomi": "ばん‐ぱく",
+    "link": "/word/%E4%B8%87%E5%8D%9A/#jn-181935"
+  },
+  {
+    "kotoba": "万博記念公園",
+    "yomi": "ばんぱくきねん‐こうえん",
+    "link": "/word/%E4%B8%87%E5%8D%9A%E8%A8%98%E5%BF%B5%E5%85%AC%E5%9C%92/#jn-247863"
+  },
+  {
+    "kotoba": "晩発",
+    "yomi": "ばん‐ぱつ",
+    "link": "/word/%E6%99%A9%E7%99%BA/#jn-181943"
+  },
+  {
+    "kotoba": "晩発性放射線障害",
+    "yomi": "ばんぱつせい‐ほうしゃせんしょうがい",
+    "link": "/word/%E6%99%A9%E7%99%BA%E6%80%A7%E6%94%BE%E5%B0%84%E7%B7%9A%E9%9A%9C%E5%AE%B3/#jn-251911"
+  },
+  {
+    "kotoba": "万般",
+    "yomi": "ばん‐ぱん",
+    "link": "/word/%E4%B8%87%E8%88%AC/#jn-181956"
+  },
+  {
+    "kotoba": "板皮類",
+    "yomi": "ばんぴ‐るい",
+    "link": "/word/%E6%9D%BF%E7%9A%AE%E9%A1%9E/#jn-181975"
+  },
+  {
+    "kotoba": "番袋",
+    "yomi": "ばん‐ぶくろ",
+    "link": "/word/%E7%95%AA%E8%A2%8B/#jn-182003"
+  },
+  {
+    "kotoba": "万物",
+    "yomi": "ばん‐ぶつ",
+    "link": "/word/%E4%B8%87%E7%89%A9_%28%E3%81%B0%E3%82%93%E3%81%B6%E3%81%A4%29/#jn-182007"
+  },
+  {
+    "kotoba": "万物流転",
+    "yomi": "ばんぶつ‐るてん",
+    "link": "/word/%E4%B8%87%E7%89%A9%E6%B5%81%E8%BB%A2/#jn-261849"
+  },
+  {
+    "kotoba": "番船",
+    "yomi": "ばん‐ぶね",
+    "link": "/word/%E7%95%AA%E8%88%B9/#jn-182012"
+  },
+  {
+    "kotoba": "万夫",
+    "yomi": "ばん‐ぷ",
+    "link": "/word/%E4%B8%87%E5%A4%AB/#jn-181984"
+  },
+  {
+    "kotoba": "蛮風",
+    "yomi": "ばん‐ぷう",
+    "link": "/word/%E8%9B%AE%E9%A2%A8/#jn-181989"
+  },
+  {
+    "kotoba": "万福",
+    "yomi": "ばん‐ぷく",
+    "link": "/word/%E4%B8%87%E7%A6%8F_%28%E3%81%B0%E3%82%93%E3%81%B7%E3%81%8F%29/#jn-181999"
+  },
+  {
+    "kotoba": "万夫不当",
+    "yomi": "ばんぷ‐ふとう",
+    "link": "/word/%E4%B8%87%E5%A4%AB%E4%B8%8D%E5%BD%93/#jn-182013"
+  },
+  {
+    "kotoba": "万別",
+    "yomi": "ばん‐べつ",
+    "link": "/word/%E4%B8%87%E5%88%A5/#jn-182036"
+  },
+  {
+    "kotoba": "蕃別",
+    "yomi": "ばん‐べつ",
+    "link": "/word/%E8%95%83%E5%88%A5/#jn-182037"
+  },
+  {
+    "kotoba": "番兵",
+    "yomi": "ばん‐ぺい",
+    "link": "/word/%E7%95%AA%E5%85%B5/#jn-182030"
+  },
+  {
+    "kotoba": "晩白柚",
+    "yomi": "ばんぺい‐ゆ",
+    "link": "/word/%E6%99%A9%E7%99%BD%E6%9F%9A/#jn-251912"
+  },
+  {
+    "kotoba": "晩暮",
+    "yomi": "ばん‐ぼ",
+    "link": "/word/%E6%99%A9%E6%9A%AE/#jn-182047"
+  },
+  {
+    "kotoba": "万木",
+    "yomi": "ばん‐ぼく",
+    "link": "/word/%E4%B8%87%E6%9C%A8/#jn-182057"
+  },
+  {
+    "kotoba": "万方",
+    "yomi": "ばん‐ぽう",
+    "link": "/word/%E4%B8%87%E6%96%B9/#jn-182052"
+  },
+  {
+    "kotoba": "万邦",
+    "yomi": "ばん‐ぽう",
+    "link": "/word/%E4%B8%87%E9%82%A6/#jn-182053"
+  },
+  {
+    "kotoba": "万宝",
+    "yomi": "ばん‐ぽう",
+    "link": "/word/%E4%B8%87%E5%AE%9D/#jn-182054"
+  },
+  {
+    "kotoba": "万法",
+    "yomi": "ばん‐ぽう",
+    "link": "/word/%E4%B8%87%E6%B3%95_%28%E3%81%B0%E3%82%93%E3%81%BD%E3%81%86%29/#jn-182055"
+  },
+  {
+    "kotoba": "万民",
+    "yomi": "ばん‐みん",
+    "link": "/word/%E4%B8%87%E6%B0%91/#jn-182077"
+  },
+  {
+    "kotoba": "万民徳用",
+    "yomi": "ばんみんとくよう",
+    "link": "/word/%E4%B8%87%E6%B0%91%E5%BE%B3%E7%94%A8/#jn-278070"
+  },
+  {
+    "kotoba": "万民法",
+    "yomi": "ばんみん‐ほう",
+    "link": "/word/%E4%B8%87%E6%B0%91%E6%B3%95/#jn-182078"
+  },
+  {
+    "kotoba": "番目",
+    "yomi": "ばん‐め",
+    "link": "/word/%E7%95%AA%E7%9B%AE/#jn-182084"
+  },
+  {
+    "kotoba": "晩飯",
+    "yomi": "ばん‐めし",
+    "link": "/word/%E6%99%A9%E9%A3%AF/#jn-182088"
+  },
+  {
+    "kotoba": "盤面",
+    "yomi": "ばん‐めん",
+    "link": "/word/%E7%9B%A4%E9%9D%A2/#jn-182094"
+  },
+  {
+    "kotoba": "万物",
+    "yomi": "ばん‐もつ",
+    "link": "/word/%E4%B8%87%E7%89%A9_%28%E3%81%B0%E3%82%93%E3%82%82%E3%81%A4%29/#jn-182104"
+  },
+  {
+    "kotoba": "番屋",
+    "yomi": "ばん‐や",
+    "link": "/word/%E7%95%AA%E5%B1%8B/#jn-182116"
+  },
+  {
+    "kotoba": "蛮野",
+    "yomi": "ばん‐や",
+    "link": "/word/%E8%9B%AE%E9%87%8E/#jn-182117"
+  },
+  {
+    "kotoba": "番役",
+    "yomi": "ばん‐やく",
+    "link": "/word/%E7%95%AA%E5%BD%B9/#jn-182120"
+  },
+  {
+    "kotoba": "万有",
+    "yomi": "ばん‐ゆう",
+    "link": "/word/%E4%B8%87%E6%9C%89/#jn-182125"
+  },
+  {
+    "kotoba": "蛮勇",
+    "yomi": "ばん‐ゆう",
+    "link": "/word/%E8%9B%AE%E5%8B%87/#jn-182126"
+  },
+  {
+    "kotoba": "盤遊",
+    "yomi": "ばん‐ゆう",
+    "link": "/word/%E7%9B%A4%E9%81%8A/#jn-182127"
+  },
+  {
+    "kotoba": "万有引力",
+    "yomi": "ばんゆう‐いんりょく",
+    "link": "/word/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B/#jn-182128"
+  },
+  {
+    "kotoba": "万有引力定数",
+    "yomi": "ばんゆういんりょく‐ていすう",
+    "link": "/word/%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B%E5%AE%9A%E6%95%B0/#jn-182129"
+  },
+  {
+    "kotoba": "万来",
+    "yomi": "ばん‐らい",
+    "link": "/word/%E4%B8%87%E6%9D%A5/#jn-182139"
+  },
+  {
+    "kotoba": "万雷",
+    "yomi": "ばん‐らい",
+    "link": "/word/%E4%B8%87%E9%9B%B7/#jn-182140"
+  },
+  {
+    "kotoba": "万籟",
+    "yomi": "ばん‐らい",
+    "link": "/word/%E4%B8%87%E7%B1%9F/#jn-182141"
+  },
+  {
+    "kotoba": "板藍根",
+    "yomi": "ばんらん‐こん",
+    "link": "/word/%E6%9D%BF%E8%97%8D%E6%A0%B9/#jn-264218"
+  },
+  {
+    "kotoba": "万里",
+    "yomi": "ばん‐り",
+    "link": "/word/%E4%B8%87%E9%87%8C/#jn-182151"
+  },
+  {
+    "kotoba": "万理一空",
+    "yomi": "ばんり‐いっくう",
+    "link": "/word/%E4%B8%87%E7%90%86%E4%B8%80%E7%A9%BA/#jn-251917"
+  },
+  {
+    "kotoba": "万里集九",
+    "yomi": "ばんり‐しゅうく",
+    "link": "/word/person/%E4%B8%87%E9%87%8C%E9%9B%86%E4%B9%9D/#jn-182153"
+  },
+  {
+    "kotoba": "万里同風",
+    "yomi": "ばんり‐どうふう",
+    "link": "/word/%E4%B8%87%E9%87%8C%E5%90%8C%E9%A2%A8/#jn-182155"
+  },
+  {
+    "kotoba": "伴流",
+    "yomi": "ばん‐りゅう",
+    "link": "/word/%E4%BC%B4%E6%B5%81/#jn-182159"
+  },
+  {
+    "kotoba": "万慮",
+    "yomi": "ばん‐りょ",
+    "link": "/word/%E4%B8%87%E6%85%AE/#jn-182163"
+  },
+  {
+    "kotoba": "晩涼",
+    "yomi": "ばん‐りょう",
+    "link": "/word/%E6%99%A9%E6%B6%BC/#jn-182167"
+  },
+  {
+    "kotoba": "盤領",
+    "yomi": "ばん‐りょう",
+    "link": "/word/%E7%9B%A4%E9%A0%98_%28%E3%81%B0%E3%82%93%E3%82%8A%E3%82%87%E3%81%86%29/#jn-182168"
+  },
+  {
+    "kotoba": "万緑",
+    "yomi": "ばん‐りょく",
+    "link": "/word/%E4%B8%87%E7%B7%91/#jn-182170"
+  },
+  {
+    "kotoba": "蛮力",
+    "yomi": "ばん‐りょく",
+    "link": "/word/%E8%9B%AE%E5%8A%9B/#jn-182172"
+  },
+  {
+    "kotoba": "万緑",
+    "yomi": "ばんりょく",
+    "link": "/word/%E4%B8%87%E7%B7%91/#jn-285918"
+  },
+  {
+    "kotoba": "万縷",
+    "yomi": "ばん‐る",
+    "link": "/word/%E4%B8%87%E7%B8%B7/#jn-182175"
+  },
+  {
+    "kotoba": "伴類",
+    "yomi": "ばん‐るい",
+    "link": "/word/%E4%BC%B4%E9%A1%9E/#jn-182177"
+  },
+  {
+    "kotoba": "万霊祭",
+    "yomi": "ばんれい‐さい",
+    "link": "/word/%E4%B8%87%E9%9C%8A%E7%A5%AD/#jn-182185"
+  },
+  {
+    "kotoba": "蕃茘枝",
+    "yomi": "ばん‐れいし",
+    "link": "/word/%E8%95%83%E8%8C%98%E6%9E%9D/#jn-182186"
+  },
+  {
+    "kotoba": "万暦",
+    "yomi": "ばんれき",
+    "link": "/word/%E4%B8%87%E6%9A%A6/#jn-182190"
+  },
+  {
+    "kotoba": "万暦赤絵",
+    "yomi": "ばんれき‐あかえ",
+    "link": "/word/%E4%B8%87%E6%9A%A6%E8%B5%A4%E7%B5%B5/#jn-182191"
+  },
+  {
+    "kotoba": "万暦帝",
+    "yomi": "ばんれき‐てい",
+    "link": "/word/person/%E4%B8%87%E6%9A%A6%E5%B8%9D/#jn-182192"
+  },
+  {
+    "kotoba": "万暦窯",
+    "yomi": "ばんれき‐よう",
+    "link": "/word/%E4%B8%87%E6%9A%A6%E7%AA%AF/#jn-182193"
+  },
+  {
+    "kotoba": "樊籠",
+    "yomi": "はん‐ろう",
+    "link": "/word/%E6%A8%8A%E7%B1%A0/#jn-182198"
+  },
+  {
+    "kotoba": "番論義",
+    "yomi": "ばん‐ろんぎ",
+    "link": "/word/%E7%95%AA%E8%AB%96%E7%BE%A9/#jn-182204"
+  }
+]

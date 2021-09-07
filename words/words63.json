@@ -1,0 +1,6367 @@
+[
+  {
+    "kotoba": "歩合",
+    "yomi": "ぶ‐あい",
+    "link": "/word/%E6%AD%A9%E5%90%88/#jn-189493"
+  },
+  {
+    "kotoba": "無愛",
+    "yomi": "ぶ‐あい",
+    "link": "/word/%E7%84%A1%E6%84%9B_%28%E3%81%B6%E3%81%82%E3%81%84%29/#jn-189494"
+  },
+  {
+    "kotoba": "蕪穢",
+    "yomi": "ぶ‐あい",
+    "link": "/word/%E8%95%AA%E7%A9%A2/#jn-189495"
+  },
+  {
+    "kotoba": "歩合給",
+    "yomi": "ぶあい‐きゅう",
+    "link": "/word/%E6%AD%A9%E5%90%88%E7%B5%A6/#jn-189503"
+  },
+  {
+    "kotoba": "無愛敬",
+    "yomi": "ぶ‐あいきょう",
+    "link": "/word/%E7%84%A1%E6%84%9B%E6%95%AC/#jn-189504"
+  },
+  {
+    "kotoba": "歩合算",
+    "yomi": "ぶあい‐ざん",
+    "link": "/word/%E6%AD%A9%E5%90%88%E7%AE%97/#jn-189506"
+  },
+  {
+    "kotoba": "歩合制度",
+    "yomi": "ぶあい‐せいど",
+    "link": "/word/%E6%AD%A9%E5%90%88%E5%88%B6%E5%BA%A6/#jn-189507"
+  },
+  {
+    "kotoba": "無愛想",
+    "yomi": "ぶ‐あいそう",
+    "link": "/word/%E7%84%A1%E6%84%9B%E6%83%B3/#jn-189508"
+  },
+  {
+    "kotoba": "歩合高",
+    "yomi": "ぶあい‐だか",
+    "link": "/word/%E6%AD%A9%E5%90%88%E9%AB%98/#jn-189511"
+  },
+  {
+    "kotoba": "武悪",
+    "yomi": "ぶあく",
+    "link": "/word/%E6%AD%A6%E6%82%AA/#jn-189591"
+  },
+  {
+    "kotoba": "撫安",
+    "yomi": "ぶ‐あん",
+    "link": "/word/%E6%92%AB%E5%AE%89/#jn-189740"
+  },
+  {
+    "kotoba": "無案内",
+    "yomi": "ぶ‐あんない",
+    "link": "/word/%E7%84%A1%E6%A1%88%E5%86%85/#jn-189792"
+  },
+  {
+    "kotoba": "武威",
+    "yomi": "ぶ‐い",
+    "link": "/word/%E6%AD%A6%E5%A8%81/#jn-189811"
+  },
+  {
+    "kotoba": "部位",
+    "yomi": "ぶ‐い",
+    "link": "/word/%E9%83%A8%E4%BD%8D/#jn-189812"
+  },
+  {
+    "kotoba": "無為",
+    "yomi": "ぶ‐い",
+    "link": "/word/%E7%84%A1%E7%82%BA_%28%E3%81%B6%E3%81%84%29/#jn-189815"
+  },
+  {
+    "kotoba": "無異",
+    "yomi": "ぶ‐い",
+    "link": "/word/%E7%84%A1%E7%95%B0/#jn-189816"
+  },
+  {
+    "kotoba": "武威",
+    "yomi": "ぶい",
+    "link": "/word/%E6%AD%A6%E5%A8%81/#jn-247997"
+  },
+  {
+    "kotoba": "浮標",
+    "yomi": "ブイ",
+    "link": "/word/%E6%B5%AE%E6%A8%99_%28%E3%83%96%E3%82%A4%29/#jn-293518"
+  },
+  {
+    "kotoba": "不意気",
+    "yomi": "ぶ‐いき",
+    "link": "/word/%E4%B8%8D%E6%84%8F%E6%B0%97/#jn-189912"
+  },
+  {
+    "kotoba": "撫育",
+    "yomi": "ぶ‐いく",
+    "link": "/word/%E6%92%AB%E8%82%B2/#jn-189923"
+  },
+  {
+    "kotoba": "分一",
+    "yomi": "ぶ‐いち",
+    "link": "/word/%E5%88%86%E4%B8%80/#jn-189966"
+  },
+  {
+    "kotoba": "部員",
+    "yomi": "ぶ‐いん",
+    "link": "/word/%E9%83%A8%E5%93%A1/#jn-190129"
+  },
+  {
+    "kotoba": "無音",
+    "yomi": "ぶ‐いん",
+    "link": "/word/%E7%84%A1%E9%9F%B3_%28%E3%81%B6%E3%81%84%E3%82%93%29/#jn-190130"
+  },
+  {
+    "kotoba": "武運",
+    "yomi": "ぶ‐うん",
+    "link": "/word/%E6%AD%A6%E9%81%8B/#jn-190561"
+  },
+  {
+    "kotoba": "武衛",
+    "yomi": "ぶ‐えい",
+    "link": "/word/%E6%AD%A6%E8%A1%9B/#jn-190592"
+  },
+  {
+    "kotoba": "夫役",
+    "yomi": "ぶ‐えき",
+    "link": "/word/%E5%A4%AB%E5%BD%B9/#jn-190640"
+  },
+  {
+    "kotoba": "無射",
+    "yomi": "ぶ‐えき",
+    "link": "/word/%E7%84%A1%E5%B0%84/#jn-190641"
+  },
+  {
+    "kotoba": "賦役",
+    "yomi": "ぶ‐えき",
+    "link": "/word/%E8%B3%A6%E5%BD%B9/#jn-190642"
+  },
+  {
+    "kotoba": "無塩",
+    "yomi": "ぶ‐えん",
+    "link": "/word/%E7%84%A1%E5%A1%A9_%28%E3%81%B6%E3%81%88%E3%82%93%29/#jn-190794"
+  },
+  {
+    "kotoba": "無遠慮",
+    "yomi": "ぶ‐えんりょ",
+    "link": "/word/%E7%84%A1%E9%81%A0%E6%85%AE/#jn-190803"
+  },
+  {
+    "kotoba": "武王",
+    "yomi": "ぶ‐おう",
+    "link": "/word/person/%E6%AD%A6%E7%8E%8B/#jn-190823"
+  },
+  {
+    "kotoba": "醜男",
+    "yomi": "ぶ‐おとこ",
+    "link": "/word/%E9%86%9C%E7%94%B7_%28%E3%81%B6%E3%81%8A%E3%81%A8%E3%81%93%29/#jn-190953"
+  },
+  {
+    "kotoba": "醜女",
+    "yomi": "ぶ‐おんな",
+    "link": "/word/%E9%86%9C%E5%A5%B3_%28%E3%81%B6%E3%81%8A%E3%82%93%E3%81%AA%29/#jn-191051"
+  },
+  {
+    "kotoba": "部下",
+    "yomi": "ぶ‐か",
+    "link": "/word/%E9%83%A8%E4%B8%8B/#jn-191067"
+  },
+  {
+    "kotoba": "部会",
+    "yomi": "ぶ‐かい",
+    "link": "/word/%E9%83%A8%E4%BC%9A/#jn-191077"
+  },
+  {
+    "kotoba": "不覚悟",
+    "yomi": "ふ‐かくご",
+    "link": "/word/%E4%B8%8D%E8%A6%9A%E6%82%9F/#jn-191117"
+  },
+  {
+    "kotoba": "不格好",
+    "yomi": "ぶ‐かっこう",
+    "link": "/word/%E4%B8%8D%E6%A0%BC%E5%A5%BD/#jn-191178"
+  },
+  {
+    "kotoba": "部活",
+    "yomi": "ぶ‐かつ",
+    "link": "/word/%E9%83%A8%E6%B4%BB/#jn-191176"
+  },
+  {
+    "kotoba": "部活動",
+    "yomi": "ぶ‐かつどう",
+    "link": "/word/%E9%83%A8%E6%B4%BB%E5%8B%95/#jn-191181"
+  },
+  {
+    "kotoba": "武官",
+    "yomi": "ぶ‐かん",
+    "link": "/word/%E6%AD%A6%E5%AE%98/#jn-191229"
+  },
+  {
+    "kotoba": "武漢",
+    "yomi": "ぶかん",
+    "link": "/word/%E6%AD%A6%E6%BC%A2/#jn-191230"
+  },
+  {
+    "kotoba": "武鑑",
+    "yomi": "ぶ‐かん",
+    "link": "/word/%E6%AD%A6%E9%91%91/#jn-191231"
+  },
+  {
+    "kotoba": "豊干",
+    "yomi": "ぶかん",
+    "link": "/word/person/%E8%B1%8A%E5%B9%B2/#jn-191232"
+  },
+  {
+    "kotoba": "武漢国民政府",
+    "yomi": "ぶかん‐こくみんせいふ",
+    "link": "/word/%E6%AD%A6%E6%BC%A2%E5%9B%BD%E6%B0%91%E6%94%BF%E5%BA%9C/#jn-191233"
+  },
+  {
+    "kotoba": "武漢三鎮",
+    "yomi": "ぶかん‐さんちん",
+    "link": "/word/%E6%AD%A6%E6%BC%A2%E4%B8%89%E9%8E%AE/#jn-191236"
+  },
+  {
+    "kotoba": "武漢政府",
+    "yomi": "ぶかん‐せいふ",
+    "link": "/word/%E6%AD%A6%E6%BC%A2%E6%94%BF%E5%BA%9C/#jn-278149"
+  },
+  {
+    "kotoba": "舞歌",
+    "yomi": "ぶ‐が",
+    "link": "/word/%E8%88%9E%E6%AD%8C/#jn-191068"
+  },
+  {
+    "kotoba": "部外",
+    "yomi": "ぶ‐がい",
+    "link": "/word/%E9%83%A8%E5%A4%96/#jn-191079"
+  },
+  {
+    "kotoba": "武学",
+    "yomi": "ぶ‐がく",
+    "link": "/word/%E6%AD%A6%E5%AD%A6/#jn-191115"
+  },
+  {
+    "kotoba": "舞楽",
+    "yomi": "ぶ‐がく",
+    "link": "/word/%E8%88%9E%E6%A5%BD/#jn-191116"
+  },
+  {
+    "kotoba": "舞楽面",
+    "yomi": "ぶがく‐めん",
+    "link": "/word/%E8%88%9E%E6%A5%BD%E9%9D%A2/#jn-191130"
+  },
+  {
+    "kotoba": "武頭",
+    "yomi": "ぶ‐がしら",
+    "link": "/word/%E6%AD%A6%E9%A0%AD/#jn-191156"
+  },
+  {
+    "kotoba": "不器",
+    "yomi": "ぶ‐き",
+    "link": "/word/%E4%B8%8D%E5%99%A8/#jn-191273"
+  },
+  {
+    "kotoba": "武器",
+    "yomi": "ぶ‐き",
+    "link": "/word/%E6%AD%A6%E5%99%A8/#jn-191271"
+  },
+  {
+    "kotoba": "舞姫",
+    "yomi": "ぶ‐き",
+    "link": "/word/%E8%88%9E%E5%A7%AB_%28%E3%81%B6%E3%81%8D%29/#jn-191272"
+  },
+  {
+    "kotoba": "武器技術",
+    "yomi": "ぶき‐ぎじゅつ",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E6%8A%80%E8%A1%93/#jn-272019"
+  },
+  {
+    "kotoba": "武器三原則",
+    "yomi": "ぶき‐さんげんそく",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E4%B8%89%E5%8E%9F%E5%89%87/#jn-269681"
+  },
+  {
+    "kotoba": "武器使用基準",
+    "yomi": "ぶきしよう‐きじゅん",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E4%BD%BF%E7%94%A8%E5%9F%BA%E6%BA%96/#jn-259260"
+  },
+  {
+    "kotoba": "武器貸与法",
+    "yomi": "ぶきたいよ‐ほう",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E8%B2%B8%E4%B8%8E%E6%B3%95/#jn-191341"
+  },
+  {
+    "kotoba": "不器用",
+    "yomi": "ぶ‐きっちょ",
+    "link": "/word/%E4%B8%8D%E5%99%A8%E7%94%A8_%28%E3%81%B6%E3%81%8D%E3%81%A3%E3%81%A1%E3%82%87%29/#jn-191357"
+  },
+  {
+    "kotoba": "武器等製造法",
+    "yomi": "ぶきとうせいぞう‐ほう",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E7%AD%89%E8%A3%BD%E9%80%A0%E6%B3%95/#jn-241534"
+  },
+  {
+    "kotoba": "武器貿易条約",
+    "yomi": "ぶきぼうえき‐じょうやく",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E8%B2%BF%E6%98%93%E6%9D%A1%E7%B4%84/#jn-278150"
+  },
+  {
+    "kotoba": "不気味",
+    "yomi": "ぶ‐きみ",
+    "link": "/word/%E4%B8%8D%E6%B0%97%E5%91%B3/#jn-191397"
+  },
+  {
+    "kotoba": "武器輸出三原則",
+    "yomi": "ぶきゆしゅつ‐さんげんそく",
+    "link": "/word/%E6%AD%A6%E5%99%A8%E8%BC%B8%E5%87%BA%E4%B8%89%E5%8E%9F%E5%89%87/#jn-244253"
+  },
+  {
+    "kotoba": "不興",
+    "yomi": "ふ‐きょう",
+    "link": "/word/%E4%B8%8D%E8%88%88/#jn-191417"
+  },
+  {
+    "kotoba": "不興",
+    "yomi": "ぶ‐きょう",
+    "link": "/word/%E4%B8%8D%E8%88%88/#jn-191422"
+  },
+  {
+    "kotoba": "武侠",
+    "yomi": "ぶ‐きょう",
+    "link": "/word/%E6%AD%A6%E4%BE%A0/#jn-191421"
+  },
+  {
+    "kotoba": "部曲",
+    "yomi": "ぶ‐きょく",
+    "link": "/word/%E9%83%A8%E6%9B%B2/#jn-191438"
+  },
+  {
+    "kotoba": "部局",
+    "yomi": "ぶ‐きょく",
+    "link": "/word/%E9%83%A8%E5%B1%80/#jn-191439"
+  },
+  {
+    "kotoba": "舞曲",
+    "yomi": "ぶ‐きょく",
+    "link": "/word/%E8%88%9E%E6%9B%B2_%28%E3%81%B6%E3%81%8D%E3%82%87%E3%81%8F%29/#jn-191440"
+  },
+  {
+    "kotoba": "不器用",
+    "yomi": "ぶ‐きよう",
+    "link": "/word/%E4%B8%8D%E5%99%A8%E7%94%A8_%28%E3%81%B6%E3%81%8D%E3%82%88%E3%81%86%29/#jn-191423"
+  },
+  {
+    "kotoba": "不器量",
+    "yomi": "ぶ‐きりょう",
+    "link": "/word/%E4%B8%8D%E5%99%A8%E9%87%8F/#jn-191447"
+  },
+  {
+    "kotoba": "夫金",
+    "yomi": "ぶ‐きん",
+    "link": "/word/%E5%A4%AB%E9%87%91/#jn-191457"
+  },
+  {
+    "kotoba": "武技",
+    "yomi": "ぶ‐ぎ",
+    "link": "/word/%E6%AD%A6%E6%8A%80/#jn-191274"
+  },
+  {
+    "kotoba": "舞妓",
+    "yomi": "ぶ‐ぎ",
+    "link": "/word/%E8%88%9E%E5%A6%93_%28%E3%81%B6%E3%81%8E%29/#jn-191275"
+  },
+  {
+    "kotoba": "奉行",
+    "yomi": "ぶ‐ぎょう",
+    "link": "/word/%E5%A5%89%E8%A1%8C_%28%E3%81%B6%E3%81%8E%E3%82%87%E3%81%86%29/#jn-191424"
+  },
+  {
+    "kotoba": "不行儀",
+    "yomi": "ふ‐ぎょうぎ",
+    "link": "/word/%E4%B8%8D%E8%A1%8C%E5%84%80/#jn-191427"
+  },
+  {
+    "kotoba": "奉行所",
+    "yomi": "ぶぎょう‐しょ",
+    "link": "/word/%E5%A5%89%E8%A1%8C%E6%89%80/#jn-191428"
+  },
+  {
+    "kotoba": "奉行人",
+    "yomi": "ぶぎょう‐にん",
+    "link": "/word/%E5%A5%89%E8%A1%8C%E4%BA%BA/#jn-191431"
+  },
+  {
+    "kotoba": "仏供",
+    "yomi": "ぶ‐く",
+    "link": "/word/%E4%BB%8F%E4%BE%9B_%28%E3%81%B6%E3%81%8F%29/#jn-191494"
+  },
+  {
+    "kotoba": "服忌",
+    "yomi": "ぶく‐き",
+    "link": "/word/%E6%9C%8D%E5%BF%8C/#jn-191571"
+  },
+  {
+    "kotoba": "服解",
+    "yomi": "ぶく‐げ",
+    "link": "/word/%E6%9C%8D%E8%A7%A3/#jn-191582"
+  },
+  {
+    "kotoba": "服者",
+    "yomi": "ぶく‐しゃ",
+    "link": "/word/%E6%9C%8D%E8%80%85/#jn-191682"
+  },
+  {
+    "kotoba": "服事",
+    "yomi": "ふく‐じ",
+    "link": "/word/%E6%9C%8D%E4%BA%8B/#jn-191644"
+  },
+  {
+    "kotoba": "服種",
+    "yomi": "ぶく‐だね",
+    "link": "/word/%E6%9C%8D%E7%A8%AE/#jn-191817"
+  },
+  {
+    "kotoba": "茯苓",
+    "yomi": "ぶく‐りょう",
+    "link": "/word/%E8%8C%AF%E8%8B%93/#jn-191985"
+  },
+  {
+    "kotoba": "武勲",
+    "yomi": "ぶ‐くん",
+    "link": "/word/%E6%AD%A6%E5%8B%B2/#jn-192058"
+  },
+  {
+    "kotoba": "武勲詩",
+    "yomi": "ぶくん‐し",
+    "link": "/word/%E6%AD%A6%E5%8B%B2%E8%A9%A9/#jn-192059"
+  },
+  {
+    "kotoba": "武具",
+    "yomi": "ぶ‐ぐ",
+    "link": "/word/%E6%AD%A6%E5%85%B7/#jn-191497"
+  },
+  {
+    "kotoba": "武具奉行",
+    "yomi": "ぶぐ‐ぶぎょう",
+    "link": "/word/%E6%AD%A6%E5%85%B7%E5%A5%89%E8%A1%8C/#jn-191884"
+  },
+  {
+    "kotoba": "武家",
+    "yomi": "ぶ‐け",
+    "link": "/word/%E6%AD%A6%E5%AE%B6/#jn-192066"
+  },
+  {
+    "kotoba": "不稽",
+    "yomi": "ふ‐けい",
+    "link": "/word/%E4%B8%8D%E7%A8%BD/#jn-192073"
+  },
+  {
+    "kotoba": "武家華族",
+    "yomi": "ぶけ‐かぞく",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E8%8F%AF%E6%97%8F/#jn-192083"
+  },
+  {
+    "kotoba": "武家方",
+    "yomi": "ぶけ‐がた",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E6%96%B9/#jn-192084"
+  },
+  {
+    "kotoba": "武家義理物語",
+    "yomi": "ぶけぎりものがたり",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E7%BE%A9%E7%90%86%E7%89%A9%E8%AA%9E/#jn-192087"
+  },
+  {
+    "kotoba": "武家故実",
+    "yomi": "ぶけ‐こじつ",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E6%95%85%E5%AE%9F/#jn-192088"
+  },
+  {
+    "kotoba": "武家衆",
+    "yomi": "ぶけ‐しゅう",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E8%A1%86/#jn-192092"
+  },
+  {
+    "kotoba": "武家諸法度",
+    "yomi": "ぶけ‐しょはっと",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E8%AB%B8%E6%B3%95%E5%BA%A6/#jn-192093"
+  },
+  {
+    "kotoba": "武家時代",
+    "yomi": "ぶけ‐じだい",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E6%99%82%E4%BB%A3/#jn-192090"
+  },
+  {
+    "kotoba": "武家政治",
+    "yomi": "ぶけ‐せいじ",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E6%94%BF%E6%B2%BB/#jn-192094"
+  },
+  {
+    "kotoba": "部決",
+    "yomi": "ぶ‐けつ",
+    "link": "/word/%E9%83%A8%E6%B1%BA/#jn-259272"
+  },
+  {
+    "kotoba": "武家伝奏",
+    "yomi": "ぶけ‐てんそう",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E4%BC%9D%E5%A5%8F/#jn-192100"
+  },
+  {
+    "kotoba": "武家法",
+    "yomi": "ぶけ‐ほう",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E6%B3%95/#jn-192102"
+  },
+  {
+    "kotoba": "武家奉公",
+    "yomi": "ぶけ‐ぼうこう",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E5%A5%89%E5%85%AC/#jn-192103"
+  },
+  {
+    "kotoba": "武家名目抄",
+    "yomi": "ぶけみょうもくしょう",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E5%90%8D%E7%9B%AE%E6%8A%84/#jn-192106"
+  },
+  {
+    "kotoba": "武家物",
+    "yomi": "ぶけ‐もの",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E7%89%A9/#jn-192107"
+  },
+  {
+    "kotoba": "武家役",
+    "yomi": "ぶけ‐やく",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E5%BD%B9/#jn-192109"
+  },
+  {
+    "kotoba": "武家屋敷",
+    "yomi": "ぶけ‐やしき",
+    "link": "/word/%E6%AD%A6%E5%AE%B6%E5%B1%8B%E6%95%B7/#jn-192110"
+  },
+  {
+    "kotoba": "武芸",
+    "yomi": "ぶ‐げい",
+    "link": "/word/%E6%AD%A6%E8%8A%B8/#jn-192074"
+  },
+  {
+    "kotoba": "武芸者",
+    "yomi": "ぶげい‐しゃ",
+    "link": "/word/%E6%AD%A6%E8%8A%B8%E8%80%85/#jn-192079"
+  },
+  {
+    "kotoba": "武芸十八般",
+    "yomi": "ぶげい‐じゅうはっぱん",
+    "link": "/word/%E6%AD%A6%E8%8A%B8%E5%8D%81%E5%85%AB%E8%88%AC/#jn-192080"
+  },
+  {
+    "kotoba": "誣言",
+    "yomi": "ふ‐げん",
+    "link": "/word/%E8%AA%A3%E8%A8%80_%28%E3%81%B5%E3%81%92%E3%82%93%29/#jn-192129"
+  },
+  {
+    "kotoba": "分限",
+    "yomi": "ぶ‐げん",
+    "link": "/word/%E5%88%86%E9%99%90_%28%E3%81%B6%E3%81%92%E3%82%93%29/#jn-192130"
+  },
+  {
+    "kotoba": "侮言",
+    "yomi": "ぶ‐げん",
+    "link": "/word/%E4%BE%AE%E8%A8%80/#jn-192131"
+  },
+  {
+    "kotoba": "分限者",
+    "yomi": "ぶげん‐しゃ",
+    "link": "/word/%E5%88%86%E9%99%90%E8%80%85/#jn-192139"
+  },
+  {
+    "kotoba": "武庫",
+    "yomi": "ぶ‐こ",
+    "link": "/word/%E6%AD%A6%E5%BA%AB/#jn-192156"
+  },
+  {
+    "kotoba": "武功",
+    "yomi": "ぶ‐こう",
+    "link": "/word/%E6%AD%A6%E5%8A%9F/#jn-192167"
+  },
+  {
+    "kotoba": "武甲",
+    "yomi": "ぶ‐こう",
+    "link": "/word/%E6%AD%A6%E7%94%B2/#jn-192168"
+  },
+  {
+    "kotoba": "武后",
+    "yomi": "ぶ‐こう",
+    "link": "/word/person/%E6%AD%A6%E5%90%8E/#jn-192169"
+  },
+  {
+    "kotoba": "武江",
+    "yomi": "ぶ‐こう",
+    "link": "/word/%E6%AD%A6%E6%B1%9F/#jn-192170"
+  },
+  {
+    "kotoba": "無功",
+    "yomi": "ぶ‐こう",
+    "link": "/word/%E7%84%A1%E5%8A%9F_%28%E3%81%B6%E3%81%93%E3%81%86%29/#jn-192171"
+  },
+  {
+    "kotoba": "武甲山",
+    "yomi": "ぶこう‐ざん",
+    "link": "/word/%E6%AD%A6%E7%94%B2%E5%B1%B1/#jn-192175"
+  },
+  {
+    "kotoba": "誣告",
+    "yomi": "ぶ‐こく",
+    "link": "/word/%E8%AA%A3%E5%91%8A/#jn-192187"
+  },
+  {
+    "kotoba": "誣告罪",
+    "yomi": "ぶこく‐ざい",
+    "link": "/word/%E8%AA%A3%E5%91%8A%E7%BD%AA/#jn-192189"
+  },
+  {
+    "kotoba": "無骨",
+    "yomi": "ぶ‐こつ",
+    "link": "/word/%E7%84%A1%E9%AA%A8/#jn-192194"
+  },
+  {
+    "kotoba": "牧歌",
+    "yomi": "ぼっか",
+    "link": "/word/%E7%89%A7%E6%AD%8C/#jn-272145"
+  },
+  {
+    "kotoba": "無沙",
+    "yomi": "ぶ‐さ",
+    "link": "/word/%E7%84%A1%E6%B2%99/#jn-192202"
+  },
+  {
+    "kotoba": "無菜",
+    "yomi": "ぶ‐さい",
+    "link": "/word/%E7%84%A1%E8%8F%9C_%28%E3%81%B6%E3%81%95%E3%81%84%29/#jn-192213"
+  },
+  {
+    "kotoba": "不細工",
+    "yomi": "ぶ‐さいく",
+    "link": "/word/%E4%B8%8D%E7%B4%B0%E5%B7%A5/#jn-192218"
+  },
+  {
+    "kotoba": "無沙汰",
+    "yomi": "ぶ‐さた",
+    "link": "/word/%E7%84%A1%E6%B2%99%E6%B1%B0/#jn-192247"
+  },
+  {
+    "kotoba": "無作法",
+    "yomi": "ぶ‐さほう",
+    "link": "/word/%E7%84%A1%E4%BD%9C%E6%B3%95/#jn-192257"
+  },
+  {
+    "kotoba": "武左",
+    "yomi": "ぶ‐ざ",
+    "link": "/word/%E6%AD%A6%E5%B7%A6/#jn-192204"
+  },
+  {
+    "kotoba": "部材",
+    "yomi": "ぶ‐ざい",
+    "link": "/word/%E9%83%A8%E6%9D%90/#jn-192214"
+  },
+  {
+    "kotoba": "蕪雑",
+    "yomi": "ぶ‐ざつ",
+    "link": "/word/%E8%95%AA%E9%9B%91/#jn-192250"
+  },
+  {
+    "kotoba": "無様",
+    "yomi": "ぶ‐ざま",
+    "link": "/word/%E7%84%A1%E6%A7%98/#jn-192258"
+  },
+  {
+    "kotoba": "豊山派",
+    "yomi": "ぶざん‐は",
+    "link": "/word/%E8%B1%8A%E5%B1%B1%E6%B4%BE/#jn-192276"
+  },
+  {
+    "kotoba": "付子",
+    "yomi": "ぶ‐し",
+    "link": "/word/%E4%BB%98%E5%AD%90_%28%E3%81%B6%E3%81%97%29/#jn-192294"
+  },
+  {
+    "kotoba": "武士",
+    "yomi": "ぶ‐し",
+    "link": "/word/%E6%AD%A6%E5%A3%AB_%28%E3%81%B6%E3%81%97%29/#jn-192295"
+  },
+  {
+    "kotoba": "武士気質",
+    "yomi": "ぶし‐かたぎ",
+    "link": "/word/%E6%AD%A6%E5%A3%AB%E6%B0%97%E8%B3%AA/#jn-192343"
+  },
+  {
+    "kotoba": "武士団",
+    "yomi": "ぶし‐だん",
+    "link": "/word/%E6%AD%A6%E5%A3%AB%E5%9B%A3/#jn-192426"
+  },
+  {
+    "kotoba": "部室",
+    "yomi": "ぶ‐しつ",
+    "link": "/word/%E9%83%A8%E5%AE%A4/#jn-192435"
+  },
+  {
+    "kotoba": "不躾",
+    "yomi": "ぶ‐しつけ",
+    "link": "/word/%E4%B8%8D%E8%BA%BE/#jn-192441"
+  },
+  {
+    "kotoba": "武士道",
+    "yomi": "ぶし‐どう",
+    "link": "/word/%E6%AD%A6%E5%A3%AB%E9%81%93/#jn-192448"
+  },
+  {
+    "kotoba": "武士道",
+    "yomi": "ぶしどう",
+    "link": "/word/%E6%AD%A6%E5%A3%AB%E9%81%93/#jn-295244"
+  },
+  {
+    "kotoba": "奉射",
+    "yomi": "ぶ‐しゃ",
+    "link": "/word/%E5%A5%89%E5%B0%84/#jn-192546"
+  },
+  {
+    "kotoba": "歩射",
+    "yomi": "ぶ‐しゃ",
+    "link": "/word/%E6%AD%A9%E5%B0%84_%28%E3%81%B6%E3%81%97%E3%82%83%29/#jn-192547"
+  },
+  {
+    "kotoba": "不洒落",
+    "yomi": "ぶ‐しゃれ",
+    "link": "/word/%E4%B8%8D%E6%B4%92%E8%90%BD/#jn-192556"
+  },
+  {
+    "kotoba": "付子矢",
+    "yomi": "ぶし‐や",
+    "link": "/word/%E4%BB%98%E5%AD%90%E7%9F%A2/#jn-192548"
+  },
+  {
+    "kotoba": "部首",
+    "yomi": "ぶ‐しゅ",
+    "link": "/word/%E9%83%A8%E9%A6%96/#jn-192563"
+  },
+  {
+    "kotoba": "武州",
+    "yomi": "ぶ‐しゅう",
+    "link": "/word/%E6%AD%A6%E5%B7%9E/#jn-192569"
+  },
+  {
+    "kotoba": "武州一揆",
+    "yomi": "ぶしゅう‐いっき",
+    "link": "/word/%E6%AD%A6%E5%B7%9E%E4%B8%80%E6%8F%86/#jn-192570"
+  },
+  {
+    "kotoba": "不祝儀",
+    "yomi": "ぶ‐しゅうぎ",
+    "link": "/word/%E4%B8%8D%E7%A5%9D%E5%84%80/#jn-192572"
+  },
+  {
+    "kotoba": "不祝儀袋",
+    "yomi": "ぶしゅうぎ‐ぶくろ",
+    "link": "/word/%E4%B8%8D%E7%A5%9D%E5%84%80%E8%A2%8B/#jn-248066"
+  },
+  {
+    "kotoba": "不祝言",
+    "yomi": "ぶ‐しゅうげん",
+    "link": "/word/%E4%B8%8D%E7%A5%9D%E8%A8%80/#jn-192574"
+  },
+  {
+    "kotoba": "武州千住",
+    "yomi": "ぶしゅうせんじゅ",
+    "link": "/word/%E6%AD%A6%E5%B7%9E%E5%8D%83%E4%BD%8F/#jn-298532"
+  },
+  {
+    "kotoba": "武州玉川",
+    "yomi": "ぶしゅうたまがわ",
+    "link": "/word/%E6%AD%A6%E5%B7%9E%E7%8E%89%E5%B7%9D/#jn-298533"
+  },
+  {
+    "kotoba": "仏手柑",
+    "yomi": "ぶしゅ‐かん",
+    "link": "/word/%E4%BB%8F%E6%89%8B%E6%9F%91/#jn-192577"
+  },
+  {
+    "kotoba": "不首尾",
+    "yomi": "ふ‐しゅび",
+    "link": "/word/%E4%B8%8D%E9%A6%96%E5%B0%BE/#jn-192588"
+  },
+  {
+    "kotoba": "部署",
+    "yomi": "ぶ‐しょ",
+    "link": "/word/%E9%83%A8%E7%BD%B2/#jn-192602"
+  },
+  {
+    "kotoba": "不精",
+    "yomi": "ぶ‐しょう",
+    "link": "/word/%E4%B8%8D%E7%B2%BE/#jn-192624"
+  },
+  {
+    "kotoba": "武昌",
+    "yomi": "ぶしょう",
+    "link": "/word/%E6%AD%A6%E6%98%8C/#jn-192621"
+  },
+  {
+    "kotoba": "武将",
+    "yomi": "ぶ‐しょう",
+    "link": "/word/%E6%AD%A6%E5%B0%86/#jn-192622"
+  },
+  {
+    "kotoba": "部将",
+    "yomi": "ぶ‐しょう",
+    "link": "/word/%E9%83%A8%E5%B0%86/#jn-192623"
+  },
+  {
+    "kotoba": "不精独楽",
+    "yomi": "ぶしょう‐ごま",
+    "link": "/word/%E4%B8%8D%E7%B2%BE%E7%8B%AC%E6%A5%BD/#jn-192627"
+  },
+  {
+    "kotoba": "不精髭",
+    "yomi": "ぶしょう‐ひげ",
+    "link": "/word/%E4%B8%8D%E7%B2%BE%E9%AB%AD/#jn-192638"
+  },
+  {
+    "kotoba": "不精者",
+    "yomi": "ぶしょう‐もの",
+    "link": "/word/%E4%B8%8D%E7%B2%BE%E8%80%85/#jn-192642"
+  },
+  {
+    "kotoba": "不所存",
+    "yomi": "ふ‐しょぞん",
+    "link": "/word/%E4%B8%8D%E6%89%80%E5%AD%98/#jn-192663"
+  },
+  {
+    "kotoba": "武臣",
+    "yomi": "ぶ‐しん",
+    "link": "/word/%E6%AD%A6%E8%87%A3/#jn-192785"
+  },
+  {
+    "kotoba": "武神",
+    "yomi": "ぶ‐しん",
+    "link": "/word/%E6%AD%A6%E7%A5%9E/#jn-192786"
+  },
+  {
+    "kotoba": "不心中",
+    "yomi": "ぶ‐しんじゅう",
+    "link": "/word/%E4%B8%8D%E5%BF%83%E4%B8%AD/#jn-192800"
+  },
+  {
+    "kotoba": "不心中者",
+    "yomi": "ぶしんじゅう‐もの",
+    "link": "/word/%E4%B8%8D%E5%BF%83%E4%B8%AD%E8%80%85/#jn-192801"
+  },
+  {
+    "kotoba": "不信心",
+    "yomi": "ふ‐しんじん",
+    "link": "/word/%E4%B8%8D%E4%BF%A1%E5%BF%83/#jn-192802"
+  },
+  {
+    "kotoba": "武事",
+    "yomi": "ぶ‐じ",
+    "link": "/word/%E6%AD%A6%E4%BA%8B/#jn-192300"
+  },
+  {
+    "kotoba": "無事",
+    "yomi": "ぶ‐じ",
+    "link": "/word/%E7%84%A1%E4%BA%8B/#jn-192302"
+  },
+  {
+    "kotoba": "蕪辞",
+    "yomi": "ぶ‐じ",
+    "link": "/word/%E8%95%AA%E8%BE%9E/#jn-192301"
+  },
+  {
+    "kotoba": "夫食",
+    "yomi": "ぶ‐じき",
+    "link": "/word/%E5%A4%AB%E9%A3%9F/#jn-192358"
+  },
+  {
+    "kotoba": "武術",
+    "yomi": "ぶ‐じゅつ",
+    "link": "/word/%E6%AD%A6%E8%A1%93/#jn-192586"
+  },
+  {
+    "kotoba": "撫恤",
+    "yomi": "ぶ‐じゅつ",
+    "link": "/word/%E6%92%AB%E6%81%A4/#jn-192587"
+  },
+  {
+    "kotoba": "撫順",
+    "yomi": "ぶじゅん",
+    "link": "/word/%E6%92%AB%E9%A0%86/#jn-192594"
+  },
+  {
+    "kotoba": "峰定寺",
+    "yomi": "ぶじょう‐じ",
+    "link": "/word/%E5%B3%B0%E5%AE%9A%E5%AF%BA/#jn-192629"
+  },
+  {
+    "kotoba": "侮辱",
+    "yomi": "ぶ‐じょく",
+    "link": "/word/%E4%BE%AE%E8%BE%B1/#jn-192651"
+  },
+  {
+    "kotoba": "侮辱罪",
+    "yomi": "ぶじょく‐ざい",
+    "link": "/word/%E4%BE%AE%E8%BE%B1%E7%BD%AA/#jn-192653"
+  },
+  {
+    "kotoba": "不印",
+    "yomi": "ふ‐じるし",
+    "link": "/word/%E4%B8%8D%E5%8D%B0/#jn-192666"
+  },
+  {
+    "kotoba": "武人",
+    "yomi": "ぶ‐じん",
+    "link": "/word/%E6%AD%A6%E4%BA%BA/#jn-192787"
+  },
+  {
+    "kotoba": "付子",
+    "yomi": "ぶ‐す",
+    "link": "/word/%E4%BB%98%E5%AD%90_%28%E3%81%B6%E3%81%99%29/#jn-192829"
+  },
+  {
+    "kotoba": "附子",
+    "yomi": "ぶす",
+    "link": "/word/%E9%99%84%E5%AD%90/#jn-192830"
+  },
+  {
+    "kotoba": "無粋",
+    "yomi": "ぶ‐すい",
+    "link": "/word/%E7%84%A1%E7%B2%8B/#jn-192834"
+  },
+  {
+    "kotoba": "部数",
+    "yomi": "ぶ‐すう",
+    "link": "/word/%E9%83%A8%E6%95%B0/#jn-192840"
+  },
+  {
+    "kotoba": "無勢",
+    "yomi": "ぶ‐ぜい",
+    "link": "/word/%E7%84%A1%E5%8B%A2/#jn-192896"
+  },
+  {
+    "kotoba": "夫銭",
+    "yomi": "ぶ‐せん",
+    "link": "/word/%E5%A4%AB%E9%8A%AD/#jn-192961"
+  },
+  {
+    "kotoba": "豊前",
+    "yomi": "ぶぜん",
+    "link": "/word/%E8%B1%8A%E5%89%8D/#jn-192962"
+  },
+  {
+    "kotoba": "憮然",
+    "yomi": "ぶ‐ぜん",
+    "link": "/word/%E6%86%AE%E7%84%B6/#jn-192963"
+  },
+  {
+    "kotoba": "豊前市",
+    "yomi": "ぶぜん‐し",
+    "link": "/word/%E8%B1%8A%E5%89%8D%E5%B8%82/#jn-192966"
+  },
+  {
+    "kotoba": "豊前国",
+    "yomi": "ぶぜん‐の‐くに",
+    "link": "/word/%E8%B1%8A%E5%89%8D%E5%9B%BD/#jn-274263"
+  },
+  {
+    "kotoba": "武相",
+    "yomi": "ぶ‐そう",
+    "link": "/word/%E6%AD%A6%E7%9B%B8/#jn-192976"
+  },
+  {
+    "kotoba": "武装",
+    "yomi": "ぶ‐そう",
+    "link": "/word/%E6%AD%A6%E8%A3%85/#jn-192977"
+  },
+  {
+    "kotoba": "無双",
+    "yomi": "ぶ‐そう",
+    "link": "/word/%E7%84%A1%E5%8F%8C_%28%E3%81%B6%E3%81%9D%E3%81%86%29/#jn-192978"
+  },
+  {
+    "kotoba": "不相応",
+    "yomi": "ふ‐そうおう",
+    "link": "/word/%E4%B8%8D%E7%9B%B8%E5%BF%9C/#jn-192979"
+  },
+  {
+    "kotoba": "武装解除",
+    "yomi": "ぶそう‐かいじょ",
+    "link": "/word/%E6%AD%A6%E8%A3%85%E8%A7%A3%E9%99%A4/#jn-192980"
+  },
+  {
+    "kotoba": "武装勢力",
+    "yomi": "ぶそう‐せいりょく",
+    "link": "/word/%E6%AD%A6%E8%A3%85%E5%8B%A2%E5%8A%9B/#jn-244271"
+  },
+  {
+    "kotoba": "武装中立",
+    "yomi": "ぶそう‐ちゅうりつ",
+    "link": "/word/%E6%AD%A6%E8%A3%85%E4%B8%AD%E7%AB%8B/#jn-192985"
+  },
+  {
+    "kotoba": "武装平和",
+    "yomi": "ぶそう‐へいわ",
+    "link": "/word/%E6%AD%A6%E8%A3%85%E5%B9%B3%E5%92%8C/#jn-192987"
+  },
+  {
+    "kotoba": "武装蜂起",
+    "yomi": "ぶそう‐ほうき",
+    "link": "/word/%E6%AD%A6%E8%A3%85%E8%9C%82%E8%B5%B7/#jn-192988"
+  },
+  {
+    "kotoba": "蕪村",
+    "yomi": "ぶそん",
+    "link": "/word/person/%E8%95%AA%E6%9D%91/#jn-193012"
+  },
+  {
+    "kotoba": "蕪村七部集",
+    "yomi": "ぶそんしちぶしゅう",
+    "link": "/word/%E8%95%AA%E6%9D%91%E4%B8%83%E9%83%A8%E9%9B%86/#jn-193014"
+  },
+  {
+    "kotoba": "部族",
+    "yomi": "ぶ‐ぞく",
+    "link": "/word/%E9%83%A8%E6%97%8F/#jn-192999"
+  },
+  {
+    "kotoba": "部隊",
+    "yomi": "ぶ‐たい",
+    "link": "/word/%E9%83%A8%E9%9A%8A/#jn-193031"
+  },
+  {
+    "kotoba": "舞台",
+    "yomi": "ぶ‐たい",
+    "link": "/word/%E8%88%9E%E5%8F%B0/#jn-193032"
+  },
+  {
+    "kotoba": "舞台挨拶",
+    "yomi": "ぶたい‐あいさつ",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E6%8C%A8%E6%8B%B6/#jn-278158"
+  },
+  {
+    "kotoba": "舞台衣装",
+    "yomi": "ぶたい‐いしょう",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E8%A1%A3%E8%A3%85/#jn-193034"
+  },
+  {
+    "kotoba": "舞台裏",
+    "yomi": "ぶたい‐うら",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E8%A3%8F/#jn-193035"
+  },
+  {
+    "kotoba": "舞台裏",
+    "yomi": "ぶたいうら",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E8%A3%8F/#jn-281847"
+  },
+  {
+    "kotoba": "舞台化",
+    "yomi": "ぶたい‐か",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E5%8C%96/#jn-287932"
+  },
+  {
+    "kotoba": "舞台監督",
+    "yomi": "ぶたい‐かんとく",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E7%9B%A3%E7%9D%A3/#jn-193036"
+  },
+  {
+    "kotoba": "舞台稽古",
+    "yomi": "ぶたい‐げいこ",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E7%A8%BD%E5%8F%A4/#jn-193037"
+  },
+  {
+    "kotoba": "舞台芸術",
+    "yomi": "ぶたい‐げいじゅつ",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E8%8A%B8%E8%A1%93/#jn-193038"
+  },
+  {
+    "kotoba": "舞台劇",
+    "yomi": "ぶたい‐げき",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E5%8A%87/#jn-193039"
+  },
+  {
+    "kotoba": "舞台子",
+    "yomi": "ぶたい‐こ",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E5%AD%90/#jn-193041"
+  },
+  {
+    "kotoba": "舞台効果",
+    "yomi": "ぶたい‐こうか",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E5%8A%B9%E6%9E%9C/#jn-193042"
+  },
+  {
+    "kotoba": "部隊行動基準",
+    "yomi": "ぶたいこうどう‐きじゅん",
+    "link": "/word/%E9%83%A8%E9%9A%8A%E8%A1%8C%E5%8B%95%E5%9F%BA%E6%BA%96/#jn-193044"
+  },
+  {
+    "kotoba": "舞台照明",
+    "yomi": "ぶたい‐しょうめい",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E7%85%A7%E6%98%8E/#jn-193050"
+  },
+  {
+    "kotoba": "舞台装置",
+    "yomi": "ぶたい‐そうち",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E8%A3%85%E7%BD%AE/#jn-193052"
+  },
+  {
+    "kotoba": "舞台度胸",
+    "yomi": "ぶたい‐どきょう",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E5%BA%A6%E8%83%B8/#jn-193058"
+  },
+  {
+    "kotoba": "舞台番",
+    "yomi": "ぶたい‐ばん",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E7%95%AA/#jn-193062"
+  },
+  {
+    "kotoba": "舞台面",
+    "yomi": "ぶたい‐めん",
+    "link": "/word/%E8%88%9E%E5%8F%B0%E9%9D%A2/#jn-193065"
+  },
+  {
+    "kotoba": "豚尾猿",
+    "yomi": "ぶたお‐ざる",
+    "link": "/word/%E8%B1%9A%E5%B0%BE%E7%8C%BF/#jn-193074"
+  },
+  {
+    "kotoba": "豚草",
+    "yomi": "ぶた‐くさ",
+    "link": "/word/%E8%B1%9A%E8%8D%89/#jn-193090"
+  },
+  {
+    "kotoba": "豚小屋",
+    "yomi": "ぶた‐ごや",
+    "link": "/word/%E8%B1%9A%E5%B0%8F%E5%B1%8B/#jn-193110"
+  },
+  {
+    "kotoba": "豚汁",
+    "yomi": "ぶた‐じる",
+    "link": "/word/%E8%B1%9A%E6%B1%81_%28%E3%81%B6%E3%81%9F%E3%81%98%E3%82%8B%29/#jn-193120"
+  },
+  {
+    "kotoba": "武太刀",
+    "yomi": "ぶ‐たち",
+    "link": "/word/%E6%AD%A6%E5%A4%AA%E5%88%80/#jn-193130"
+  },
+  {
+    "kotoba": "豚丼",
+    "yomi": "ぶた‐どん",
+    "link": "/word/%E8%B1%9A%E4%B8%BC/#jn-244276"
+  },
+  {
+    "kotoba": "豚菜",
+    "yomi": "ぶた‐な",
+    "link": "/word/%E8%B1%9A%E8%8F%9C/#jn-287933"
+  },
+  {
+    "kotoba": "豚肉",
+    "yomi": "ぶた‐にく",
+    "link": "/word/%E8%B1%9A%E8%82%89_%28%E3%81%B6%E3%81%9F%E3%81%AB%E3%81%8F%29/#jn-193170"
+  },
+  {
+    "kotoba": "豚熱",
+    "yomi": "ぶた‐ねつ",
+    "link": "/word/%E8%B1%9A%E7%86%B1/#jn-303387"
+  },
+  {
+    "kotoba": "豚箱",
+    "yomi": "ぶた‐ばこ",
+    "link": "/word/%E8%B1%9A%E7%AE%B1/#jn-193185"
+  },
+  {
+    "kotoba": "豚鼻",
+    "yomi": "ぶた‐ばな",
+    "link": "/word/%E8%B1%9A%E9%BC%BB/#jn-266929"
+  },
+  {
+    "kotoba": "豚饅",
+    "yomi": "ぶた‐まん",
+    "link": "/word/%E8%B1%9A%E9%A5%85/#jn-193199"
+  },
+  {
+    "kotoba": "武鯛",
+    "yomi": "ぶ‐だい",
+    "link": "/word/%E6%AD%A6%E9%AF%9B/#jn-193033"
+  },
+  {
+    "kotoba": "武断",
+    "yomi": "ぶ‐だん",
+    "link": "/word/%E6%AD%A6%E6%96%AD/#jn-193236"
+  },
+  {
+    "kotoba": "武断主義",
+    "yomi": "ぶだん‐しゅぎ",
+    "link": "/word/%E6%AD%A6%E6%96%AD%E4%B8%BB%E7%BE%A9/#jn-193242"
+  },
+  {
+    "kotoba": "武断政治",
+    "yomi": "ぶだん‐せいじ",
+    "link": "/word/%E6%AD%A6%E6%96%AD%E6%94%BF%E6%B2%BB/#jn-193243"
+  },
+  {
+    "kotoba": "武断派",
+    "yomi": "ぶだん‐は",
+    "link": "/word/%E6%AD%A6%E6%96%AD%E6%B4%BE/#jn-193247"
+  },
+  {
+    "kotoba": "斑犬",
+    "yomi": "ぶち‐いぬ",
+    "link": "/word/%E6%96%91%E7%8A%AC/#jn-259286"
+  },
+  {
+    "kotoba": "斑毛",
+    "yomi": "ぶち‐げ",
+    "link": "/word/%E6%96%91%E6%AF%9B/#jn-193273"
+  },
+  {
+    "kotoba": "不馳走",
+    "yomi": "ぶ‐ちそう",
+    "link": "/word/%E4%B8%8D%E9%A6%B3%E8%B5%B0/#jn-193281"
+  },
+  {
+    "kotoba": "斑猫",
+    "yomi": "ぶち‐ねこ",
+    "link": "/word/%E6%96%91%E7%8C%AB_%28%E3%81%B6%E3%81%A1%E3%81%AD%E3%81%93%29/#jn-259288"
+  },
+  {
+    "kotoba": "部長",
+    "yomi": "ぶ‐ちょう",
+    "link": "/word/%E9%83%A8%E9%95%B7/#jn-193322"
+  },
+  {
+    "kotoba": "部長刑事",
+    "yomi": "ぶちょう‐けいじ",
+    "link": "/word/%E9%83%A8%E9%95%B7%E5%88%91%E4%BA%8B/#jn-264356"
+  },
+  {
+    "kotoba": "不調法",
+    "yomi": "ぶ‐ちょうほう",
+    "link": "/word/%E4%B8%8D%E8%AA%BF%E6%B3%95/#jn-193323"
+  },
+  {
+    "kotoba": "仏果",
+    "yomi": "ぶっ‐か",
+    "link": "/word/%E4%BB%8F%E6%9E%9C/#jn-193388"
+  },
+  {
+    "kotoba": "仏家",
+    "yomi": "ぶっ‐か",
+    "link": "/word/%E4%BB%8F%E5%AE%B6/#jn-193389"
+  },
+  {
+    "kotoba": "物化",
+    "yomi": "ぶっ‐か",
+    "link": "/word/%E7%89%A9%E5%8C%96/#jn-193390"
+  },
+  {
+    "kotoba": "物価",
+    "yomi": "ぶっ‐か",
+    "link": "/word/%E7%89%A9%E4%BE%A1/#jn-193391"
+  },
+  {
+    "kotoba": "仏戒",
+    "yomi": "ぶっ‐かい",
+    "link": "/word/%E4%BB%8F%E6%88%92/#jn-193397"
+  },
+  {
+    "kotoba": "仏界",
+    "yomi": "ぶっ‐かい",
+    "link": "/word/%E4%BB%8F%E7%95%8C/#jn-193398"
+  },
+  {
+    "kotoba": "物界",
+    "yomi": "ぶっ‐かい",
+    "link": "/word/%E7%89%A9%E7%95%8C/#jn-193399"
+  },
+  {
+    "kotoba": "仏閣",
+    "yomi": "ぶっ‐かく",
+    "link": "/word/%E4%BB%8F%E9%96%A3/#jn-193407"
+  },
+  {
+    "kotoba": "物価指数",
+    "yomi": "ぶっか‐しすう",
+    "link": "/word/%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0/#jn-193413"
+  },
+  {
+    "kotoba": "物価水準",
+    "yomi": "ぶっか‐すいじゅん",
+    "link": "/word/%E7%89%A9%E4%BE%A1%E6%B0%B4%E6%BA%96/#jn-193414"
+  },
+  {
+    "kotoba": "物価高",
+    "yomi": "ぶっか‐だか",
+    "link": "/word/%E7%89%A9%E4%BE%A1%E9%AB%98/#jn-193417"
+  },
+  {
+    "kotoba": "物活論",
+    "yomi": "ぶっかつ‐ろん",
+    "link": "/word/%E7%89%A9%E6%B4%BB%E8%AB%96/#jn-193423"
+  },
+  {
+    "kotoba": "物価統制",
+    "yomi": "ぶっか‐とうせい",
+    "link": "/word/%E7%89%A9%E4%BE%A1%E7%B5%B1%E5%88%B6/#jn-193424"
+  },
+  {
+    "kotoba": "物価統制令",
+    "yomi": "ぶっか‐とうせいれい",
+    "link": "/word/%E7%89%A9%E4%BE%A1%E7%B5%B1%E5%88%B6%E4%BB%A4/#jn-193425"
+  },
+  {
+    "kotoba": "物価連動国債",
+    "yomi": "ぶっかれんどう‐こくさい",
+    "link": "/word/%E7%89%A9%E4%BE%A1%E9%80%A3%E5%8B%95%E5%9B%BD%E5%82%B5/#jn-252159"
+  },
+  {
+    "kotoba": "北韓",
+    "yomi": "ほっ‐かん",
+    "link": "/word/%E5%8C%97%E9%9F%93/#jn-244457"
+  },
+  {
+    "kotoba": "仏記",
+    "yomi": "ぶっ‐き",
+    "link": "/word/%E4%BB%8F%E8%A8%98/#jn-193439"
+  },
+  {
+    "kotoba": "仏器",
+    "yomi": "ぶっ‐き",
+    "link": "/word/%E4%BB%8F%E5%99%A8/#jn-193440"
+  },
+  {
+    "kotoba": "服忌",
+    "yomi": "ぶっ‐き",
+    "link": "/word/%E6%9C%8D%E5%BF%8C/#jn-193441"
+  },
+  {
+    "kotoba": "物給",
+    "yomi": "ぶっ‐きゅう",
+    "link": "/word/%E7%89%A9%E7%B5%A6/#jn-193449"
+  },
+  {
+    "kotoba": "仏教",
+    "yomi": "ぶっ‐きょう",
+    "link": "/word/%E4%BB%8F%E6%95%99/#jn-193451"
+  },
+  {
+    "kotoba": "仏経",
+    "yomi": "ぶっ‐きょう",
+    "link": "/word/%E4%BB%8F%E7%B5%8C/#jn-193452"
+  },
+  {
+    "kotoba": "物狂",
+    "yomi": "ぶっ‐きょう",
+    "link": "/word/%E7%89%A9%E7%8B%82/#jn-193453"
+  },
+  {
+    "kotoba": "仏教音楽",
+    "yomi": "ぶっきょう‐おんがく",
+    "link": "/word/%E4%BB%8F%E6%95%99%E9%9F%B3%E6%A5%BD/#jn-193454"
+  },
+  {
+    "kotoba": "仏教絵画",
+    "yomi": "ぶっきょう‐かいが",
+    "link": "/word/%E4%BB%8F%E6%95%99%E7%B5%B5%E7%94%BB/#jn-193455"
+  },
+  {
+    "kotoba": "仏教説話",
+    "yomi": "ぶっきょう‐せつわ",
+    "link": "/word/%E4%BB%8F%E6%95%99%E8%AA%AC%E8%A9%B1/#jn-193456"
+  },
+  {
+    "kotoba": "仏教大学",
+    "yomi": "ぶっきょう‐だいがく",
+    "link": "/word/%E4%BB%8F%E6%95%99%E5%A4%A7%E5%AD%A6/#jn-193457"
+  },
+  {
+    "kotoba": "仏教伝来",
+    "yomi": "ぶっきょうでんらい",
+    "link": "/word/%E4%BB%8F%E6%95%99%E4%BC%9D%E6%9D%A5/#jn-295246"
+  },
+  {
+    "kotoba": "仏教徒",
+    "yomi": "ぶっきょう‐と",
+    "link": "/word/%E4%BB%8F%E6%95%99%E5%BE%92/#jn-278163"
+  },
+  {
+    "kotoba": "仏教美術",
+    "yomi": "ぶっきょう‐びじゅつ",
+    "link": "/word/%E4%BB%8F%E6%95%99%E7%BE%8E%E8%A1%93/#jn-193458"
+  },
+  {
+    "kotoba": "仏供",
+    "yomi": "ぶっ‐く",
+    "link": "/word/%E4%BB%8F%E4%BE%9B_%28%E3%81%B6%E3%81%A3%E3%81%8F%29/#jn-193472"
+  },
+  {
+    "kotoba": "仏家",
+    "yomi": "ぶっ‐け",
+    "link": "/word/%E4%BB%8F%E5%AE%B6/#jn-193499"
+  },
+  {
+    "kotoba": "物詣",
+    "yomi": "ぶっ‐けい",
+    "link": "/word/%E7%89%A9%E8%A9%A3/#jn-193503"
+  },
+  {
+    "kotoba": "仏見",
+    "yomi": "ぶっ‐けん",
+    "link": "/word/%E4%BB%8F%E8%A6%8B/#jn-193508"
+  },
+  {
+    "kotoba": "物件",
+    "yomi": "ぶっ‐けん",
+    "link": "/word/%E7%89%A9%E4%BB%B6/#jn-193509"
+  },
+  {
+    "kotoba": "物権",
+    "yomi": "ぶっ‐けん",
+    "link": "/word/%E7%89%A9%E6%A8%A9/#jn-193510"
+  },
+  {
+    "kotoba": "物権行為",
+    "yomi": "ぶっけん‐こうい",
+    "link": "/word/%E7%89%A9%E6%A8%A9%E8%A1%8C%E7%82%BA/#jn-193512"
+  },
+  {
+    "kotoba": "物権証券",
+    "yomi": "ぶっけん‐しょうけん",
+    "link": "/word/%E7%89%A9%E6%A8%A9%E8%A8%BC%E5%88%B8/#jn-193514"
+  },
+  {
+    "kotoba": "物件費",
+    "yomi": "ぶっけん‐ひ",
+    "link": "/word/%E7%89%A9%E4%BB%B6%E8%B2%BB/#jn-193517"
+  },
+  {
+    "kotoba": "物権法",
+    "yomi": "ぶっけん‐ほう",
+    "link": "/word/%E7%89%A9%E6%A8%A9%E6%B3%95/#jn-193518"
+  },
+  {
+    "kotoba": "物故",
+    "yomi": "ぶっ‐こ",
+    "link": "/word/%E7%89%A9%E6%95%85_%28%E3%81%B6%E3%81%A3%E3%81%93%29/#jn-193522"
+  },
+  {
+    "kotoba": "仏工",
+    "yomi": "ぶっ‐こう",
+    "link": "/word/%E4%BB%8F%E5%B7%A5/#jn-193532"
+  },
+  {
+    "kotoba": "物構研",
+    "yomi": "ぶっ‐こう‐けん",
+    "link": "/word/%E7%89%A9%E6%A7%8B%E7%A0%94/#jn-284020"
+  },
+  {
+    "kotoba": "仏光寺",
+    "yomi": "ぶっこう‐じ",
+    "link": "/word/%E4%BB%8F%E5%85%89%E5%AF%BA/#jn-193535"
+  },
+  {
+    "kotoba": "仏光寺派",
+    "yomi": "ぶっこうじ‐は",
+    "link": "/word/%E4%BB%8F%E5%85%89%E5%AF%BA%E6%B4%BE/#jn-193536"
+  },
+  {
+    "kotoba": "仏国",
+    "yomi": "ぶっ‐こく",
+    "link": "/word/%E4%BB%8F%E5%9B%BD_%28%E3%81%B6%E3%81%A3%E3%81%93%E3%81%8F%29/#jn-193540"
+  },
+  {
+    "kotoba": "仏国記",
+    "yomi": "ぶっこくき",
+    "link": "/word/%E4%BB%8F%E5%9B%BD%E8%A8%98/#jn-193541"
+  },
+  {
+    "kotoba": "仏国寺",
+    "yomi": "ぶっこく‐じ",
+    "link": "/word/%E4%BB%8F%E5%9B%BD%E5%AF%BA/#jn-193542"
+  },
+  {
+    "kotoba": "仏国土",
+    "yomi": "ぶっこく‐ど",
+    "link": "/word/%E4%BB%8F%E5%9B%BD%E5%9C%9F/#jn-252161"
+  },
+  {
+    "kotoba": "物故者",
+    "yomi": "ぶっこ‐しゃ",
+    "link": "/word/%E7%89%A9%E6%95%85%E8%80%85/#jn-248080"
+  },
+  {
+    "kotoba": "仏骨",
+    "yomi": "ぶっ‐こつ",
+    "link": "/word/%E4%BB%8F%E9%AA%A8/#jn-193546"
+  },
+  {
+    "kotoba": "打裂",
+    "yomi": "ぶっ‐さき",
+    "link": "/word/%E6%89%93%E8%A3%82/#jn-193558"
+  },
+  {
+    "kotoba": "打裂羽織",
+    "yomi": "ぶっさき‐ばおり",
+    "link": "/word/%E6%89%93%E8%A3%82%E7%BE%BD%E7%B9%94/#jn-193559"
+  },
+  {
+    "kotoba": "仏刹",
+    "yomi": "ぶっ‐さつ",
+    "link": "/word/%E4%BB%8F%E5%88%B9/#jn-193562"
+  },
+  {
+    "kotoba": "仏参",
+    "yomi": "ぶっ‐さん",
+    "link": "/word/%E4%BB%8F%E5%8F%82/#jn-193564"
+  },
+  {
+    "kotoba": "物産",
+    "yomi": "ぶっ‐さん",
+    "link": "/word/%E7%89%A9%E7%94%A3/#jn-193565"
+  },
+  {
+    "kotoba": "物産学",
+    "yomi": "ぶっさん‐がく",
+    "link": "/word/%E7%89%A9%E7%94%A3%E5%AD%A6/#jn-252162"
+  },
+  {
+    "kotoba": "物産展",
+    "yomi": "ぶっさん‐てん",
+    "link": "/word/%E7%89%A9%E7%94%A3%E5%B1%95/#jn-193567"
+  },
+  {
+    "kotoba": "仏子",
+    "yomi": "ぶっ‐し",
+    "link": "/word/%E4%BB%8F%E5%AD%90/#jn-193568"
+  },
+  {
+    "kotoba": "仏氏",
+    "yomi": "ぶっ‐し",
+    "link": "/word/person/%E4%BB%8F%E6%B0%8F/#jn-193569"
+  },
+  {
+    "kotoba": "仏師",
+    "yomi": "ぶっ‐し",
+    "link": "/word/%E4%BB%8F%E5%B8%AB/#jn-193570"
+  },
+  {
+    "kotoba": "仏師",
+    "yomi": "ぶっし",
+    "link": "/word/%E4%BB%8F%E5%B8%AB/#jn-193571"
+  },
+  {
+    "kotoba": "物資",
+    "yomi": "ぶっ‐し",
+    "link": "/word/%E7%89%A9%E8%B3%87/#jn-193572"
+  },
+  {
+    "kotoba": "仏式",
+    "yomi": "ぶっ‐しき",
+    "link": "/word/%E4%BB%8F%E5%BC%8F/#jn-193578"
+  },
+  {
+    "kotoba": "仏歯寺",
+    "yomi": "ぶっし‐じ",
+    "link": "/word/%E4%BB%8F%E6%AD%AF%E5%AF%BA/#jn-279997"
+  },
+  {
+    "kotoba": "物資調達管理調整員",
+    "yomi": "ぶっしちょうたつかんりちょうせい‐いん",
+    "link": "/word/%E7%89%A9%E8%B3%87%E8%AA%BF%E9%81%94%E7%AE%A1%E7%90%86%E8%AA%BF%E6%95%B4%E5%93%A1/#jn-241558"
+  },
+  {
+    "kotoba": "物質",
+    "yomi": "ぶっ‐しつ",
+    "link": "/word/%E7%89%A9%E8%B3%AA/#jn-193579"
+  },
+  {
+    "kotoba": "物質構造科学研究所",
+    "yomi": "ぶっしつこうぞうかがく‐けんきゅうじょ",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E6%A7%8B%E9%80%A0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/#jn-284021"
+  },
+  {
+    "kotoba": "物質交代",
+    "yomi": "ぶっしつ‐こうたい",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E4%BA%A4%E4%BB%A3/#jn-193580"
+  },
+  {
+    "kotoba": "物質主義",
+    "yomi": "ぶっしつ‐しゅぎ",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E4%B8%BB%E7%BE%A9/#jn-193582"
+  },
+  {
+    "kotoba": "物質循環",
+    "yomi": "ぶっしつ‐じゅんかん",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E5%BE%AA%E7%92%B0/#jn-193583"
+  },
+  {
+    "kotoba": "物質代謝",
+    "yomi": "ぶっしつ‐たいしゃ",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E4%BB%A3%E8%AC%9D/#jn-193584"
+  },
+  {
+    "kotoba": "物質定数",
+    "yomi": "ぶっしつ‐ていすう",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E5%AE%9A%E6%95%B0/#jn-193585"
+  },
+  {
+    "kotoba": "物質的",
+    "yomi": "ぶっしつ‐てき",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E7%9A%84/#jn-193586"
+  },
+  {
+    "kotoba": "物質的剝奪指標",
+    "yomi": "ぶっしつてきはくだつ‐しひょう",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E7%9A%84%E5%89%9D%E5%A5%AA%E6%8C%87%E6%A8%99/#jn-284022"
+  },
+  {
+    "kotoba": "物質波",
+    "yomi": "ぶっしつ‐は",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E6%B3%A2/#jn-193587"
+  },
+  {
+    "kotoba": "物質文化",
+    "yomi": "ぶっしつ‐ぶんか",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E6%96%87%E5%8C%96/#jn-193588"
+  },
+  {
+    "kotoba": "物質文明",
+    "yomi": "ぶっしつ‐ぶんめい",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E6%96%87%E6%98%8E/#jn-193589"
+  },
+  {
+    "kotoba": "物質名詞",
+    "yomi": "ぶっしつ‐めいし",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E5%90%8D%E8%A9%9E/#jn-193590"
+  },
+  {
+    "kotoba": "物質量",
+    "yomi": "ぶっしつ‐りょう",
+    "link": "/word/%E7%89%A9%E8%B3%AA%E9%87%8F/#jn-193591"
+  },
+  {
+    "kotoba": "物資動員計画",
+    "yomi": "ぶっしどういん‐けいかく",
+    "link": "/word/%E7%89%A9%E8%B3%87%E5%8B%95%E5%93%A1%E8%A8%88%E7%94%BB/#jn-193592"
+  },
+  {
+    "kotoba": "仏舎",
+    "yomi": "ぶっ‐しゃ",
+    "link": "/word/%E4%BB%8F%E8%88%8E/#jn-193593"
+  },
+  {
+    "kotoba": "仏者",
+    "yomi": "ぶっ‐しゃ",
+    "link": "/word/%E4%BB%8F%E8%80%85/#jn-193594"
+  },
+  {
+    "kotoba": "仏舎利",
+    "yomi": "ぶっ‐しゃり",
+    "link": "/word/%E4%BB%8F%E8%88%8E%E5%88%A9/#jn-193595"
+  },
+  {
+    "kotoba": "仏舎利会",
+    "yomi": "ぶっしゃり‐え",
+    "link": "/word/%E4%BB%8F%E8%88%8E%E5%88%A9%E4%BC%9A/#jn-193596"
+  },
+  {
+    "kotoba": "仏種",
+    "yomi": "ぶっ‐しゅ",
+    "link": "/word/%E4%BB%8F%E7%A8%AE/#jn-193597"
+  },
+  {
+    "kotoba": "仏手柑",
+    "yomi": "ぶっしゅ‐かん",
+    "link": "/word/%E4%BB%8F%E6%89%8B%E6%9F%91/#jn-193604"
+  },
+  {
+    "kotoba": "仏守棚",
+    "yomi": "ぶっしゅ‐だな",
+    "link": "/word/%E4%BB%8F%E5%AE%88%E6%A3%9A/#jn-193606"
+  },
+  {
+    "kotoba": "仏所",
+    "yomi": "ぶっ‐しょ",
+    "link": "/word/%E4%BB%8F%E6%89%80/#jn-193615"
+  },
+  {
+    "kotoba": "仏書",
+    "yomi": "ぶっ‐しょ",
+    "link": "/word/%E4%BB%8F%E6%9B%B8_%28%E3%81%B6%E3%81%A3%E3%81%97%E3%82%87%29/#jn-193616"
+  },
+  {
+    "kotoba": "仏生",
+    "yomi": "ぶっ‐しょう",
+    "link": "/word/%E4%BB%8F%E7%94%9F/#jn-193617"
+  },
+  {
+    "kotoba": "仏性",
+    "yomi": "ぶっ‐しょう",
+    "link": "/word/%E4%BB%8F%E6%80%A7_%28%E3%81%B6%E3%81%A3%E3%81%97%E3%82%87%E3%81%86%29/#jn-193618"
+  },
+  {
+    "kotoba": "仏餉",
+    "yomi": "ぶっ‐しょう",
+    "link": "/word/%E4%BB%8F%E9%A4%89/#jn-193619"
+  },
+  {
+    "kotoba": "物証",
+    "yomi": "ぶっ‐しょう",
+    "link": "/word/%E7%89%A9%E8%A8%BC/#jn-193620"
+  },
+  {
+    "kotoba": "物象",
+    "yomi": "ぶっ‐しょう",
+    "link": "/word/%E7%89%A9%E8%B1%A1/#jn-193621"
+  },
+  {
+    "kotoba": "仏生会",
+    "yomi": "ぶっしょう‐え",
+    "link": "/word/%E4%BB%8F%E7%94%9F%E4%BC%9A/#jn-193625"
+  },
+  {
+    "kotoba": "仏性同体",
+    "yomi": "ぶっしょう‐どうたい",
+    "link": "/word/%E4%BB%8F%E6%80%A7%E5%90%8C%E4%BD%93/#jn-193628"
+  },
+  {
+    "kotoba": "仏生日",
+    "yomi": "ぶっしょう‐にち",
+    "link": "/word/%E4%BB%8F%E7%94%9F%E6%97%A5/#jn-193629"
+  },
+  {
+    "kotoba": "仏餉袋",
+    "yomi": "ぶっしょう‐ぶくろ",
+    "link": "/word/%E4%BB%8F%E9%A4%89%E8%A2%8B/#jn-193630"
+  },
+  {
+    "kotoba": "物色",
+    "yomi": "ぶっ‐しょく",
+    "link": "/word/%E7%89%A9%E8%89%B2/#jn-193634"
+  },
+  {
+    "kotoba": "仏心",
+    "yomi": "ぶっ‐しん",
+    "link": "/word/%E4%BB%8F%E5%BF%83_%28%E3%81%B6%E3%81%A3%E3%81%97%E3%82%93%29/#jn-193637"
+  },
+  {
+    "kotoba": "仏身",
+    "yomi": "ぶっ‐しん",
+    "link": "/word/%E4%BB%8F%E8%BA%AB/#jn-193638"
+  },
+  {
+    "kotoba": "物心",
+    "yomi": "ぶっ‐しん",
+    "link": "/word/%E7%89%A9%E5%BF%83_%28%E3%81%B6%E3%81%A3%E3%81%97%E3%82%93%29/#jn-193639"
+  },
+  {
+    "kotoba": "物神",
+    "yomi": "ぶっ‐しん",
+    "link": "/word/%E7%89%A9%E7%A5%9E/#jn-193640"
+  },
+  {
+    "kotoba": "仏心宗",
+    "yomi": "ぶっしん‐しゅう",
+    "link": "/word/%E4%BB%8F%E5%BF%83%E5%AE%97/#jn-193644"
+  },
+  {
+    "kotoba": "物神崇拝",
+    "yomi": "ぶっしん‐すうはい",
+    "link": "/word/%E7%89%A9%E7%A5%9E%E5%B4%87%E6%8B%9D/#jn-193646"
+  },
+  {
+    "kotoba": "物性",
+    "yomi": "ぶっ‐せい",
+    "link": "/word/%E7%89%A9%E6%80%A7/#jn-193647"
+  },
+  {
+    "kotoba": "物性物理学",
+    "yomi": "ぶっせい‐ぶつりがく",
+    "link": "/word/%E7%89%A9%E6%80%A7%E7%89%A9%E7%90%86%E5%AD%A6/#jn-193649"
+  },
+  {
+    "kotoba": "物性論",
+    "yomi": "ぶっせい‐ろん",
+    "link": "/word/%E7%89%A9%E6%80%A7%E8%AB%96/#jn-193650"
+  },
+  {
+    "kotoba": "仏跡",
+    "yomi": "ぶっ‐せき",
+    "link": "/word/%E4%BB%8F%E8%B7%A1/#jn-193652"
+  },
+  {
+    "kotoba": "仏刹",
+    "yomi": "ぶっ‐せつ",
+    "link": "/word/%E4%BB%8F%E5%88%B9/#jn-193653"
+  },
+  {
+    "kotoba": "仏説",
+    "yomi": "ぶっ‐せつ",
+    "link": "/word/%E4%BB%8F%E8%AA%AC/#jn-193654"
+  },
+  {
+    "kotoba": "仏祖",
+    "yomi": "ぶっ‐そ",
+    "link": "/word/person/%E4%BB%8F%E7%A5%96/#jn-193658"
+  },
+  {
+    "kotoba": "仏相",
+    "yomi": "ぶっ‐そう",
+    "link": "/word/%E4%BB%8F%E7%9B%B8/#jn-193659"
+  },
+  {
+    "kotoba": "仏葬",
+    "yomi": "ぶっ‐そう",
+    "link": "/word/%E4%BB%8F%E8%91%AC/#jn-193660"
+  },
+  {
+    "kotoba": "物騒",
+    "yomi": "ぶっ‐そう",
+    "link": "/word/%E7%89%A9%E9%A8%92/#jn-193661"
+  },
+  {
+    "kotoba": "仏桑花",
+    "yomi": "ぶっそう‐げ",
+    "link": "/word/%E4%BB%8F%E6%A1%91%E8%8A%B1/#jn-193663"
+  },
+  {
+    "kotoba": "仏足石",
+    "yomi": "ぶっそく‐せき",
+    "link": "/word/%E4%BB%8F%E8%B6%B3%E7%9F%B3/#jn-193664"
+  },
+  {
+    "kotoba": "仏足石歌",
+    "yomi": "ぶっそくせき‐か",
+    "link": "/word/%E4%BB%8F%E8%B6%B3%E7%9F%B3%E6%AD%8C/#jn-193665"
+  },
+  {
+    "kotoba": "仏足石歌体",
+    "yomi": "ぶっそくせきか‐たい",
+    "link": "/word/%E4%BB%8F%E8%B6%B3%E7%9F%B3%E6%AD%8C%E4%BD%93/#jn-193666"
+  },
+  {
+    "kotoba": "仏祖統紀",
+    "yomi": "ぶっそとうき",
+    "link": "/word/%E4%BB%8F%E7%A5%96%E7%B5%B1%E7%B4%80/#jn-193669"
+  },
+  {
+    "kotoba": "物損",
+    "yomi": "ぶっ‐そん",
+    "link": "/word/%E7%89%A9%E6%90%8D/#jn-193671"
+  },
+  {
+    "kotoba": "物損事故調査員",
+    "yomi": "ぶっそんじこ‐ちょうさいん",
+    "link": "/word/%E7%89%A9%E6%90%8D%E4%BA%8B%E6%95%85%E8%AA%BF%E6%9F%BB%E5%93%A1/#jn-193672"
+  },
+  {
+    "kotoba": "仏体",
+    "yomi": "ぶっ‐たい",
+    "link": "/word/%E4%BB%8F%E4%BD%93/#jn-193675"
+  },
+  {
+    "kotoba": "物体",
+    "yomi": "ぶっ‐たい",
+    "link": "/word/%E7%89%A9%E4%BD%93/#jn-193676"
+  },
+  {
+    "kotoba": "物体光",
+    "yomi": "ぶったい‐こう",
+    "link": "/word/%E7%89%A9%E4%BD%93%E5%85%89/#jn-281852"
+  },
+  {
+    "kotoba": "物体色",
+    "yomi": "ぶったい‐しょく",
+    "link": "/word/%E7%89%A9%E4%BD%93%E8%89%B2/#jn-244288"
+  },
+  {
+    "kotoba": "仏陀",
+    "yomi": "ぶっだ",
+    "link": "/word/person/%E4%BB%8F%E9%99%80/#jn-266933"
+  },
+  {
+    "kotoba": "仏駄跋陀羅",
+    "yomi": "ぶっだばっだら",
+    "link": "/word/person/%E4%BB%8F%E9%A7%84%E8%B7%8B%E9%99%80%E7%BE%85/#jn-193684"
+  },
+  {
+    "kotoba": "仏智",
+    "yomi": "ぶっ‐ち",
+    "link": "/word/%E4%BB%8F%E6%99%BA/#jn-193687"
+  },
+  {
+    "kotoba": "仏頂",
+    "yomi": "ぶっ‐ちょう",
+    "link": "/word/%E4%BB%8F%E9%A0%82/#jn-193697"
+  },
+  {
+    "kotoba": "仏頂顔",
+    "yomi": "ぶっちょう‐がお",
+    "link": "/word/%E4%BB%8F%E9%A0%82%E9%A1%94/#jn-264366"
+  },
+  {
+    "kotoba": "仏頂尊",
+    "yomi": "ぶっちょう‐そん",
+    "link": "/word/%E4%BB%8F%E9%A0%82%E5%B0%8A/#jn-193698"
+  },
+  {
+    "kotoba": "仏頂面",
+    "yomi": "ぶっちょう‐づら",
+    "link": "/word/%E4%BB%8F%E9%A0%82%E9%9D%A2/#jn-193699"
+  },
+  {
+    "kotoba": "仏通寺",
+    "yomi": "ぶっつう‐じ",
+    "link": "/word/%E4%BB%8F%E9%80%9A%E5%AF%BA/#jn-193701"
+  },
+  {
+    "kotoba": "仏通寺派",
+    "yomi": "ぶっつうじ‐は",
+    "link": "/word/%E4%BB%8F%E9%80%9A%E5%AF%BA%E6%B4%BE/#jn-193702"
+  },
+  {
+    "kotoba": "仏敵",
+    "yomi": "ぶっ‐てき",
+    "link": "/word/%E4%BB%8F%E6%95%B5/#jn-193722"
+  },
+  {
+    "kotoba": "物的",
+    "yomi": "ぶっ‐てき",
+    "link": "/word/%E7%89%A9%E7%9A%84/#jn-193723"
+  },
+  {
+    "kotoba": "物的会社",
+    "yomi": "ぶってき‐かいしゃ",
+    "link": "/word/%E7%89%A9%E7%9A%84%E4%BC%9A%E7%A4%BE/#jn-193724"
+  },
+  {
+    "kotoba": "物的証拠",
+    "yomi": "ぶってき‐しょうこ",
+    "link": "/word/%E7%89%A9%E7%9A%84%E8%A8%BC%E6%8B%A0/#jn-193725"
+  },
+  {
+    "kotoba": "物的担保",
+    "yomi": "ぶってき‐たんぽ",
+    "link": "/word/%E7%89%A9%E7%9A%84%E6%8B%85%E4%BF%9D/#jn-193726"
+  },
+  {
+    "kotoba": "物的流通",
+    "yomi": "ぶってき‐りゅうつう",
+    "link": "/word/%E7%89%A9%E7%9A%84%E6%B5%81%E9%80%9A/#jn-281853"
+  },
+  {
+    "kotoba": "物的連合",
+    "yomi": "ぶってき‐れんごう",
+    "link": "/word/%E7%89%A9%E7%9A%84%E9%80%A3%E5%90%88/#jn-252164"
+  },
+  {
+    "kotoba": "仏哲",
+    "yomi": "ぶってつ",
+    "link": "/word/person/%E4%BB%8F%E5%93%B2/#jn-193729"
+  },
+  {
+    "kotoba": "仏天",
+    "yomi": "ぶっ‐てん",
+    "link": "/word/%E4%BB%8F%E5%A4%A9/#jn-193732"
+  },
+  {
+    "kotoba": "仏典",
+    "yomi": "ぶっ‐てん",
+    "link": "/word/%E4%BB%8F%E5%85%B8/#jn-193733"
+  },
+  {
+    "kotoba": "仏徒",
+    "yomi": "ぶっ‐と",
+    "link": "/word/%E4%BB%8F%E5%BE%92/#jn-193739"
+  },
+  {
+    "kotoba": "仏灯",
+    "yomi": "ぶっ‐とう",
+    "link": "/word/%E4%BB%8F%E7%81%AF/#jn-193745"
+  },
+  {
+    "kotoba": "仏塔",
+    "yomi": "ぶっ‐とう",
+    "link": "/word/%E4%BB%8F%E5%A1%94/#jn-193746"
+  },
+  {
+    "kotoba": "仏頭",
+    "yomi": "ぶっ‐とう",
+    "link": "/word/%E4%BB%8F%E9%A0%AD/#jn-193747"
+  },
+  {
+    "kotoba": "仏図澄",
+    "yomi": "ぶっとちょう",
+    "link": "/word/person/%E4%BB%8F%E5%9B%B3%E6%BE%84/#jn-193763"
+  },
+  {
+    "kotoba": "仏恩",
+    "yomi": "ぶっ‐とん",
+    "link": "/word/%E4%BB%8F%E6%81%A9_%28%E3%81%B6%E3%81%A3%E3%81%A8%E3%82%93%29/#jn-193781"
+  },
+  {
+    "kotoba": "物販",
+    "yomi": "ぶっ‐ぱん",
+    "link": "/word/%E7%89%A9%E8%B2%A9/#jn-252167"
+  },
+  {
+    "kotoba": "物品",
+    "yomi": "ぶっ‐ぴん",
+    "link": "/word/%E7%89%A9%E5%93%81/#jn-193793"
+  },
+  {
+    "kotoba": "物品役務相互提供協定",
+    "yomi": "ぶっぴんえきむそうごていきょう‐きょうてい",
+    "link": "/word/%E7%89%A9%E5%93%81%E5%BD%B9%E5%8B%99%E7%9B%B8%E4%BA%92%E6%8F%90%E4%BE%9B%E5%8D%94%E5%AE%9A/#jn-193794"
+  },
+  {
+    "kotoba": "物品管理法",
+    "yomi": "ぶっぴんかんり‐ほう",
+    "link": "/word/%E7%89%A9%E5%93%81%E7%AE%A1%E7%90%86%E6%B3%95/#jn-244292"
+  },
+  {
+    "kotoba": "物品税",
+    "yomi": "ぶっぴん‐ぜい",
+    "link": "/word/%E7%89%A9%E5%93%81%E7%A8%8E/#jn-193795"
+  },
+  {
+    "kotoba": "仏宝",
+    "yomi": "ぶっ‐ぽう",
+    "link": "/word/%E4%BB%8F%E5%AE%9D/#jn-193806"
+  },
+  {
+    "kotoba": "仏法",
+    "yomi": "ぶっ‐ぽう",
+    "link": "/word/%E4%BB%8F%E6%B3%95_%28%E3%81%B6%E3%81%A3%E3%81%BD%E3%81%86%29/#jn-193807"
+  },
+  {
+    "kotoba": "仏法僧",
+    "yomi": "ぶっ‐ぽう‐そう",
+    "link": "/word/%E4%BB%8F%E6%B3%95%E5%83%A7/#jn-193808"
+  },
+  {
+    "kotoba": "仏宇",
+    "yomi": "ぶつ‐う",
+    "link": "/word/%E4%BB%8F%E5%AE%87/#jn-193348"
+  },
+  {
+    "kotoba": "仏会",
+    "yomi": "ぶつ‐え",
+    "link": "/word/%E4%BB%8F%E4%BC%9A/#jn-193381"
+  },
+  {
+    "kotoba": "仏縁",
+    "yomi": "ぶつ‐えん",
+    "link": "/word/%E4%BB%8F%E7%B8%81/#jn-193382"
+  },
+  {
+    "kotoba": "仏炎苞",
+    "yomi": "ぶつえん‐ほう",
+    "link": "/word/%E4%BB%8F%E7%82%8E%E8%8B%9E/#jn-193383"
+  },
+  {
+    "kotoba": "仏恩",
+    "yomi": "ぶつ‐おん",
+    "link": "/word/%E4%BB%8F%E6%81%A9_%28%E3%81%B6%E3%81%A4%E3%81%8A%E3%82%93%29/#jn-193384"
+  },
+  {
+    "kotoba": "仏画",
+    "yomi": "ぶつ‐が",
+    "link": "/word/%E4%BB%8F%E7%94%BB/#jn-193392"
+  },
+  {
+    "kotoba": "物我",
+    "yomi": "ぶつ‐が",
+    "link": "/word/%E7%89%A9%E6%88%91/#jn-193393"
+  },
+  {
+    "kotoba": "物外",
+    "yomi": "ぶつ‐がい",
+    "link": "/word/%E7%89%A9%E5%A4%96/#jn-193400"
+  },
+  {
+    "kotoba": "仏学",
+    "yomi": "ぶつ‐がく",
+    "link": "/word/%E4%BB%8F%E5%AD%A6_%28%E3%81%B6%E3%81%A4%E3%81%8C%E3%81%8F%29/#jn-193409"
+  },
+  {
+    "kotoba": "仏願",
+    "yomi": "ぶつ‐がん",
+    "link": "/word/%E4%BB%8F%E9%A1%98/#jn-193433"
+  },
+  {
+    "kotoba": "仏龕",
+    "yomi": "ぶつ‐がん",
+    "link": "/word/%E4%BB%8F%E9%BE%95/#jn-193434"
+  },
+  {
+    "kotoba": "物議",
+    "yomi": "ぶつ‐ぎ",
+    "link": "/word/%E7%89%A9%E8%AD%B0/#jn-193442"
+  },
+  {
+    "kotoba": "仏具",
+    "yomi": "ぶつ‐ぐ",
+    "link": "/word/%E4%BB%8F%E5%85%B7/#jn-193474"
+  },
+  {
+    "kotoba": "仏牙",
+    "yomi": "ぶつ‐げ",
+    "link": "/word/%E4%BB%8F%E7%89%99/#jn-193500"
+  },
+  {
+    "kotoba": "仏眼",
+    "yomi": "ぶつ‐げん",
+    "link": "/word/%E4%BB%8F%E7%9C%BC/#jn-193511"
+  },
+  {
+    "kotoba": "仏眼尊",
+    "yomi": "ぶつげん‐そん",
+    "link": "/word/%E4%BB%8F%E7%9C%BC%E5%B0%8A/#jn-193515"
+  },
+  {
+    "kotoba": "物交",
+    "yomi": "ぶつ‐こう",
+    "link": "/word/%E7%89%A9%E4%BA%A4/#jn-193533"
+  },
+  {
+    "kotoba": "仏語",
+    "yomi": "ぶつ‐ご",
+    "link": "/word/%E4%BB%8F%E8%AA%9E_%28%E3%81%B6%E3%81%A4%E3%81%94%29/#jn-193523"
+  },
+  {
+    "kotoba": "仏座",
+    "yomi": "ぶつ‐ざ",
+    "link": "/word/%E4%BB%8F%E5%BA%A7/#jn-193555"
+  },
+  {
+    "kotoba": "物材機構",
+    "yomi": "ぶつざい‐きこう",
+    "link": "/word/%E7%89%A9%E6%9D%90%E6%A9%9F%E6%A7%8B/#jn-193557"
+  },
+  {
+    "kotoba": "物材研",
+    "yomi": "ぶつ‐ざい‐けん",
+    "link": "/word/%E7%89%A9%E6%9D%90%E7%A0%94/#jn-281850"
+  },
+  {
+    "kotoba": "仏地",
+    "yomi": "ぶつ‐じ",
+    "link": "/word/%E4%BB%8F%E5%9C%B0/#jn-193573"
+  },
+  {
+    "kotoba": "仏寺",
+    "yomi": "ぶつ‐じ",
+    "link": "/word/%E4%BB%8F%E5%AF%BA/#jn-193574"
+  },
+  {
+    "kotoba": "仏事",
+    "yomi": "ぶつ‐じ",
+    "link": "/word/%E4%BB%8F%E4%BA%8B/#jn-193575"
+  },
+  {
+    "kotoba": "仏乗",
+    "yomi": "ぶつ‐じょう",
+    "link": "/word/%E4%BB%8F%E4%B9%97/#jn-193622"
+  },
+  {
+    "kotoba": "物上",
+    "yomi": "ぶつ‐じょう",
+    "link": "/word/%E7%89%A9%E4%B8%8A/#jn-193623"
+  },
+  {
+    "kotoba": "物情",
+    "yomi": "ぶつ‐じょう",
+    "link": "/word/%E7%89%A9%E6%83%85/#jn-193624"
+  },
+  {
+    "kotoba": "物上担保",
+    "yomi": "ぶつじょう‐たんぽ",
+    "link": "/word/%E7%89%A9%E4%B8%8A%E6%8B%85%E4%BF%9D/#jn-193627"
+  },
+  {
+    "kotoba": "物上代位",
+    "yomi": "ぶつじょう‐だいい",
+    "link": "/word/%E7%89%A9%E4%B8%8A%E4%BB%A3%E4%BD%8D/#jn-193626"
+  },
+  {
+    "kotoba": "物上保証人",
+    "yomi": "ぶつじょう‐ほしょうにん",
+    "link": "/word/%E7%89%A9%E4%B8%8A%E4%BF%9D%E8%A8%BC%E4%BA%BA/#jn-193631"
+  },
+  {
+    "kotoba": "物上連合",
+    "yomi": "ぶつじょう‐れんごう",
+    "link": "/word/%E7%89%A9%E4%B8%8A%E9%80%A3%E5%90%88/#jn-193632"
+  },
+  {
+    "kotoba": "仏神",
+    "yomi": "ぶつ‐じん",
+    "link": "/word/%E4%BB%8F%E7%A5%9E/#jn-193641"
+  },
+  {
+    "kotoba": "仏神水波",
+    "yomi": "ぶつじん‐すいは",
+    "link": "/word/%E4%BB%8F%E7%A5%9E%E6%B0%B4%E6%B3%A2/#jn-193645"
+  },
+  {
+    "kotoba": "物税",
+    "yomi": "ぶつ‐ぜい",
+    "link": "/word/%E7%89%A9%E7%A8%8E/#jn-193648"
+  },
+  {
+    "kotoba": "仏前",
+    "yomi": "ぶつ‐ぜん",
+    "link": "/word/%E4%BB%8F%E5%89%8D/#jn-193656"
+  },
+  {
+    "kotoba": "物徂徠",
+    "yomi": "ぶつ‐そらい",
+    "link": "/word/person/%E7%89%A9%E5%BE%82%E5%BE%A0/#jn-193670"
+  },
+  {
+    "kotoba": "仏像",
+    "yomi": "ぶつ‐ぞう",
+    "link": "/word/%E4%BB%8F%E5%83%8F/#jn-193662"
+  },
+  {
+    "kotoba": "仏陀",
+    "yomi": "ぶつだ",
+    "link": "/word/person/%E4%BB%8F%E9%99%80/#jn-193673"
+  },
+  {
+    "kotoba": "仏壇",
+    "yomi": "ぶつ‐だん",
+    "link": "/word/%E4%BB%8F%E5%A3%87/#jn-193686"
+  },
+  {
+    "kotoba": "仏弟子",
+    "yomi": "ぶつ‐でし",
+    "link": "/word/%E4%BB%8F%E5%BC%9F%E5%AD%90/#jn-193728"
+  },
+  {
+    "kotoba": "仏殿",
+    "yomi": "ぶつ‐でん",
+    "link": "/word/%E4%BB%8F%E6%AE%BF/#jn-193734"
+  },
+  {
+    "kotoba": "仏土",
+    "yomi": "ぶつ‐ど",
+    "link": "/word/%E4%BB%8F%E5%9C%9F/#jn-193740"
+  },
+  {
+    "kotoba": "仏堂",
+    "yomi": "ぶつ‐どう",
+    "link": "/word/%E4%BB%8F%E5%A0%82/#jn-193748"
+  },
+  {
+    "kotoba": "仏道",
+    "yomi": "ぶつ‐どう",
+    "link": "/word/%E4%BB%8F%E9%81%93/#jn-193749"
+  },
+  {
+    "kotoba": "仏日",
+    "yomi": "ぶつ‐にち",
+    "link": "/word/%E4%BB%8F%E6%97%A5/#jn-193783"
+  },
+  {
+    "kotoba": "仏涅槃",
+    "yomi": "ぶつ‐ねはん",
+    "link": "/word/%E4%BB%8F%E6%B6%85%E6%A7%83/#jn-193785"
+  },
+  {
+    "kotoba": "物納",
+    "yomi": "ぶつ‐のう",
+    "link": "/word/%E7%89%A9%E7%B4%8D/#jn-193786"
+  },
+  {
+    "kotoba": "仏縛",
+    "yomi": "ぶつ‐ばく",
+    "link": "/word/%E4%BB%8F%E7%B8%9B/#jn-193789"
+  },
+  {
+    "kotoba": "仏罰",
+    "yomi": "ぶつ‐ばち",
+    "link": "/word/%E4%BB%8F%E7%BD%B0/#jn-193790"
+  },
+  {
+    "kotoba": "仏罰",
+    "yomi": "ぶつ‐ばつ",
+    "link": "/word/%E4%BB%8F%E7%BD%B0/#jn-193791"
+  },
+  {
+    "kotoba": "物物交換",
+    "yomi": "ぶつぶつ‐こうかん",
+    "link": "/word/%E7%89%A9%E7%89%A9%E4%BA%A4%E6%8F%9B/#jn-193802"
+  },
+  {
+    "kotoba": "物保険",
+    "yomi": "ぶつ‐ほけん",
+    "link": "/word/%E7%89%A9%E4%BF%9D%E9%99%BA/#jn-193809"
+  },
+  {
+    "kotoba": "仏菩薩",
+    "yomi": "ぶつ‐ぼさつ",
+    "link": "/word/%E4%BB%8F%E8%8F%A9%E8%96%A9/#jn-193810"
+  },
+  {
+    "kotoba": "仏間",
+    "yomi": "ぶつ‐ま",
+    "link": "/word/%E4%BB%8F%E9%96%93/#jn-193811"
+  },
+  {
+    "kotoba": "仏名",
+    "yomi": "ぶつ‐みょう",
+    "link": "/word/%E4%BB%8F%E5%90%8D/#jn-193812"
+  },
+  {
+    "kotoba": "仏名会",
+    "yomi": "ぶつみょう‐え",
+    "link": "/word/%E4%BB%8F%E5%90%8D%E4%BC%9A/#jn-193813"
+  },
+  {
+    "kotoba": "仏名経",
+    "yomi": "ぶつみょう‐きょう",
+    "link": "/word/%E4%BB%8F%E5%90%8D%E7%B5%8C/#jn-193814"
+  },
+  {
+    "kotoba": "物名",
+    "yomi": "ぶつ‐めい",
+    "link": "/word/%E7%89%A9%E5%90%8D/#jn-193816"
+  },
+  {
+    "kotoba": "物名歌",
+    "yomi": "ぶつめい‐か",
+    "link": "/word/%E7%89%A9%E5%90%8D%E6%AD%8C/#jn-193817"
+  },
+  {
+    "kotoba": "仏滅",
+    "yomi": "ぶつ‐めつ",
+    "link": "/word/%E4%BB%8F%E6%BB%85/#jn-193818"
+  },
+  {
+    "kotoba": "仏母",
+    "yomi": "ぶつ‐も",
+    "link": "/word/person/%E4%BB%8F%E6%AF%8D/#jn-193819"
+  },
+  {
+    "kotoba": "仏門",
+    "yomi": "ぶつ‐もん",
+    "link": "/word/%E4%BB%8F%E9%96%80/#jn-193820"
+  },
+  {
+    "kotoba": "物欲",
+    "yomi": "ぶつ‐よく",
+    "link": "/word/%E7%89%A9%E6%AC%B2/#jn-193824"
+  },
+  {
+    "kotoba": "物理",
+    "yomi": "ぶつ‐り",
+    "link": "/word/%E7%89%A9%E7%90%86/#jn-193825"
+  },
+  {
+    "kotoba": "物理化学",
+    "yomi": "ぶつり‐かがく",
+    "link": "/word/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/#jn-193829"
+  },
+  {
+    "kotoba": "物理学",
+    "yomi": "ぶつり‐がく",
+    "link": "/word/%E7%89%A9%E7%90%86%E5%AD%A6/#jn-193830"
+  },
+  {
+    "kotoba": "仏力",
+    "yomi": "ぶつ‐りき",
+    "link": "/word/%E4%BB%8F%E5%8A%9B/#jn-193831"
+  },
+  {
+    "kotoba": "物理気相成長法",
+    "yomi": "ぶつりきそう‐せいちょうほう",
+    "link": "/word/%E7%89%A9%E7%90%86%E6%B0%97%E7%9B%B8%E6%88%90%E9%95%B7%E6%B3%95/#jn-276310"
+  },
+  {
+    "kotoba": "物理光学",
+    "yomi": "ぶつり‐こうがく",
+    "link": "/word/%E7%89%A9%E7%90%86%E5%85%89%E5%AD%A6/#jn-193832"
+  },
+  {
+    "kotoba": "物理神学的証明",
+    "yomi": "ぶつりしんがくてき‐しょうめい",
+    "link": "/word/%E7%89%A9%E7%90%86%E7%A5%9E%E5%AD%A6%E7%9A%84%E8%A8%BC%E6%98%8E/#jn-193833"
+  },
+  {
+    "kotoba": "物理蒸着法",
+    "yomi": "ぶつり‐じょうちゃくほう",
+    "link": "/word/%E7%89%A9%E7%90%86%E8%92%B8%E7%9D%80%E6%B3%95/#jn-276311"
+  },
+  {
+    "kotoba": "仏籬祖室",
+    "yomi": "ぶつり‐そしつ",
+    "link": "/word/%E4%BB%8F%E7%B1%AC%E7%A5%96%E5%AE%A4/#jn-193834"
+  },
+  {
+    "kotoba": "物理探鉱",
+    "yomi": "ぶつり‐たんこう",
+    "link": "/word/%E7%89%A9%E7%90%86%E6%8E%A2%E9%89%B1/#jn-193835"
+  },
+  {
+    "kotoba": "物理探査",
+    "yomi": "ぶつり‐たんさ",
+    "link": "/word/%E7%89%A9%E7%90%86%E6%8E%A2%E6%9F%BB/#jn-193836"
+  },
+  {
+    "kotoba": "物理定数",
+    "yomi": "ぶつり‐ていすう",
+    "link": "/word/%E7%89%A9%E7%90%86%E5%AE%9A%E6%95%B0/#jn-193837"
+  },
+  {
+    "kotoba": "物理的",
+    "yomi": "ぶつり‐てき",
+    "link": "/word/%E7%89%A9%E7%90%86%E7%9A%84/#jn-193838"
+  },
+  {
+    "kotoba": "物理的再生法",
+    "yomi": "ぶつりてき‐さいせいほう",
+    "link": "/word/%E7%89%A9%E7%90%86%E7%9A%84%E5%86%8D%E7%94%9F%E6%B3%95/#jn-301079"
+  },
+  {
+    "kotoba": "物理的風化",
+    "yomi": "ぶつりてき‐ふうか",
+    "link": "/word/%E7%89%A9%E7%90%86%E7%9A%84%E9%A2%A8%E5%8C%96/#jn-248081"
+  },
+  {
+    "kotoba": "物理分析",
+    "yomi": "ぶつり‐ぶんせき",
+    "link": "/word/%E7%89%A9%E7%90%86%E5%88%86%E6%9E%90/#jn-193841"
+  },
+  {
+    "kotoba": "物理変化",
+    "yomi": "ぶつり‐へんか",
+    "link": "/word/%E7%89%A9%E7%90%86%E5%A4%89%E5%8C%96/#jn-193842"
+  },
+  {
+    "kotoba": "物流",
+    "yomi": "ぶつ‐りゅう",
+    "link": "/word/%E7%89%A9%E6%B5%81/#jn-193844"
+  },
+  {
+    "kotoba": "物量",
+    "yomi": "ぶつ‐りょう",
+    "link": "/word/%E7%89%A9%E9%87%8F/#jn-193846"
+  },
+  {
+    "kotoba": "物療",
+    "yomi": "ぶつ‐りょう",
+    "link": "/word/%E7%89%A9%E7%99%82/#jn-193847"
+  },
+  {
+    "kotoba": "物理量",
+    "yomi": "ぶつり‐りょう",
+    "link": "/word/%E7%89%A9%E7%90%86%E9%87%8F/#jn-193849"
+  },
+  {
+    "kotoba": "物理療法",
+    "yomi": "ぶつり‐りょうほう",
+    "link": "/word/%E7%89%A9%E7%90%86%E7%99%82%E6%B3%95/#jn-193850"
+  },
+  {
+    "kotoba": "物類称呼",
+    "yomi": "ぶつるいしょうこ",
+    "link": "/word/%E7%89%A9%E9%A1%9E%E7%A7%B0%E5%91%BC/#jn-193851"
+  },
+  {
+    "kotoba": "仏暦",
+    "yomi": "ぶつ‐れき",
+    "link": "/word/%E4%BB%8F%E6%9A%A6/#jn-298536"
+  },
+  {
+    "kotoba": "物論",
+    "yomi": "ぶつ‐ろん",
+    "link": "/word/%E7%89%A9%E8%AB%96/#jn-193853"
+  },
+  {
+    "kotoba": "武帝",
+    "yomi": "ぶ‐てい",
+    "link": "/word/person/%E6%AD%A6%E5%B8%9D/#jn-193884"
+  },
+  {
+    "kotoba": "不体裁",
+    "yomi": "ふ‐ていさい",
+    "link": "/word/%E4%B8%8D%E4%BD%93%E8%A3%81/#jn-193896"
+  },
+  {
+    "kotoba": "武闘",
+    "yomi": "ぶ‐とう",
+    "link": "/word/%E6%AD%A6%E9%97%98/#jn-194006"
+  },
+  {
+    "kotoba": "舞踏",
+    "yomi": "ぶ‐とう",
+    "link": "/word/%E8%88%9E%E8%B8%8F/#jn-194007"
+  },
+  {
+    "kotoba": "無道",
+    "yomi": "ぶ‐どう",
+    "link": "/word/%E7%84%A1%E9%81%93_%28%E3%81%B6%E3%81%A9%E3%81%86%29/#jn-194010"
+  },
+  {
+    "kotoba": "舞踏家",
+    "yomi": "ぶとう‐か",
+    "link": "/word/%E8%88%9E%E8%B8%8F%E5%AE%B6/#jn-276314"
+  },
+  {
+    "kotoba": "舞踏会",
+    "yomi": "ぶとう‐かい",
+    "link": "/word/%E8%88%9E%E8%B8%8F%E4%BC%9A/#jn-262000"
+  },
+  {
+    "kotoba": "舞踏会",
+    "yomi": "ぶとうかい",
+    "link": "/word/%E8%88%9E%E8%B8%8F%E4%BC%9A/#jn-295249"
+  },
+  {
+    "kotoba": "舞踏組曲",
+    "yomi": "ぶとうくみきょく",
+    "link": "/word/%E8%88%9E%E8%B8%8F%E7%B5%84%E6%9B%B2/#jn-293571"
+  },
+  {
+    "kotoba": "無道人",
+    "yomi": "ぶどう‐じん",
+    "link": "/word/%E7%84%A1%E9%81%93%E4%BA%BA/#jn-194067"
+  },
+  {
+    "kotoba": "武闘派",
+    "yomi": "ぶとう‐は",
+    "link": "/word/%E6%AD%A6%E9%97%98%E6%B4%BE/#jn-244296"
+  },
+  {
+    "kotoba": "舞踏病",
+    "yomi": "ぶとう‐びょう",
+    "link": "/word/%E8%88%9E%E8%B8%8F%E7%97%85/#jn-194087"
+  },
+  {
+    "kotoba": "武徳",
+    "yomi": "ぶ‐とく",
+    "link": "/word/%E6%AD%A6%E5%BE%B3/#jn-194107"
+  },
+  {
+    "kotoba": "武徳殿",
+    "yomi": "ぶとく‐でん",
+    "link": "/word/%E6%AD%A6%E5%BE%B3%E6%AE%BF/#jn-194114"
+  },
+  {
+    "kotoba": "武徳門",
+    "yomi": "ぶとく‐もん",
+    "link": "/word/%E6%AD%A6%E5%BE%B3%E9%96%80/#jn-194115"
+  },
+  {
+    "kotoba": "武道",
+    "yomi": "ぶ‐どう",
+    "link": "/word/%E6%AD%A6%E9%81%93/#jn-194008"
+  },
+  {
+    "kotoba": "葡萄",
+    "yomi": "ぶどう",
+    "link": "/word/%E8%91%A1%E8%90%84_%28%E3%81%B6%E3%81%A9%E3%81%86%29/#jn-194009"
+  },
+  {
+    "kotoba": "葡萄色",
+    "yomi": "ぶどう‐いろ",
+    "link": "/word/%E8%91%A1%E8%90%84%E8%89%B2_%28%E3%81%B6%E3%81%A9%E3%81%86%E3%81%84%E3%82%8D%29/#jn-194019"
+  },
+  {
+    "kotoba": "葡萄唐草",
+    "yomi": "ぶどう‐からくさ",
+    "link": "/word/%E8%91%A1%E8%90%84%E5%94%90%E8%8D%89/#jn-194027"
+  },
+  {
+    "kotoba": "武道館",
+    "yomi": "ぶどう‐かん",
+    "link": "/word/%E6%AD%A6%E9%81%93%E9%A4%A8/#jn-259299"
+  },
+  {
+    "kotoba": "葡萄柿",
+    "yomi": "ぶどう‐がき",
+    "link": "/word/%E8%91%A1%E8%90%84%E6%9F%BF/#jn-194023"
+  },
+  {
+    "kotoba": "武道方",
+    "yomi": "ぶどう‐がた",
+    "link": "/word/%E6%AD%A6%E9%81%93%E6%96%B9/#jn-194024"
+  },
+  {
+    "kotoba": "葡萄球菌",
+    "yomi": "ぶどう‐きゅうきん",
+    "link": "/word/%E8%91%A1%E8%90%84%E7%90%83%E8%8F%8C/#jn-194028"
+  },
+  {
+    "kotoba": "葡萄酒",
+    "yomi": "ぶどう‐しゅ",
+    "link": "/word/%E8%91%A1%E8%90%84%E9%85%92/#jn-194053"
+  },
+  {
+    "kotoba": "葡萄状",
+    "yomi": "ぶどう‐じょう",
+    "link": "/word/%E8%91%A1%E8%90%84%E7%8A%B6/#jn-194055"
+  },
+  {
+    "kotoba": "葡萄状鬼胎",
+    "yomi": "ぶどうじょう‐きたい",
+    "link": "/word/%E8%91%A1%E8%90%84%E7%8A%B6%E9%AC%BC%E8%83%8E/#jn-194056"
+  },
+  {
+    "kotoba": "葡萄石",
+    "yomi": "ぶどう‐せき",
+    "link": "/word/%E8%91%A1%E8%90%84%E7%9F%B3/#jn-194069"
+  },
+  {
+    "kotoba": "葡萄棚",
+    "yomi": "ぶどう‐だな",
+    "link": "/word/%E8%91%A1%E8%90%84%E6%A3%9A/#jn-194075"
+  },
+  {
+    "kotoba": "武道伝来記",
+    "yomi": "ぶどうでんらいき",
+    "link": "/word/%E6%AD%A6%E9%81%93%E4%BC%9D%E6%9D%A5%E8%A8%98/#jn-194078"
+  },
+  {
+    "kotoba": "葡萄糖",
+    "yomi": "ぶどう‐とう",
+    "link": "/word/%E8%91%A1%E8%90%84%E7%B3%96/#jn-194079"
+  },
+  {
+    "kotoba": "葡萄鼠",
+    "yomi": "ぶどう‐ねずみ",
+    "link": "/word/%E8%91%A1%E8%90%84%E9%BC%A0/#jn-194084"
+  },
+  {
+    "kotoba": "葡萄膜",
+    "yomi": "ぶどう‐まく",
+    "link": "/word/%E8%91%A1%E8%90%84%E8%86%9C/#jn-194092"
+  },
+  {
+    "kotoba": "葡萄膜炎",
+    "yomi": "ぶどうまく‐えん",
+    "link": "/word/%E8%91%A1%E8%90%84%E8%86%9C%E7%82%8E/#jn-248083"
+  },
+  {
+    "kotoba": "部内",
+    "yomi": "ぶ‐ない",
+    "link": "/word/%E9%83%A8%E5%86%85/#jn-194199"
+  },
+  {
+    "kotoba": "橅子",
+    "yomi": "ぶな‐こ",
+    "link": "/word/%E6%A9%85%E5%AD%90/#jn-194238"
+  },
+  {
+    "kotoba": "橅湿地",
+    "yomi": "ぶな‐しめじ",
+    "link": "/word/%E6%A9%85%E6%B9%BF%E5%9C%B0/#jn-194248"
+  },
+  {
+    "kotoba": "橅帯",
+    "yomi": "ぶな‐たい",
+    "link": "/word/%E6%A9%85%E5%B8%AF/#jn-194259"
+  },
+  {
+    "kotoba": "不形",
+    "yomi": "ぶ‐なり",
+    "link": "/word/%E4%B8%8D%E5%BD%A2/#jn-194335"
+  },
+  {
+    "kotoba": "無難",
+    "yomi": "ぶ‐なん",
+    "link": "/word/%E7%84%A1%E9%9B%A3/#jn-194340"
+  },
+  {
+    "kotoba": "侮日",
+    "yomi": "ぶ‐にち",
+    "link": "/word/%E4%BE%AE%E6%97%A5/#jn-194344"
+  },
+  {
+    "kotoba": "夫人",
+    "yomi": "ぶ‐にん",
+    "link": "/word/%E5%A4%AB%E4%BA%BA_%28%E3%81%B6%E3%81%AB%E3%82%93%29/#jn-194352"
+  },
+  {
+    "kotoba": "無人",
+    "yomi": "ぶ‐にん",
+    "link": "/word/%E7%84%A1%E4%BA%BA_%28%E3%81%B6%E3%81%AB%E3%82%93%29/#jn-194354"
+  },
+  {
+    "kotoba": "補任",
+    "yomi": "ぶ‐にん",
+    "link": "/word/%E8%A3%9C%E4%BB%BB_%28%E3%81%B6%E3%81%AB%E3%82%93%29/#jn-194353"
+  },
+  {
+    "kotoba": "無人岩",
+    "yomi": "ぶにん‐がん",
+    "link": "/word/%E7%84%A1%E4%BA%BA%E5%B2%A9_%28%E3%81%B6%E3%81%AB%E3%82%93%E3%81%8C%E3%82%93%29/#jn-194356"
+  },
+  {
+    "kotoba": "補任状",
+    "yomi": "ぶにん‐じょう",
+    "link": "/word/%E8%A3%9C%E4%BB%BB%E7%8A%B6/#jn-194360"
+  },
+  {
+    "kotoba": "不人相",
+    "yomi": "ぶ‐にんそう",
+    "link": "/word/%E4%B8%8D%E4%BA%BA%E7%9B%B8/#jn-194361"
+  },
+  {
+    "kotoba": "不念",
+    "yomi": "ぶ‐ねん",
+    "link": "/word/%E4%B8%8D%E5%BF%B5/#jn-194378"
+  },
+  {
+    "kotoba": "部派仏教",
+    "yomi": "ぶは‐ぶっきょう",
+    "link": "/word/%E9%83%A8%E6%B4%BE%E4%BB%8F%E6%95%99/#jn-194408"
+  },
+  {
+    "kotoba": "分倍河原",
+    "yomi": "ぶばいがわら",
+    "link": "/word/%E5%88%86%E5%80%8D%E6%B2%B3%E5%8E%9F/#jn-194398"
+  },
+  {
+    "kotoba": "歩兵",
+    "yomi": "ふ‐ひょう",
+    "link": "/word/%E6%AD%A9%E5%85%B5_%28%E3%81%B5%E3%81%B2%E3%82%87%E3%81%86%29/#jn-194429"
+  },
+  {
+    "kotoba": "部品",
+    "yomi": "ぶ‐ひん",
+    "link": "/word/%E9%83%A8%E5%93%81/#jn-194444"
+  },
+  {
+    "kotoba": "武備",
+    "yomi": "ぶ‐び",
+    "link": "/word/%E6%AD%A6%E5%82%99/#jn-194421"
+  },
+  {
+    "kotoba": "武夫",
+    "yomi": "ぶ‐ふ",
+    "link": "/word/%E6%AD%A6%E5%A4%AB/#jn-194446"
+  },
+  {
+    "kotoba": "武府",
+    "yomi": "ぶ‐ふ",
+    "link": "/word/%E6%AD%A6%E5%BA%9C/#jn-194447"
+  },
+  {
+    "kotoba": "無風流",
+    "yomi": "ぶ‐ふうりゅう",
+    "link": "/word/%E7%84%A1%E9%A2%A8%E6%B5%81/#jn-194454"
+  },
+  {
+    "kotoba": "部分",
+    "yomi": "ぶ‐ぶん",
+    "link": "/word/%E9%83%A8%E5%88%86/#jn-194473"
+  },
+  {
+    "kotoba": "舞文",
+    "yomi": "ぶ‐ぶん",
+    "link": "/word/%E8%88%9E%E6%96%87/#jn-194474"
+  },
+  {
+    "kotoba": "部分一致",
+    "yomi": "ぶぶん‐いっち",
+    "link": "/word/%E9%83%A8%E5%88%86%E4%B8%80%E8%87%B4/#jn-194475"
+  },
+  {
+    "kotoba": "部分音",
+    "yomi": "ぶぶん‐おん",
+    "link": "/word/%E9%83%A8%E5%88%86%E9%9F%B3/#jn-194477"
+  },
+  {
+    "kotoba": "部分化学合成",
+    "yomi": "ぶぶん‐かがくごうせい",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%8C%96%E5%AD%A6%E5%90%88%E6%88%90/#jn-266948"
+  },
+  {
+    "kotoba": "部分割",
+    "yomi": "ぶぶん‐かつ",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%89%B2/#jn-194478"
+  },
+  {
+    "kotoba": "部分冠詞",
+    "yomi": "ぶぶん‐かんし",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%86%A0%E8%A9%9E/#jn-194479"
+  },
+  {
+    "kotoba": "舞文曲筆",
+    "yomi": "ぶぶん‐きょくひつ",
+    "link": "/word/%E8%88%9E%E6%96%87%E6%9B%B2%E7%AD%86/#jn-194480"
+  },
+  {
+    "kotoba": "部分義歯",
+    "yomi": "ぶぶん‐ぎし",
+    "link": "/word/%E9%83%A8%E5%88%86%E7%BE%A9%E6%AD%AF/#jn-248087"
+  },
+  {
+    "kotoba": "部分月食",
+    "yomi": "ぶぶん‐げっしょく",
+    "link": "/word/%E9%83%A8%E5%88%86%E6%9C%88%E9%A3%9F/#jn-241566"
+  },
+  {
+    "kotoba": "部分再販",
+    "yomi": "ぶぶん‐さいはん",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%86%8D%E8%B2%A9/#jn-194482"
+  },
+  {
+    "kotoba": "部分集合",
+    "yomi": "ぶぶん‐しゅうごう",
+    "link": "/word/%E9%83%A8%E5%88%86%E9%9B%86%E5%90%88/#jn-194483"
+  },
+  {
+    "kotoba": "部分床義歯",
+    "yomi": "ぶぶんしょう‐ぎし",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%BA%8A%E7%BE%A9%E6%AD%AF/#jn-194484"
+  },
+  {
+    "kotoba": "部分食",
+    "yomi": "ぶぶん‐しょく",
+    "link": "/word/%E9%83%A8%E5%88%86%E9%A3%9F/#jn-194485"
+  },
+  {
+    "kotoba": "部分測光",
+    "yomi": "ぶぶん‐そっこう",
+    "link": "/word/%E9%83%A8%E5%88%86%E6%B8%AC%E5%85%89/#jn-194486"
+  },
+  {
+    "kotoba": "部分定額制",
+    "yomi": "ぶぶん‐ていがくせい",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%AE%9A%E9%A1%8D%E5%88%B6/#jn-194487"
+  },
+  {
+    "kotoba": "部分的",
+    "yomi": "ぶぶん‐てき",
+    "link": "/word/%E9%83%A8%E5%88%86%E7%9A%84/#jn-194488"
+  },
+  {
+    "kotoba": "部分的核実験禁止条約",
+    "yomi": "ぶぶんてきかくじっけんきんし‐じょうやく",
+    "link": "/word/%E9%83%A8%E5%88%86%E7%9A%84%E6%A0%B8%E5%AE%9F%E9%A8%93%E7%A6%81%E6%AD%A2%E6%9D%A1%E7%B4%84/#jn-194489"
+  },
+  {
+    "kotoba": "部分的菌従属栄養植物",
+    "yomi": "ぶぶんてききんじゅうぞく‐えいようしょくぶつ",
+    "link": "/word/%E9%83%A8%E5%88%86%E7%9A%84%E8%8F%8C%E5%BE%93%E5%B1%9E%E6%A0%84%E9%A4%8A%E6%A4%8D%E7%89%A9/#jn-291883"
+  },
+  {
+    "kotoba": "部分癲癇",
+    "yomi": "ぶぶん‐てんかん",
+    "link": "/word/%E9%83%A8%E5%88%86%E7%99%B2%E7%99%87/#jn-259306"
+  },
+  {
+    "kotoba": "部分日食",
+    "yomi": "ぶぶん‐にっしょく",
+    "link": "/word/%E9%83%A8%E5%88%86%E6%97%A5%E9%A3%9F/#jn-241567"
+  },
+  {
+    "kotoba": "部分判決制度",
+    "yomi": "ぶぶんはんけつ‐せいど",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%88%A4%E6%B1%BA%E5%88%B6%E5%BA%A6/#jn-194490"
+  },
+  {
+    "kotoba": "部分否定",
+    "yomi": "ぶぶん‐ひてい",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%90%A6%E5%AE%9A/#jn-262008"
+  },
+  {
+    "kotoba": "部分品",
+    "yomi": "ぶぶん‐ひん",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%93%81/#jn-194491"
+  },
+  {
+    "kotoba": "部分偏光",
+    "yomi": "ぶぶん‐へんこう",
+    "link": "/word/%E9%83%A8%E5%88%86%E5%81%8F%E5%85%89/#jn-194492"
+  },
+  {
+    "kotoba": "部分発作",
+    "yomi": "ぶぶん‐ほっさ",
+    "link": "/word/%E9%83%A8%E5%88%86%E7%99%BA%E4%BD%9C/#jn-269724"
+  },
+  {
+    "kotoba": "部分浴",
+    "yomi": "ぶぶん‐よく",
+    "link": "/word/%E9%83%A8%E5%88%86%E6%B5%B4/#jn-241568"
+  },
+  {
+    "kotoba": "部分連合",
+    "yomi": "ぶぶん‐れんごう",
+    "link": "/word/%E9%83%A8%E5%88%86%E9%80%A3%E5%90%88/#jn-248088"
+  },
+  {
+    "kotoba": "武辺",
+    "yomi": "ぶ‐へん",
+    "link": "/word/%E6%AD%A6%E8%BE%BA/#jn-194509"
+  },
+  {
+    "kotoba": "武辺者",
+    "yomi": "ぶへん‐しゃ",
+    "link": "/word/%E6%AD%A6%E8%BE%BA%E8%80%85_%28%E3%81%B6%E3%81%B8%E3%82%93%E3%81%97%E3%82%83%29/#jn-194516"
+  },
+  {
+    "kotoba": "不返事",
+    "yomi": "ぶ‐へんじ",
+    "link": "/word/%E4%B8%8D%E8%BF%94%E4%BA%8B/#jn-194514"
+  },
+  {
+    "kotoba": "武辺者",
+    "yomi": "ぶへん‐もの",
+    "link": "/word/%E6%AD%A6%E8%BE%BA%E8%80%85_%28%E3%81%B6%E3%81%B8%E3%82%93%E3%82%82%E3%81%AE%29/#jn-194526"
+  },
+  {
+    "kotoba": "侮蔑",
+    "yomi": "ぶ‐べつ",
+    "link": "/word/%E4%BE%AE%E8%94%91/#jn-194503"
+  },
+  {
+    "kotoba": "武弁",
+    "yomi": "ぶ‐べん",
+    "link": "/word/%E6%AD%A6%E5%BC%81/#jn-194510"
+  },
+  {
+    "kotoba": "不奉公",
+    "yomi": "ぶ‐ほうこう",
+    "link": "/word/%E4%B8%8D%E5%A5%89%E5%85%AC/#jn-194537"
+  },
+  {
+    "kotoba": "不間",
+    "yomi": "ぶ‐ま",
+    "link": "/word/%E4%B8%8D%E9%96%93/#jn-194560"
+  },
+  {
+    "kotoba": "夫米",
+    "yomi": "ぶ‐まい",
+    "link": "/word/%E5%A4%AB%E7%B1%B3/#jn-194563"
+  },
+  {
+    "kotoba": "侮慢",
+    "yomi": "ぶ‐まん",
+    "link": "/word/%E4%BE%AE%E6%85%A2/#jn-194574"
+  },
+  {
+    "kotoba": "部民",
+    "yomi": "ぶ‐みん",
+    "link": "/word/%E9%83%A8%E6%B0%91/#jn-194701"
+  },
+  {
+    "kotoba": "武名",
+    "yomi": "ぶ‐めい",
+    "link": "/word/%E6%AD%A6%E5%90%8D/#jn-194709"
+  },
+  {
+    "kotoba": "部面",
+    "yomi": "ぶ‐めん",
+    "link": "/word/%E9%83%A8%E9%9D%A2/#jn-194718"
+  },
+  {
+    "kotoba": "父母",
+    "yomi": "ぶ‐も",
+    "link": "/word/%E7%88%B6%E6%AF%8D_%28%E3%81%B6%E3%82%82%29/#jn-194721"
+  },
+  {
+    "kotoba": "父母恩重経",
+    "yomi": "ぶもおんじゅうきょう",
+    "link": "/word/%E7%88%B6%E6%AF%8D%E6%81%A9%E9%87%8D%E7%B5%8C/#jn-194725"
+  },
+  {
+    "kotoba": "武門",
+    "yomi": "ぶ‐もん",
+    "link": "/word/%E6%AD%A6%E9%96%80/#jn-194735"
+  },
+  {
+    "kotoba": "部門",
+    "yomi": "ぶ‐もん",
+    "link": "/word/%E9%83%A8%E9%96%80/#jn-194736"
+  },
+  {
+    "kotoba": "夫役",
+    "yomi": "ぶ‐やく",
+    "link": "/word/%E5%A4%AB%E5%BD%B9/#jn-194741"
+  },
+  {
+    "kotoba": "武役",
+    "yomi": "ぶ‐やく",
+    "link": "/word/%E6%AD%A6%E5%BD%B9/#jn-194742"
+  },
+  {
+    "kotoba": "武勇",
+    "yomi": "ぶ‐ゆう",
+    "link": "/word/%E6%AD%A6%E5%8B%87/#jn-194760"
+  },
+  {
+    "kotoba": "武勇伝",
+    "yomi": "ぶゆう‐でん",
+    "link": "/word/%E6%AD%A6%E5%8B%87%E4%BC%9D/#jn-194777"
+  },
+  {
+    "kotoba": "撫養",
+    "yomi": "ぶ‐よう",
+    "link": "/word/%E6%92%AB%E9%A4%8A/#jn-194852"
+  },
+  {
+    "kotoba": "舞踊",
+    "yomi": "ぶ‐よう",
+    "link": "/word/%E8%88%9E%E8%B8%8A/#jn-194853"
+  },
+  {
+    "kotoba": "舞踊家",
+    "yomi": "ぶよう‐か",
+    "link": "/word/%E8%88%9E%E8%B8%8A%E5%AE%B6/#jn-281862"
+  },
+  {
+    "kotoba": "舞踊劇",
+    "yomi": "ぶよう‐げき",
+    "link": "/word/%E8%88%9E%E8%B8%8A%E5%8A%87/#jn-194857"
+  },
+  {
+    "kotoba": "不用心",
+    "yomi": "ぶ‐ようじん",
+    "link": "/word/%E4%B8%8D%E7%94%A8%E5%BF%83/#jn-194861"
+  },
+  {
+    "kotoba": "武陽佃島",
+    "yomi": "ぶようつくだしま",
+    "link": "/word/%E6%AD%A6%E9%99%BD%E4%BD%83%E5%B3%B6/#jn-298538"
+  },
+  {
+    "kotoba": "武楊伝",
+    "yomi": "ぶようでん",
+    "link": "/word/%E6%AD%A6%E6%A5%8A%E4%BC%9D/#jn-280002"
+  },
+  {
+    "kotoba": "無頼",
+    "yomi": "ぶ‐らい",
+    "link": "/word/%E7%84%A1%E9%A0%BC_%28%E3%81%B6%E3%82%89%E3%81%84%29/#jn-194895"
+  },
+  {
+    "kotoba": "無頼漢",
+    "yomi": "ぶらい‐かん",
+    "link": "/word/%E7%84%A1%E9%A0%BC%E6%BC%A2/#jn-194904"
+  },
+  {
+    "kotoba": "武礼冠",
+    "yomi": "ぶらい‐かん",
+    "link": "/word/%E6%AD%A6%E7%A4%BC%E5%86%A0/#jn-194903"
+  },
+  {
+    "kotoba": "腕一本",
+    "yomi": "ブラいっぽん",
+    "link": "/word/%E8%85%95%E4%B8%80%E6%9C%AC/#jn-296942"
+  },
+  {
+    "kotoba": "無頼派",
+    "yomi": "ぶらい‐は",
+    "link": "/word/%E7%84%A1%E9%A0%BC%E6%B4%BE/#jn-194939"
+  },
+  {
+    "kotoba": "無頼平野",
+    "yomi": "ぶらいへいや",
+    "link": "/word/%E7%84%A1%E9%A0%BC%E5%B9%B3%E9%87%8E/#jn-269731"
+  },
+  {
+    "kotoba": "部落",
+    "yomi": "ぶ‐らく",
+    "link": "/word/%E9%83%A8%E8%90%BD/#jn-195049"
+  },
+  {
+    "kotoba": "豊楽院",
+    "yomi": "ぶらく‐いん",
+    "link": "/word/%E8%B1%8A%E6%A5%BD%E9%99%A2/#jn-195052"
+  },
+  {
+    "kotoba": "部落解放運動",
+    "yomi": "ぶらくかいほう‐うんどう",
+    "link": "/word/%E9%83%A8%E8%90%BD%E8%A7%A3%E6%94%BE%E9%81%8B%E5%8B%95/#jn-195056"
+  },
+  {
+    "kotoba": "部落差別解消推進法",
+    "yomi": "ぶらくさべつかいしょうすいしん‐ほう",
+    "link": "/word/%E9%83%A8%E8%90%BD%E5%B7%AE%E5%88%A5%E8%A7%A3%E6%B6%88%E6%8E%A8%E9%80%B2%E6%B3%95/#jn-289934"
+  },
+  {
+    "kotoba": "豊楽殿",
+    "yomi": "ぶらく‐でん",
+    "link": "/word/%E8%B1%8A%E6%A5%BD%E6%AE%BF/#jn-195067"
+  },
+  {
+    "kotoba": "豊楽門",
+    "yomi": "ぶらく‐もん",
+    "link": "/word/%E8%B1%8A%E6%A5%BD%E9%96%80/#jn-195077"
+  },
+  {
+    "kotoba": "鞦韆",
+    "yomi": "ふらここ",
+    "link": "/word/%E9%9E%A6%E9%9F%86_%28%E3%81%B5%E3%82%89%E3%81%93%E3%81%93%29/#jn-195082"
+  },
+  {
+    "kotoba": "鞦韆",
+    "yomi": "ぶらんこ",
+    "link": "/word/%E9%9E%A6%E9%9F%86_%28%E3%81%B6%E3%82%89%E3%82%93%E3%81%93%29/#jn-195391"
+  },
+  {
+    "kotoba": "鞦韆",
+    "yomi": "ぶらんこ",
+    "link": "/word/%E9%9E%A6%E9%9F%86_%28%E3%81%B6%E3%82%89%E3%82%93%E3%81%93%29/#jn-299927"
+  },
+  {
+    "kotoba": "武略",
+    "yomi": "ぶ‐りゃく",
+    "link": "/word/%E6%AD%A6%E7%95%A5/#jn-195798"
+  },
+  {
+    "kotoba": "武略状",
+    "yomi": "ぶりゃく‐じょう",
+    "link": "/word/%E6%AD%A6%E7%95%A5%E7%8A%B6/#jn-195799"
+  },
+  {
+    "kotoba": "無聊",
+    "yomi": "ぶ‐りょう",
+    "link": "/word/%E7%84%A1%E8%81%8A_%28%E3%81%B6%E3%82%8A%E3%82%87%E3%81%86%29/#jn-195831"
+  },
+  {
+    "kotoba": "武陵桃源",
+    "yomi": "ぶりょう‐とうげん",
+    "link": "/word/%E6%AD%A6%E9%99%B5%E6%A1%83%E6%BA%90/#jn-195837"
+  },
+  {
+    "kotoba": "武力",
+    "yomi": "ぶ‐りょく",
+    "link": "/word/%E6%AD%A6%E5%8A%9B/#jn-195841"
+  },
+  {
+    "kotoba": "武力攻撃",
+    "yomi": "ぶりょく‐こうげき",
+    "link": "/word/%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%92%83/#jn-195842"
+  },
+  {
+    "kotoba": "武力攻撃事態",
+    "yomi": "ぶりょくこうげき‐じたい",
+    "link": "/word/%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%92%83%E4%BA%8B%E6%85%8B/#jn-195843"
+  },
+  {
+    "kotoba": "武力攻撃事態対処法",
+    "yomi": "ぶりょくこうげきじたいたいしょ‐ほう",
+    "link": "/word/%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%92%83%E4%BA%8B%E6%85%8B%E5%AF%BE%E5%87%A6%E6%B3%95/#jn-281878"
+  },
+  {
+    "kotoba": "武力攻撃事態法",
+    "yomi": "ぶりょくこうげきじたい‐ほう",
+    "link": "/word/%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%92%83%E4%BA%8B%E6%85%8B%E6%B3%95/#jn-195844"
+  },
+  {
+    "kotoba": "武力攻撃予測事態",
+    "yomi": "ぶりょくこうげき‐よそくじたい",
+    "link": "/word/%E6%AD%A6%E5%8A%9B%E6%94%BB%E6%92%83%E4%BA%88%E6%B8%AC%E4%BA%8B%E6%85%8B/#jn-195845"
+  },
+  {
+    "kotoba": "武力事態対処法",
+    "yomi": "ぶりょくじたいたいしょ‐ほう",
+    "link": "/word/%E6%AD%A6%E5%8A%9B%E4%BA%8B%E6%85%8B%E5%AF%BE%E5%87%A6%E6%B3%95/#jn-195846"
+  },
+  {
+    "kotoba": "部類",
+    "yomi": "ぶ‐るい",
+    "link": "/word/%E9%83%A8%E9%A1%9E/#jn-195925"
+  },
+  {
+    "kotoba": "寝台特急殺人事件",
+    "yomi": "ブルートレインさつじんじけん",
+    "link": "/word/%E5%AF%9D%E5%8F%B0%E7%89%B9%E6%80%A5%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6/#jn-285388"
+  },
+  {
+    "kotoba": "無礼",
+    "yomi": "ぶ‐れい",
+    "link": "/word/%E7%84%A1%E7%A4%BC_%28%E3%81%B6%E3%82%8C%E3%81%84%29/#jn-196302"
+  },
+  {
+    "kotoba": "無礼講",
+    "yomi": "ぶれい‐こう",
+    "link": "/word/%E7%84%A1%E7%A4%BC%E8%AC%9B/#jn-196309"
+  },
+  {
+    "kotoba": "武烈",
+    "yomi": "ぶ‐れつ",
+    "link": "/word/%E6%AD%A6%E7%83%88/#jn-196514"
+  },
+  {
+    "kotoba": "武烈天皇",
+    "yomi": "ぶれつ‐てんのう",
+    "link": "/word/person/%E6%AD%A6%E7%83%88%E5%A4%A9%E7%9A%87/#jn-196537"
+  },
+  {
+    "kotoba": "歩割",
+    "yomi": "ぶ‐わり",
+    "link": "/word/%E6%AD%A9%E5%89%B2/#jn-197104"
+  },
+  {
+    "kotoba": "分圧",
+    "yomi": "ぶん‐あつ",
+    "link": "/word/%E5%88%86%E5%9C%A7/#jn-197134"
+  },
+  {
+    "kotoba": "文安",
+    "yomi": "ぶんあん",
+    "link": "/word/%E6%96%87%E5%AE%89/#jn-197136"
+  },
+  {
+    "kotoba": "文案",
+    "yomi": "ぶん‐あん",
+    "link": "/word/%E6%96%87%E6%A1%88/#jn-197137"
+  },
+  {
+    "kotoba": "文位",
+    "yomi": "ぶん‐い",
+    "link": "/word/%E6%96%87%E4%BD%8D/#jn-197139"
+  },
+  {
+    "kotoba": "文意",
+    "yomi": "ぶん‐い",
+    "link": "/word/%E6%96%87%E6%84%8F/#jn-197140"
+  },
+  {
+    "kotoba": "分位数",
+    "yomi": "ぶんい‐すう",
+    "link": "/word/%E5%88%86%E4%BD%8D%E6%95%B0/#jn-296977"
+  },
+  {
+    "kotoba": "分位値",
+    "yomi": "ぶんい‐ち",
+    "link": "/word/%E5%88%86%E4%BD%8D%E5%80%A4/#jn-296978"
+  },
+  {
+    "kotoba": "聞一多",
+    "yomi": "ぶん‐いった",
+    "link": "/word/person/%E8%81%9E%E4%B8%80%E5%A4%9A/#jn-197142"
+  },
+  {
+    "kotoba": "分位点",
+    "yomi": "ぶんい‐てん",
+    "link": "/word/%E5%88%86%E4%BD%8D%E7%82%B9/#jn-296979"
+  },
+  {
+    "kotoba": "分院",
+    "yomi": "ぶん‐いん",
+    "link": "/word/%E5%88%86%E9%99%A2/#jn-197144"
+  },
+  {
+    "kotoba": "文運",
+    "yomi": "ぶん‐うん",
+    "link": "/word/%E6%96%87%E9%81%8B/#jn-197146"
+  },
+  {
+    "kotoba": "分営",
+    "yomi": "ぶん‐えい",
+    "link": "/word/%E5%88%86%E5%96%B6/#jn-197147"
+  },
+  {
+    "kotoba": "文永",
+    "yomi": "ぶんえい",
+    "link": "/word/%E6%96%87%E6%B0%B8/#jn-197148"
+  },
+  {
+    "kotoba": "文英清韓",
+    "yomi": "ぶんえい‐せいかん",
+    "link": "/word/person/%E6%96%87%E8%8B%B1%E6%B8%85%E9%9F%93/#jn-197149"
+  },
+  {
+    "kotoba": "分益小作",
+    "yomi": "ぶんえき‐こさく",
+    "link": "/word/%E5%88%86%E7%9B%8A%E5%B0%8F%E4%BD%9C/#jn-197151"
+  },
+  {
+    "kotoba": "分液漏斗",
+    "yomi": "ぶんえき‐ろうと",
+    "link": "/word/%E5%88%86%E6%B6%B2%E6%BC%8F%E6%96%97/#jn-197152"
+  },
+  {
+    "kotoba": "文園",
+    "yomi": "ぶん‐えん",
+    "link": "/word/%E6%96%87%E5%9C%92/#jn-197156"
+  },
+  {
+    "kotoba": "分煙",
+    "yomi": "ぶん‐えん",
+    "link": "/word/%E5%88%86%E7%85%99/#jn-197155"
+  },
+  {
+    "kotoba": "文苑英華",
+    "yomi": "ぶんえんえいが",
+    "link": "/word/%E6%96%87%E8%8B%91%E8%8B%B1%E8%8F%AF/#jn-197157"
+  },
+  {
+    "kotoba": "文淵閣",
+    "yomi": "ぶんえん‐かく",
+    "link": "/word/%E6%96%87%E6%B7%B5%E9%96%A3/#jn-197158"
+  },
+  {
+    "kotoba": "文王",
+    "yomi": "ぶん‐おう",
+    "link": "/word/person/%E6%96%87%E7%8E%8B/#jn-197159"
+  },
+  {
+    "kotoba": "文応",
+    "yomi": "ぶんおう",
+    "link": "/word/%E6%96%87%E5%BF%9C/#jn-197160"
+  },
+  {
+    "kotoba": "分化",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E5%88%86%E5%8C%96/#jn-197163"
+  },
+  {
+    "kotoba": "分科",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E5%88%86%E7%A7%91/#jn-197164"
+  },
+  {
+    "kotoba": "分課",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E5%88%86%E8%AA%B2/#jn-197165"
+  },
+  {
+    "kotoba": "文化",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E6%96%87%E5%8C%96/#jn-197166"
+  },
+  {
+    "kotoba": "文化",
+    "yomi": "ぶんか",
+    "link": "/word/%E6%96%87%E5%8C%96/#jn-197167"
+  },
+  {
+    "kotoba": "文科",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E6%96%87%E7%A7%91/#jn-197168"
+  },
+  {
+    "kotoba": "文華",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E6%96%87%E8%8F%AF/#jn-197169"
+  },
+  {
+    "kotoba": "分火",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E5%88%86%E7%81%AB/#jn-248153"
+  },
+  {
+    "kotoba": "分荷",
+    "yomi": "ぶん‐か",
+    "link": "/word/%E5%88%86%E8%8D%B7/#jn-296980"
+  },
+  {
+    "kotoba": "分会",
+    "yomi": "ぶん‐かい",
+    "link": "/word/%E5%88%86%E4%BC%9A/#jn-197172"
+  },
+  {
+    "kotoba": "分界",
+    "yomi": "ぶん‐かい",
+    "link": "/word/%E5%88%86%E7%95%8C/#jn-197173"
+  },
+  {
+    "kotoba": "分解",
+    "yomi": "ぶん‐かい",
+    "link": "/word/%E5%88%86%E8%A7%A3/#jn-197174"
+  },
+  {
+    "kotoba": "文界",
+    "yomi": "ぶん‐かい",
+    "link": "/word/%E6%96%87%E7%95%8C/#jn-197175"
+  },
+  {
+    "kotoba": "文化遺産",
+    "yomi": "ぶんか‐いさん",
+    "link": "/word/%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3/#jn-197177"
+  },
+  {
+    "kotoba": "文化遺産国際協力推進法",
+    "yomi": "ぶんかいさんこくさいきょうりょくすいしん‐ほう",
+    "link": "/word/%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E5%9B%BD%E9%9A%9B%E5%8D%94%E5%8A%9B%E6%8E%A8%E9%80%B2%E6%B3%95/#jn-248154"
+  },
+  {
+    "kotoba": "文海指針",
+    "yomi": "ぶんかいししん",
+    "link": "/word/%E6%96%87%E6%B5%B7%E6%8C%87%E9%87%9D/#jn-274322"
+  },
+  {
+    "kotoba": "分解者",
+    "yomi": "ぶんかい‐しゃ",
+    "link": "/word/%E5%88%86%E8%A7%A3%E8%80%85/#jn-197178"
+  },
+  {
+    "kotoba": "分解写真",
+    "yomi": "ぶんかい‐しゃしん",
+    "link": "/word/%E5%88%86%E8%A7%A3%E5%86%99%E7%9C%9F/#jn-284080"
+  },
+  {
+    "kotoba": "分解図",
+    "yomi": "ぶんかい‐ず",
+    "link": "/word/%E5%88%86%E8%A7%A3%E5%9B%B3/#jn-299949"
+  },
+  {
+    "kotoba": "分界線",
+    "yomi": "ぶんかい‐せん",
+    "link": "/word/%E5%88%86%E7%95%8C%E7%B7%9A/#jn-291915"
+  },
+  {
+    "kotoba": "分解電圧",
+    "yomi": "ぶんかい‐でんあつ",
+    "link": "/word/%E5%88%86%E8%A7%A3%E9%9B%BB%E5%9C%A7/#jn-276350"
+  },
+  {
+    "kotoba": "分解熱",
+    "yomi": "ぶんかい‐ねつ",
+    "link": "/word/%E5%88%86%E8%A7%A3%E7%86%B1/#jn-264428"
+  },
+  {
+    "kotoba": "分解能",
+    "yomi": "ぶんかい‐のう",
+    "link": "/word/%E5%88%86%E8%A7%A3%E8%83%BD/#jn-197179"
+  },
+  {
+    "kotoba": "分解立体図",
+    "yomi": "ぶんかい‐りったいず",
+    "link": "/word/%E5%88%86%E8%A7%A3%E7%AB%8B%E4%BD%93%E5%9B%B3/#jn-299950"
+  },
+  {
+    "kotoba": "分解力",
+    "yomi": "ぶんかい‐りょく",
+    "link": "/word/%E5%88%86%E8%A7%A3%E5%8A%9B/#jn-276351"
+  },
+  {
+    "kotoba": "文化映画",
+    "yomi": "ぶんか‐えいが",
+    "link": "/word/%E6%96%87%E5%8C%96%E6%98%A0%E7%94%BB/#jn-197180"
+  },
+  {
+    "kotoba": "分科会",
+    "yomi": "ぶんか‐かい",
+    "link": "/word/%E5%88%86%E7%A7%91%E4%BC%9A/#jn-197181"
+  },
+  {
+    "kotoba": "文化会",
+    "yomi": "ぶんか‐かい",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%BC%9A/#jn-264429"
+  },
+  {
+    "kotoba": "文化科学",
+    "yomi": "ぶんか‐かがく",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%A7%91%E5%AD%A6/#jn-197182"
+  },
+  {
+    "kotoba": "文化科学宮殿",
+    "yomi": "ぶんかかがく‐きゅうでん",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%A7%91%E5%AD%A6%E5%AE%AE%E6%AE%BF/#jn-197183"
+  },
+  {
+    "kotoba": "文化革命",
+    "yomi": "ぶんか‐かくめい",
+    "link": "/word/%E6%96%87%E5%8C%96%E9%9D%A9%E5%91%BD/#jn-197184"
+  },
+  {
+    "kotoba": "文化価値",
+    "yomi": "ぶんか‐かち",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%BE%A1%E5%80%A4/#jn-197185"
+  },
+  {
+    "kotoba": "文化学園大学",
+    "yomi": "ぶんかがくえん‐だいがく",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%AD%A6%E5%9C%92%E5%A4%A7%E5%AD%A6/#jn-248155"
+  },
+  {
+    "kotoba": "分画",
+    "yomi": "ぶん‐かく",
+    "link": "/word/%E5%88%86%E7%94%BB/#jn-197186"
+  },
+  {
+    "kotoba": "文化勲章",
+    "yomi": "ぶんか‐くんしょう",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%8B%B2%E7%AB%A0/#jn-197198"
+  },
+  {
+    "kotoba": "文化圏",
+    "yomi": "ぶんか‐けん",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%9C%8F/#jn-197200"
+  },
+  {
+    "kotoba": "文化芸術振興基本法",
+    "yomi": "ぶんかげいじゅつしんこう‐きほんほう",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%8A%B8%E8%A1%93%E6%8C%AF%E8%88%88%E5%9F%BA%E6%9C%AC%E6%B3%95/#jn-241614"
+  },
+  {
+    "kotoba": "文化功労者",
+    "yomi": "ぶんか‐こうろうしゃ",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%8A%9F%E5%8A%B4%E8%80%85/#jn-197202"
+  },
+  {
+    "kotoba": "文化国家",
+    "yomi": "ぶんか‐こっか",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%9B%BD%E5%AE%B6/#jn-197203"
+  },
+  {
+    "kotoba": "文化祭",
+    "yomi": "ぶんか‐さい",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%A5%AD/#jn-197204"
+  },
+  {
+    "kotoba": "文化財",
+    "yomi": "ぶんか‐ざい",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%B2%A1/#jn-197205"
+  },
+  {
+    "kotoba": "文化財研究所",
+    "yomi": "ぶんかざい‐けんきゅうじょ",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%B2%A1%E7%A0%94%E7%A9%B6%E6%89%80/#jn-197206"
+  },
+  {
+    "kotoba": "文化財不法輸出入等禁止条約",
+    "yomi": "ぶんかざいふほうゆしゅつにゅうとう‐きんしじょうやく",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%B2%A1%E4%B8%8D%E6%B3%95%E8%BC%B8%E5%87%BA%E5%85%A5%E7%AD%89%E7%A6%81%E6%AD%A2%E6%9D%A1%E7%B4%84/#jn-244349"
+  },
+  {
+    "kotoba": "文化財部",
+    "yomi": "ぶんかざい‐ぶ",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%B2%A1%E9%83%A8/#jn-197207"
+  },
+  {
+    "kotoba": "文化財保護委員会",
+    "yomi": "ぶんかざいほご‐いいんかい",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E8%AD%B7%E5%A7%94%E5%93%A1%E4%BC%9A/#jn-197208"
+  },
+  {
+    "kotoba": "文化財保護法",
+    "yomi": "ぶんかざいほご‐ほう",
+    "link": "/word/%E6%96%87%E5%8C%96%E8%B2%A1%E4%BF%9D%E8%AD%B7%E6%B3%95/#jn-197209"
+  },
+  {
+    "kotoba": "文化史",
+    "yomi": "ぶんか‐し",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%8F%B2/#jn-197210"
+  },
+  {
+    "kotoba": "文化使節",
+    "yomi": "ぶんか‐しせつ",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%BD%BF%E7%AF%80/#jn-197211"
+  },
+  {
+    "kotoba": "文化社会学",
+    "yomi": "ぶんか‐しゃかいがく",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%A4%BE%E4%BC%9A%E5%AD%A6/#jn-197212"
+  },
+  {
+    "kotoba": "文華秀麗集",
+    "yomi": "ぶんかしゅうれいしゅう",
+    "link": "/word/%E6%96%87%E8%8F%AF%E7%A7%80%E9%BA%97%E9%9B%86/#jn-197214"
+  },
+  {
+    "kotoba": "文化主義",
+    "yomi": "ぶんか‐しゅぎ",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%B8%BB%E7%BE%A9/#jn-197215"
+  },
+  {
+    "kotoba": "文化審議会",
+    "yomi": "ぶんか‐しんぎかい",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%AF%A9%E8%AD%B0%E4%BC%9A/#jn-197217"
+  },
+  {
+    "kotoba": "文化住宅",
+    "yomi": "ぶんか‐じゅうたく",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%BD%8F%E5%AE%85/#jn-197213"
+  },
+  {
+    "kotoba": "文化人",
+    "yomi": "ぶんか‐じん",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%BA%BA/#jn-197216"
+  },
+  {
+    "kotoba": "文化人類学",
+    "yomi": "ぶんか‐じんるいがく",
+    "link": "/word/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6/#jn-197218"
+  },
+  {
+    "kotoba": "文化水準",
+    "yomi": "ぶんか‐すいじゅん",
+    "link": "/word/%E6%96%87%E5%8C%96%E6%B0%B4%E6%BA%96/#jn-197219"
+  },
+  {
+    "kotoba": "文化生活",
+    "yomi": "ぶんか‐せいかつ",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB/#jn-197220"
+  },
+  {
+    "kotoba": "文化政策",
+    "yomi": "ぶんか‐せいさく",
+    "link": "/word/%E6%96%87%E5%8C%96%E6%94%BF%E7%AD%96/#jn-272079"
+  },
+  {
+    "kotoba": "分化全能性",
+    "yomi": "ぶんか‐ぜんのうせい",
+    "link": "/word/%E5%88%86%E5%8C%96%E5%85%A8%E8%83%BD%E6%80%A7/#jn-269787"
+  },
+  {
+    "kotoba": "分化多能性",
+    "yomi": "ぶんか‐たのうせい",
+    "link": "/word/%E5%88%86%E5%8C%96%E5%A4%9A%E8%83%BD%E6%80%A7/#jn-269788"
+  },
+  {
+    "kotoba": "文化多様性条約",
+    "yomi": "ぶんかたようせい‐じょうやく",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%A4%9A%E6%A7%98%E6%80%A7%E6%9D%A1%E7%B4%84/#jn-197224"
+  },
+  {
+    "kotoba": "文化大革命",
+    "yomi": "ぶんか‐だいかくめい",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/#jn-197223"
+  },
+  {
+    "kotoba": "分科大学",
+    "yomi": "ぶんか‐だいがく",
+    "link": "/word/%E5%88%86%E7%A7%91%E5%A4%A7%E5%AD%A6/#jn-197222"
+  },
+  {
+    "kotoba": "文化団体",
+    "yomi": "ぶんか‐だんたい",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%9B%A3%E4%BD%93/#jn-197225"
+  },
+  {
+    "kotoba": "文化庁",
+    "yomi": "ぶんか‐ちょう",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%BA%81/#jn-197226"
+  },
+  {
+    "kotoba": "分割",
+    "yomi": "ぶん‐かつ",
+    "link": "/word/%E5%88%86%E5%89%B2/#jn-197227"
+  },
+  {
+    "kotoba": "分轄",
+    "yomi": "ぶん‐かつ",
+    "link": "/word/%E5%88%86%E8%BD%84/#jn-197228"
+  },
+  {
+    "kotoba": "分割鏡",
+    "yomi": "ぶんかつ‐きょう",
+    "link": "/word/%E5%88%86%E5%89%B2%E9%8F%A1/#jn-264431"
+  },
+  {
+    "kotoba": "分割食",
+    "yomi": "ぶんかつ‐しょく",
+    "link": "/word/%E5%88%86%E5%89%B2%E9%A3%9F/#jn-298564"
+  },
+  {
+    "kotoba": "分割睡眠",
+    "yomi": "ぶんかつ‐すいみん",
+    "link": "/word/%E5%88%86%E5%89%B2%E7%9D%A1%E7%9C%A0/#jn-296983"
+  },
+  {
+    "kotoba": "分割相続",
+    "yomi": "ぶんかつ‐そうぞく",
+    "link": "/word/%E5%88%86%E5%89%B2%E7%9B%B8%E7%B6%9A/#jn-197229"
+  },
+  {
+    "kotoba": "分割測光",
+    "yomi": "ぶんかつ‐そっこう",
+    "link": "/word/%E5%88%86%E5%89%B2%E6%B8%AC%E5%85%89/#jn-197230"
+  },
+  {
+    "kotoba": "分割統治",
+    "yomi": "ぶんかつ‐とうち",
+    "link": "/word/%E5%88%86%E5%89%B2%E7%B5%B1%E6%B2%BB/#jn-197231"
+  },
+  {
+    "kotoba": "文化的",
+    "yomi": "ぶんか‐てき",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%9A%84/#jn-197233"
+  },
+  {
+    "kotoba": "文化的景観",
+    "yomi": "ぶんかてき‐けいかん",
+    "link": "/word/%E6%96%87%E5%8C%96%E7%9A%84%E6%99%AF%E8%A6%B3/#jn-197234"
+  },
+  {
+    "kotoba": "文化哲学",
+    "yomi": "ぶんか‐てつがく",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%93%B2%E5%AD%A6/#jn-197235"
+  },
+  {
+    "kotoba": "文化闘争",
+    "yomi": "ぶんか‐とうそう",
+    "link": "/word/%E6%96%87%E5%8C%96%E9%97%98%E4%BA%89/#jn-197236"
+  },
+  {
+    "kotoba": "文化鍋",
+    "yomi": "ぶんか‐なべ",
+    "link": "/word/%E6%96%87%E5%8C%96%E9%8D%8B/#jn-197237"
+  },
+  {
+    "kotoba": "分化能",
+    "yomi": "ぶんか‐のう",
+    "link": "/word/%E5%88%86%E5%8C%96%E8%83%BD/#jn-269789"
+  },
+  {
+    "kotoba": "分化万能性",
+    "yomi": "ぶんか‐ばんのうせい",
+    "link": "/word/%E5%88%86%E5%8C%96%E4%B8%87%E8%83%BD%E6%80%A7/#jn-269790"
+  },
+  {
+    "kotoba": "文化文政時代",
+    "yomi": "ぶんかぶんせい‐じだい",
+    "link": "/word/%E6%96%87%E5%8C%96%E6%96%87%E6%94%BF%E6%99%82%E4%BB%A3/#jn-197239"
+  },
+  {
+    "kotoba": "文化放送",
+    "yomi": "ぶんか‐ほうそう",
+    "link": "/word/%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81/#jn-248157"
+  },
+  {
+    "kotoba": "文化包丁",
+    "yomi": "ぶんか‐ぼうちょう",
+    "link": "/word/%E6%96%87%E5%8C%96%E5%8C%85%E4%B8%81/#jn-197240"
+  },
+  {
+    "kotoba": "文化村",
+    "yomi": "ぶんか‐むら",
+    "link": "/word/%E6%96%87%E5%8C%96%E6%9D%91/#jn-197241"
+  },
+  {
+    "kotoba": "分館",
+    "yomi": "ぶん‐かん",
+    "link": "/word/%E5%88%86%E9%A4%A8/#jn-197243"
+  },
+  {
+    "kotoba": "文官",
+    "yomi": "ぶん‐かん",
+    "link": "/word/%E6%96%87%E5%AE%98/#jn-197244"
+  },
+  {
+    "kotoba": "文館詞林",
+    "yomi": "ぶんかんしりん",
+    "link": "/word/%E6%96%87%E9%A4%A8%E8%A9%9E%E6%9E%97/#jn-197245"
+  },
+  {
+    "kotoba": "文官統制",
+    "yomi": "ぶんかん‐とうせい",
+    "link": "/word/%E6%96%87%E5%AE%98%E7%B5%B1%E5%88%B6/#jn-304028"
+  },
+  {
+    "kotoba": "文官任用令",
+    "yomi": "ぶんかん‐にんようれい",
+    "link": "/word/%E6%96%87%E5%AE%98%E4%BB%BB%E7%94%A8%E4%BB%A4/#jn-197246"
+  },
+  {
+    "kotoba": "文官分限令",
+    "yomi": "ぶんかん‐ぶんげんれい",
+    "link": "/word/%E6%96%87%E5%AE%98%E5%88%86%E9%99%90%E4%BB%A4/#jn-197247"
+  },
+  {
+    "kotoba": "文雅",
+    "yomi": "ぶん‐が",
+    "link": "/word/%E6%96%87%E9%9B%85/#jn-197170"
+  },
+  {
+    "kotoba": "分外",
+    "yomi": "ぶん‐がい",
+    "link": "/word/%E5%88%86%E5%A4%96/#jn-197176"
+  },
+  {
+    "kotoba": "文学",
+    "yomi": "ぶん‐がく",
+    "link": "/word/%E6%96%87%E5%AD%A6/#jn-197187"
+  },
+  {
+    "kotoba": "文学界",
+    "yomi": "ぶんがく‐かい",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%95%8C/#jn-197188"
+  },
+  {
+    "kotoba": "文学界",
+    "yomi": "ぶんがくかい",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%95%8C/#jn-197189"
+  },
+  {
+    "kotoba": "文学革命",
+    "yomi": "ぶんがく‐かくめい",
+    "link": "/word/%E6%96%87%E5%AD%A6%E9%9D%A9%E5%91%BD/#jn-197190"
+  },
+  {
+    "kotoba": "文学概論",
+    "yomi": "ぶんがくがいろん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E6%A6%82%E8%AB%96/#jn-291916"
+  },
+  {
+    "kotoba": "文学忌",
+    "yomi": "ぶんがく‐き",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%BF%8C/#jn-264430"
+  },
+  {
+    "kotoba": "文学空間",
+    "yomi": "ぶんがくくうかん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%A9%BA%E9%96%93/#jn-278204"
+  },
+  {
+    "kotoba": "文学五十年",
+    "yomi": "ぶんがくごじゅうねん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E4%BA%94%E5%8D%81%E5%B9%B4/#jn-269786"
+  },
+  {
+    "kotoba": "文学散歩",
+    "yomi": "ぶんがくさんぽ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E6%95%A3%E6%AD%A9/#jn-272075"
+  },
+  {
+    "kotoba": "文学座",
+    "yomi": "ぶんがく‐ざ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%BA%A7/#jn-197191"
+  },
+  {
+    "kotoba": "文学史",
+    "yomi": "ぶんがく‐し",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%8F%B2/#jn-197192"
+  },
+  {
+    "kotoba": "文学者",
+    "yomi": "ぶんがく‐しゃ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E8%80%85/#jn-197193"
+  },
+  {
+    "kotoba": "文学者",
+    "yomi": "ぶんがくしゃ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E8%80%85/#jn-272077"
+  },
+  {
+    "kotoba": "文学賞",
+    "yomi": "ぶんがく‐しょう",
+    "link": "/word/%E6%96%87%E5%AD%A6%E8%B3%9E/#jn-197194"
+  },
+  {
+    "kotoba": "文学少女",
+    "yomi": "ぶんがくしょうじょ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3/#jn-276352"
+  },
+  {
+    "kotoba": "文学少女",
+    "yomi": "ぶんがく‐しょうじょ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3/#jn-276353"
+  },
+  {
+    "kotoba": "文学生活",
+    "yomi": "ぶんがくせいかつ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%94%9F%E6%B4%BB/#jn-272078"
+  },
+  {
+    "kotoba": "文学青年",
+    "yomi": "ぶんがく‐せいねん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E9%9D%92%E5%B9%B4/#jn-197195"
+  },
+  {
+    "kotoba": "文学大概",
+    "yomi": "ぶんがくたいがい",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%A4%A7%E6%A6%82/#jn-296981"
+  },
+  {
+    "kotoba": "文学的",
+    "yomi": "ぶんがく‐てき",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%9A%84/#jn-197196"
+  },
+  {
+    "kotoba": "文学的自伝",
+    "yomi": "ぶんがくてきじでん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%9A%84%E8%87%AA%E4%BC%9D/#jn-278205"
+  },
+  {
+    "kotoba": "文学入門",
+    "yomi": "ぶんがくにゅうもん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E5%85%A5%E9%96%80/#jn-276354"
+  },
+  {
+    "kotoba": "文学碑",
+    "yomi": "ぶんがく‐ひ",
+    "link": "/word/%E6%96%87%E5%AD%A6%E7%A2%91/#jn-266992"
+  },
+  {
+    "kotoba": "文学評論",
+    "yomi": "ぶんがくひょうろん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E8%A9%95%E8%AB%96/#jn-287977"
+  },
+  {
+    "kotoba": "文学論",
+    "yomi": "ぶんがく‐ろん",
+    "link": "/word/%E6%96%87%E5%AD%A6%E8%AB%96/#jn-197197"
+  },
+  {
+    "kotoba": "分岐",
+    "yomi": "ぶん‐き",
+    "link": "/word/%E5%88%86%E5%B2%90/#jn-197251"
+  },
+  {
+    "kotoba": "文亀",
+    "yomi": "ぶんき",
+    "link": "/word/%E6%96%87%E4%BA%80/#jn-197252"
+  },
+  {
+    "kotoba": "分岐器",
+    "yomi": "ぶんき‐き",
+    "link": "/word/%E5%88%86%E5%B2%90%E5%99%A8/#jn-298565"
+  },
+  {
+    "kotoba": "分岐断層",
+    "yomi": "ぶんき‐だんそう",
+    "link": "/word/%E5%88%86%E5%B2%90%E6%96%AD%E5%B1%A4/#jn-259393"
+  },
+  {
+    "kotoba": "分岐点",
+    "yomi": "ぶんき‐てん",
+    "link": "/word/%E5%88%86%E5%B2%90%E7%82%B9/#jn-197255"
+  },
+  {
+    "kotoba": "分岐点",
+    "yomi": "ぶんきてん",
+    "link": "/word/%E5%88%86%E5%B2%90%E7%82%B9/#jn-286083"
+  },
+  {
+    "kotoba": "分岐糖",
+    "yomi": "ぶんき‐とう",
+    "link": "/word/%E5%88%86%E5%B2%90%E7%B3%96/#jn-287979"
+  },
+  {
+    "kotoba": "分岐瀑",
+    "yomi": "ぶんき‐ばく",
+    "link": "/word/%E5%88%86%E5%B2%90%E7%80%91/#jn-197256"
+  },
+  {
+    "kotoba": "文久",
+    "yomi": "ぶんきゅう",
+    "link": "/word/%E6%96%87%E4%B9%85/#jn-197260"
+  },
+  {
+    "kotoba": "分級",
+    "yomi": "ぶん‐きゅう",
+    "link": "/word/%E5%88%86%E7%B4%9A/#jn-197259"
+  },
+  {
+    "kotoba": "文久永宝",
+    "yomi": "ぶんきゅう‐えいほう",
+    "link": "/word/%E6%96%87%E4%B9%85%E6%B0%B8%E5%AE%9D/#jn-197261"
+  },
+  {
+    "kotoba": "文久新聞",
+    "yomi": "ぶんきゅう‐しんぶん",
+    "link": "/word/%E6%96%87%E4%B9%85%E6%96%B0%E8%81%9E/#jn-197262"
+  },
+  {
+    "kotoba": "文久銭",
+    "yomi": "ぶんきゅう‐せん",
+    "link": "/word/%E6%96%87%E4%B9%85%E9%8A%AD/#jn-197263"
+  },
+  {
+    "kotoba": "文京",
+    "yomi": "ぶんきょう",
+    "link": "/word/%E6%96%87%E4%BA%AC/#jn-197264"
+  },
+  {
+    "kotoba": "文教",
+    "yomi": "ぶん‐きょう",
+    "link": "/word/%E6%96%87%E6%95%99/#jn-197265"
+  },
+  {
+    "kotoba": "文京学院大学",
+    "yomi": "ぶんきょうがくいん‐だいがく",
+    "link": "/word/%E6%96%87%E4%BA%AC%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6/#jn-248158"
+  },
+  {
+    "kotoba": "文京区",
+    "yomi": "ぶんきょう‐く",
+    "link": "/word/%E6%96%87%E4%BA%AC%E5%8C%BA/#jn-197269"
+  },
+  {
+    "kotoba": "分教場",
+    "yomi": "ぶん‐きょうじょう",
+    "link": "/word/%E5%88%86%E6%95%99%E5%A0%B4/#jn-197270"
+  },
+  {
+    "kotoba": "文教族",
+    "yomi": "ぶんきょう‐ぞく",
+    "link": "/word/%E6%96%87%E6%95%99%E6%97%8F/#jn-262059"
+  },
+  {
+    "kotoba": "文教大学",
+    "yomi": "ぶんきょう‐だいがく",
+    "link": "/word/%E6%96%87%E6%95%99%E5%A4%A7%E5%AD%A6/#jn-248159"
+  },
+  {
+    "kotoba": "文教地区",
+    "yomi": "ぶんきょう‐ちく",
+    "link": "/word/%E6%96%87%E6%95%99%E5%9C%B0%E5%8C%BA/#jn-197271"
+  },
+  {
+    "kotoba": "文鏡秘府論",
+    "yomi": "ぶんきょうひふろん",
+    "link": "/word/%E6%96%87%E9%8F%A1%E7%A7%98%E5%BA%9C%E8%AB%96/#jn-197273"
+  },
+  {
+    "kotoba": "分局",
+    "yomi": "ぶん‐きょく",
+    "link": "/word/%E5%88%86%E5%B1%80/#jn-197274"
+  },
+  {
+    "kotoba": "分極",
+    "yomi": "ぶん‐きょく",
+    "link": "/word/%E5%88%86%E6%A5%B5/#jn-197275"
+  },
+  {
+    "kotoba": "分極化",
+    "yomi": "ぶんきょく‐か",
+    "link": "/word/%E5%88%86%E6%A5%B5%E5%8C%96/#jn-197276"
+  },
+  {
+    "kotoba": "分極電荷",
+    "yomi": "ぶんきょく‐でんか",
+    "link": "/word/%E5%88%86%E6%A5%B5%E9%9B%BB%E8%8D%B7/#jn-197277"
+  },
+  {
+    "kotoba": "分極率",
+    "yomi": "ぶんきょく‐りつ",
+    "link": "/word/%E5%88%86%E6%A5%B5%E7%8E%87/#jn-197278"
+  },
+  {
+    "kotoba": "分岐予測",
+    "yomi": "ぶんき‐よそく",
+    "link": "/word/%E5%88%86%E5%B2%90%E4%BA%88%E6%B8%AC/#jn-197279"
+  },
+  {
+    "kotoba": "文金",
+    "yomi": "ぶん‐きん",
+    "link": "/word/%E6%96%87%E9%87%91/#jn-197283"
+  },
+  {
+    "kotoba": "文金島田",
+    "yomi": "ぶんきん‐しまだ",
+    "link": "/word/%E6%96%87%E9%87%91%E5%B3%B6%E7%94%B0/#jn-197284"
+  },
+  {
+    "kotoba": "文金高島田",
+    "yomi": "ぶんきん‐たかしまだ",
+    "link": "/word/%E6%96%87%E9%87%91%E9%AB%98%E5%B3%B6%E7%94%B0/#jn-197285"
+  },
+  {
+    "kotoba": "文金風",
+    "yomi": "ぶんきん‐ふう",
+    "link": "/word/%E6%96%87%E9%87%91%E9%A2%A8/#jn-197286"
+  },
+  {
+    "kotoba": "文義",
+    "yomi": "ぶん‐ぎ",
+    "link": "/word/%E6%96%87%E7%BE%A9/#jn-197253"
+  },
+  {
+    "kotoba": "分暁",
+    "yomi": "ぶん‐ぎょう",
+    "link": "/word/%E5%88%86%E6%9A%81/#jn-197268"
+  },
+  {
+    "kotoba": "分業",
+    "yomi": "ぶん‐ぎょう",
+    "link": "/word/%E5%88%86%E6%A5%AD/#jn-197266"
+  },
+  {
+    "kotoba": "文業",
+    "yomi": "ぶん‐ぎょう",
+    "link": "/word/%E6%96%87%E6%A5%AD/#jn-197267"
+  },
+  {
+    "kotoba": "文勲",
+    "yomi": "ぶん‐くん",
+    "link": "/word/%E6%96%87%E5%8B%B2/#jn-197288"
+  },
+  {
+    "kotoba": "文具",
+    "yomi": "ぶん‐ぐ",
+    "link": "/word/%E6%96%87%E5%85%B7/#jn-197287"
+  },
+  {
+    "kotoba": "分家",
+    "yomi": "ぶん‐け",
+    "link": "/word/%E5%88%86%E5%AE%B6/#jn-197289"
+  },
+  {
+    "kotoba": "分家",
+    "yomi": "ぶんけ",
+    "link": "/word/%E5%88%86%E5%AE%B6/#jn-298566"
+  },
+  {
+    "kotoba": "文系",
+    "yomi": "ぶん‐けい",
+    "link": "/word/%E6%96%87%E7%B3%BB/#jn-197292"
+  },
+  {
+    "kotoba": "文型",
+    "yomi": "ぶん‐けい",
+    "link": "/word/%E6%96%87%E5%9E%8B/#jn-197293"
+  },
+  {
+    "kotoba": "分蘖",
+    "yomi": "ぶん‐けつ",
+    "link": "/word/%E5%88%86%E8%98%96/#jn-197314"
+  },
+  {
+    "kotoba": "分見",
+    "yomi": "ぶん‐けん",
+    "link": "/word/%E5%88%86%E8%A6%8B/#jn-197315"
+  },
+  {
+    "kotoba": "分遣",
+    "yomi": "ぶん‐けん",
+    "link": "/word/%E5%88%86%E9%81%A3/#jn-197316"
+  },
+  {
+    "kotoba": "分権",
+    "yomi": "ぶん‐けん",
+    "link": "/word/%E5%88%86%E6%A8%A9/#jn-197317"
+  },
+  {
+    "kotoba": "文検",
+    "yomi": "ぶん‐けん",
+    "link": "/word/%E6%96%87%E6%A4%9C/#jn-197318"
+  },
+  {
+    "kotoba": "文献",
+    "yomi": "ぶん‐けん",
+    "link": "/word/%E6%96%87%E7%8C%AE/#jn-197319"
+  },
+  {
+    "kotoba": "聞見",
+    "yomi": "ぶん‐けん",
+    "link": "/word/%E8%81%9E%E8%A6%8B/#jn-197320"
+  },
+  {
+    "kotoba": "分権委",
+    "yomi": "ぶんけん‐い",
+    "link": "/word/%E5%88%86%E6%A8%A9%E5%A7%94/#jn-197323"
+  },
+  {
+    "kotoba": "文献学",
+    "yomi": "ぶんけん‐がく",
+    "link": "/word/%E6%96%87%E7%8C%AE%E5%AD%A6/#jn-197324"
+  },
+  {
+    "kotoba": "分県地図",
+    "yomi": "ぶんけん‐ちず",
+    "link": "/word/%E5%88%86%E7%9C%8C%E5%9C%B0%E5%9B%B3/#jn-197326"
+  },
+  {
+    "kotoba": "文献通考",
+    "yomi": "ぶんけんつうこう",
+    "link": "/word/%E6%96%87%E7%8C%AE%E9%80%9A%E8%80%83/#jn-197328"
+  },
+  {
+    "kotoba": "文芸",
+    "yomi": "ぶん‐げい",
+    "link": "/word/%E6%96%87%E8%8A%B8/#jn-197294"
+  },
+  {
+    "kotoba": "文芸",
+    "yomi": "ぶんげい",
+    "link": "/word/%E6%96%87%E8%8A%B8/#jn-197295"
+  },
+  {
+    "kotoba": "文芸映画",
+    "yomi": "ぶんげい‐えいが",
+    "link": "/word/%E6%96%87%E8%8A%B8%E6%98%A0%E7%94%BB/#jn-197296"
+  },
+  {
+    "kotoba": "文芸家",
+    "yomi": "ぶんげい‐か",
+    "link": "/word/%E6%96%87%E8%8A%B8%E5%AE%B6/#jn-197297"
+  },
+  {
+    "kotoba": "文芸家協会",
+    "yomi": "ぶんげいか‐きょうかい",
+    "link": "/word/%E6%96%87%E8%8A%B8%E5%AE%B6%E5%8D%94%E4%BC%9A/#jn-197298"
+  },
+  {
+    "kotoba": "文芸学",
+    "yomi": "ぶんげい‐がく",
+    "link": "/word/%E6%96%87%E8%8A%B8%E5%AD%A6/#jn-197299"
+  },
+  {
+    "kotoba": "文芸協会",
+    "yomi": "ぶんげい‐きょうかい",
+    "link": "/word/%E6%96%87%E8%8A%B8%E5%8D%94%E4%BC%9A/#jn-197300"
+  },
+  {
+    "kotoba": "文芸倶楽部",
+    "yomi": "ぶんげいクラブ",
+    "link": "/word/%E6%96%87%E8%8A%B8%E5%80%B6%E6%A5%BD%E9%83%A8/#jn-197301"
+  },
+  {
+    "kotoba": "文芸思潮",
+    "yomi": "ぶんげい‐しちょう",
+    "link": "/word/%E6%96%87%E8%8A%B8%E6%80%9D%E6%BD%AE/#jn-197303"
+  },
+  {
+    "kotoba": "文芸春秋",
+    "yomi": "ぶんげいしゅんじゅう",
+    "link": "/word/%E6%96%87%E8%8A%B8%E6%98%A5%E7%A7%8B/#jn-197304"
+  },
+  {
+    "kotoba": "文芸賞",
+    "yomi": "ぶんげい‐しょう",
+    "link": "/word/%E6%96%87%E8%8A%B8%E8%B3%9E/#jn-197305"
+  },
+  {
+    "kotoba": "文芸時代",
+    "yomi": "ぶんげいじだい",
+    "link": "/word/%E6%96%87%E8%8A%B8%E6%99%82%E4%BB%A3/#jn-197302"
+  },
+  {
+    "kotoba": "文芸戦線",
+    "yomi": "ぶんげいせんせん",
+    "link": "/word/%E6%96%87%E8%8A%B8%E6%88%A6%E7%B7%9A/#jn-197306"
+  },
+  {
+    "kotoba": "文芸批評",
+    "yomi": "ぶんげい‐ひひょう",
+    "link": "/word/%E6%96%87%E8%8A%B8%E6%89%B9%E8%A9%95/#jn-197309"
+  },
+  {
+    "kotoba": "文芸復興",
+    "yomi": "ぶんげい‐ふっこう",
+    "link": "/word/%E6%96%87%E8%8A%B8%E5%BE%A9%E8%88%88/#jn-197310"
+  },
+  {
+    "kotoba": "豊渓里",
+    "yomi": "プンゲリ",
+    "link": "/word/%E8%B1%8A%E6%B8%93%E9%87%8C/#jn-262060"
+  },
+  {
+    "kotoba": "分限",
+    "yomi": "ぶん‐げん",
+    "link": "/word/%E5%88%86%E9%99%90_%28%E3%81%B6%E3%82%93%E3%81%92%E3%82%93%29/#jn-197321"
+  },
+  {
+    "kotoba": "文言",
+    "yomi": "ぶん‐げん",
+    "link": "/word/%E6%96%87%E8%A8%80_%28%E3%81%B6%E3%82%93%E3%81%92%E3%82%93%29/#jn-197322"
+  },
+  {
+    "kotoba": "分限裁判",
+    "yomi": "ぶんげん‐さいばん",
+    "link": "/word/%E5%88%86%E9%99%90%E8%A3%81%E5%88%A4/#jn-197325"
+  },
+  {
+    "kotoba": "分限帳",
+    "yomi": "ぶんげん‐ちょう",
+    "link": "/word/%E5%88%86%E9%99%90%E5%B8%B3/#jn-197327"
+  },
+  {
+    "kotoba": "分限免職",
+    "yomi": "ぶんげん‐めんしょく",
+    "link": "/word/%E5%88%86%E9%99%90%E5%85%8D%E8%81%B7/#jn-197329"
+  },
+  {
+    "kotoba": "文庫",
+    "yomi": "ぶん‐こ",
+    "link": "/word/%E6%96%87%E5%BA%AB_%28%E3%81%B6%E3%82%93%E3%81%93%29/#jn-197330"
+  },
+  {
+    "kotoba": "文庫",
+    "yomi": "ぶんこ",
+    "link": "/word/%E6%96%87%E5%BA%AB_%28%E3%81%B6%E3%82%93%E3%81%93%29/#jn-197331"
+  },
+  {
+    "kotoba": "分光",
+    "yomi": "ぶん‐こう",
+    "link": "/word/%E5%88%86%E5%85%89/#jn-197337"
+  },
+  {
+    "kotoba": "分校",
+    "yomi": "ぶん‐こう",
+    "link": "/word/%E5%88%86%E6%A0%A1/#jn-197338"
+  },
+  {
+    "kotoba": "文公",
+    "yomi": "ぶん‐こう",
+    "link": "/word/person/%E6%96%87%E5%85%AC/#jn-197339"
+  },
+  {
+    "kotoba": "文匣",
+    "yomi": "ぶん‐こう",
+    "link": "/word/%E6%96%87%E5%8C%A3/#jn-197340"
+  },
+  {
+    "kotoba": "聞香",
+    "yomi": "ぶん‐こう",
+    "link": "/word/%E8%81%9E%E9%A6%99_%28%E3%81%B6%E3%82%93%E3%81%93%E3%81%86%29/#jn-197341"
+  },
+  {
+    "kotoba": "分光化学",
+    "yomi": "ぶんこう‐かがく",
+    "link": "/word/%E5%88%86%E5%85%89%E5%8C%96%E5%AD%A6/#jn-197345"
+  },
+  {
+    "kotoba": "分光学",
+    "yomi": "ぶんこう‐がく",
+    "link": "/word/%E5%88%86%E5%85%89%E5%AD%A6/#jn-197346"
+  },
+  {
+    "kotoba": "分光器",
+    "yomi": "ぶんこう‐き",
+    "link": "/word/%E5%88%86%E5%85%89%E5%99%A8/#jn-197347"
+  },
+  {
+    "kotoba": "分光鏡",
+    "yomi": "ぶんこう‐きょう",
+    "link": "/word/%E5%88%86%E5%85%89%E9%8F%A1/#jn-248160"
+  },
+  {
+    "kotoba": "分光計",
+    "yomi": "ぶんこう‐けい",
+    "link": "/word/%E5%88%86%E5%85%89%E8%A8%88/#jn-197348"
+  },
+  {
+    "kotoba": "分光光度計",
+    "yomi": "ぶんこう‐こうどけい",
+    "link": "/word/%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%A8%88/#jn-197349"
+  },
+  {
+    "kotoba": "分光視差",
+    "yomi": "ぶんこう‐しさ",
+    "link": "/word/%E5%88%86%E5%85%89%E8%A6%96%E5%B7%AE/#jn-197350"
+  },
+  {
+    "kotoba": "文耕堂",
+    "yomi": "ぶんこうどう",
+    "link": "/word/person/%E6%96%87%E8%80%95%E5%A0%82/#jn-197351"
+  },
+  {
+    "kotoba": "分校日記",
+    "yomi": "ぶんこうにっき",
+    "link": "/word/%E5%88%86%E6%A0%A1%E6%97%A5%E8%A8%98/#jn-289957"
+  },
+  {
+    "kotoba": "分光分析",
+    "yomi": "ぶんこう‐ぶんせき",
+    "link": "/word/%E5%88%86%E5%85%89%E5%88%86%E6%9E%90/#jn-197352"
+  },
+  {
+    "kotoba": "分光連星",
+    "yomi": "ぶんこう‐れんせい",
+    "link": "/word/%E5%88%86%E5%85%89%E9%80%A3%E6%98%9F/#jn-197354"
+  },
+  {
+    "kotoba": "分国",
+    "yomi": "ぶん‐こく",
+    "link": "/word/%E5%88%86%E5%9B%BD/#jn-197358"
+  },
+  {
+    "kotoba": "分国法",
+    "yomi": "ぶんこく‐ほう",
+    "link": "/word/%E5%88%86%E5%9B%BD%E6%B3%95/#jn-197359"
+  },
+  {
+    "kotoba": "文庫紙",
+    "yomi": "ぶんこ‐し",
+    "link": "/word/%E6%96%87%E5%BA%AB%E7%B4%99/#jn-197361"
+  },
+  {
+    "kotoba": "分骨",
+    "yomi": "ぶん‐こつ",
+    "link": "/word/%E5%88%86%E9%AA%A8/#jn-197367"
+  },
+  {
+    "kotoba": "文庫判",
+    "yomi": "ぶんこ‐ばん",
+    "link": "/word/%E6%96%87%E5%BA%AB%E5%88%A4/#jn-197369"
+  },
+  {
+    "kotoba": "文庫本",
+    "yomi": "ぶんこ‐ぼん",
+    "link": "/word/%E6%96%87%E5%BA%AB%E6%9C%AC/#jn-197375"
+  },
+  {
+    "kotoba": "分根",
+    "yomi": "ぶん‐こん",
+    "link": "/word/%E5%88%86%E6%A0%B9/#jn-197382"
+  },
+  {
+    "kotoba": "文語",
+    "yomi": "ぶん‐ご",
+    "link": "/word/%E6%96%87%E8%AA%9E/#jn-197332"
+  },
+  {
+    "kotoba": "豊後",
+    "yomi": "ぶんご",
+    "link": "/word/%E8%B1%8A%E5%BE%8C/#jn-197333"
+  },
+  {
+    "kotoba": "分合",
+    "yomi": "ぶん‐ごう",
+    "link": "/word/%E5%88%86%E5%90%88/#jn-197342"
+  },
+  {
+    "kotoba": "分毫",
+    "yomi": "ぶん‐ごう",
+    "link": "/word/%E5%88%86%E6%AF%AB/#jn-197344"
+  },
+  {
+    "kotoba": "文豪",
+    "yomi": "ぶん‐ごう",
+    "link": "/word/%E6%96%87%E8%B1%AA/#jn-197343"
+  },
+  {
+    "kotoba": "豊後梅",
+    "yomi": "ぶんご‐うめ",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E6%A2%85/#jn-197353"
+  },
+  {
+    "kotoba": "豊後大野",
+    "yomi": "ぶんごおおの",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E5%A4%A7%E9%87%8E/#jn-197355"
+  },
+  {
+    "kotoba": "豊後大野市",
+    "yomi": "ぶんごおおの‐し",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E5%A4%A7%E9%87%8E%E5%B8%82/#jn-197356"
+  },
+  {
+    "kotoba": "豊後表",
+    "yomi": "ぶんご‐おもて",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E8%A1%A8/#jn-197357"
+  },
+  {
+    "kotoba": "文語形",
+    "yomi": "ぶんご‐けい",
+    "link": "/word/%E6%96%87%E8%AA%9E%E5%BD%A2/#jn-197360"
+  },
+  {
+    "kotoba": "豊後水道",
+    "yomi": "ぶんご‐すいどう",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E6%B0%B4%E9%81%93/#jn-197362"
+  },
+  {
+    "kotoba": "文語体",
+    "yomi": "ぶんご‐たい",
+    "link": "/word/%E6%96%87%E8%AA%9E%E4%BD%93/#jn-197363"
+  },
+  {
+    "kotoba": "豊後高田",
+    "yomi": "ぶんごたかだ",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E9%AB%98%E7%94%B0/#jn-197364"
+  },
+  {
+    "kotoba": "豊後高田市",
+    "yomi": "ぶんごたかだ‐し",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E9%AB%98%E7%94%B0%E5%B8%82/#jn-197365"
+  },
+  {
+    "kotoba": "豊後国",
+    "yomi": "ぶんご‐の‐くに",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E5%9B%BD/#jn-274324"
+  },
+  {
+    "kotoba": "豊後富士",
+    "yomi": "ぶんご‐ふじ",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E5%AF%8C%E5%A3%AB/#jn-241615"
+  },
+  {
+    "kotoba": "豊後風土記",
+    "yomi": "ぶんごふどき",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E9%A2%A8%E5%9C%9F%E8%A8%98/#jn-197371"
+  },
+  {
+    "kotoba": "豊後節",
+    "yomi": "ぶんご‐ぶし",
+    "link": "/word/%E8%B1%8A%E5%BE%8C%E7%AF%80/#jn-197370"
+  },
+  {
+    "kotoba": "文語文",
+    "yomi": "ぶんご‐ぶん",
+    "link": "/word/%E6%96%87%E8%AA%9E%E6%96%87/#jn-197372"
+  },
+  {
+    "kotoba": "文語文法",
+    "yomi": "ぶんご‐ぶんぽう",
+    "link": "/word/%E6%96%87%E8%AA%9E%E6%96%87%E6%B3%95/#jn-197373"
+  },
+  {
+    "kotoba": "文語法",
+    "yomi": "ぶんご‐ほう",
+    "link": "/word/%E6%96%87%E8%AA%9E%E6%B3%95/#jn-197374"
+  },
+  {
+    "kotoba": "文才",
+    "yomi": "ぶん‐さい",
+    "link": "/word/%E6%96%87%E6%89%8D_%28%E3%81%B6%E3%82%93%E3%81%95%E3%81%84%29/#jn-197385"
+  },
+  {
+    "kotoba": "文彩",
+    "yomi": "ぶん‐さい",
+    "link": "/word/%E6%96%87%E5%BD%A9/#jn-197386"
+  },
+  {
+    "kotoba": "分際",
+    "yomi": "ぶん‐ざい",
+    "link": "/word/%E5%88%86%E9%9A%9B/#jn-197387"
+  },
+  {
+    "kotoba": "分冊",
+    "yomi": "ぶん‐さつ",
+    "link": "/word/%E5%88%86%E5%86%8A/#jn-197393"
+  },
+  {
+    "kotoba": "分冊百科",
+    "yomi": "ぶんさつ‐ひゃっか",
+    "link": "/word/%E5%88%86%E5%86%8A%E7%99%BE%E7%A7%91/#jn-197394"
+  },
+  {
+    "kotoba": "分散",
+    "yomi": "ぶん‐さん",
+    "link": "/word/%E5%88%86%E6%95%A3/#jn-197395"
+  },
+  {
+    "kotoba": "分散開発",
+    "yomi": "ぶんさん‐かいはつ",
+    "link": "/word/%E5%88%86%E6%95%A3%E9%96%8B%E7%99%BA/#jn-197398"
+  },
+  {
+    "kotoba": "分散型台帳",
+    "yomi": "ぶんさんがた‐だいちょう",
+    "link": "/word/%E5%88%86%E6%95%A3%E5%9E%8B%E5%8F%B0%E5%B8%B3/#jn-286084"
+  },
+  {
+    "kotoba": "分散型取引所",
+    "yomi": "ぶんさんがた‐とりひきじょ",
+    "link": "/word/%E5%88%86%E6%95%A3%E5%9E%8B%E5%8F%96%E5%BC%95%E6%89%80/#jn-295297"
+  },
+  {
+    "kotoba": "分散剤",
+    "yomi": "ぶんさん‐ざい",
+    "link": "/word/%E5%88%86%E6%95%A3%E5%89%A4/#jn-197400"
+  },
+  {
+    "kotoba": "分散台帳技術",
+    "yomi": "ぶんさんだいちょう‐ぎじゅつ",
+    "link": "/word/%E5%88%86%E6%95%A3%E5%8F%B0%E5%B8%B3%E6%8A%80%E8%A1%93/#jn-295298"
+  },
+  {
+    "kotoba": "分散投資",
+    "yomi": "ぶんさん‐とうし",
+    "link": "/word/%E5%88%86%E6%95%A3%E6%8A%95%E8%B3%87/#jn-197405"
+  },
+  {
+    "kotoba": "分散能",
+    "yomi": "ぶんさん‐のう",
+    "link": "/word/%E5%88%86%E6%95%A3%E8%83%BD/#jn-269792"
+  },
+  {
+    "kotoba": "分散分析",
+    "yomi": "ぶんさん‐ぶんせき",
+    "link": "/word/%E5%88%86%E6%95%A3%E5%88%86%E6%9E%90/#jn-299952"
+  },
+  {
+    "kotoba": "分散和音",
+    "yomi": "ぶんさん‐わおん",
+    "link": "/word/%E5%88%86%E6%95%A3%E5%92%8C%E9%9F%B3/#jn-197407"
+  },
+  {
+    "kotoba": "文材",
+    "yomi": "ぶん‐ざい",
+    "link": "/word/%E6%96%87%E6%9D%90/#jn-197388"
+  },
+  {
+    "kotoba": "文在寅",
+    "yomi": "ムン‐ジェイン",
+    "link": "/word/person/%E6%96%87%E5%9C%A8%E5%AF%85/#jn-290129"
+  },
+  {
+    "kotoba": "分子",
+    "yomi": "ぶん‐し",
+    "link": "/word/%E5%88%86%E5%AD%90/#jn-197411"
+  },
+  {
+    "kotoba": "分枝",
+    "yomi": "ぶん‐し",
+    "link": "/word/%E5%88%86%E6%9E%9D/#jn-197412"
+  },
+  {
+    "kotoba": "分祀",
+    "yomi": "ぶん‐し",
+    "link": "/word/%E5%88%86%E7%A5%80/#jn-197413"
+  },
+  {
+    "kotoba": "分詞",
+    "yomi": "ぶん‐し",
+    "link": "/word/%E5%88%86%E8%A9%9E/#jn-197414"
+  },
+  {
+    "kotoba": "文士",
+    "yomi": "ぶん‐し",
+    "link": "/word/%E6%96%87%E5%A3%AB/#jn-197415"
+  },
+  {
+    "kotoba": "分子遺伝学",
+    "yomi": "ぶんし‐いでんがく",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%81%BA%E4%BC%9D%E5%AD%A6/#jn-197421"
+  },
+  {
+    "kotoba": "分子雲",
+    "yomi": "ぶんし‐うん",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%9B%B2/#jn-252253"
+  },
+  {
+    "kotoba": "分子運動",
+    "yomi": "ぶんし‐うんどう",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%81%8B%E5%8B%95/#jn-197422"
+  },
+  {
+    "kotoba": "分子音速度",
+    "yomi": "ぶんし‐おんそくど",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%9F%B3%E9%80%9F%E5%BA%A6/#jn-244351"
+  },
+  {
+    "kotoba": "分子科学研究所",
+    "yomi": "ぶんしかがく‐けんきゅうじょ",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/#jn-284081"
+  },
+  {
+    "kotoba": "分子化合物",
+    "yomi": "ぶんし‐かごうぶつ",
+    "link": "/word/%E5%88%86%E5%AD%90%E5%8C%96%E5%90%88%E7%89%A9/#jn-197423"
+  },
+  {
+    "kotoba": "分子間引力",
+    "yomi": "ぶんしかん‐いんりょく",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%96%93%E5%BC%95%E5%8A%9B/#jn-274326"
+  },
+  {
+    "kotoba": "分子間力",
+    "yomi": "ぶんしかん‐りょく",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%96%93%E5%8A%9B/#jn-197424"
+  },
+  {
+    "kotoba": "分子機械",
+    "yomi": "ぶんし‐きかい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%A9%9F%E6%A2%B0/#jn-287980"
+  },
+  {
+    "kotoba": "分子軌道",
+    "yomi": "ぶんし‐きどう",
+    "link": "/word/%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93/#jn-197425"
+  },
+  {
+    "kotoba": "分子軌道関数法",
+    "yomi": "ぶんしきどう‐かんすうほう",
+    "link": "/word/%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E9%96%A2%E6%95%B0%E6%B3%95/#jn-299954"
+  },
+  {
+    "kotoba": "分子軌道法",
+    "yomi": "ぶんしきどう‐ほう",
+    "link": "/word/%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E6%B3%95/#jn-299955"
+  },
+  {
+    "kotoba": "分子系統学",
+    "yomi": "ぶんし‐けいとうがく",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%B3%BB%E7%B5%B1%E5%AD%A6/#jn-264432"
+  },
+  {
+    "kotoba": "分子結晶",
+    "yomi": "ぶんし‐けっしょう",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%B5%90%E6%99%B6/#jn-197427"
+  },
+  {
+    "kotoba": "分子降下",
+    "yomi": "ぶんし‐こうか",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%99%8D%E4%B8%8B/#jn-241618"
+  },
+  {
+    "kotoba": "分子交雑",
+    "yomi": "ぶんし‐こうざつ",
+    "link": "/word/%E5%88%86%E5%AD%90%E4%BA%A4%E9%9B%91/#jn-296984"
+  },
+  {
+    "kotoba": "分子式",
+    "yomi": "ぶんし‐しき",
+    "link": "/word/%E5%88%86%E5%AD%90%E5%BC%8F/#jn-197429"
+  },
+  {
+    "kotoba": "分子進化学",
+    "yomi": "ぶんししんか‐がく",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%80%B2%E5%8C%96%E5%AD%A6/#jn-197431"
+  },
+  {
+    "kotoba": "分子磁化率",
+    "yomi": "ぶんし‐じかりつ",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%A3%81%E5%8C%96%E7%8E%87/#jn-241619"
+  },
+  {
+    "kotoba": "分子上昇",
+    "yomi": "ぶんし‐じょうしょう",
+    "link": "/word/%E5%88%86%E5%AD%90%E4%B8%8A%E6%98%87/#jn-255224"
+  },
+  {
+    "kotoba": "分子蒸留",
+    "yomi": "ぶんし‐じょうりゅう",
+    "link": "/word/%E5%88%86%E5%AD%90%E8%92%B8%E7%95%99/#jn-197430"
+  },
+  {
+    "kotoba": "分枝膵管",
+    "yomi": "ぶんし‐すいかん",
+    "link": "/word/%E5%88%86%E6%9E%9D%E8%86%B5%E7%AE%A1/#jn-287983"
+  },
+  {
+    "kotoba": "分子性結晶",
+    "yomi": "ぶんしせい‐けっしょう",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%80%A7%E7%B5%90%E6%99%B6/#jn-255225"
+  },
+  {
+    "kotoba": "分子性超伝導体",
+    "yomi": "ぶんしせい‐ちょうでんどうたい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%80%A7%E8%B6%85%E4%BC%9D%E5%B0%8E%E4%BD%93/#jn-241620"
+  },
+  {
+    "kotoba": "分子性伝導体",
+    "yomi": "ぶんしせい‐でんどうたい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%80%A7%E4%BC%9D%E5%B0%8E%E4%BD%93/#jn-241621"
+  },
+  {
+    "kotoba": "分子性導体",
+    "yomi": "ぶんしせい‐どうたい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%80%A7%E5%B0%8E%E4%BD%93/#jn-241622"
+  },
+  {
+    "kotoba": "分子性導電体",
+    "yomi": "ぶんしせい‐どうでんたい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%80%A7%E5%B0%8E%E9%9B%BB%E4%BD%93/#jn-241623"
+  },
+  {
+    "kotoba": "分子生物学",
+    "yomi": "ぶんし‐せいぶつがく",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6/#jn-197433"
+  },
+  {
+    "kotoba": "分子説",
+    "yomi": "ぶんし‐せつ",
+    "link": "/word/%E5%88%86%E5%AD%90%E8%AA%AC/#jn-197434"
+  },
+  {
+    "kotoba": "分子線",
+    "yomi": "ぶんし‐せん",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%B7%9A/#jn-241624"
+  },
+  {
+    "kotoba": "分子双極流",
+    "yomi": "ぶんし‐そうきょくりゅう",
+    "link": "/word/%E5%88%86%E5%AD%90%E5%8F%8C%E6%A5%B5%E6%B5%81/#jn-241625"
+  },
+  {
+    "kotoba": "分子組織化",
+    "yomi": "ぶんし‐そしきか",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%B5%84%E7%B9%94%E5%8C%96/#jn-281896"
+  },
+  {
+    "kotoba": "分子体積",
+    "yomi": "ぶんし‐たいせき",
+    "link": "/word/%E5%88%86%E5%AD%90%E4%BD%93%E7%A9%8D/#jn-197436"
+  },
+  {
+    "kotoba": "文七",
+    "yomi": "ぶんしち",
+    "link": "/word/%E6%96%87%E4%B8%83/#jn-197437"
+  },
+  {
+    "kotoba": "文七元結",
+    "yomi": "ぶんしち‐もとゆい",
+    "link": "/word/%E6%96%87%E4%B8%83%E5%85%83%E7%B5%90/#jn-197438"
+  },
+  {
+    "kotoba": "文七元結",
+    "yomi": "ぶんしちもとゆい",
+    "link": "/word/%E6%96%87%E4%B8%83%E5%85%83%E7%B5%90/#jn-197439"
+  },
+  {
+    "kotoba": "分室",
+    "yomi": "ぶん‐しつ",
+    "link": "/word/%E5%88%86%E5%AE%A4/#jn-197441"
+  },
+  {
+    "kotoba": "文質",
+    "yomi": "ぶん‐しつ",
+    "link": "/word/%E6%96%87%E8%B3%AA/#jn-197442"
+  },
+  {
+    "kotoba": "文史通義",
+    "yomi": "ぶんしつうぎ",
+    "link": "/word/%E6%96%87%E5%8F%B2%E9%80%9A%E7%BE%A9/#jn-197443"
+  },
+  {
+    "kotoba": "文質彬彬",
+    "yomi": "ぶんしつ‐ひんぴん",
+    "link": "/word/%E6%96%87%E8%B3%AA%E5%BD%AC%E5%BD%AC/#jn-197444"
+  },
+  {
+    "kotoba": "分枝糖",
+    "yomi": "ぶんし‐とう",
+    "link": "/word/%E5%88%86%E6%9E%9D%E7%B3%96/#jn-287984"
+  },
+  {
+    "kotoba": "分子動力学",
+    "yomi": "ぶんし‐どうりきがく",
+    "link": "/word/%E5%88%86%E5%AD%90%E5%8B%95%E5%8A%9B%E5%AD%A6/#jn-266996"
+  },
+  {
+    "kotoba": "分子時計",
+    "yomi": "ぶんし‐どけい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%99%82%E8%A8%88/#jn-241626"
+  },
+  {
+    "kotoba": "分子認識",
+    "yomi": "ぶんし‐にんしき",
+    "link": "/word/%E5%88%86%E5%AD%90%E8%AA%8D%E8%AD%98/#jn-287985"
+  },
+  {
+    "kotoba": "分子熱",
+    "yomi": "ぶんし‐ねつ",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%86%B1/#jn-197445"
+  },
+  {
+    "kotoba": "分子標的治療",
+    "yomi": "ぶんしひょうてき‐ちりょう",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%A8%99%E7%9A%84%E6%B2%BB%E7%99%82/#jn-197448"
+  },
+  {
+    "kotoba": "分子標的治療薬",
+    "yomi": "ぶんしひょうてき‐ちりょうやく",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%A8%99%E7%9A%84%E6%B2%BB%E7%99%82%E8%96%AC/#jn-197449"
+  },
+  {
+    "kotoba": "分子標的薬",
+    "yomi": "ぶんしひょうてき‐やく",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%A8%99%E7%9A%84%E8%96%AC/#jn-241628"
+  },
+  {
+    "kotoba": "分子美食学",
+    "yomi": "ぶんし‐びしょくがく",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%BE%8E%E9%A3%9F%E5%AD%A6/#jn-293617"
+  },
+  {
+    "kotoba": "分子病",
+    "yomi": "ぶんし‐びょう",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%97%85/#jn-197447"
+  },
+  {
+    "kotoba": "分子篩",
+    "yomi": "ぶんし‐ふるい",
+    "link": "/word/%E5%88%86%E5%AD%90%E7%AF%A9/#jn-197450"
+  },
+  {
+    "kotoba": "分子免疫学",
+    "yomi": "ぶんし‐めんえきがく",
+    "link": "/word/%E5%88%86%E5%AD%90%E5%85%8D%E7%96%AB%E5%AD%A6/#jn-296985"
+  },
+  {
+    "kotoba": "分子模型",
+    "yomi": "ぶんし‐もけい",
+    "link": "/word/%E5%88%86%E5%AD%90%E6%A8%A1%E5%9E%8B/#jn-197452"
+  },
+  {
+    "kotoba": "分社",
+    "yomi": "ぶん‐しゃ",
+    "link": "/word/%E5%88%86%E7%A4%BE/#jn-197454"
+  },
+  {
+    "kotoba": "分取",
+    "yomi": "ぶん‐しゅ",
+    "link": "/word/%E5%88%86%E5%8F%96/#jn-299956"
+  },
+  {
+    "kotoba": "文集",
+    "yomi": "ぶん‐しゅう",
+    "link": "/word/%E6%96%87%E9%9B%86_%28%E3%81%B6%E3%82%93%E3%81%97%E3%82%85%E3%81%86%29/#jn-197459"
+  },
+  {
+    "kotoba": "文繍",
+    "yomi": "ぶん‐しゅう",
+    "link": "/word/%E6%96%87%E7%B9%8D/#jn-197460"
+  },
+  {
+    "kotoba": "分収育林",
+    "yomi": "ぶんしゅう‐いくりん",
+    "link": "/word/%E5%88%86%E5%8F%8E%E8%82%B2%E6%9E%97/#jn-197461"
+  },
+  {
+    "kotoba": "分宿",
+    "yomi": "ぶん‐しゅく",
+    "link": "/word/%E5%88%86%E5%AE%BF/#jn-197462"
+  },
+  {
+    "kotoba": "分所",
+    "yomi": "ぶん‐しょ",
+    "link": "/word/%E5%88%86%E6%89%80/#jn-197467"
+  },
+  {
+    "kotoba": "分署",
+    "yomi": "ぶん‐しょ",
+    "link": "/word/%E5%88%86%E7%BD%B2/#jn-197468"
+  },
+  {
+    "kotoba": "文書",
+    "yomi": "ぶん‐しょ",
+    "link": "/word/%E6%96%87%E6%9B%B8_%28%E3%81%B6%E3%82%93%E3%81%97%E3%82%87%29/#jn-197469"
+  },
+  {
+    "kotoba": "分掌",
+    "yomi": "ぶん‐しょう",
+    "link": "/word/%E5%88%86%E6%8E%8C/#jn-197473"
+  },
+  {
+    "kotoba": "文正",
+    "yomi": "ぶんしょう",
+    "link": "/word/%E6%96%87%E6%AD%A3/#jn-197474"
+  },
+  {
+    "kotoba": "文相",
+    "yomi": "ぶん‐しょう",
+    "link": "/word/%E6%96%87%E7%9B%B8/#jn-197475"
+  },
+  {
+    "kotoba": "文章",
+    "yomi": "ぶん‐しょう",
+    "link": "/word/%E6%96%87%E7%AB%A0_%28%E3%81%B6%E3%82%93%E3%81%97%E3%82%87%E3%81%86%29/#jn-197476"
+  },
+  {
+    "kotoba": "文章家",
+    "yomi": "ぶんしょう‐か",
+    "link": "/word/%E6%96%87%E7%AB%A0%E5%AE%B6/#jn-197484"
+  },
+  {
+    "kotoba": "文章軌範",
+    "yomi": "ぶんしょうきはん",
+    "link": "/word/%E6%96%87%E7%AB%A0%E8%BB%8C%E7%AF%84/#jn-197485"
+  },
+  {
+    "kotoba": "文章講話",
+    "yomi": "ぶんしょうこうわ",
+    "link": "/word/%E6%96%87%E7%AB%A0%E8%AC%9B%E8%A9%B1/#jn-296986"
+  },
+  {
+    "kotoba": "文章語",
+    "yomi": "ぶんしょう‐ご",
+    "link": "/word/%E6%96%87%E7%AB%A0%E8%AA%9E/#jn-197486"
+  },
+  {
+    "kotoba": "文章世界",
+    "yomi": "ぶんしょうせかい",
+    "link": "/word/%E6%96%87%E7%AB%A0%E4%B8%96%E7%95%8C/#jn-197487"
+  },
+  {
+    "kotoba": "文正草子",
+    "yomi": "ぶんしょうぞうし",
+    "link": "/word/%E6%96%87%E6%AD%A3%E8%8D%89%E5%AD%90/#jn-197488"
+  },
+  {
+    "kotoba": "文章体",
+    "yomi": "ぶんしょう‐たい",
+    "link": "/word/%E6%96%87%E7%AB%A0%E4%BD%93/#jn-197489"
+  },
+  {
+    "kotoba": "文章題",
+    "yomi": "ぶんしょう‐だい",
+    "link": "/word/%E6%96%87%E7%AB%A0%E9%A1%8C/#jn-259394"
+  },
+  {
+    "kotoba": "文章法",
+    "yomi": "ぶんしょう‐ほう",
+    "link": "/word/%E6%96%87%E7%AB%A0%E6%B3%95/#jn-197491"
+  },
+  {
+    "kotoba": "文章了解度",
+    "yomi": "ぶんしょう‐りょうかいど",
+    "link": "/word/%E6%96%87%E7%AB%A0%E4%BA%86%E8%A7%A3%E5%BA%A6/#jn-284082"
+  },
+  {
+    "kotoba": "文章論",
+    "yomi": "ぶんしょう‐ろん",
+    "link": "/word/%E6%96%87%E7%AB%A0%E8%AB%96/#jn-197492"
+  },
+  {
+    "kotoba": "文書毀棄罪",
+    "yomi": "ぶんしょきき‐ざい",
+    "link": "/word/%E6%96%87%E6%9B%B8%E6%AF%80%E6%A3%84%E7%BD%AA/#jn-197493"
+  },
+  {
+    "kotoba": "文書偽造罪",
+    "yomi": "ぶんしょぎぞう‐ざい",
+    "link": "/word/%E6%96%87%E6%9B%B8%E5%81%BD%E9%80%A0%E7%BD%AA/#jn-197494"
+  },
+  {
+    "kotoba": "文飾",
+    "yomi": "ぶん‐しょく",
+    "link": "/word/%E6%96%87%E9%A3%BE/#jn-197497"
+  },
+  {
+    "kotoba": "分食",
+    "yomi": "ぶん‐しょく",
+    "link": "/word/%E5%88%86%E9%A3%9F/#jn-298567"
+  },
+  {
+    "kotoba": "文書通信交通滞在費",
+    "yomi": "ぶんしょつうしんこうつうたいざい‐ひ",
+    "link": "/word/%E6%96%87%E6%9B%B8%E9%80%9A%E4%BF%A1%E4%BA%A4%E9%80%9A%E6%BB%9E%E5%9C%A8%E8%B2%BB/#jn-259395"
+  },
+  {
+    "kotoba": "文書通信費",
+    "yomi": "ぶんしょつうしん‐ひ",
+    "link": "/word/%E6%96%87%E6%9B%B8%E9%80%9A%E4%BF%A1%E8%B2%BB/#jn-259396"
+  },
+  {
+    "kotoba": "分子容",
+    "yomi": "ぶんし‐よう",
+    "link": "/word/%E5%88%86%E5%AD%90%E5%AE%B9/#jn-197478"
+  },
+  {
+    "kotoba": "分子量",
+    "yomi": "ぶんし‐りょう",
+    "link": "/word/%E5%88%86%E5%AD%90%E9%87%8F/#jn-197501"
+  },
+  {
+    "kotoba": "分身",
+    "yomi": "ぶん‐しん",
+    "link": "/word/%E5%88%86%E8%BA%AB/#jn-197506"
+  },
+  {
+    "kotoba": "文臣",
+    "yomi": "ぶん‐しん",
+    "link": "/word/%E6%96%87%E8%87%A3/#jn-197507"
+  },
+  {
+    "kotoba": "文身",
+    "yomi": "ぶん‐しん",
+    "link": "/word/%E6%96%87%E8%BA%AB/#jn-197508"
+  },
+  {
+    "kotoba": "聞診",
+    "yomi": "ぶん‐しん",
+    "link": "/word/%E8%81%9E%E8%A8%BA/#jn-197509"
+  },
+  {
+    "kotoba": "文心雕竜",
+    "yomi": "ぶんしんちょうりょう",
+    "link": "/word/%E6%96%87%E5%BF%83%E9%9B%95%E7%AB%9C/#jn-197513"
+  },
+  {
+    "kotoba": "文事",
+    "yomi": "ぶん‐じ",
+    "link": "/word/%E6%96%87%E4%BA%8B/#jn-197416"
+  },
+  {
+    "kotoba": "文治",
+    "yomi": "ぶん‐じ",
+    "link": "/word/%E6%96%87%E6%B2%BB_%28%E3%81%B6%E3%82%93%E3%81%98%29/#jn-197418"
+  },
+  {
+    "kotoba": "文治",
+    "yomi": "ぶんじ",
+    "link": "/word/%E6%96%87%E6%B2%BB_%28%E3%81%B6%E3%82%93%E3%81%98%29/#jn-197419"
+  },
+  {
+    "kotoba": "文辞",
+    "yomi": "ぶん‐じ",
+    "link": "/word/%E6%96%87%E8%BE%9E/#jn-197420"
+  },
+  {
+    "kotoba": "文字金",
+    "yomi": "ぶんじ‐きん",
+    "link": "/word/%E6%96%87%E5%AD%97%E9%87%91/#jn-197426"
+  },
+  {
+    "kotoba": "文字銭",
+    "yomi": "ぶんじ‐せん",
+    "link": "/word/%E6%96%87%E5%AD%97%E9%8A%AD/#jn-197435"
+  },
+  {
+    "kotoba": "文弱",
+    "yomi": "ぶん‐じゃく",
+    "link": "/word/%E6%96%87%E5%BC%B1/#jn-197456"
+  },
+  {
+    "kotoba": "分乗",
+    "yomi": "ぶん‐じょう",
+    "link": "/word/%E5%88%86%E4%B9%97/#jn-197479"
+  },
+  {
+    "kotoba": "分場",
+    "yomi": "ぶん‐じょう",
+    "link": "/word/%E5%88%86%E5%A0%B4/#jn-197480"
+  },
+  {
+    "kotoba": "分譲",
+    "yomi": "ぶん‐じょう",
+    "link": "/word/%E5%88%86%E8%AD%B2/#jn-197481"
+  },
+  {
+    "kotoba": "文杖",
+    "yomi": "ぶん‐じょう",
+    "link": "/word/%E6%96%87%E6%9D%96_%28%E3%81%B6%E3%82%93%E3%81%98%E3%82%87%E3%81%86%29/#jn-197482"
+  },
+  {
+    "kotoba": "文場",
+    "yomi": "ぶん‐じょう",
+    "link": "/word/%E6%96%87%E5%A0%B4/#jn-197483"
+  },
+  {
+    "kotoba": "分譲住宅",
+    "yomi": "ぶんじょう‐じゅうたく",
+    "link": "/word/%E5%88%86%E8%AD%B2%E4%BD%8F%E5%AE%85/#jn-262062"
+  },
+  {
+    "kotoba": "分譲地",
+    "yomi": "ぶんじょう‐ち",
+    "link": "/word/%E5%88%86%E8%AD%B2%E5%9C%B0/#jn-197490"
+  },
+  {
+    "kotoba": "文人",
+    "yomi": "ぶん‐じん",
+    "link": "/word/%E6%96%87%E4%BA%BA_%28%E3%81%B6%E3%82%93%E3%81%98%E3%82%93%29/#jn-197510"
+  },
+  {
+    "kotoba": "文人画",
+    "yomi": "ぶんじん‐が",
+    "link": "/word/%E6%96%87%E4%BA%BA%E7%94%BB/#jn-197512"
+  },
+  {
+    "kotoba": "文人墨客",
+    "yomi": "ぶんじん‐ぼっかく",
+    "link": "/word/%E6%96%87%E4%BA%BA%E5%A2%A8%E5%AE%A2/#jn-197515"
+  },
+  {
+    "kotoba": "分水",
+    "yomi": "ぶん‐すい",
+    "link": "/word/%E5%88%86%E6%B0%B4/#jn-197518"
+  },
+  {
+    "kotoba": "分水界",
+    "yomi": "ぶんすい‐かい",
+    "link": "/word/%E5%88%86%E6%B0%B4%E7%95%8C/#jn-197519"
+  },
+  {
+    "kotoba": "分水山脈",
+    "yomi": "ぶんすい‐さんみゃく",
+    "link": "/word/%E5%88%86%E6%B0%B4%E5%B1%B1%E8%84%88/#jn-197521"
+  },
+  {
+    "kotoba": "分水嶺",
+    "yomi": "ぶんすい‐れい",
+    "link": "/word/%E5%88%86%E6%B0%B4%E5%B6%BA/#jn-197522"
+  },
+  {
+    "kotoba": "分数",
+    "yomi": "ぶん‐すう",
+    "link": "/word/%E5%88%86%E6%95%B0/#jn-197523"
+  },
+  {
+    "kotoba": "分数関数",
+    "yomi": "ぶんすう‐かんすう",
+    "link": "/word/%E5%88%86%E6%95%B0%E9%96%A2%E6%95%B0/#jn-293618"
+  },
+  {
+    "kotoba": "分数式",
+    "yomi": "ぶんすう‐しき",
+    "link": "/word/%E5%88%86%E6%95%B0%E5%BC%8F/#jn-197524"
+  },
+  {
+    "kotoba": "文声",
+    "yomi": "ぶん‐せい",
+    "link": "/word/%E6%96%87%E5%A3%B0/#jn-197526"
+  },
+  {
+    "kotoba": "文政",
+    "yomi": "ぶん‐せい",
+    "link": "/word/%E6%96%87%E6%94%BF/#jn-197527"
+  },
+  {
+    "kotoba": "文政",
+    "yomi": "ぶんせい",
+    "link": "/word/%E6%96%87%E6%94%BF/#jn-197528"
+  },
+  {
+    "kotoba": "文勢",
+    "yomi": "ぶん‐せい",
+    "link": "/word/%E6%96%87%E5%8B%A2/#jn-197529"
+  },
+  {
+    "kotoba": "文政金銀",
+    "yomi": "ぶんせい‐きんぎん",
+    "link": "/word/%E6%96%87%E6%94%BF%E9%87%91%E9%8A%80/#jn-197530"
+  },
+  {
+    "kotoba": "文星芸術大学",
+    "yomi": "ぶんせい‐げいじゅつだいがく",
+    "link": "/word/%E6%96%87%E6%98%9F%E8%8A%B8%E8%A1%93%E5%A4%A7%E5%AD%A6/#jn-248161"
+  },
+  {
+    "kotoba": "分生子",
+    "yomi": "ぶんせい‐し",
+    "link": "/word/%E5%88%86%E7%94%9F%E5%AD%90/#jn-197531"
+  },
+  {
+    "kotoba": "分生子柄",
+    "yomi": "ぶんせいし‐へい",
+    "link": "/word/%E5%88%86%E7%94%9F%E5%AD%90%E6%9F%84/#jn-303414"
+  },
+  {
+    "kotoba": "分生胞子",
+    "yomi": "ぶんせい‐ほうし",
+    "link": "/word/%E5%88%86%E7%94%9F%E8%83%9E%E5%AD%90/#jn-303415"
+  },
+  {
+    "kotoba": "分析",
+    "yomi": "ぶん‐せき",
+    "link": "/word/%E5%88%86%E6%9E%90/#jn-197534"
+  },
+  {
+    "kotoba": "分籍",
+    "yomi": "ぶん‐せき",
+    "link": "/word/%E5%88%86%E7%B1%8D/#jn-197535"
+  },
+  {
+    "kotoba": "文責",
+    "yomi": "ぶん‐せき",
+    "link": "/word/%E6%96%87%E8%B2%AC/#jn-197536"
+  },
+  {
+    "kotoba": "文籍",
+    "yomi": "ぶん‐せき",
+    "link": "/word/%E6%96%87%E7%B1%8D_%28%E3%81%B6%E3%82%93%E3%81%9B%E3%81%8D%29/#jn-197537"
+  },
+  {
+    "kotoba": "分析化学",
+    "yomi": "ぶんせき‐かがく",
+    "link": "/word/%E5%88%86%E6%9E%90%E5%8C%96%E5%AD%A6/#jn-197538"
+  },
+  {
+    "kotoba": "分析的定義",
+    "yomi": "ぶんせきてき‐ていぎ",
+    "link": "/word/%E5%88%86%E6%9E%90%E7%9A%84%E5%AE%9A%E7%BE%A9/#jn-197540"
+  },
+  {
+    "kotoba": "分析哲学",
+    "yomi": "ぶんせき‐てつがく",
+    "link": "/word/%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6/#jn-197541"
+  },
+  {
+    "kotoba": "分析判断",
+    "yomi": "ぶんせき‐はんだん",
+    "link": "/word/%E5%88%86%E6%9E%90%E5%88%A4%E6%96%AD/#jn-197542"
+  },
+  {
+    "kotoba": "分節",
+    "yomi": "ぶん‐せつ",
+    "link": "/word/%E5%88%86%E7%AF%80/#jn-197543"
+  },
+  {
+    "kotoba": "文節",
+    "yomi": "ぶん‐せつ",
+    "link": "/word/%E6%96%87%E7%AF%80/#jn-197544"
+  },
+  {
+    "kotoba": "分節運動",
+    "yomi": "ぶんせつ‐うんどう",
+    "link": "/word/%E5%88%86%E7%AF%80%E9%81%8B%E5%8B%95/#jn-197545"
+  },
+  {
+    "kotoba": "文節変換",
+    "yomi": "ぶんせつ‐へんかん",
+    "link": "/word/%E6%96%87%E7%AF%80%E5%A4%89%E6%8F%9B/#jn-252256"
+  },
+  {
+    "kotoba": "分銭",
+    "yomi": "ぶん‐せん",
+    "link": "/word/%E5%88%86%E9%8A%AD/#jn-197552"
+  },
+  {
+    "kotoba": "文銭",
+    "yomi": "ぶん‐せん",
+    "link": "/word/%E6%96%87%E9%8A%AD/#jn-197553"
+  },
+  {
+    "kotoba": "文選",
+    "yomi": "ぶん‐せん",
+    "link": "/word/%E6%96%87%E9%81%B8_%28%E3%81%B6%E3%82%93%E3%81%9B%E3%82%93%29/#jn-197554"
+  },
+  {
+    "kotoba": "文宣王",
+    "yomi": "ぶんせん‐のう",
+    "link": "/word/person/%E6%96%87%E5%AE%A3%E7%8E%8B/#jn-197556"
+  },
+  {
+    "kotoba": "分疏",
+    "yomi": "ぶん‐そ",
+    "link": "/word/%E5%88%86%E7%96%8F/#jn-197558"
+  },
+  {
+    "kotoba": "文宗",
+    "yomi": "ぶん‐そう",
+    "link": "/word/%E6%96%87%E5%AE%97/#jn-197561"
+  },
+  {
+    "kotoba": "文藻",
+    "yomi": "ぶん‐そう",
+    "link": "/word/%E6%96%87%E8%97%BB/#jn-197562"
+  },
+  {
+    "kotoba": "分相応",
+    "yomi": "ぶん‐そうおう",
+    "link": "/word/%E5%88%86%E7%9B%B8%E5%BF%9C/#jn-197566"
+  },
+  {
+    "kotoba": "分村",
+    "yomi": "ぶん‐そん",
+    "link": "/word/%E5%88%86%E6%9D%91/#jn-197571"
+  },
+  {
+    "kotoba": "分損",
+    "yomi": "ぶん‐そん",
+    "link": "/word/%E5%88%86%E6%90%8D/#jn-197572"
+  },
+  {
+    "kotoba": "分蔵",
+    "yomi": "ぶん‐ぞう",
+    "link": "/word/%E5%88%86%E8%94%B5/#jn-197563"
+  },
+  {
+    "kotoba": "文蔵",
+    "yomi": "ぶんぞう",
+    "link": "/word/%E6%96%87%E8%94%B5/#jn-197564"
+  },
+  {
+    "kotoba": "分隊",
+    "yomi": "ぶん‐たい",
+    "link": "/word/%E5%88%86%E9%9A%8A/#jn-197577"
+  },
+  {
+    "kotoba": "文体",
+    "yomi": "ぶん‐たい",
+    "link": "/word/%E6%96%87%E4%BD%93/#jn-197578"
+  },
+  {
+    "kotoba": "文体明弁",
+    "yomi": "ぶんたいめいべん",
+    "link": "/word/%E6%96%87%E4%BD%93%E6%98%8E%E5%BC%81/#jn-197582"
+  },
+  {
+    "kotoba": "文体論",
+    "yomi": "ぶんたい‐ろん",
+    "link": "/word/%E6%96%87%E4%BD%93%E8%AB%96/#jn-197583"
+  },
+  {
+    "kotoba": "聞達",
+    "yomi": "ぶん‐たつ",
+    "link": "/word/%E8%81%9E%E9%81%94/#jn-197587"
+  },
+  {
+    "kotoba": "分担",
+    "yomi": "ぶん‐たん",
+    "link": "/word/%E5%88%86%E6%8B%85/#jn-197593"
+  },
+  {
+    "kotoba": "文旦",
+    "yomi": "ぶん‐たん",
+    "link": "/word/%E6%96%87%E6%97%A6_%28%E3%81%B6%E3%82%93%E3%81%9F%E3%82%93%29/#jn-197594"
+  },
+  {
+    "kotoba": "分担金",
+    "yomi": "ぶんたん‐きん",
+    "link": "/word/%E5%88%86%E6%8B%85%E9%87%91/#jn-197601"
+  },
+  {
+    "kotoba": "文台",
+    "yomi": "ぶん‐だい",
+    "link": "/word/%E6%96%87%E5%8F%B0/#jn-197579"
+  },
+  {
+    "kotoba": "文題",
+    "yomi": "ぶん‐だい",
+    "link": "/word/%E6%96%87%E9%A1%8C/#jn-197580"
+  },
+  {
+    "kotoba": "分大",
+    "yomi": "ぶん‐だい",
+    "link": "/word/%E5%88%86%E5%A4%A7/#jn-264433"
+  },
+  {
+    "kotoba": "分団",
+    "yomi": "ぶん‐だん",
+    "link": "/word/%E5%88%86%E5%9B%A3/#jn-197595"
+  },
+  {
+    "kotoba": "分段",
+    "yomi": "ぶん‐だん",
+    "link": "/word/%E5%88%86%E6%AE%B5/#jn-197596"
+  },
+  {
+    "kotoba": "分断",
+    "yomi": "ぶん‐だん",
+    "link": "/word/%E5%88%86%E6%96%AD/#jn-197597"
+  },
+  {
+    "kotoba": "文段",
+    "yomi": "ぶん‐だん",
+    "link": "/word/%E6%96%87%E6%AE%B5/#jn-197598"
+  },
+  {
+    "kotoba": "文談",
+    "yomi": "ぶん‐だん",
+    "link": "/word/%E6%96%87%E8%AB%87_%28%E3%81%B6%E3%82%93%E3%81%A0%E3%82%93%29/#jn-197599"
+  },
+  {
+    "kotoba": "文壇",
+    "yomi": "ぶん‐だん",
+    "link": "/word/%E6%96%87%E5%A3%87/#jn-197600"
+  },
+  {
+    "kotoba": "分段生死",
+    "yomi": "ぶんだん‐しょうじ",
+    "link": "/word/%E5%88%86%E6%AE%B5%E7%94%9F%E6%AD%BB/#jn-197602"
+  },
+  {
+    "kotoba": "分段身",
+    "yomi": "ぶんだん‐しん",
+    "link": "/word/%E5%88%86%E6%AE%B5%E8%BA%AB/#jn-197603"
+  },
+  {
+    "kotoba": "文壇人物評論",
+    "yomi": "ぶんだんじんぶつひょうろん",
+    "link": "/word/%E6%96%87%E5%A3%87%E4%BA%BA%E7%89%A9%E8%A9%95%E8%AB%96/#jn-287988"
+  },
+  {
+    "kotoba": "分段同居",
+    "yomi": "ぶんだん‐どうご",
+    "link": "/word/%E5%88%86%E6%AE%B5%E5%90%8C%E5%B1%85/#jn-197604"
+  },
+  {
+    "kotoba": "分段無常",
+    "yomi": "ぶんだん‐むじょう",
+    "link": "/word/%E5%88%86%E6%AE%B5%E7%84%A1%E5%B8%B8/#jn-197605"
+  },
+  {
+    "kotoba": "分段輪廻",
+    "yomi": "ぶんだん‐りんね",
+    "link": "/word/%E5%88%86%E6%AE%B5%E8%BC%AA%E5%BB%BB/#jn-197606"
+  },
+  {
+    "kotoba": "分地",
+    "yomi": "ぶん‐ち",
+    "link": "/word/%E5%88%86%E5%9C%B0/#jn-197607"
+  },
+  {
+    "kotoba": "分知",
+    "yomi": "ぶん‐ち",
+    "link": "/word/%E5%88%86%E7%9F%A5/#jn-197608"
+  },
+  {
+    "kotoba": "文治",
+    "yomi": "ぶん‐ち",
+    "link": "/word/%E6%96%87%E6%B2%BB_%28%E3%81%B6%E3%82%93%E3%81%A1%29/#jn-197609"
+  },
+  {
+    "kotoba": "文致",
+    "yomi": "ぶん‐ち",
+    "link": "/word/%E6%96%87%E8%87%B4/#jn-197610"
+  },
+  {
+    "kotoba": "聞知",
+    "yomi": "ぶん‐ち",
+    "link": "/word/%E8%81%9E%E7%9F%A5/#jn-197611"
+  },
+  {
+    "kotoba": "分地制限令",
+    "yomi": "ぶんちせいげん‐れい",
+    "link": "/word/%E5%88%86%E5%9C%B0%E5%88%B6%E9%99%90%E4%BB%A4/#jn-197612"
+  },
+  {
+    "kotoba": "文治政治",
+    "yomi": "ぶんち‐せいじ",
+    "link": "/word/%E6%96%87%E6%B2%BB%E6%94%BF%E6%B2%BB/#jn-197613"
+  },
+  {
+    "kotoba": "文中",
+    "yomi": "ぶん‐ちゅう",
+    "link": "/word/%E6%96%87%E4%B8%AD/#jn-197614"
+  },
+  {
+    "kotoba": "文中",
+    "yomi": "ぶんちゅう",
+    "link": "/word/%E6%96%87%E4%B8%AD/#jn-197615"
+  },
+  {
+    "kotoba": "分注",
+    "yomi": "ぶん‐ちゅう",
+    "link": "/word/%E5%88%86%E6%B3%A8/#jn-272082"
+  },
+  {
+    "kotoba": "文中子",
+    "yomi": "ぶんちゅうし",
+    "link": "/word/person/%E6%96%87%E4%B8%AD%E5%AD%90/#jn-197616"
+  },
+  {
+    "kotoba": "文晁",
+    "yomi": "ぶんちょう",
+    "link": "/word/person/%E6%96%87%E6%99%81/#jn-197617"
+  },
+  {
+    "kotoba": "文鳥",
+    "yomi": "ぶん‐ちょう",
+    "link": "/word/%E6%96%87%E9%B3%A5/#jn-197618"
+  },
+  {
+    "kotoba": "蚊帳",
+    "yomi": "ぶん‐ちょう",
+    "link": "/word/%E8%9A%8A%E5%B8%B3_%28%E3%81%B6%E3%82%93%E3%81%A1%E3%82%87%E3%81%86%29/#jn-197619"
+  },
+  {
+    "kotoba": "分潮",
+    "yomi": "ぶん‐ちょう",
+    "link": "/word/%E5%88%86%E6%BD%AE/#jn-286086"
+  },
+  {
+    "kotoba": "文徴明",
+    "yomi": "ぶん‐ちょうめい",
+    "link": "/word/person/%E6%96%87%E5%BE%B4%E6%98%8E/#jn-197620"
+  },
+  {
+    "kotoba": "文鎮",
+    "yomi": "ぶん‐ちん",
+    "link": "/word/%E6%96%87%E9%8E%AE/#jn-197621"
+  },
+  {
+    "kotoba": "文鎮化",
+    "yomi": "ぶんちん‐か",
+    "link": "/word/%E6%96%87%E9%8E%AE%E5%8C%96/#jn-276359"
+  },
+  {
+    "kotoba": "文鎮形組織",
+    "yomi": "ぶんちんがた‐そしき",
+    "link": "/word/%E6%96%87%E9%8E%AE%E5%BD%A2%E7%B5%84%E7%B9%94/#jn-293620"
+  },
+  {
+    "kotoba": "文通",
+    "yomi": "ぶん‐つう",
+    "link": "/word/%E6%96%87%E9%80%9A/#jn-197622"
+  },
+  {
+    "kotoba": "分附",
+    "yomi": "ぶん‐つけ",
+    "link": "/word/%E5%88%86%E9%99%84/#jn-197625"
+  },
+  {
+    "kotoba": "分附百姓",
+    "yomi": "ぶんつけ‐ひゃくしょう",
+    "link": "/word/%E5%88%86%E9%99%84%E7%99%BE%E5%A7%93/#jn-197626"
+  },
+  {
+    "kotoba": "文帝",
+    "yomi": "ぶん‐てい",
+    "link": "/word/person/%E6%96%87%E5%B8%9D/#jn-197631"
+  },
+  {
+    "kotoba": "分綴",
+    "yomi": "ぶん‐てつ",
+    "link": "/word/%E5%88%86%E7%B6%B4/#jn-197633"
+  },
+  {
+    "kotoba": "分店",
+    "yomi": "ぶん‐てん",
+    "link": "/word/%E5%88%86%E5%BA%97/#jn-197634"
+  },
+  {
+    "kotoba": "分点",
+    "yomi": "ぶん‐てん",
+    "link": "/word/%E5%88%86%E7%82%B9/#jn-197635"
+  },
+  {
+    "kotoba": "文典",
+    "yomi": "ぶん‐てん",
+    "link": "/word/%E6%96%87%E5%85%B8/#jn-197636"
+  },
+  {
+    "kotoba": "文展",
+    "yomi": "ぶん‐てん",
+    "link": "/word/%E6%96%87%E5%B1%95/#jn-197637"
+  },
+  {
+    "kotoba": "分点月",
+    "yomi": "ぶんてん‐げつ",
+    "link": "/word/%E5%88%86%E7%82%B9%E6%9C%88/#jn-197638"
+  },
+  {
+    "kotoba": "文天祥",
+    "yomi": "ぶん‐てんしょう",
+    "link": "/word/person/%E6%96%87%E5%A4%A9%E7%A5%A5/#jn-197639"
+  },
+  {
+    "kotoba": "聞睹",
+    "yomi": "ぶん‐と",
+    "link": "/word/%E8%81%9E%E7%9D%B9/#jn-197643"
+  },
+  {
+    "kotoba": "文頭",
+    "yomi": "ぶん‐とう",
+    "link": "/word/%E6%96%87%E9%A0%AD/#jn-197649"
+  },
+  {
+    "kotoba": "分党",
+    "yomi": "ぶん‐とう",
+    "link": "/word/%E5%88%86%E5%85%9A/#jn-266998"
+  },
+  {
+    "kotoba": "文道",
+    "yomi": "ぶん‐どう",
+    "link": "/word/%E6%96%87%E9%81%93/#jn-197651"
+  },
+  {
+    "kotoba": "文徳",
+    "yomi": "ぶん‐とく",
+    "link": "/word/%E6%96%87%E5%BE%B3/#jn-197654"
+  },
+  {
+    "kotoba": "文豆",
+    "yomi": "ぶん‐どう",
+    "link": "/word/%E6%96%87%E8%B1%86/#jn-197650"
+  },
+  {
+    "kotoba": "分度器",
+    "yomi": "ぶんど‐き",
+    "link": "/word/%E5%88%86%E5%BA%A6%E5%99%A8/#jn-197653"
+  },
+  {
+    "kotoba": "文和",
+    "yomi": "ぶんな",
+    "link": "/word/%E6%96%87%E5%92%8C/#jn-197663"
+  },
+  {
+    "kotoba": "文繞",
+    "yomi": "ぶん‐にょう",
+    "link": "/word/%E6%96%87%E7%B9%9E/#jn-197668"
+  },
+  {
+    "kotoba": "分任",
+    "yomi": "ぶん‐にん",
+    "link": "/word/%E5%88%86%E4%BB%BB/#jn-197669"
+  },
+  {
+    "kotoba": "分納",
+    "yomi": "ぶん‐のう",
+    "link": "/word/%E5%88%86%E7%B4%8D/#jn-197673"
+  },
+  {
+    "kotoba": "文博",
+    "yomi": "ぶん‐はく",
+    "link": "/word/%E6%96%87%E5%8D%9A/#jn-197683"
+  },
+  {
+    "kotoba": "分売",
+    "yomi": "ぶん‐ばい",
+    "link": "/word/%E5%88%86%E5%A3%B2/#jn-197676"
+  },
+  {
+    "kotoba": "分番",
+    "yomi": "ぶん‐ばん",
+    "link": "/word/%E5%88%86%E7%95%AA/#jn-197688"
+  },
+  {
+    "kotoba": "分派",
+    "yomi": "ぶん‐ぱ",
+    "link": "/word/%E5%88%86%E6%B4%BE/#jn-197675"
+  },
+  {
+    "kotoba": "分配",
+    "yomi": "ぶん‐ぱい",
+    "link": "/word/%E5%88%86%E9%85%8D/#jn-197677"
+  },
+  {
+    "kotoba": "分配型投資信託",
+    "yomi": "ぶんぱいがた‐とうししんたく",
+    "link": "/word/%E5%88%86%E9%85%8D%E5%9E%8B%E6%8A%95%E8%B3%87%E4%BF%A1%E8%A8%97/#jn-197678"
+  },
+  {
+    "kotoba": "分配器",
+    "yomi": "ぶんぱい‐き",
+    "link": "/word/%E5%88%86%E9%85%8D%E5%99%A8/#jn-298569"
+  },
+  {
+    "kotoba": "分配国民所得",
+    "yomi": "ぶんぱい‐こくみんしょとく",
+    "link": "/word/%E5%88%86%E9%85%8D%E5%9B%BD%E6%B0%91%E6%89%80%E5%BE%97/#jn-197679"
+  },
+  {
+    "kotoba": "分配法則",
+    "yomi": "ぶんぱい‐ほうそく",
+    "link": "/word/%E5%88%86%E9%85%8D%E6%B3%95%E5%89%87/#jn-197680"
+  },
+  {
+    "kotoba": "分配律",
+    "yomi": "ぶんぱい‐りつ",
+    "link": "/word/%E5%88%86%E9%85%8D%E5%BE%8B/#jn-197681"
+  },
+  {
+    "kotoba": "分派活動",
+    "yomi": "ぶんぱ‐かつどう",
+    "link": "/word/%E5%88%86%E6%B4%BE%E6%B4%BB%E5%8B%95/#jn-197682"
+  },
+  {
+    "kotoba": "分波器",
+    "yomi": "ぶんぱ‐き",
+    "link": "/word/%E5%88%86%E6%B3%A2%E5%99%A8/#jn-298570"
+  },
+  {
+    "kotoba": "文範",
+    "yomi": "ぶん‐ぱん",
+    "link": "/word/%E6%96%87%E7%AF%84/#jn-197689"
+  },
+  {
+    "kotoba": "文廟",
+    "yomi": "ぶん‐びょう",
+    "link": "/word/%E6%96%87%E5%BB%9F/#jn-197702"
+  },
+  {
+    "kotoba": "分泌",
+    "yomi": "ぶん‐ぴ",
+    "link": "/word/%E5%88%86%E6%B3%8C_%28%E3%81%B6%E3%82%93%E3%81%B4%29/#jn-197690"
+  },
+  {
+    "kotoba": "分泌神経",
+    "yomi": "ぶんぴつ‐しんけい",
+    "link": "/word/%E5%88%86%E6%B3%8C%E7%A5%9E%E7%B5%8C/#jn-255227"
+  },
+  {
+    "kotoba": "分泌",
+    "yomi": "ぶん‐ぴつ",
+    "link": "/word/%E5%88%86%E6%B3%8C_%28%E3%81%B6%E3%82%93%E3%81%B4%E3%81%A4%29/#jn-197691"
+  },
+  {
+    "kotoba": "分筆",
+    "yomi": "ぶん‐ぴつ",
+    "link": "/word/%E5%88%86%E7%AD%86/#jn-197692"
+  },
+  {
+    "kotoba": "文筆",
+    "yomi": "ぶん‐ぴつ",
+    "link": "/word/%E6%96%87%E7%AD%86/#jn-197693"
+  },
+  {
+    "kotoba": "分泌液",
+    "yomi": "ぶんぴつ‐えき",
+    "link": "/word/%E5%88%86%E6%B3%8C%E6%B6%B2/#jn-197694"
+  },
+  {
+    "kotoba": "文筆家",
+    "yomi": "ぶんぴつ‐か",
+    "link": "/word/%E6%96%87%E7%AD%86%E5%AE%B6/#jn-197695"
+  },
+  {
+    "kotoba": "文筆眼心抄",
+    "yomi": "ぶんぴつがんしんしょう",
+    "link": "/word/%E6%96%87%E7%AD%86%E7%9C%BC%E5%BF%83%E6%8A%84/#jn-197696"
+  },
+  {
+    "kotoba": "文筆業",
+    "yomi": "ぶんぴつ‐ぎょう",
+    "link": "/word/%E6%96%87%E7%AD%86%E6%A5%AD/#jn-197697"
+  },
+  {
+    "kotoba": "分泌細胞",
+    "yomi": "ぶんぴつ‐さいぼう",
+    "link": "/word/%E5%88%86%E6%B3%8C%E7%B4%B0%E8%83%9E/#jn-274328"
+  },
+  {
+    "kotoba": "分泌腺",
+    "yomi": "ぶんぴつ‐せん",
+    "link": "/word/%E5%88%86%E6%B3%8C%E8%85%BA/#jn-197698"
+  },
+  {
+    "kotoba": "分泌組織",
+    "yomi": "ぶんぴつ‐そしき",
+    "link": "/word/%E5%88%86%E6%B3%8C%E7%B5%84%E7%B9%94/#jn-197699"
+  },
+  {
+    "kotoba": "分泌物",
+    "yomi": "ぶんぴつ‐ぶつ",
+    "link": "/word/%E5%88%86%E6%B3%8C%E7%89%A9/#jn-197700"
+  },
+  {
+    "kotoba": "分不相応",
+    "yomi": "ぶん‐ふそうおう",
+    "link": "/word/%E5%88%86%E4%B8%8D%E7%9B%B8%E5%BF%9C/#jn-262063"
+  },
+  {
+    "kotoba": "文武",
+    "yomi": "ぶん‐ぶ",
+    "link": "/word/%E6%96%87%E6%AD%A6/#jn-197703"
+  },
+  {
+    "kotoba": "文福茶釜",
+    "yomi": "ぶんぶく‐ちゃがま",
+    "link": "/word/%E6%96%87%E7%A6%8F%E8%8C%B6%E9%87%9C/#jn-197707"
+  },
+  {
+    "kotoba": "文物",
+    "yomi": "ぶん‐ぶつ",
+    "link": "/word/%E6%96%87%E7%89%A9/#jn-197708"
+  },
+  {
+    "kotoba": "文武二道万石通",
+    "yomi": "ぶんぶにどうまんごくどおし",
+    "link": "/word/%E6%96%87%E6%AD%A6%E4%BA%8C%E9%81%93%E4%B8%87%E7%9F%B3%E9%80%9A/#jn-197709"
+  },
+  {
+    "kotoba": "文武両道",
+    "yomi": "ぶんぶ‐りょうどう",
+    "link": "/word/%E6%96%87%E6%AD%A6%E4%B8%A1%E9%81%93/#jn-197710"
+  },
+  {
+    "kotoba": "分布",
+    "yomi": "ぶん‐ぷ",
+    "link": "/word/%E5%88%86%E5%B8%83/#jn-197704"
+  },
+  {
+    "kotoba": "分賦",
+    "yomi": "ぶん‐ぷ",
+    "link": "/word/%E5%88%86%E8%B3%A6/#jn-197705"
+  },
+  {
+    "kotoba": "分布関数",
+    "yomi": "ぶんぷ‐かんすう",
+    "link": "/word/%E5%88%86%E5%B8%83%E9%96%A2%E6%95%B0/#jn-295300"
+  },
+  {
+    "kotoba": "分布曲線",
+    "yomi": "ぶんぷ‐きょくせん",
+    "link": "/word/%E5%88%86%E5%B8%83%E6%9B%B2%E7%B7%9A/#jn-296988"
+  },
+  {
+    "kotoba": "分服",
+    "yomi": "ぶん‐ぷく",
+    "link": "/word/%E5%88%86%E6%9C%8D/#jn-197706"
+  },
+  {
+    "kotoba": "分布障壁",
+    "yomi": "ぶんぷ‐しょうへき",
+    "link": "/word/%E5%88%86%E5%B8%83%E9%9A%9C%E5%A3%81/#jn-295301"
+  },
+  {
+    "kotoba": "分布定数回路",
+    "yomi": "ぶんぷ‐ていすうかいろ",
+    "link": "/word/%E5%88%86%E5%B8%83%E5%AE%9A%E6%95%B0%E5%9B%9E%E8%B7%AF/#jn-289961"
+  },
+  {
+    "kotoba": "分袂",
+    "yomi": "ぶん‐べい",
+    "link": "/word/%E5%88%86%E8%A2%82/#jn-197716"
+  },
+  {
+    "kotoba": "分別",
+    "yomi": "ぶん‐べつ",
+    "link": "/word/%E5%88%86%E5%88%A5_%28%E3%81%B6%E3%82%93%E3%81%B9%E3%81%A4%29/#jn-197718"
+  },
+  {
+    "kotoba": "分別結晶",
+    "yomi": "ぶんべつ‐けっしょう",
+    "link": "/word/%E5%88%86%E5%88%A5%E7%B5%90%E6%99%B6/#jn-197722"
+  },
+  {
+    "kotoba": "分別晶出",
+    "yomi": "ぶんべつ‐しょうしゅつ",
+    "link": "/word/%E5%88%86%E5%88%A5%E6%99%B6%E5%87%BA/#jn-255228"
+  },
+  {
+    "kotoba": "分別蒸留",
+    "yomi": "ぶんべつ‐じょうりゅう",
+    "link": "/word/%E5%88%86%E5%88%A5%E8%92%B8%E7%95%99/#jn-197724"
+  },
+  {
+    "kotoba": "分別沈殿",
+    "yomi": "ぶんべつ‐ちんでん",
+    "link": "/word/%E5%88%86%E5%88%A5%E6%B2%88%E6%AE%BF/#jn-255229"
+  },
+  {
+    "kotoba": "分弁",
+    "yomi": "ぶん‐べん",
+    "link": "/word/%E5%88%86%E5%BC%81/#jn-197728"
+  },
+  {
+    "kotoba": "分娩",
+    "yomi": "ぶん‐べん",
+    "link": "/word/%E5%88%86%E5%A8%A9/#jn-197729"
+  },
+  {
+    "kotoba": "分娩台",
+    "yomi": "ぶんべん‐だい",
+    "link": "/word/%E5%88%86%E5%A8%A9%E5%8F%B0/#jn-248163"
+  },
+  {
+    "kotoba": "分娩予定日",
+    "yomi": "ぶんべん‐よていび",
+    "link": "/word/%E5%88%86%E5%A8%A9%E4%BA%88%E5%AE%9A%E6%97%A5/#jn-244352"
+  },
+  {
+    "kotoba": "分母",
+    "yomi": "ぶん‐ぼ",
+    "link": "/word/%E5%88%86%E6%AF%8D/#jn-197731"
+  },
+  {
+    "kotoba": "文房",
+    "yomi": "ぶん‐ぼう",
+    "link": "/word/%E6%96%87%E6%88%BF/#jn-197733"
+  },
+  {
+    "kotoba": "蚊虻",
+    "yomi": "ぶん‐ぼう",
+    "link": "/word/%E8%9A%8A%E8%99%BB/#jn-197734"
+  },
+  {
+    "kotoba": "文房具",
+    "yomi": "ぶんぼう‐ぐ",
+    "link": "/word/%E6%96%87%E6%88%BF%E5%85%B7/#jn-197739"
+  },
+  {
+    "kotoba": "文房四宝",
+    "yomi": "ぶんぼう‐しほう",
+    "link": "/word/%E6%96%87%E6%88%BF%E5%9B%9B%E5%AE%9D/#jn-197740"
+  },
+  {
+    "kotoba": "文墨",
+    "yomi": "ぶん‐ぼく",
+    "link": "/word/%E6%96%87%E5%A2%A8/#jn-197742"
+  },
+  {
+    "kotoba": "文墨余談",
+    "yomi": "ぶんぼくよだん",
+    "link": "/word/%E6%96%87%E5%A2%A8%E4%BD%99%E8%AB%87/#jn-298571"
+  },
+  {
+    "kotoba": "蚊母鳥",
+    "yomi": "ぶんぼ‐ちょう",
+    "link": "/word/%E8%9A%8A%E6%AF%8D%E9%B3%A5/#jn-197743"
+  },
+  {
+    "kotoba": "分包",
+    "yomi": "ぶん‐ぽう",
+    "link": "/word/%E5%88%86%E5%8C%85/#jn-197735"
+  },
+  {
+    "kotoba": "分封",
+    "yomi": "ぶん‐ぽう",
+    "link": "/word/%E5%88%86%E5%B0%81/#jn-197736"
+  },
+  {
+    "kotoba": "文法",
+    "yomi": "ぶん‐ぽう",
+    "link": "/word/%E6%96%87%E6%B3%95/#jn-197737"
+  },
+  {
+    "kotoba": "文保",
+    "yomi": "ぶんぽう",
+    "link": "/word/%E6%96%87%E4%BF%9D/#jn-197738"
+  },
+  {
+    "kotoba": "文法論",
+    "yomi": "ぶんぽう‐ろん",
+    "link": "/word/%E6%96%87%E6%B3%95%E8%AB%96/#jn-197741"
+  },
+  {
+    "kotoba": "分米",
+    "yomi": "ぶん‐まい",
+    "link": "/word/%E5%88%86%E7%B1%B3/#jn-197752"
+  },
+  {
+    "kotoba": "文末",
+    "yomi": "ぶん‐まつ",
+    "link": "/word/%E6%96%87%E6%9C%AB/#jn-197756"
+  },
+  {
+    "kotoba": "分蜜糖",
+    "yomi": "ぶんみつ‐とう",
+    "link": "/word/%E5%88%86%E8%9C%9C%E7%B3%96/#jn-197760"
+  },
+  {
+    "kotoba": "分脈",
+    "yomi": "ぶん‐みゃく",
+    "link": "/word/%E5%88%86%E8%84%88/#jn-197761"
+  },
+  {
+    "kotoba": "文脈",
+    "yomi": "ぶん‐みゃく",
+    "link": "/word/%E6%96%87%E8%84%88/#jn-197762"
+  },
+  {
+    "kotoba": "分明",
+    "yomi": "ぶん‐みょう",
+    "link": "/word/%E5%88%86%E6%98%8E_%28%E3%81%B6%E3%82%93%E3%81%BF%E3%82%87%E3%81%86%29/#jn-197763"
+  },
+  {
+    "kotoba": "文民",
+    "yomi": "ぶん‐みん",
+    "link": "/word/%E6%96%87%E6%B0%91/#jn-197764"
+  },
+  {
+    "kotoba": "文民統制",
+    "yomi": "ぶんみん‐とうせい",
+    "link": "/word/%E6%96%87%E6%B0%91%E7%B5%B1%E5%88%B6/#jn-197765"
+  },
+  {
+    "kotoba": "分明",
+    "yomi": "ぶん‐めい",
+    "link": "/word/%E5%88%86%E6%98%8E_%28%E3%81%B6%E3%82%93%E3%82%81%E3%81%84%29/#jn-197770"
+  },
+  {
+    "kotoba": "文名",
+    "yomi": "ぶん‐めい",
+    "link": "/word/%E6%96%87%E5%90%8D/#jn-197767"
+  },
+  {
+    "kotoba": "文明",
+    "yomi": "ぶん‐めい",
+    "link": "/word/%E6%96%87%E6%98%8E/#jn-197768"
+  },
+  {
+    "kotoba": "文明",
+    "yomi": "ぶんめい",
+    "link": "/word/%E6%96%87%E6%98%8E/#jn-197769"
+  },
+  {
+    "kotoba": "文明",
+    "yomi": "ぶんめい",
+    "link": "/word/%E6%96%87%E6%98%8E/#jn-274330"
+  },
+  {
+    "kotoba": "文明一統記",
+    "yomi": "ぶんめいいっとうき",
+    "link": "/word/%E6%96%87%E6%98%8E%E4%B8%80%E7%B5%B1%E8%A8%98/#jn-197771"
+  },
+  {
+    "kotoba": "文明開化",
+    "yomi": "ぶんめい‐かいか",
+    "link": "/word/%E6%96%87%E6%98%8E%E9%96%8B%E5%8C%96/#jn-197772"
+  },
+  {
+    "kotoba": "文明史",
+    "yomi": "ぶんめい‐し",
+    "link": "/word/%E6%96%87%E6%98%8E%E5%8F%B2/#jn-197773"
+  },
+  {
+    "kotoba": "文明批評",
+    "yomi": "ぶんめい‐ひひょう",
+    "link": "/word/%E6%96%87%E6%98%8E%E6%89%B9%E8%A9%95/#jn-197774"
+  },
+  {
+    "kotoba": "文明病",
+    "yomi": "ぶんめい‐びょう",
+    "link": "/word/%E6%96%87%E6%98%8E%E7%97%85/#jn-197775"
+  },
+  {
+    "kotoba": "文明論之概略",
+    "yomi": "ぶんめいろんのがいりゃく",
+    "link": "/word/%E6%96%87%E6%98%8E%E8%AB%96%E4%B9%8B%E6%A6%82%E7%95%A5/#jn-197776"
+  },
+  {
+    "kotoba": "文面",
+    "yomi": "ぶん‐めん",
+    "link": "/word/%E6%96%87%E9%9D%A2_%28%E3%81%B6%E3%82%93%E3%82%81%E3%82%93%29/#jn-197777"
+  },
+  {
+    "kotoba": "分野",
+    "yomi": "ぶん‐や",
+    "link": "/word/%E5%88%86%E9%87%8E/#jn-197780"
+  },
+  {
+    "kotoba": "文弥",
+    "yomi": "ぶんや",
+    "link": "/word/person/%E6%96%87%E5%BC%A5/#jn-197781"
+  },
+  {
+    "kotoba": "文屋",
+    "yomi": "ぶんや",
+    "link": "/word/%E6%96%87%E5%B1%8B_%28%E3%81%B6%E3%82%93%E3%82%84%29/#jn-197782"
+  },
+  {
+    "kotoba": "聞屋",
+    "yomi": "ぶん‐や",
+    "link": "/word/%E8%81%9E%E5%B1%8B/#jn-264434"
+  },
+  {
+    "kotoba": "文弥節",
+    "yomi": "ぶんや‐ぶし",
+    "link": "/word/%E6%96%87%E5%BC%A5%E7%AF%80/#jn-197786"
+  },
+  {
+    "kotoba": "分有",
+    "yomi": "ぶん‐ゆう",
+    "link": "/word/%E5%88%86%E6%9C%89/#jn-197789"
+  },
+  {
+    "kotoba": "文友",
+    "yomi": "ぶん‐ゆう",
+    "link": "/word/%E6%96%87%E5%8F%8B/#jn-197790"
+  },
+  {
+    "kotoba": "文雄",
+    "yomi": "ぶんゆう",
+    "link": "/word/person/%E6%96%87%E9%9B%84/#jn-197791"
+  },
+  {
+    "kotoba": "分与",
+    "yomi": "ぶん‐よ",
+    "link": "/word/%E5%88%86%E4%B8%8E/#jn-197793"
+  },
+  {
+    "kotoba": "蚊雷",
+    "yomi": "ぶん‐らい",
+    "link": "/word/%E8%9A%8A%E9%9B%B7/#jn-197794"
+  },
+  {
+    "kotoba": "文楽",
+    "yomi": "ぶんらく",
+    "link": "/word/%E6%96%87%E6%A5%BD/#jn-197795"
+  },
+  {
+    "kotoba": "文楽座",
+    "yomi": "ぶんらく‐ざ",
+    "link": "/word/%E6%96%87%E6%A5%BD%E5%BA%A7/#jn-197796"
+  },
+  {
+    "kotoba": "文楽人形",
+    "yomi": "ぶんらく‐にんぎょう",
+    "link": "/word/%E6%96%87%E6%A5%BD%E4%BA%BA%E5%BD%A2/#jn-197797"
+  },
+  {
+    "kotoba": "紊乱",
+    "yomi": "ぶん‐らん",
+    "link": "/word/%E7%B4%8A%E4%B9%B1_%28%E3%81%B6%E3%82%93%E3%82%89%E3%82%93%29/#jn-197799"
+  },
+  {
+    "kotoba": "分利",
+    "yomi": "ぶん‐り",
+    "link": "/word/%E5%88%86%E5%88%A9/#jn-197800"
+  },
+  {
+    "kotoba": "分離",
+    "yomi": "ぶん‐り",
+    "link": "/word/%E5%88%86%E9%9B%A2/#jn-197801"
+  },
+  {
+    "kotoba": "文理",
+    "yomi": "ぶん‐り",
+    "link": "/word/%E6%96%87%E7%90%86/#jn-197802"
+  },
+  {
+    "kotoba": "文理解釈",
+    "yomi": "ぶんり‐かいしゃく",
+    "link": "/word/%E6%96%87%E7%90%86%E8%A7%A3%E9%87%88/#jn-267001"
+  },
+  {
+    "kotoba": "分離課税",
+    "yomi": "ぶんり‐かぜい",
+    "link": "/word/%E5%88%86%E9%9B%A2%E8%AA%B2%E7%A8%8E/#jn-197803"
+  },
+  {
+    "kotoba": "文理科大学",
+    "yomi": "ぶんりか‐だいがく",
+    "link": "/word/%E6%96%87%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6/#jn-197804"
+  },
+  {
+    "kotoba": "分離壁",
+    "yomi": "ぶんり‐へき",
+    "link": "/word/%E5%88%86%E9%9B%A2%E5%A3%81/#jn-293623"
+  },
+  {
+    "kotoba": "分力",
+    "yomi": "ぶん‐りき",
+    "link": "/word/%E5%88%86%E5%8A%9B_%28%E3%81%B6%E3%82%93%E3%82%8A%E3%81%8D%29/#jn-197805"
+  },
+  {
+    "kotoba": "分離教育",
+    "yomi": "ぶんり‐きょういく",
+    "link": "/word/%E5%88%86%E9%9B%A2%E6%95%99%E8%82%B2/#jn-267002"
+  },
+  {
+    "kotoba": "分離源",
+    "yomi": "ぶんり‐げん",
+    "link": "/word/%E5%88%86%E9%9B%A2%E6%BA%90/#jn-252260"
+  },
+  {
+    "kotoba": "分離作業単位",
+    "yomi": "ぶんり‐さぎょうたんい",
+    "link": "/word/%E5%88%86%E9%9B%A2%E4%BD%9C%E6%A5%AD%E5%8D%98%E4%BD%8D/#jn-255231"
+  },
+  {
+    "kotoba": "分離帯",
+    "yomi": "ぶんり‐たい",
+    "link": "/word/%E5%88%86%E9%9B%A2%E5%B8%AF/#jn-197806"
+  },
+  {
+    "kotoba": "分立",
+    "yomi": "ぶん‐りつ",
+    "link": "/word/%E5%88%86%E7%AB%8B/#jn-197807"
+  },
+  {
+    "kotoba": "分離天体",
+    "yomi": "ぶんり‐てんたい",
+    "link": "/word/%E5%88%86%E9%9B%A2%E5%A4%A9%E4%BD%93/#jn-298572"
+  },
+  {
+    "kotoba": "分離派",
+    "yomi": "ぶんり‐は",
+    "link": "/word/%E5%88%86%E9%9B%A2%E6%B4%BE/#jn-197809"
+  },
+  {
+    "kotoba": "文略",
+    "yomi": "ぶん‐りゃく",
+    "link": "/word/%E6%96%87%E7%95%A5/#jn-197810"
+  },
+  {
+    "kotoba": "文暦",
+    "yomi": "ぶんりゃく",
+    "link": "/word/%E6%96%87%E6%9A%A6/#jn-197811"
+  },
+  {
+    "kotoba": "分流",
+    "yomi": "ぶん‐りゅう",
+    "link": "/word/%E5%88%86%E6%B5%81/#jn-197814"
+  },
+  {
+    "kotoba": "分留",
+    "yomi": "ぶん‐りゅう",
+    "link": "/word/%E5%88%86%E7%95%99/#jn-197815"
+  },
+  {
+    "kotoba": "分流器",
+    "yomi": "ぶんりゅう‐き",
+    "link": "/word/%E5%88%86%E6%B5%81%E5%99%A8/#jn-197816"
+  },
+  {
+    "kotoba": "分留塔",
+    "yomi": "ぶんりゅう‐とう",
+    "link": "/word/%E5%88%86%E7%95%99%E5%A1%94/#jn-197817"
+  },
+  {
+    "kotoba": "分量",
+    "yomi": "ぶん‐りょう",
+    "link": "/word/%E5%88%86%E9%87%8F/#jn-197818"
+  },
+  {
+    "kotoba": "分領",
+    "yomi": "ぶん‐りょう",
+    "link": "/word/%E5%88%86%E9%A0%98/#jn-197819"
+  },
+  {
+    "kotoba": "分力",
+    "yomi": "ぶん‐りょく",
+    "link": "/word/%E5%88%86%E5%8A%9B_%28%E3%81%B6%E3%82%93%E3%82%8A%E3%82%87%E3%81%8F%29/#jn-197820"
+  },
+  {
+    "kotoba": "文林",
+    "yomi": "ぶん‐りん",
+    "link": "/word/%E6%96%87%E6%9E%97/#jn-197822"
+  },
+  {
+    "kotoba": "分類",
+    "yomi": "ぶん‐るい",
+    "link": "/word/%E5%88%86%E9%A1%9E/#jn-197824"
+  },
+  {
+    "kotoba": "分類学",
+    "yomi": "ぶんるい‐がく",
+    "link": "/word/%E5%88%86%E9%A1%9E%E5%AD%A6/#jn-197825"
+  },
+  {
+    "kotoba": "分類群",
+    "yomi": "ぶんるい‐ぐん",
+    "link": "/word/%E5%88%86%E9%A1%9E%E7%BE%A4/#jn-259399"
+  },
+  {
+    "kotoba": "分類単位",
+    "yomi": "ぶんるい‐たんい",
+    "link": "/word/%E5%88%86%E9%A1%9E%E5%8D%98%E4%BD%8D/#jn-259400"
+  },
+  {
+    "kotoba": "分霊",
+    "yomi": "ぶん‐れい",
+    "link": "/word/%E5%88%86%E9%9C%8A/#jn-197827"
+  },
+  {
+    "kotoba": "文例",
+    "yomi": "ぶん‐れい",
+    "link": "/word/%E6%96%87%E4%BE%8B/#jn-197828"
+  },
+  {
+    "kotoba": "分霊社",
+    "yomi": "ぶんれい‐しゃ",
+    "link": "/word/%E5%88%86%E9%9C%8A%E7%A4%BE/#jn-197829"
+  },
+  {
+    "kotoba": "分列",
+    "yomi": "ぶん‐れつ",
+    "link": "/word/%E5%88%86%E5%88%97/#jn-197830"
+  },
+  {
+    "kotoba": "分裂",
+    "yomi": "ぶん‐れつ",
+    "link": "/word/%E5%88%86%E8%A3%82/#jn-197831"
+  },
+  {
+    "kotoba": "分裂死",
+    "yomi": "ぶんれつ‐し",
+    "link": "/word/%E5%88%86%E8%A3%82%E6%AD%BB/#jn-252261"
+  },
+  {
+    "kotoba": "分列式",
+    "yomi": "ぶんれつ‐しき",
+    "link": "/word/%E5%88%86%E5%88%97%E5%BC%8F/#jn-197832"
+  },
+  {
+    "kotoba": "分裂質",
+    "yomi": "ぶんれつ‐しつ",
+    "link": "/word/%E5%88%86%E8%A3%82%E8%B3%AA/#jn-197833"
+  },
+  {
+    "kotoba": "分裂周期",
+    "yomi": "ぶんれつ‐しゅうき",
+    "link": "/word/%E5%88%86%E8%A3%82%E5%91%A8%E6%9C%9F/#jn-252262"
+  },
+  {
+    "kotoba": "分裂組織",
+    "yomi": "ぶんれつ‐そしき",
+    "link": "/word/%E5%88%86%E8%A3%82%E7%B5%84%E7%B9%94/#jn-197834"
+  },
+  {
+    "kotoba": "分裂病",
+    "yomi": "ぶんれつ‐びょう",
+    "link": "/word/%E5%88%86%E8%A3%82%E7%97%85/#jn-197835"
+  },
+  {
+    "kotoba": "分路",
+    "yomi": "ぶん‐ろ",
+    "link": "/word/%E5%88%86%E8%B7%AF/#jn-197836"
+  },
+  {
+    "kotoba": "文禄",
+    "yomi": "ぶんろく",
+    "link": "/word/%E6%96%87%E7%A6%84/#jn-197838"
+  },
+  {
+    "kotoba": "文話",
+    "yomi": "ぶん‐わ",
+    "link": "/word/%E6%96%87%E8%A9%B1/#jn-197840"
+  }
+]

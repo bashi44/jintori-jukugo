@@ -1,0 +1,4747 @@
+[
+  {
+    "kotoba": "冷暗",
+    "yomi": "れい‐あん",
+    "link": "/word/%E5%86%B7%E6%9A%97/#jn-234016"
+  },
+  {
+    "kotoba": "冷暗黒物質",
+    "yomi": "れい‐あんこくぶっしつ",
+    "link": "/word/%E5%86%B7%E6%9A%97%E9%BB%92%E7%89%A9%E8%B3%AA/#jn-234017"
+  },
+  {
+    "kotoba": "霊安室",
+    "yomi": "れいあん‐しつ",
+    "link": "/word/%E9%9C%8A%E5%AE%89%E5%AE%A4/#jn-234018"
+  },
+  {
+    "kotoba": "冷暗所",
+    "yomi": "れいあん‐しょ",
+    "link": "/word/%E5%86%B7%E6%9A%97%E6%89%80/#jn-262468"
+  },
+  {
+    "kotoba": "冷罨法",
+    "yomi": "れい‐あんぽう",
+    "link": "/word/%E5%86%B7%E7%BD%A8%E6%B3%95/#jn-234019"
+  },
+  {
+    "kotoba": "礼意",
+    "yomi": "れい‐い",
+    "link": "/word/%E7%A4%BC%E6%84%8F/#jn-234020"
+  },
+  {
+    "kotoba": "霊位",
+    "yomi": "れい‐い",
+    "link": "/word/%E9%9C%8A%E4%BD%8D/#jn-234021"
+  },
+  {
+    "kotoba": "霊威",
+    "yomi": "れい‐い",
+    "link": "/word/%E9%9C%8A%E5%A8%81/#jn-234022"
+  },
+  {
+    "kotoba": "霊異",
+    "yomi": "れい‐い",
+    "link": "/word/%E9%9C%8A%E7%95%B0/#jn-234023"
+  },
+  {
+    "kotoba": "霊域",
+    "yomi": "れい‐いき",
+    "link": "/word/%E9%9C%8A%E5%9F%9F/#jn-234024"
+  },
+  {
+    "kotoba": "霊異記",
+    "yomi": "れいいき",
+    "link": "/word/%E9%9C%8A%E7%95%B0%E8%A8%98_%28%E3%82%8C%E3%81%84%E3%81%84%E3%81%8D%29/#jn-234025"
+  },
+  {
+    "kotoba": "冷陰極",
+    "yomi": "れい‐いんきょく",
+    "link": "/word/%E5%86%B7%E9%99%B0%E6%A5%B5/#jn-234026"
+  },
+  {
+    "kotoba": "冷陰極管",
+    "yomi": "れいいんきょく‐かん",
+    "link": "/word/%E5%86%B7%E9%99%B0%E6%A5%B5%E7%AE%A1/#jn-242036"
+  },
+  {
+    "kotoba": "冷陰極蛍光管",
+    "yomi": "れいいんきょく‐けいこうかん",
+    "link": "/word/%E5%86%B7%E9%99%B0%E6%A5%B5%E8%9B%8D%E5%85%89%E7%AE%A1/#jn-242037"
+  },
+  {
+    "kotoba": "冷陰極放出",
+    "yomi": "れいいんきょく‐ほうしゅつ",
+    "link": "/word/%E5%86%B7%E9%99%B0%E6%A5%B5%E6%94%BE%E5%87%BA/#jn-242039"
+  },
+  {
+    "kotoba": "冷雨",
+    "yomi": "れい‐う",
+    "link": "/word/%E5%86%B7%E9%9B%A8/#jn-234027"
+  },
+  {
+    "kotoba": "零雨",
+    "yomi": "れい‐う",
+    "link": "/word/%E9%9B%B6%E9%9B%A8/#jn-234028"
+  },
+  {
+    "kotoba": "霊雨",
+    "yomi": "れい‐う",
+    "link": "/word/%E9%9C%8A%E9%9B%A8/#jn-234029"
+  },
+  {
+    "kotoba": "霊雲",
+    "yomi": "れい‐うん",
+    "link": "/word/%E9%9C%8A%E9%9B%B2/#jn-234030"
+  },
+  {
+    "kotoba": "霊液",
+    "yomi": "れい‐えき",
+    "link": "/word/%E9%9C%8A%E6%B6%B2/#jn-234031"
+  },
+  {
+    "kotoba": "冷艶",
+    "yomi": "れい‐えん",
+    "link": "/word/%E5%86%B7%E8%89%B6/#jn-234032"
+  },
+  {
+    "kotoba": "霊園",
+    "yomi": "れい‐えん",
+    "link": "/word/%E9%9C%8A%E5%9C%92/#jn-234033"
+  },
+  {
+    "kotoba": "麗艶",
+    "yomi": "れい‐えん",
+    "link": "/word/%E9%BA%97%E8%89%B6/#jn-234034"
+  },
+  {
+    "kotoba": "冷炎",
+    "yomi": "れい‐えん",
+    "link": "/word/%E5%86%B7%E7%82%8E/#jn-290286"
+  },
+  {
+    "kotoba": "霊応",
+    "yomi": "れい‐おう",
+    "link": "/word/%E9%9C%8A%E5%BF%9C/#jn-234035"
+  },
+  {
+    "kotoba": "礼扇",
+    "yomi": "れい‐おうぎ",
+    "link": "/word/%E7%A4%BC%E6%89%87/#jn-234036"
+  },
+  {
+    "kotoba": "霊屋",
+    "yomi": "れい‐おく",
+    "link": "/word/%E9%9C%8A%E5%B1%8B_%28%E3%82%8C%E3%81%84%E3%81%8A%E3%81%8F%29/#jn-234037"
+  },
+  {
+    "kotoba": "冷温",
+    "yomi": "れい‐おん",
+    "link": "/word/%E5%86%B7%E6%B8%A9/#jn-234039"
+  },
+  {
+    "kotoba": "冷温帯",
+    "yomi": "れい‐おんたい",
+    "link": "/word/%E5%86%B7%E6%B8%A9%E5%B8%AF/#jn-234040"
+  },
+  {
+    "kotoba": "冷温停止",
+    "yomi": "れいおん‐ていし",
+    "link": "/word/%E5%86%B7%E6%B8%A9%E5%81%9C%E6%AD%A2/#jn-248712"
+  },
+  {
+    "kotoba": "冷温停止状態",
+    "yomi": "れいおんていし‐じょうたい",
+    "link": "/word/%E5%86%B7%E6%B8%A9%E5%81%9C%E6%AD%A2%E7%8A%B6%E6%85%8B/#jn-255653"
+  },
+  {
+    "kotoba": "冷夏",
+    "yomi": "れい‐か",
+    "link": "/word/%E5%86%B7%E5%A4%8F/#jn-234041"
+  },
+  {
+    "kotoba": "冷菓",
+    "yomi": "れい‐か",
+    "link": "/word/%E5%86%B7%E8%8F%93/#jn-234042"
+  },
+  {
+    "kotoba": "零下",
+    "yomi": "れい‐か",
+    "link": "/word/%E9%9B%B6%E4%B8%8B/#jn-234043"
+  },
+  {
+    "kotoba": "霊化",
+    "yomi": "れい‐か",
+    "link": "/word/%E9%9C%8A%E5%8C%96/#jn-234044"
+  },
+  {
+    "kotoba": "隷下",
+    "yomi": "れい‐か",
+    "link": "/word/%E9%9A%B7%E4%B8%8B/#jn-234046"
+  },
+  {
+    "kotoba": "霊歌",
+    "yomi": "れい‐か",
+    "link": "/word/%E9%9C%8A%E6%AD%8C/#jn-234045"
+  },
+  {
+    "kotoba": "冷灰",
+    "yomi": "れい‐かい",
+    "link": "/word/%E5%86%B7%E7%81%B0/#jn-234047"
+  },
+  {
+    "kotoba": "例会",
+    "yomi": "れい‐かい",
+    "link": "/word/%E4%BE%8B%E4%BC%9A/#jn-234048"
+  },
+  {
+    "kotoba": "例解",
+    "yomi": "れい‐かい",
+    "link": "/word/%E4%BE%8B%E8%A7%A3/#jn-234049"
+  },
+  {
+    "kotoba": "霊界",
+    "yomi": "れい‐かい",
+    "link": "/word/%E9%9C%8A%E7%95%8C/#jn-234050"
+  },
+  {
+    "kotoba": "冷覚",
+    "yomi": "れい‐かく",
+    "link": "/word/%E5%86%B7%E8%A6%9A/#jn-234056"
+  },
+  {
+    "kotoba": "藜藿",
+    "yomi": "れい‐かく",
+    "link": "/word/%E8%97%9C%E8%97%BF/#jn-234057"
+  },
+  {
+    "kotoba": "礼冠",
+    "yomi": "れい‐かん",
+    "link": "/word/%E7%A4%BC%E5%86%A0/#jn-234061"
+  },
+  {
+    "kotoba": "伶官",
+    "yomi": "れい‐かん",
+    "link": "/word/%E4%BC%B6%E5%AE%98/#jn-234062"
+  },
+  {
+    "kotoba": "冷汗",
+    "yomi": "れい‐かん",
+    "link": "/word/%E5%86%B7%E6%B1%97/#jn-234063"
+  },
+  {
+    "kotoba": "冷寒",
+    "yomi": "れい‐かん",
+    "link": "/word/%E5%86%B7%E5%AF%92/#jn-234066"
+  },
+  {
+    "kotoba": "戻換",
+    "yomi": "れい‐かん",
+    "link": "/word/%E6%88%BB%E6%8F%9B/#jn-234064"
+  },
+  {
+    "kotoba": "霊感",
+    "yomi": "れい‐かん",
+    "link": "/word/%E9%9C%8A%E6%84%9F/#jn-234065"
+  },
+  {
+    "kotoba": "冷感",
+    "yomi": "れい‐かん",
+    "link": "/word/%E5%86%B7%E6%84%9F/#jn-248713"
+  },
+  {
+    "kotoba": "冷間加工",
+    "yomi": "れいかん‐かこう",
+    "link": "/word/%E5%86%B7%E9%96%93%E5%8A%A0%E5%B7%A5/#jn-234069"
+  },
+  {
+    "kotoba": "冷汗三斗",
+    "yomi": "れいかん‐さんと",
+    "link": "/word/%E5%86%B7%E6%B1%97%E4%B8%89%E6%96%97/#jn-234070"
+  },
+  {
+    "kotoba": "冷間始動",
+    "yomi": "れいかん‐しどう",
+    "link": "/word/%E5%86%B7%E9%96%93%E5%A7%8B%E5%8B%95/#jn-290287"
+  },
+  {
+    "kotoba": "冷感症",
+    "yomi": "れいかん‐しょう",
+    "link": "/word/%E5%86%B7%E6%84%9F%E7%97%87/#jn-234073"
+  },
+  {
+    "kotoba": "霊感商法",
+    "yomi": "れいかん‐しょうほう",
+    "link": "/word/%E9%9C%8A%E6%84%9F%E5%95%86%E6%B3%95/#jn-234074"
+  },
+  {
+    "kotoba": "冷害",
+    "yomi": "れい‐がい",
+    "link": "/word/%E5%86%B7%E5%AE%B3/#jn-234051"
+  },
+  {
+    "kotoba": "例外",
+    "yomi": "れい‐がい",
+    "link": "/word/%E4%BE%8B%E5%A4%96/#jn-234052"
+  },
+  {
+    "kotoba": "例外処理",
+    "yomi": "れいがい‐しょり",
+    "link": "/word/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86/#jn-234053"
+  },
+  {
+    "kotoba": "例外的",
+    "yomi": "れいがい‐てき",
+    "link": "/word/%E4%BE%8B%E5%A4%96%E7%9A%84/#jn-270271"
+  },
+  {
+    "kotoba": "例外法",
+    "yomi": "れいがい‐ほう",
+    "link": "/word/%E4%BE%8B%E5%A4%96%E6%B3%95/#jn-234054"
+  },
+  {
+    "kotoba": "礼楽",
+    "yomi": "れい‐がく",
+    "link": "/word/%E7%A4%BC%E6%A5%BD/#jn-234058"
+  },
+  {
+    "kotoba": "伶楽",
+    "yomi": "れい‐がく",
+    "link": "/word/%E4%BC%B6%E6%A5%BD/#jn-234060"
+  },
+  {
+    "kotoba": "冷眼",
+    "yomi": "れい‐がん",
+    "link": "/word/%E5%86%B7%E7%9C%BC/#jn-234067"
+  },
+  {
+    "kotoba": "霊巌",
+    "yomi": "れいがん",
+    "link": "/word/person/%E9%9C%8A%E5%B7%8C/#jn-234068"
+  },
+  {
+    "kotoba": "霊巌寺",
+    "yomi": "れいがん‐じ",
+    "link": "/word/%E9%9C%8A%E5%B7%8C%E5%AF%BA/#jn-234071"
+  },
+  {
+    "kotoba": "霊岸島",
+    "yomi": "れいがん‐じま",
+    "link": "/word/%E9%9C%8A%E5%B2%B8%E5%B3%B6/#jn-234072"
+  },
+  {
+    "kotoba": "冷気",
+    "yomi": "れい‐き",
+    "link": "/word/%E5%86%B7%E6%B0%97/#jn-234075"
+  },
+  {
+    "kotoba": "励起",
+    "yomi": "れい‐き",
+    "link": "/word/%E5%8A%B1%E8%B5%B7/#jn-234076"
+  },
+  {
+    "kotoba": "例規",
+    "yomi": "れい‐き",
+    "link": "/word/%E4%BE%8B%E8%A6%8F/#jn-234077"
+  },
+  {
+    "kotoba": "霊気",
+    "yomi": "れい‐き",
+    "link": "/word/%E9%9C%8A%E6%B0%97_%28%E3%82%8C%E3%81%84%E3%81%8D%29/#jn-234078"
+  },
+  {
+    "kotoba": "霊鬼",
+    "yomi": "れい‐き",
+    "link": "/word/%E9%9C%8A%E9%AC%BC/#jn-234079"
+  },
+  {
+    "kotoba": "霊亀",
+    "yomi": "れいき",
+    "link": "/word/%E9%9C%8A%E4%BA%80/#jn-234080"
+  },
+  {
+    "kotoba": "癘鬼",
+    "yomi": "れい‐き",
+    "link": "/word/%E7%99%98%E9%AC%BC/#jn-234081"
+  },
+  {
+    "kotoba": "励起光",
+    "yomi": "れいき‐こう",
+    "link": "/word/%E5%8A%B1%E8%B5%B7%E5%85%89/#jn-242040"
+  },
+  {
+    "kotoba": "零記号",
+    "yomi": "れい‐きごう",
+    "link": "/word/%E9%9B%B6%E8%A8%98%E5%8F%B7/#jn-234084"
+  },
+  {
+    "kotoba": "励起子",
+    "yomi": "れいき‐し",
+    "link": "/word/%E5%8A%B1%E8%B5%B7%E5%AD%90/#jn-260039"
+  },
+  {
+    "kotoba": "励起状態",
+    "yomi": "れいき‐じょうたい",
+    "link": "/word/%E5%8A%B1%E8%B5%B7%E7%8A%B6%E6%85%8B/#jn-234085"
+  },
+  {
+    "kotoba": "冷却",
+    "yomi": "れい‐きゃく",
+    "link": "/word/%E5%86%B7%E5%8D%B4/#jn-234086"
+  },
+  {
+    "kotoba": "冷却遠心機",
+    "yomi": "れいきゃく‐えんしんき",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E9%81%A0%E5%BF%83%E6%A9%9F/#jn-293860"
+  },
+  {
+    "kotoba": "冷却遠心分離機",
+    "yomi": "れいきゃく‐えんしんぶんりき",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E9%81%A0%E5%BF%83%E5%88%86%E9%9B%A2%E6%A9%9F/#jn-293861"
+  },
+  {
+    "kotoba": "冷却器",
+    "yomi": "れいきゃく‐き",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E5%99%A8/#jn-234087"
+  },
+  {
+    "kotoba": "冷却期間",
+    "yomi": "れいきゃく‐きかん",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E6%9C%9F%E9%96%93/#jn-234088"
+  },
+  {
+    "kotoba": "冷却材",
+    "yomi": "れいきゃく‐ざい",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E6%9D%90/#jn-234089"
+  },
+  {
+    "kotoba": "冷却剤",
+    "yomi": "れいきゃく‐ざい",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E5%89%A4/#jn-234090"
+  },
+  {
+    "kotoba": "冷却材喪失事故",
+    "yomi": "れいきゃくざい‐そうしつじこ",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E6%9D%90%E5%96%AA%E5%A4%B1%E4%BA%8B%E6%95%85/#jn-252960"
+  },
+  {
+    "kotoba": "冷却水",
+    "yomi": "れいきゃく‐すい",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E6%B0%B4/#jn-267358"
+  },
+  {
+    "kotoba": "冷却鰭",
+    "yomi": "れいきゃく‐ひれ",
+    "link": "/word/%E5%86%B7%E5%8D%B4%E9%B0%AD/#jn-234091"
+  },
+  {
+    "kotoba": "霊柩",
+    "yomi": "れい‐きゅう",
+    "link": "/word/%E9%9C%8A%E6%9F%A9/#jn-234093"
+  },
+  {
+    "kotoba": "霊柩車",
+    "yomi": "れいきゅう‐しゃ",
+    "link": "/word/%E9%9C%8A%E6%9F%A9%E8%BB%8A/#jn-234094"
+  },
+  {
+    "kotoba": "鈴鏡",
+    "yomi": "れい‐きょう",
+    "link": "/word/%E9%88%B4%E9%8F%A1/#jn-234096"
+  },
+  {
+    "kotoba": "霊香",
+    "yomi": "れい‐きょう",
+    "link": "/word/%E9%9C%8A%E9%A6%99_%28%E3%82%8C%E3%81%84%E3%81%8D%E3%82%87%E3%81%86%29/#jn-234097"
+  },
+  {
+    "kotoba": "霊境",
+    "yomi": "れい‐きょう",
+    "link": "/word/%E9%9C%8A%E5%A2%83/#jn-234098"
+  },
+  {
+    "kotoba": "零距離射撃",
+    "yomi": "れいきょり‐しゃげき",
+    "link": "/word/%E9%9B%B6%E8%B7%9D%E9%9B%A2%E5%B0%84%E6%92%83/#jn-234099"
+  },
+  {
+    "kotoba": "礼金",
+    "yomi": "れい‐きん",
+    "link": "/word/%E7%A4%BC%E9%87%91/#jn-234101"
+  },
+  {
+    "kotoba": "玲琴",
+    "yomi": "れい‐きん",
+    "link": "/word/%E7%8E%B2%E7%90%B4/#jn-234102"
+  },
+  {
+    "kotoba": "霊菌",
+    "yomi": "れい‐きん",
+    "link": "/word/%E9%9C%8A%E8%8F%8C/#jn-234103"
+  },
+  {
+    "kotoba": "礼義",
+    "yomi": "れい‐ぎ",
+    "link": "/word/%E7%A4%BC%E7%BE%A9/#jn-234082"
+  },
+  {
+    "kotoba": "礼儀",
+    "yomi": "れい‐ぎ",
+    "link": "/word/%E7%A4%BC%E5%84%80/#jn-234083"
+  },
+  {
+    "kotoba": "囹圄",
+    "yomi": "れい‐ぎょ",
+    "link": "/word/%E5%9B%B9%E5%9C%84_%28%E3%82%8C%E3%81%84%E3%81%8E%E3%82%87%29/#jn-234095"
+  },
+  {
+    "kotoba": "零行列",
+    "yomi": "れい‐ぎょうれつ",
+    "link": "/word/%E9%9B%B6%E8%A1%8C%E5%88%97/#jn-288283"
+  },
+  {
+    "kotoba": "礼儀類典",
+    "yomi": "れいぎるいてん",
+    "link": "/word/%E7%A4%BC%E5%84%80%E9%A1%9E%E5%85%B8/#jn-234100"
+  },
+  {
+    "kotoba": "霊供",
+    "yomi": "れい‐く",
+    "link": "/word/%E9%9C%8A%E4%BE%9B_%28%E3%82%8C%E3%81%84%E3%81%8F%29/#jn-234104"
+  },
+  {
+    "kotoba": "麗句",
+    "yomi": "れい‐く",
+    "link": "/word/%E9%BA%97%E5%8F%A5/#jn-234105"
+  },
+  {
+    "kotoba": "霊空",
+    "yomi": "れいくう",
+    "link": "/word/person/%E9%9C%8A%E7%A9%BA/#jn-234107"
+  },
+  {
+    "kotoba": "霊窟",
+    "yomi": "れい‐くつ",
+    "link": "/word/%E9%9C%8A%E7%AA%9F/#jn-234110"
+  },
+  {
+    "kotoba": "冷燻",
+    "yomi": "れい‐くん",
+    "link": "/word/%E5%86%B7%E7%87%BB/#jn-234111"
+  },
+  {
+    "kotoba": "礼遇",
+    "yomi": "れい‐ぐう",
+    "link": "/word/%E7%A4%BC%E9%81%87/#jn-234108"
+  },
+  {
+    "kotoba": "冷遇",
+    "yomi": "れい‐ぐう",
+    "link": "/word/%E5%86%B7%E9%81%87/#jn-234109"
+  },
+  {
+    "kotoba": "令兄",
+    "yomi": "れい‐けい",
+    "link": "/word/%E4%BB%A4%E5%85%84/#jn-234112"
+  },
+  {
+    "kotoba": "令閨",
+    "yomi": "れい‐けい",
+    "link": "/word/%E4%BB%A4%E9%96%A8/#jn-234113"
+  },
+  {
+    "kotoba": "麗景殿",
+    "yomi": "れいけい‐でん",
+    "link": "/word/%E9%BA%97%E6%99%AF%E6%AE%BF/#jn-234114"
+  },
+  {
+    "kotoba": "冷血",
+    "yomi": "れい‐けつ",
+    "link": "/word/%E5%86%B7%E8%A1%80/#jn-234115"
+  },
+  {
+    "kotoba": "冷血",
+    "yomi": "れいけつ",
+    "link": "/word/%E5%86%B7%E8%A1%80/#jn-270273"
+  },
+  {
+    "kotoba": "冷血漢",
+    "yomi": "れいけつ‐かん",
+    "link": "/word/%E5%86%B7%E8%A1%80%E6%BC%A2/#jn-234118"
+  },
+  {
+    "kotoba": "冷血種",
+    "yomi": "れいけつ‐しゅ",
+    "link": "/word/%E5%86%B7%E8%A1%80%E7%A8%AE/#jn-293862"
+  },
+  {
+    "kotoba": "冷血動物",
+    "yomi": "れいけつ‐どうぶつ",
+    "link": "/word/%E5%86%B7%E8%A1%80%E5%8B%95%E7%89%A9/#jn-234119"
+  },
+  {
+    "kotoba": "霊剣",
+    "yomi": "れい‐けん",
+    "link": "/word/%E9%9C%8A%E5%89%A3/#jn-234120"
+  },
+  {
+    "kotoba": "霊験",
+    "yomi": "れい‐げん",
+    "link": "/word/%E9%9C%8A%E9%A8%93/#jn-234123"
+  },
+  {
+    "kotoba": "令月",
+    "yomi": "れい‐げつ",
+    "link": "/word/%E4%BB%A4%E6%9C%88/#jn-234116"
+  },
+  {
+    "kotoba": "例月",
+    "yomi": "れい‐げつ",
+    "link": "/word/%E4%BE%8B%E6%9C%88/#jn-234117"
+  },
+  {
+    "kotoba": "令厳",
+    "yomi": "れい‐げん",
+    "link": "/word/%E4%BB%A4%E5%8E%B3/#jn-234121"
+  },
+  {
+    "kotoba": "例言",
+    "yomi": "れい‐げん",
+    "link": "/word/%E4%BE%8B%E8%A8%80/#jn-234122"
+  },
+  {
+    "kotoba": "黎元",
+    "yomi": "れい‐げん",
+    "link": "/word/%E9%BB%8E%E5%85%83/#jn-234124"
+  },
+  {
+    "kotoba": "冷厳",
+    "yomi": "れい‐げん",
+    "link": "/word/%E5%86%B7%E5%8E%B3/#jn-234125"
+  },
+  {
+    "kotoba": "霊験記",
+    "yomi": "れいげん‐き",
+    "link": "/word/%E9%9C%8A%E9%A8%93%E8%A8%98/#jn-234126"
+  },
+  {
+    "kotoba": "黎元洪",
+    "yomi": "れい‐げんこう",
+    "link": "/word/person/%E9%BB%8E%E5%85%83%E6%B4%AA/#jn-234127"
+  },
+  {
+    "kotoba": "霊元天皇",
+    "yomi": "れいげん‐てんのう",
+    "link": "/word/person/%E9%9C%8A%E5%85%83%E5%A4%A9%E7%9A%87/#jn-234128"
+  },
+  {
+    "kotoba": "冷光",
+    "yomi": "れい‐こう",
+    "link": "/word/%E5%86%B7%E5%85%89/#jn-234131"
+  },
+  {
+    "kotoba": "励行",
+    "yomi": "れい‐こう",
+    "link": "/word/%E5%8A%B1%E8%A1%8C/#jn-234132"
+  },
+  {
+    "kotoba": "霊光",
+    "yomi": "れい‐こう",
+    "link": "/word/%E9%9C%8A%E5%85%89/#jn-234133"
+  },
+  {
+    "kotoba": "霊香",
+    "yomi": "れい‐こう",
+    "link": "/word/%E9%9C%8A%E9%A6%99_%28%E3%82%8C%E3%81%84%E3%81%93%E3%81%86%29/#jn-234134"
+  },
+  {
+    "kotoba": "藜羹",
+    "yomi": "れい‐こう",
+    "link": "/word/%E8%97%9C%E7%BE%B9/#jn-234135"
+  },
+  {
+    "kotoba": "霊交",
+    "yomi": "れい‐こう",
+    "link": "/word/%E9%9C%8A%E4%BA%A4/#jn-264849"
+  },
+  {
+    "kotoba": "冷酷",
+    "yomi": "れい‐こく",
+    "link": "/word/%E5%86%B7%E9%85%B7/#jn-234138"
+  },
+  {
+    "kotoba": "例刻",
+    "yomi": "れい‐こく",
+    "link": "/word/%E4%BE%8B%E5%88%BB/#jn-234137"
+  },
+  {
+    "kotoba": "麗子五歳之像",
+    "yomi": "れいこごさいのぞう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E4%BA%94%E6%AD%B3%E4%B9%8B%E5%83%8F/#jn-297239"
+  },
+  {
+    "kotoba": "麗子坐像",
+    "yomi": "れいこざぞう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E5%9D%90%E5%83%8F/#jn-297240"
+  },
+  {
+    "kotoba": "麗子肖像",
+    "yomi": "れいこしょうぞう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E8%82%96%E5%83%8F/#jn-297241"
+  },
+  {
+    "kotoba": "麗子住吉詣之立像",
+    "yomi": "れいこすみよしもうでのりつぞう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E4%BD%8F%E5%90%89%E8%A9%A3%E4%B9%8B%E7%AB%8B%E5%83%8F/#jn-297242"
+  },
+  {
+    "kotoba": "麗子像",
+    "yomi": "れいこぞう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E5%83%8F/#jn-297243"
+  },
+  {
+    "kotoba": "麗子弾絃図",
+    "yomi": "れいこだんげんず",
+    "link": "/word/%E9%BA%97%E5%AD%90%E5%BC%BE%E7%B5%83%E5%9B%B3/#jn-297244"
+  },
+  {
+    "kotoba": "麗子微笑",
+    "yomi": "れいこびしょう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E5%BE%AE%E7%AC%91/#jn-297245"
+  },
+  {
+    "kotoba": "麗子立像",
+    "yomi": "れいこりつぞう",
+    "link": "/word/%E9%BA%97%E5%AD%90%E7%AB%8B%E5%83%8F/#jn-297246"
+  },
+  {
+    "kotoba": "霊魂",
+    "yomi": "れい‐こん",
+    "link": "/word/%E9%9C%8A%E9%AD%82/#jn-234140"
+  },
+  {
+    "kotoba": "霊魂信仰",
+    "yomi": "れいこん‐しんこう",
+    "link": "/word/%E9%9C%8A%E9%AD%82%E4%BF%A1%E4%BB%B0/#jn-234141"
+  },
+  {
+    "kotoba": "霊魂不滅",
+    "yomi": "れいこん‐ふめつ",
+    "link": "/word/%E9%9C%8A%E9%AD%82%E4%B8%8D%E6%BB%85/#jn-234142"
+  },
+  {
+    "kotoba": "冷語",
+    "yomi": "れい‐ご",
+    "link": "/word/%E5%86%B7%E8%AA%9E/#jn-234129"
+  },
+  {
+    "kotoba": "囹圄",
+    "yomi": "れい‐ご",
+    "link": "/word/%E5%9B%B9%E5%9C%84_%28%E3%82%8C%E3%81%84%E3%81%94%29/#jn-234130"
+  },
+  {
+    "kotoba": "冷菜",
+    "yomi": "れい‐さい",
+    "link": "/word/%E5%86%B7%E8%8F%9C/#jn-234143"
+  },
+  {
+    "kotoba": "例祭",
+    "yomi": "れい‐さい",
+    "link": "/word/%E4%BE%8B%E7%A5%AD/#jn-234144"
+  },
+  {
+    "kotoba": "零砕",
+    "yomi": "れい‐さい",
+    "link": "/word/%E9%9B%B6%E7%A0%95/#jn-234147"
+  },
+  {
+    "kotoba": "霊祭",
+    "yomi": "れい‐さい",
+    "link": "/word/%E9%9C%8A%E7%A5%AD_%28%E3%82%8C%E3%81%84%E3%81%95%E3%81%84%29/#jn-234145"
+  },
+  {
+    "kotoba": "霊犀",
+    "yomi": "れい‐さい",
+    "link": "/word/%E9%9C%8A%E7%8A%80/#jn-234146"
+  },
+  {
+    "kotoba": "零細",
+    "yomi": "れい‐さい",
+    "link": "/word/%E9%9B%B6%E7%B4%B0/#jn-234148"
+  },
+  {
+    "kotoba": "零細企業",
+    "yomi": "れいさい‐きぎょう",
+    "link": "/word/%E9%9B%B6%E7%B4%B0%E4%BC%81%E6%A5%AD/#jn-234149"
+  },
+  {
+    "kotoba": "零細農",
+    "yomi": "れいさい‐のう",
+    "link": "/word/%E9%9B%B6%E7%B4%B0%E8%BE%B2/#jn-234150"
+  },
+  {
+    "kotoba": "霊刹",
+    "yomi": "れい‐さつ",
+    "link": "/word/%E9%9C%8A%E5%88%B9/#jn-234151"
+  },
+  {
+    "kotoba": "例様",
+    "yomi": "れい‐ざま",
+    "link": "/word/%E4%BE%8B%E6%A7%98/#jn-234152"
+  },
+  {
+    "kotoba": "霊山",
+    "yomi": "れい‐ざん",
+    "link": "/word/%E9%9C%8A%E5%B1%B1_%28%E3%82%8C%E3%81%84%E3%81%96%E3%82%93%29/#jn-234153"
+  },
+  {
+    "kotoba": "霊山寺",
+    "yomi": "れいざん‐じ",
+    "link": "/word/%E9%9C%8A%E5%B1%B1%E5%AF%BA_%28%E3%82%8C%E3%81%84%E3%81%96%E3%82%93%E3%81%98%29/#jn-234154"
+  },
+  {
+    "kotoba": "令史",
+    "yomi": "れい‐し",
+    "link": "/word/%E4%BB%A4%E5%8F%B2/#jn-234155"
+  },
+  {
+    "kotoba": "令旨",
+    "yomi": "れい‐し",
+    "link": "/word/%E4%BB%A4%E6%97%A8/#jn-234156"
+  },
+  {
+    "kotoba": "令姉",
+    "yomi": "れい‐し",
+    "link": "/word/%E4%BB%A4%E5%A7%89/#jn-234157"
+  },
+  {
+    "kotoba": "令嗣",
+    "yomi": "れい‐し",
+    "link": "/word/%E4%BB%A4%E5%97%A3/#jn-234158"
+  },
+  {
+    "kotoba": "冷視",
+    "yomi": "れい‐し",
+    "link": "/word/%E5%86%B7%E8%A6%96/#jn-234159"
+  },
+  {
+    "kotoba": "茘枝",
+    "yomi": "れい‐し",
+    "link": "/word/%E8%8C%98%E6%9E%9D/#jn-234160"
+  },
+  {
+    "kotoba": "霊芝",
+    "yomi": "れい‐し",
+    "link": "/word/%E9%9C%8A%E8%8A%9D/#jn-234161"
+  },
+  {
+    "kotoba": "霊祀",
+    "yomi": "れい‐し",
+    "link": "/word/%E9%9C%8A%E7%A5%80/#jn-234162"
+  },
+  {
+    "kotoba": "霊祠",
+    "yomi": "れい‐し",
+    "link": "/word/%E9%9C%8A%E7%A5%A0/#jn-234163"
+  },
+  {
+    "kotoba": "麗姿",
+    "yomi": "れい‐し",
+    "link": "/word/%E9%BA%97%E5%A7%BF/#jn-234164"
+  },
+  {
+    "kotoba": "霊視",
+    "yomi": "れい‐し",
+    "link": "/word/%E9%9C%8A%E8%A6%96/#jn-280390"
+  },
+  {
+    "kotoba": "霊芝",
+    "yomi": "れいし",
+    "link": "/word/%E9%9C%8A%E8%8A%9D/#jn-272394"
+  },
+  {
+    "kotoba": "茘枝貝",
+    "yomi": "れいし‐がい",
+    "link": "/word/%E8%8C%98%E6%9E%9D%E8%B2%9D/#jn-234174"
+  },
+  {
+    "kotoba": "礼式",
+    "yomi": "れい‐しき",
+    "link": "/word/%E7%A4%BC%E5%BC%8F/#jn-234175"
+  },
+  {
+    "kotoba": "例式",
+    "yomi": "れい‐しき",
+    "link": "/word/%E4%BE%8B%E5%BC%8F/#jn-234176"
+  },
+  {
+    "kotoba": "零式艦上戦闘機",
+    "yomi": "れいしき‐かんじょうせんとうき",
+    "link": "/word/%E9%9B%B6%E5%BC%8F%E8%89%A6%E4%B8%8A%E6%88%A6%E9%97%98%E6%A9%9F/#jn-234178"
+  },
+  {
+    "kotoba": "霊視商法",
+    "yomi": "れいし‐しょうほう",
+    "link": "/word/%E9%9C%8A%E8%A6%96%E5%95%86%E6%B3%95/#jn-280391"
+  },
+  {
+    "kotoba": "冷湿布",
+    "yomi": "れい‐しっぷ",
+    "link": "/word/%E5%86%B7%E6%B9%BF%E5%B8%83/#jn-234188"
+  },
+  {
+    "kotoba": "令室",
+    "yomi": "れい‐しつ",
+    "link": "/word/%E4%BB%A4%E5%AE%A4/#jn-234183"
+  },
+  {
+    "kotoba": "霊室",
+    "yomi": "れい‐しつ",
+    "link": "/word/%E9%9C%8A%E5%AE%A4/#jn-234184"
+  },
+  {
+    "kotoba": "麗質",
+    "yomi": "れい‐しつ",
+    "link": "/word/%E9%BA%97%E8%B3%AA/#jn-234185"
+  },
+  {
+    "kotoba": "礼者",
+    "yomi": "れい‐しゃ",
+    "link": "/word/%E7%A4%BC%E8%80%85/#jn-234190"
+  },
+  {
+    "kotoba": "礼謝",
+    "yomi": "れい‐しゃ",
+    "link": "/word/%E7%A4%BC%E8%AC%9D/#jn-234191"
+  },
+  {
+    "kotoba": "霊社",
+    "yomi": "れい‐しゃ",
+    "link": "/word/%E9%9C%8A%E7%A4%BE/#jn-234192"
+  },
+  {
+    "kotoba": "霊車",
+    "yomi": "れい‐しゃ",
+    "link": "/word/%E9%9C%8A%E8%BB%8A/#jn-234193"
+  },
+  {
+    "kotoba": "霊舎",
+    "yomi": "れい‐しゃ",
+    "link": "/word/%E9%9C%8A%E8%88%8E/#jn-234194"
+  },
+  {
+    "kotoba": "冷酒",
+    "yomi": "れい‐しゅ",
+    "link": "/word/%E5%86%B7%E9%85%92_%28%E3%82%8C%E3%81%84%E3%81%97%E3%82%85%29/#jn-234196"
+  },
+  {
+    "kotoba": "黎首",
+    "yomi": "れい‐しゅ",
+    "link": "/word/%E9%BB%8E%E9%A6%96/#jn-234197"
+  },
+  {
+    "kotoba": "醴酒",
+    "yomi": "れい‐しゅ",
+    "link": "/word/%E9%86%B4%E9%85%92/#jn-234198"
+  },
+  {
+    "kotoba": "令書",
+    "yomi": "れい‐しょ",
+    "link": "/word/%E4%BB%A4%E6%9B%B8/#jn-234201"
+  },
+  {
+    "kotoba": "鈴杵",
+    "yomi": "れい‐しょ",
+    "link": "/word/%E9%88%B4%E6%9D%B5/#jn-234202"
+  },
+  {
+    "kotoba": "黎庶",
+    "yomi": "れい‐しょ",
+    "link": "/word/%E9%BB%8E%E5%BA%B6/#jn-234203"
+  },
+  {
+    "kotoba": "隷書",
+    "yomi": "れい‐しょ",
+    "link": "/word/%E9%9A%B7%E6%9B%B8/#jn-234204"
+  },
+  {
+    "kotoba": "冷床",
+    "yomi": "れい‐しょう",
+    "link": "/word/%E5%86%B7%E5%BA%8A/#jn-234205"
+  },
+  {
+    "kotoba": "冷笑",
+    "yomi": "れい‐しょう",
+    "link": "/word/%E5%86%B7%E7%AC%91/#jn-234206"
+  },
+  {
+    "kotoba": "例証",
+    "yomi": "れい‐しょう",
+    "link": "/word/%E4%BE%8B%E8%A8%BC/#jn-234207"
+  },
+  {
+    "kotoba": "冷笑主義",
+    "yomi": "れいしょう‐しゅぎ",
+    "link": "/word/%E5%86%B7%E7%AC%91%E4%B8%BB%E7%BE%A9/#jn-242042"
+  },
+  {
+    "kotoba": "令色",
+    "yomi": "れい‐しょく",
+    "link": "/word/%E4%BB%A4%E8%89%B2/#jn-234216"
+  },
+  {
+    "kotoba": "冷色",
+    "yomi": "れい‐しょく",
+    "link": "/word/%E5%86%B7%E8%89%B2/#jn-234217"
+  },
+  {
+    "kotoba": "冷食",
+    "yomi": "れい‐しょく",
+    "link": "/word/%E5%86%B7%E9%A3%9F/#jn-234218"
+  },
+  {
+    "kotoba": "厲色",
+    "yomi": "れい‐しょく",
+    "link": "/word/%E5%8E%B2%E8%89%B2/#jn-234219"
+  },
+  {
+    "kotoba": "麗色",
+    "yomi": "れい‐しょく",
+    "link": "/word/%E9%BA%97%E8%89%B2/#jn-234220"
+  },
+  {
+    "kotoba": "令辰",
+    "yomi": "れい‐しん",
+    "link": "/word/%E4%BB%A4%E8%BE%B0/#jn-234221"
+  },
+  {
+    "kotoba": "励振",
+    "yomi": "れい‐しん",
+    "link": "/word/%E5%8A%B1%E6%8C%AF/#jn-234222"
+  },
+  {
+    "kotoba": "霊神",
+    "yomi": "れい‐じん",
+    "link": "/word/%E9%9C%8A%E7%A5%9E/#jn-234224"
+  },
+  {
+    "kotoba": "令慈",
+    "yomi": "れい‐じ",
+    "link": "/word/%E4%BB%A4%E6%85%88/#jn-234165"
+  },
+  {
+    "kotoba": "励磁",
+    "yomi": "れい‐じ",
+    "link": "/word/%E5%8A%B1%E7%A3%81/#jn-234166"
+  },
+  {
+    "kotoba": "例示",
+    "yomi": "れい‐じ",
+    "link": "/word/%E4%BE%8B%E7%A4%BA/#jn-234167"
+  },
+  {
+    "kotoba": "例時",
+    "yomi": "れい‐じ",
+    "link": "/word/%E4%BE%8B%E6%99%82/#jn-234168"
+  },
+  {
+    "kotoba": "零時",
+    "yomi": "れい‐じ",
+    "link": "/word/%E9%9B%B6%E6%99%82/#jn-234169"
+  },
+  {
+    "kotoba": "霊璽",
+    "yomi": "れい‐じ",
+    "link": "/word/%E9%9C%8A%E7%92%BD/#jn-234170"
+  },
+  {
+    "kotoba": "隷字",
+    "yomi": "れい‐じ",
+    "link": "/word/%E9%9A%B7%E5%AD%97/#jn-234171"
+  },
+  {
+    "kotoba": "麗辞",
+    "yomi": "れい‐じ",
+    "link": "/word/%E9%BA%97%E8%BE%9E/#jn-234172"
+  },
+  {
+    "kotoba": "励磁機",
+    "yomi": "れいじ‐き",
+    "link": "/word/%E5%8A%B1%E7%A3%81%E6%A9%9F/#jn-234177"
+  },
+  {
+    "kotoba": "例時作法",
+    "yomi": "れいじ‐さほう",
+    "link": "/word/%E4%BE%8B%E6%99%82%E4%BD%9C%E6%B3%95/#jn-234179"
+  },
+  {
+    "kotoba": "例時懺法",
+    "yomi": "れいじ‐せんぼう",
+    "link": "/word/%E4%BE%8B%E6%99%82%E6%87%BA%E6%B3%95/#jn-234182"
+  },
+  {
+    "kotoba": "例日",
+    "yomi": "れい‐じつ",
+    "link": "/word/%E4%BE%8B%E6%97%A5/#jn-234186"
+  },
+  {
+    "kotoba": "麗日",
+    "yomi": "れい‐じつ",
+    "link": "/word/%E9%BA%97%E6%97%A5/#jn-234187"
+  },
+  {
+    "kotoba": "励磁電流",
+    "yomi": "れいじ‐でんりゅう",
+    "link": "/word/%E5%8A%B1%E7%A3%81%E9%9B%BB%E6%B5%81/#jn-234189"
+  },
+  {
+    "kotoba": "霊獣",
+    "yomi": "れい‐じゅう",
+    "link": "/word/%E9%9C%8A%E7%8D%A3/#jn-234199"
+  },
+  {
+    "kotoba": "隷従",
+    "yomi": "れい‐じゅう",
+    "link": "/word/%E9%9A%B7%E5%BE%93/#jn-234200"
+  },
+  {
+    "kotoba": "令状",
+    "yomi": "れい‐じょう",
+    "link": "/word/%E4%BB%A4%E7%8A%B6/#jn-234208"
+  },
+  {
+    "kotoba": "令嬢",
+    "yomi": "れい‐じょう",
+    "link": "/word/%E4%BB%A4%E5%AC%A2/#jn-234209"
+  },
+  {
+    "kotoba": "礼状",
+    "yomi": "れい‐じょう",
+    "link": "/word/%E7%A4%BC%E7%8A%B6/#jn-234210"
+  },
+  {
+    "kotoba": "礼譲",
+    "yomi": "れい‐じょう",
+    "link": "/word/%E7%A4%BC%E8%AD%B2/#jn-234211"
+  },
+  {
+    "kotoba": "霊場",
+    "yomi": "れい‐じょう",
+    "link": "/word/%E9%9C%8A%E5%A0%B4/#jn-234212"
+  },
+  {
+    "kotoba": "藜杖",
+    "yomi": "れい‐じょう",
+    "link": "/word/%E8%97%9C%E6%9D%96/#jn-234213"
+  },
+  {
+    "kotoba": "令状主義",
+    "yomi": "れいじょう‐しゅぎ",
+    "link": "/word/%E4%BB%A4%E7%8A%B6%E4%B8%BB%E7%BE%A9/#jn-234214"
+  },
+  {
+    "kotoba": "伶人",
+    "yomi": "れい‐じん",
+    "link": "/word/%E4%BC%B6%E4%BA%BA/#jn-234223"
+  },
+  {
+    "kotoba": "麗人",
+    "yomi": "れい‐じん",
+    "link": "/word/%E9%BA%97%E4%BA%BA/#jn-234225"
+  },
+  {
+    "kotoba": "伶人草",
+    "yomi": "れいじん‐そう",
+    "link": "/word/%E4%BC%B6%E4%BA%BA%E8%8D%89/#jn-234226"
+  },
+  {
+    "kotoba": "冷水",
+    "yomi": "れい‐すい",
+    "link": "/word/%E5%86%B7%E6%B0%B4_%28%E3%82%8C%E3%81%84%E3%81%99%E3%81%84%29/#jn-234227"
+  },
+  {
+    "kotoba": "霊水",
+    "yomi": "れい‐すい",
+    "link": "/word/%E9%9C%8A%E6%B0%B4/#jn-234228"
+  },
+  {
+    "kotoba": "冷水域",
+    "yomi": "れいすい‐いき",
+    "link": "/word/%E5%86%B7%E6%B0%B4%E5%9F%9F/#jn-234230"
+  },
+  {
+    "kotoba": "冷水渦",
+    "yomi": "れいすい‐うず",
+    "link": "/word/%E5%86%B7%E6%B0%B4%E6%B8%A6/#jn-260040"
+  },
+  {
+    "kotoba": "冷水塊",
+    "yomi": "れいすい‐かい",
+    "link": "/word/%E5%86%B7%E6%B0%B4%E5%A1%8A/#jn-234231"
+  },
+  {
+    "kotoba": "冷水病",
+    "yomi": "れいすい‐びょう",
+    "link": "/word/%E5%86%B7%E6%B0%B4%E7%97%85/#jn-248715"
+  },
+  {
+    "kotoba": "冷水摩擦",
+    "yomi": "れいすい‐まさつ",
+    "link": "/word/%E5%86%B7%E6%B0%B4%E6%91%A9%E6%93%A6/#jn-234232"
+  },
+  {
+    "kotoba": "冷水浴",
+    "yomi": "れいすい‐よく",
+    "link": "/word/%E5%86%B7%E6%B0%B4%E6%B5%B4/#jn-234233"
+  },
+  {
+    "kotoba": "霊瑞",
+    "yomi": "れい‐ずい",
+    "link": "/word/%E9%9C%8A%E7%91%9E/#jn-234229"
+  },
+  {
+    "kotoba": "令婿",
+    "yomi": "れい‐せい",
+    "link": "/word/%E4%BB%A4%E5%A9%BF/#jn-234238"
+  },
+  {
+    "kotoba": "冷製",
+    "yomi": "れい‐せい",
+    "link": "/word/%E5%86%B7%E8%A3%BD/#jn-234239"
+  },
+  {
+    "kotoba": "冷静",
+    "yomi": "れい‐せい",
+    "link": "/word/%E5%86%B7%E9%9D%99/#jn-234241"
+  },
+  {
+    "kotoba": "励声",
+    "yomi": "れい‐せい",
+    "link": "/word/%E5%8A%B1%E5%A3%B0/#jn-234240"
+  },
+  {
+    "kotoba": "励精",
+    "yomi": "れい‐せい",
+    "link": "/word/%E5%8A%B1%E7%B2%BE/#jn-234242"
+  },
+  {
+    "kotoba": "霊跡",
+    "yomi": "れい‐せき",
+    "link": "/word/%E9%9C%8A%E8%B7%A1/#jn-234251"
+  },
+  {
+    "kotoba": "礼節",
+    "yomi": "れい‐せつ",
+    "link": "/word/%E7%A4%BC%E7%AF%80/#jn-234252"
+  },
+  {
+    "kotoba": "例説",
+    "yomi": "れい‐せつ",
+    "link": "/word/%E4%BE%8B%E8%AA%AC/#jn-234253"
+  },
+  {
+    "kotoba": "礼銭",
+    "yomi": "れい‐せん",
+    "link": "/word/%E7%A4%BC%E9%8A%AD/#jn-234254"
+  },
+  {
+    "kotoba": "冷泉",
+    "yomi": "れい‐せん",
+    "link": "/word/%E5%86%B7%E6%B3%89_%28%E3%82%8C%E3%81%84%E3%81%9B%E3%82%93%29/#jn-234255"
+  },
+  {
+    "kotoba": "冷戦",
+    "yomi": "れい‐せん",
+    "link": "/word/%E5%86%B7%E6%88%A6/#jn-234256"
+  },
+  {
+    "kotoba": "霊泉",
+    "yomi": "れい‐せん",
+    "link": "/word/%E9%9C%8A%E6%B3%89/#jn-234257"
+  },
+  {
+    "kotoba": "醴泉",
+    "yomi": "れい‐せん",
+    "link": "/word/%E9%86%B4%E6%B3%89/#jn-234258"
+  },
+  {
+    "kotoba": "零戦",
+    "yomi": "れい‐せん",
+    "link": "/word/%E9%9B%B6%E6%88%A6/#jn-264850"
+  },
+  {
+    "kotoba": "冷染染料",
+    "yomi": "れいせん‐せんりょう",
+    "link": "/word/%E5%86%B7%E6%9F%93%E6%9F%93%E6%96%99/#jn-234261"
+  },
+  {
+    "kotoba": "冷泉",
+    "yomi": "れいぜい",
+    "link": "/word/%E5%86%B7%E6%B3%89_%28%E3%82%8C%E3%81%84%E3%81%9C%E3%81%84%29/#jn-234243"
+  },
+  {
+    "kotoba": "冷泉",
+    "yomi": "れいぜい",
+    "link": "/word/%E5%86%B7%E6%B3%89_%28%E3%82%8C%E3%81%84%E3%81%9C%E3%81%84%29/#jn-234244"
+  },
+  {
+    "kotoba": "冷泉院",
+    "yomi": "れいぜい‐いん",
+    "link": "/word/person/%E5%86%B7%E6%B3%89%E9%99%A2/#jn-234245"
+  },
+  {
+    "kotoba": "冷泉為相",
+    "yomi": "れいぜい‐ためすけ",
+    "link": "/word/person/%E5%86%B7%E6%B3%89%E7%82%BA%E7%9B%B8/#jn-234246"
+  },
+  {
+    "kotoba": "冷泉為村",
+    "yomi": "れいぜい‐ためむら",
+    "link": "/word/person/%E5%86%B7%E6%B3%89%E7%82%BA%E6%9D%91/#jn-234247"
+  },
+  {
+    "kotoba": "冷泉天皇",
+    "yomi": "れいぜい‐てんのう",
+    "link": "/word/person/%E5%86%B7%E6%B3%89%E5%A4%A9%E7%9A%87/#jn-234248"
+  },
+  {
+    "kotoba": "冷泉富小路殿",
+    "yomi": "れいぜいとみのこうじ‐どの",
+    "link": "/word/%E5%86%B7%E6%B3%89%E5%AF%8C%E5%B0%8F%E8%B7%AF%E6%AE%BF/#jn-234249"
+  },
+  {
+    "kotoba": "冷泉派",
+    "yomi": "れいぜい‐は",
+    "link": "/word/%E5%86%B7%E6%B3%89%E6%B4%BE/#jn-234250"
+  },
+  {
+    "kotoba": "冷泉布美子",
+    "yomi": "れいぜい‐ふみこ",
+    "link": "/word/person/%E5%86%B7%E6%B3%89%E5%B8%83%E7%BE%8E%E5%AD%90/#jn-252961"
+  },
+  {
+    "kotoba": "霊前",
+    "yomi": "れい‐ぜん",
+    "link": "/word/%E9%9C%8A%E5%89%8D/#jn-234259"
+  },
+  {
+    "kotoba": "冷然",
+    "yomi": "れい‐ぜん",
+    "link": "/word/%E5%86%B7%E7%84%B6/#jn-234260"
+  },
+  {
+    "kotoba": "礼装",
+    "yomi": "れい‐そう",
+    "link": "/word/%E7%A4%BC%E8%A3%85/#jn-234262"
+  },
+  {
+    "kotoba": "霊草",
+    "yomi": "れい‐そう",
+    "link": "/word/%E9%9C%8A%E8%8D%89/#jn-234263"
+  },
+  {
+    "kotoba": "令息",
+    "yomi": "れい‐そく",
+    "link": "/word/%E4%BB%A4%E6%81%AF/#jn-234267"
+  },
+  {
+    "kotoba": "令孫",
+    "yomi": "れい‐そん",
+    "link": "/word/%E4%BB%A4%E5%AD%AB/#jn-234270"
+  },
+  {
+    "kotoba": "令尊",
+    "yomi": "れい‐そん",
+    "link": "/word/%E4%BB%A4%E5%B0%8A/#jn-234271"
+  },
+  {
+    "kotoba": "例損",
+    "yomi": "れい‐そん",
+    "link": "/word/%E4%BE%8B%E6%90%8D/#jn-234272"
+  },
+  {
+    "kotoba": "冷蔵",
+    "yomi": "れい‐ぞう",
+    "link": "/word/%E5%86%B7%E8%94%B5/#jn-234264"
+  },
+  {
+    "kotoba": "霊像",
+    "yomi": "れい‐ぞう",
+    "link": "/word/%E9%9C%8A%E5%83%8F/#jn-234265"
+  },
+  {
+    "kotoba": "冷蔵庫",
+    "yomi": "れいぞう‐こ",
+    "link": "/word/%E5%86%B7%E8%94%B5%E5%BA%AB/#jn-234266"
+  },
+  {
+    "kotoba": "隷属",
+    "yomi": "れい‐ぞく",
+    "link": "/word/%E9%9A%B7%E5%B1%9E/#jn-234268"
+  },
+  {
+    "kotoba": "冷帯",
+    "yomi": "れい‐たい",
+    "link": "/word/%E5%86%B7%E5%B8%AF/#jn-234273"
+  },
+  {
+    "kotoba": "冷態",
+    "yomi": "れい‐たい",
+    "link": "/word/%E5%86%B7%E6%85%8B/#jn-252962"
+  },
+  {
+    "kotoba": "冷帯夏雨気候",
+    "yomi": "れいたいかう‐きこう",
+    "link": "/word/%E5%86%B7%E5%B8%AF%E5%A4%8F%E9%9B%A8%E6%B0%97%E5%80%99/#jn-260042"
+  },
+  {
+    "kotoba": "冷帯気候",
+    "yomi": "れいたい‐きこう",
+    "link": "/word/%E5%86%B7%E5%B8%AF%E6%B0%97%E5%80%99/#jn-260043"
+  },
+  {
+    "kotoba": "例大祭",
+    "yomi": "れい‐たいさい",
+    "link": "/word/%E4%BE%8B%E5%A4%A7%E7%A5%AD/#jn-234276"
+  },
+  {
+    "kotoba": "冷帯湿潤気候",
+    "yomi": "れいたいしつじゅん‐きこう",
+    "link": "/word/%E5%86%B7%E5%B8%AF%E6%B9%BF%E6%BD%A4%E6%B0%97%E5%80%99/#jn-260044"
+  },
+  {
+    "kotoba": "冷態停止",
+    "yomi": "れいたい‐ていし",
+    "link": "/word/%E5%86%B7%E6%85%8B%E5%81%9C%E6%AD%A2/#jn-252963"
+  },
+  {
+    "kotoba": "冷帯冬季少雨気候",
+    "yomi": "れいたいとうきしょう‐きこう",
+    "link": "/word/%E5%86%B7%E5%B8%AF%E5%86%AC%E5%AD%A3%E5%B0%91%E9%9B%A8%E6%B0%97%E5%80%99/#jn-260045"
+  },
+  {
+    "kotoba": "麗沢",
+    "yomi": "れい‐たく",
+    "link": "/word/%E9%BA%97%E6%B2%A2/#jn-234278"
+  },
+  {
+    "kotoba": "麗沢大学",
+    "yomi": "れいたく‐だいがく",
+    "link": "/word/%E9%BA%97%E6%B2%A2%E5%A4%A7%E5%AD%A6/#jn-248716"
+  },
+  {
+    "kotoba": "令達",
+    "yomi": "れい‐たつ",
+    "link": "/word/%E4%BB%A4%E9%81%94/#jn-234279"
+  },
+  {
+    "kotoba": "冷淡",
+    "yomi": "れい‐たん",
+    "link": "/word/%E5%86%B7%E6%B7%A1/#jn-234280"
+  },
+  {
+    "kotoba": "例題",
+    "yomi": "れい‐だい",
+    "link": "/word/%E4%BE%8B%E9%A1%8C/#jn-234274"
+  },
+  {
+    "kotoba": "霊台",
+    "yomi": "れい‐だい",
+    "link": "/word/%E9%9C%8A%E5%8F%B0/#jn-234275"
+  },
+  {
+    "kotoba": "霊台郎",
+    "yomi": "れいだい‐ろう",
+    "link": "/word/%E9%9C%8A%E5%8F%B0%E9%83%8E/#jn-234277"
+  },
+  {
+    "kotoba": "冷暖",
+    "yomi": "れい‐だん",
+    "link": "/word/%E5%86%B7%E6%9A%96/#jn-234281"
+  },
+  {
+    "kotoba": "冷暖自知",
+    "yomi": "れいだん‐じち",
+    "link": "/word/%E5%86%B7%E6%9A%96%E8%87%AA%E7%9F%A5/#jn-234282"
+  },
+  {
+    "kotoba": "冷暖房",
+    "yomi": "れいだん‐ぼう",
+    "link": "/word/%E5%86%B7%E6%9A%96%E6%88%BF/#jn-234283"
+  },
+  {
+    "kotoba": "霊地",
+    "yomi": "れい‐ち",
+    "link": "/word/%E9%9C%8A%E5%9C%B0/#jn-234284"
+  },
+  {
+    "kotoba": "霊知",
+    "yomi": "れい‐ち",
+    "link": "/word/%E9%9C%8A%E7%9F%A5/#jn-234285"
+  },
+  {
+    "kotoba": "冷中性子",
+    "yomi": "れい‐ちゅうせいし",
+    "link": "/word/%E5%86%B7%E4%B8%AD%E6%80%A7%E5%AD%90/#jn-286378"
+  },
+  {
+    "kotoba": "冷嘲",
+    "yomi": "れい‐ちょう",
+    "link": "/word/%E5%86%B7%E5%98%B2/#jn-234286"
+  },
+  {
+    "kotoba": "霊長",
+    "yomi": "れい‐ちょう",
+    "link": "/word/%E9%9C%8A%E9%95%B7/#jn-234287"
+  },
+  {
+    "kotoba": "霊鳥",
+    "yomi": "れい‐ちょう",
+    "link": "/word/%E9%9C%8A%E9%B3%A5/#jn-234288"
+  },
+  {
+    "kotoba": "霊寵",
+    "yomi": "れい‐ちょう",
+    "link": "/word/%E9%9C%8A%E5%AF%B5/#jn-234289"
+  },
+  {
+    "kotoba": "黎朝",
+    "yomi": "れい‐ちょう",
+    "link": "/word/%E9%BB%8E%E6%9C%9D/#jn-234290"
+  },
+  {
+    "kotoba": "霊長目",
+    "yomi": "れいちょう‐もく",
+    "link": "/word/%E9%9C%8A%E9%95%B7%E7%9B%AE/#jn-274660"
+  },
+  {
+    "kotoba": "霊長類",
+    "yomi": "れいちょう‐るい",
+    "link": "/word/%E9%9C%8A%E9%95%B7%E9%A1%9E/#jn-234291"
+  },
+  {
+    "kotoba": "令弟",
+    "yomi": "れい‐てい",
+    "link": "/word/%E4%BB%A4%E5%BC%9F/#jn-234292"
+  },
+  {
+    "kotoba": "零丁",
+    "yomi": "れい‐てい",
+    "link": "/word/%E9%9B%B6%E4%B8%81/#jn-234293"
+  },
+  {
+    "kotoba": "霊的",
+    "yomi": "れい‐てき",
+    "link": "/word/%E9%9C%8A%E7%9A%84/#jn-234294"
+  },
+  {
+    "kotoba": "霊的交感",
+    "yomi": "れいてき‐こうかん",
+    "link": "/word/%E9%9C%8A%E7%9A%84%E4%BA%A4%E6%84%9F/#jn-234295"
+  },
+  {
+    "kotoba": "冷徹",
+    "yomi": "れい‐てつ",
+    "link": "/word/%E5%86%B7%E5%BE%B9/#jn-234296"
+  },
+  {
+    "kotoba": "礼典",
+    "yomi": "れい‐てん",
+    "link": "/word/%E7%A4%BC%E5%85%B8/#jn-234298"
+  },
+  {
+    "kotoba": "礼奠",
+    "yomi": "れい‐てん",
+    "link": "/word/%E7%A4%BC%E5%A5%A0/#jn-234299"
+  },
+  {
+    "kotoba": "冷点",
+    "yomi": "れい‐てん",
+    "link": "/word/%E5%86%B7%E7%82%B9/#jn-234300"
+  },
+  {
+    "kotoba": "例典",
+    "yomi": "れい‐てん",
+    "link": "/word/%E4%BE%8B%E5%85%B8/#jn-234301"
+  },
+  {
+    "kotoba": "零点",
+    "yomi": "れい‐てん",
+    "link": "/word/%E9%9B%B6%E7%82%B9/#jn-234302"
+  },
+  {
+    "kotoba": "釐等具",
+    "yomi": "れいてん‐ぐ",
+    "link": "/word/%E9%87%90%E7%AD%89%E5%85%B7/#jn-234305"
+  },
+  {
+    "kotoba": "零点振動",
+    "yomi": "れいてん‐しんどう",
+    "link": "/word/%E9%9B%B6%E7%82%B9%E6%8C%AF%E5%8B%95/#jn-288286"
+  },
+  {
+    "kotoba": "霊殿",
+    "yomi": "れい‐でん",
+    "link": "/word/%E9%9C%8A%E6%AE%BF_%28%E3%82%8C%E3%81%84%E3%81%A7%E3%82%93%29/#jn-234303"
+  },
+  {
+    "kotoba": "冷凍",
+    "yomi": "れい‐とう",
+    "link": "/word/%E5%86%B7%E5%87%8D/#jn-234310"
+  },
+  {
+    "kotoba": "霊湯",
+    "yomi": "れい‐とう",
+    "link": "/word/%E9%9C%8A%E6%B9%AF/#jn-234311"
+  },
+  {
+    "kotoba": "冷凍機",
+    "yomi": "れいとう‐き",
+    "link": "/word/%E5%86%B7%E5%87%8D%E6%A9%9F/#jn-234315"
+  },
+  {
+    "kotoba": "冷凍魚",
+    "yomi": "れいとう‐ぎょ",
+    "link": "/word/%E5%86%B7%E5%87%8D%E9%AD%9A/#jn-234316"
+  },
+  {
+    "kotoba": "冷凍庫",
+    "yomi": "れいとう‐こ",
+    "link": "/word/%E5%86%B7%E5%87%8D%E5%BA%AB/#jn-234317"
+  },
+  {
+    "kotoba": "冷凍焼灼",
+    "yomi": "れいとう‐しょうしゃく",
+    "link": "/word/%E5%86%B7%E5%87%8D%E7%84%BC%E7%81%BC/#jn-290289"
+  },
+  {
+    "kotoba": "冷凍食品",
+    "yomi": "れいとう‐しょくひん",
+    "link": "/word/%E5%86%B7%E5%87%8D%E9%A3%9F%E5%93%81/#jn-234318"
+  },
+  {
+    "kotoba": "冷凍動物園",
+    "yomi": "れいとう‐どうぶつえん",
+    "link": "/word/%E5%86%B7%E5%87%8D%E5%8B%95%E7%89%A9%E5%9C%92/#jn-278479"
+  },
+  {
+    "kotoba": "冷凍包丁",
+    "yomi": "れいとう‐ぼうちょう",
+    "link": "/word/%E5%86%B7%E5%87%8D%E5%8C%85%E4%B8%81/#jn-276647"
+  },
+  {
+    "kotoba": "冷凍麻酔",
+    "yomi": "れいとう‐ますい",
+    "link": "/word/%E5%86%B7%E5%87%8D%E9%BA%BB%E9%85%94/#jn-234319"
+  },
+  {
+    "kotoba": "冷凍蜜柑",
+    "yomi": "れいとう‐みかん",
+    "link": "/word/%E5%86%B7%E5%87%8D%E8%9C%9C%E6%9F%91/#jn-274661"
+  },
+  {
+    "kotoba": "令徳",
+    "yomi": "れい‐とく",
+    "link": "/word/%E4%BB%A4%E5%BE%B3/#jn-234322"
+  },
+  {
+    "kotoba": "霊徳",
+    "yomi": "れい‐とく",
+    "link": "/word/%E9%9C%8A%E5%BE%B3/#jn-234323"
+  },
+  {
+    "kotoba": "零度",
+    "yomi": "れい‐ど",
+    "link": "/word/%E9%9B%B6%E5%BA%A6/#jn-234308"
+  },
+  {
+    "kotoba": "令堂",
+    "yomi": "れい‐どう",
+    "link": "/word/%E4%BB%A4%E5%A0%82/#jn-234312"
+  },
+  {
+    "kotoba": "戻道",
+    "yomi": "れい‐どう",
+    "link": "/word/%E6%88%BB%E9%81%93/#jn-234314"
+  },
+  {
+    "kotoba": "霊堂",
+    "yomi": "れい‐どう",
+    "link": "/word/%E9%9C%8A%E5%A0%82/#jn-234313"
+  },
+  {
+    "kotoba": "嶺南",
+    "yomi": "れい‐なん",
+    "link": "/word/%E5%B6%BA%E5%8D%97/#jn-264852"
+  },
+  {
+    "kotoba": "冷肉",
+    "yomi": "れい‐にく",
+    "link": "/word/%E5%86%B7%E8%82%89/#jn-234328"
+  },
+  {
+    "kotoba": "霊肉",
+    "yomi": "れい‐にく",
+    "link": "/word/%E9%9C%8A%E8%82%89/#jn-234329"
+  },
+  {
+    "kotoba": "戻入",
+    "yomi": "れい‐にゅう",
+    "link": "/word/%E6%88%BB%E5%85%A5/#jn-244823"
+  },
+  {
+    "kotoba": "冷熱",
+    "yomi": "れい‐ねつ",
+    "link": "/word/%E5%86%B7%E7%86%B1/#jn-234330"
+  },
+  {
+    "kotoba": "例年",
+    "yomi": "れい‐ねん",
+    "link": "/word/%E4%BE%8B%E5%B9%B4/#jn-234331"
+  },
+  {
+    "kotoba": "隷農",
+    "yomi": "れい‐のう",
+    "link": "/word/%E9%9A%B7%E8%BE%B2/#jn-234332"
+  },
+  {
+    "kotoba": "霊能者",
+    "yomi": "れいのう‐しゃ",
+    "link": "/word/%E9%9C%8A%E8%83%BD%E8%80%85/#jn-234333"
+  },
+  {
+    "kotoba": "礼拝",
+    "yomi": "れい‐はい",
+    "link": "/word/%E7%A4%BC%E6%8B%9D_%28%E3%82%8C%E3%81%84%E3%81%AF%E3%81%84%29/#jn-234340"
+  },
+  {
+    "kotoba": "零敗",
+    "yomi": "れい‐はい",
+    "link": "/word/%E9%9B%B6%E6%95%97/#jn-234341"
+  },
+  {
+    "kotoba": "霊牌",
+    "yomi": "れい‐はい",
+    "link": "/word/%E9%9C%8A%E7%89%8C/#jn-234342"
+  },
+  {
+    "kotoba": "礼拝所不敬罪",
+    "yomi": "れいはいじょ‐ふけいざい",
+    "link": "/word/%E7%A4%BC%E6%8B%9D%E6%89%80%E4%B8%8D%E6%95%AC%E7%BD%AA/#jn-234346"
+  },
+  {
+    "kotoba": "礼拝堂",
+    "yomi": "れいはい‐どう",
+    "link": "/word/%E7%A4%BC%E6%8B%9D%E5%A0%82_%28%E3%82%8C%E3%81%84%E3%81%AF%E3%81%84%E3%81%A9%E3%81%86%29/#jn-234347"
+  },
+  {
+    "kotoba": "礼場",
+    "yomi": "れい‐ば",
+    "link": "/word/%E7%A4%BC%E5%A0%B4/#jn-234338"
+  },
+  {
+    "kotoba": "冷罵",
+    "yomi": "れい‐ば",
+    "link": "/word/%E5%86%B7%E7%BD%B5/#jn-234339"
+  },
+  {
+    "kotoba": "冷媒",
+    "yomi": "れい‐ばい",
+    "link": "/word/%E5%86%B7%E5%AA%92/#jn-234343"
+  },
+  {
+    "kotoba": "霊媒",
+    "yomi": "れい‐ばい",
+    "link": "/word/%E9%9C%8A%E5%AA%92/#jn-234344"
+  },
+  {
+    "kotoba": "霊媒術",
+    "yomi": "れいばい‐じゅつ",
+    "link": "/word/%E9%9C%8A%E5%AA%92%E8%A1%93/#jn-234345"
+  },
+  {
+    "kotoba": "麗筆",
+    "yomi": "れい‐ひつ",
+    "link": "/word/%E9%BA%97%E7%AD%86/#jn-234349"
+  },
+  {
+    "kotoba": "冷評",
+    "yomi": "れい‐ひょう",
+    "link": "/word/%E5%86%B7%E8%A9%95/#jn-234351"
+  },
+  {
+    "kotoba": "澪標",
+    "yomi": "れい‐ひょう",
+    "link": "/word/%E6%BE%AA%E6%A8%99_%28%E3%82%8C%E3%81%84%E3%81%B2%E3%82%87%E3%81%86%29/#jn-234352"
+  },
+  {
+    "kotoba": "例人",
+    "yomi": "れい‐びと",
+    "link": "/word/%E4%BE%8B%E4%BA%BA/#jn-234350"
+  },
+  {
+    "kotoba": "霊猫",
+    "yomi": "れい‐びょう",
+    "link": "/word/%E9%9C%8A%E7%8C%AB/#jn-234353"
+  },
+  {
+    "kotoba": "霊廟",
+    "yomi": "れい‐びょう",
+    "link": "/word/%E9%9C%8A%E5%BB%9F/#jn-234354"
+  },
+  {
+    "kotoba": "霊府",
+    "yomi": "れい‐ふ",
+    "link": "/word/%E9%9C%8A%E5%BA%9C/#jn-234355"
+  },
+  {
+    "kotoba": "霊符",
+    "yomi": "れい‐ふ",
+    "link": "/word/%E9%9C%8A%E7%AC%A6/#jn-234356"
+  },
+  {
+    "kotoba": "冷風",
+    "yomi": "れい‐ふう",
+    "link": "/word/%E5%86%B7%E9%A2%A8/#jn-234359"
+  },
+  {
+    "kotoba": "零封",
+    "yomi": "れい‐ふう",
+    "link": "/word/%E9%9B%B6%E5%B0%81/#jn-255654"
+  },
+  {
+    "kotoba": "礼服",
+    "yomi": "れい‐ふく",
+    "link": "/word/%E7%A4%BC%E6%9C%8D_%28%E3%82%8C%E3%81%84%E3%81%B5%E3%81%8F%29/#jn-234360"
+  },
+  {
+    "kotoba": "令夫人",
+    "yomi": "れい‐ふじん",
+    "link": "/word/%E4%BB%A4%E5%A4%AB%E4%BA%BA/#jn-234362"
+  },
+  {
+    "kotoba": "霊氛",
+    "yomi": "れい‐ふん",
+    "link": "/word/%E9%9C%8A%E6%B0%9B/#jn-234366"
+  },
+  {
+    "kotoba": "礼部",
+    "yomi": "れい‐ぶ",
+    "link": "/word/%E7%A4%BC%E9%83%A8/#jn-234357"
+  },
+  {
+    "kotoba": "礼部省",
+    "yomi": "れいぶ‐しょう",
+    "link": "/word/%E7%A4%BC%E9%83%A8%E7%9C%81/#jn-234361"
+  },
+  {
+    "kotoba": "礼物",
+    "yomi": "れい‐ぶつ",
+    "link": "/word/%E7%A4%BC%E7%89%A9_%28%E3%82%8C%E3%81%84%E3%81%B6%E3%81%A4%29/#jn-234363"
+  },
+  {
+    "kotoba": "霊仏",
+    "yomi": "れい‐ぶつ",
+    "link": "/word/%E9%9C%8A%E4%BB%8F/#jn-234364"
+  },
+  {
+    "kotoba": "霊物",
+    "yomi": "れい‐ぶつ",
+    "link": "/word/%E9%9C%8A%E7%89%A9/#jn-234365"
+  },
+  {
+    "kotoba": "令聞",
+    "yomi": "れい‐ぶん",
+    "link": "/word/%E4%BB%A4%E8%81%9E/#jn-234367"
+  },
+  {
+    "kotoba": "例文",
+    "yomi": "れい‐ぶん",
+    "link": "/word/%E4%BE%8B%E6%96%87/#jn-234368"
+  },
+  {
+    "kotoba": "礼聘",
+    "yomi": "れい‐へい",
+    "link": "/word/%E7%A4%BC%E8%81%98/#jn-234369"
+  },
+  {
+    "kotoba": "例幣",
+    "yomi": "れい‐へい",
+    "link": "/word/%E4%BE%8B%E5%B9%A3/#jn-234370"
+  },
+  {
+    "kotoba": "例幣使",
+    "yomi": "れいへい‐し",
+    "link": "/word/%E4%BE%8B%E5%B9%A3%E4%BD%BF/#jn-234371"
+  },
+  {
+    "kotoba": "礼法",
+    "yomi": "れい‐ほう",
+    "link": "/word/%E7%A4%BC%E6%B3%95/#jn-234374"
+  },
+  {
+    "kotoba": "礼砲",
+    "yomi": "れい‐ほう",
+    "link": "/word/%E7%A4%BC%E7%A0%B2/#jn-234375"
+  },
+  {
+    "kotoba": "霊宝",
+    "yomi": "れい‐ほう",
+    "link": "/word/%E9%9C%8A%E5%AE%9D/#jn-234376"
+  },
+  {
+    "kotoba": "霊峰",
+    "yomi": "れい‐ほう",
+    "link": "/word/%E9%9C%8A%E5%B3%B0/#jn-234377"
+  },
+  {
+    "kotoba": "嶺北",
+    "yomi": "れい‐ほく",
+    "link": "/word/%E5%B6%BA%E5%8C%97/#jn-264853"
+  },
+  {
+    "kotoba": "零本",
+    "yomi": "れい‐ほん",
+    "link": "/word/%E9%9B%B6%E6%9C%AC/#jn-234388"
+  },
+  {
+    "kotoba": "令母",
+    "yomi": "れい‐ぼ",
+    "link": "/word/%E4%BB%A4%E6%AF%8D/#jn-234372"
+  },
+  {
+    "kotoba": "鈴慕",
+    "yomi": "れいぼ",
+    "link": "/word/%E9%88%B4%E6%85%95/#jn-234373"
+  },
+  {
+    "kotoba": "令望",
+    "yomi": "れい‐ぼう",
+    "link": "/word/%E4%BB%A4%E6%9C%9B/#jn-234378"
+  },
+  {
+    "kotoba": "礼帽",
+    "yomi": "れい‐ぼう",
+    "link": "/word/%E7%A4%BC%E5%B8%BD/#jn-234379"
+  },
+  {
+    "kotoba": "冷房",
+    "yomi": "れい‐ぼう",
+    "link": "/word/%E5%86%B7%E6%88%BF/#jn-234380"
+  },
+  {
+    "kotoba": "礼奉公",
+    "yomi": "れい‐ぼうこう",
+    "link": "/word/%E7%A4%BC%E5%A5%89%E5%85%AC/#jn-234381"
+  },
+  {
+    "kotoba": "冷房装置",
+    "yomi": "れいぼう‐そうち",
+    "link": "/word/%E5%86%B7%E6%88%BF%E8%A3%85%E7%BD%AE/#jn-234382"
+  },
+  {
+    "kotoba": "冷房病",
+    "yomi": "れいぼう‐びょう",
+    "link": "/word/%E5%86%B7%E6%88%BF%E7%97%85/#jn-234383"
+  },
+  {
+    "kotoba": "零墨",
+    "yomi": "れい‐ぼく",
+    "link": "/word/%E9%9B%B6%E5%A2%A8/#jn-234384"
+  },
+  {
+    "kotoba": "霊木",
+    "yomi": "れい‐ぼく",
+    "link": "/word/%E9%9C%8A%E6%9C%A8/#jn-234385"
+  },
+  {
+    "kotoba": "隷僕",
+    "yomi": "れい‐ぼく",
+    "link": "/word/%E9%9A%B7%E5%83%95/#jn-234386"
+  },
+  {
+    "kotoba": "令妹",
+    "yomi": "れい‐まい",
+    "link": "/word/%E4%BB%A4%E5%A6%B9/#jn-234389"
+  },
+  {
+    "kotoba": "霊妙",
+    "yomi": "れい‐みょう",
+    "link": "/word/%E9%9C%8A%E5%A6%99/#jn-234394"
+  },
+  {
+    "kotoba": "黎民",
+    "yomi": "れい‐みん",
+    "link": "/word/%E9%BB%8E%E6%B0%91/#jn-234395"
+  },
+  {
+    "kotoba": "霊夢",
+    "yomi": "れい‐む",
+    "link": "/word/%E9%9C%8A%E5%A4%A2/#jn-234396"
+  },
+  {
+    "kotoba": "令名",
+    "yomi": "れい‐めい",
+    "link": "/word/%E4%BB%A4%E5%90%8D/#jn-234398"
+  },
+  {
+    "kotoba": "黎明",
+    "yomi": "れい‐めい",
+    "link": "/word/%E9%BB%8E%E6%98%8E/#jn-234399"
+  },
+  {
+    "kotoba": "黎明会",
+    "yomi": "れいめい‐かい",
+    "link": "/word/%E9%BB%8E%E6%98%8E%E4%BC%9A/#jn-234400"
+  },
+  {
+    "kotoba": "黎明期",
+    "yomi": "れいめい‐き",
+    "link": "/word/%E9%BB%8E%E6%98%8E%E6%9C%9F/#jn-234401"
+  },
+  {
+    "kotoba": "冷麺",
+    "yomi": "れい‐めん",
+    "link": "/word/%E5%86%B7%E9%BA%BA/#jn-234402"
+  },
+  {
+    "kotoba": "翎毛画",
+    "yomi": "れいもう‐が",
+    "link": "/word/%E7%BF%8E%E6%AF%9B%E7%94%BB/#jn-234403"
+  },
+  {
+    "kotoba": "礼物",
+    "yomi": "れい‐もつ",
+    "link": "/word/%E7%A4%BC%E7%89%A9_%28%E3%82%8C%E3%81%84%E3%82%82%E3%81%A4%29/#jn-234405"
+  },
+  {
+    "kotoba": "霊物",
+    "yomi": "れい‐もつ",
+    "link": "/word/%E9%9C%8A%E7%89%A9/#jn-234406"
+  },
+  {
+    "kotoba": "霊薬",
+    "yomi": "れい‐やく",
+    "link": "/word/%E9%9C%8A%E8%96%AC/#jn-234413"
+  },
+  {
+    "kotoba": "怜野集",
+    "yomi": "れいやしゅう",
+    "link": "/word/%E6%80%9C%E9%87%8E%E9%9B%86/#jn-234414"
+  },
+  {
+    "kotoba": "霊友会",
+    "yomi": "れいゆう‐かい",
+    "link": "/word/%E9%9C%8A%E5%8F%8B%E4%BC%9A/#jn-234415"
+  },
+  {
+    "kotoba": "零余",
+    "yomi": "れい‐よ",
+    "link": "/word/%E9%9B%B6%E4%BD%99/#jn-234416"
+  },
+  {
+    "kotoba": "礼容",
+    "yomi": "れい‐よう",
+    "link": "/word/%E7%A4%BC%E5%AE%B9/#jn-234417"
+  },
+  {
+    "kotoba": "羚羊",
+    "yomi": "れい‐よう",
+    "link": "/word/%E7%BE%9A%E7%BE%8A/#jn-234418"
+  },
+  {
+    "kotoba": "麗容",
+    "yomi": "れい‐よう",
+    "link": "/word/%E9%BA%97%E5%AE%B9/#jn-234419"
+  },
+  {
+    "kotoba": "羚羊角",
+    "yomi": "れいよう‐かく",
+    "link": "/word/%E7%BE%9A%E7%BE%8A%E8%A7%92/#jn-234420"
+  },
+  {
+    "kotoba": "冷用酒",
+    "yomi": "れいよう‐しゅ",
+    "link": "/word/%E5%86%B7%E7%94%A8%E9%85%92/#jn-234421"
+  },
+  {
+    "kotoba": "零余子",
+    "yomi": "れいよ‐し",
+    "link": "/word/%E9%9B%B6%E4%BD%99%E5%AD%90_%28%E3%82%8C%E3%81%84%E3%82%88%E3%81%97%29/#jn-234422"
+  },
+  {
+    "kotoba": "零落",
+    "yomi": "れい‐らく",
+    "link": "/word/%E9%9B%B6%E8%90%BD/#jn-234425"
+  },
+  {
+    "kotoba": "零落",
+    "yomi": "れいらく",
+    "link": "/word/%E9%9B%B6%E8%90%BD/#jn-284423"
+  },
+  {
+    "kotoba": "怜悧",
+    "yomi": "れい‐り",
+    "link": "/word/%E6%80%9C%E6%82%A7/#jn-234426"
+  },
+  {
+    "kotoba": "冷涼",
+    "yomi": "れい‐りょう",
+    "link": "/word/%E5%86%B7%E6%B6%BC/#jn-234434"
+  },
+  {
+    "kotoba": "霊力",
+    "yomi": "れい‐りょく",
+    "link": "/word/%E9%9C%8A%E5%8A%9B/#jn-234435"
+  },
+  {
+    "kotoba": "玲玲",
+    "yomi": "れい‐れい",
+    "link": "/word/%E7%8E%B2%E7%8E%B2/#jn-234436"
+  },
+  {
+    "kotoba": "冷冷",
+    "yomi": "れい‐れい",
+    "link": "/word/%E5%86%B7%E5%86%B7/#jn-234437"
+  },
+  {
+    "kotoba": "麗麗",
+    "yomi": "れい‐れい",
+    "link": "/word/%E9%BA%97%E9%BA%97/#jn-234438"
+  },
+  {
+    "kotoba": "令郎",
+    "yomi": "れい‐ろう",
+    "link": "/word/%E4%BB%A4%E9%83%8E/#jn-234440"
+  },
+  {
+    "kotoba": "玲瓏",
+    "yomi": "れい‐ろう",
+    "link": "/word/%E7%8E%B2%E7%93%8F/#jn-234441"
+  },
+  {
+    "kotoba": "例話",
+    "yomi": "れい‐わ",
+    "link": "/word/%E4%BE%8B%E8%A9%B1/#jn-234442"
+  },
+  {
+    "kotoba": "令和",
+    "yomi": "れいわ",
+    "link": "/word/%E4%BB%A4%E5%92%8C/#jn-298830"
+  },
+  {
+    "kotoba": "霊腕",
+    "yomi": "れい‐わん",
+    "link": "/word/%E9%9C%8A%E8%85%95/#jn-234443"
+  },
+  {
+    "kotoba": "暦運",
+    "yomi": "れき‐うん",
+    "link": "/word/%E6%9A%A6%E9%81%8B/#jn-234582"
+  },
+  {
+    "kotoba": "暦応",
+    "yomi": "れきおう",
+    "link": "/word/%E6%9A%A6%E5%BF%9C/#jn-234583"
+  },
+  {
+    "kotoba": "暦家",
+    "yomi": "れき‐か",
+    "link": "/word/%E6%9A%A6%E5%AE%B6/#jn-234584"
+  },
+  {
+    "kotoba": "轢過",
+    "yomi": "れき‐か",
+    "link": "/word/%E8%BD%A2%E9%81%8E/#jn-248728"
+  },
+  {
+    "kotoba": "歴階",
+    "yomi": "れき‐かい",
+    "link": "/word/%E6%AD%B4%E9%9A%8E/#jn-234585"
+  },
+  {
+    "kotoba": "礫塊",
+    "yomi": "れき‐かい",
+    "link": "/word/%E7%A4%AB%E5%A1%8A/#jn-234586"
+  },
+  {
+    "kotoba": "暦学",
+    "yomi": "れき‐がく",
+    "link": "/word/%E6%9A%A6%E5%AD%A6/#jn-234587"
+  },
+  {
+    "kotoba": "礫岩",
+    "yomi": "れき‐がん",
+    "link": "/word/%E7%A4%AB%E5%B2%A9/#jn-234588"
+  },
+  {
+    "kotoba": "礫耕栽培",
+    "yomi": "れきこう‐さいばい",
+    "link": "/word/%E7%A4%AB%E8%80%95%E6%A0%BD%E5%9F%B9/#jn-234589"
+  },
+  {
+    "kotoba": "歴歳",
+    "yomi": "れき‐さい",
+    "link": "/word/%E6%AD%B4%E6%AD%B3/#jn-234590"
+  },
+  {
+    "kotoba": "轢殺",
+    "yomi": "れき‐さつ",
+    "link": "/word/%E8%BD%A2%E6%AE%BA/#jn-234591"
+  },
+  {
+    "kotoba": "礫砂漠",
+    "yomi": "れき‐さばく",
+    "link": "/word/%E7%A4%AB%E7%A0%82%E6%BC%A0/#jn-267362"
+  },
+  {
+    "kotoba": "歴山",
+    "yomi": "れき‐ざん",
+    "link": "/word/%E6%AD%B4%E5%B1%B1/#jn-234592"
+  },
+  {
+    "kotoba": "歴仕",
+    "yomi": "れき‐し",
+    "link": "/word/%E6%AD%B4%E4%BB%95/#jn-234593"
+  },
+  {
+    "kotoba": "歴史",
+    "yomi": "れき‐し",
+    "link": "/word/%E6%AD%B4%E5%8F%B2/#jn-234594"
+  },
+  {
+    "kotoba": "歴史",
+    "yomi": "れきし",
+    "link": "/word/%E6%AD%B4%E5%8F%B2/#jn-234596"
+  },
+  {
+    "kotoba": "轢死",
+    "yomi": "れき‐し",
+    "link": "/word/%E8%BD%A2%E6%AD%BB/#jn-234597"
+  },
+  {
+    "kotoba": "歴史家",
+    "yomi": "れきし‐か",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%AE%B6/#jn-234599"
+  },
+  {
+    "kotoba": "歴史科学",
+    "yomi": "れきし‐かがく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%A7%91%E5%AD%A6/#jn-234601"
+  },
+  {
+    "kotoba": "歴史観",
+    "yomi": "れきし‐かん",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E8%A6%B3/#jn-234604"
+  },
+  {
+    "kotoba": "歴史画",
+    "yomi": "れきし‐が",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%94%BB/#jn-234600"
+  },
+  {
+    "kotoba": "歴史学",
+    "yomi": "れきし‐がく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%AD%A6/#jn-234602"
+  },
+  {
+    "kotoba": "歴史学派",
+    "yomi": "れきし‐がくは",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%AD%A6%E6%B4%BE/#jn-234603"
+  },
+  {
+    "kotoba": "歴史劇",
+    "yomi": "れきし‐げき",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%8A%87/#jn-234605"
+  },
+  {
+    "kotoba": "歴史考古学",
+    "yomi": "れきし‐こうこがく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E8%80%83%E5%8F%A4%E5%AD%A6/#jn-234606"
+  },
+  {
+    "kotoba": "歴史公文書",
+    "yomi": "れきし‐こうぶんしょ",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%85%AC%E6%96%87%E6%9B%B8/#jn-270275"
+  },
+  {
+    "kotoba": "歴史材料科学",
+    "yomi": "れきし‐ざいりょうかがく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6/#jn-274665"
+  },
+  {
+    "kotoba": "歴史修正主義",
+    "yomi": "れきししゅうせい‐しゅぎ",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E4%BF%AE%E6%AD%A3%E4%B8%BB%E7%BE%A9/#jn-274666"
+  },
+  {
+    "kotoba": "歴史修正主義者",
+    "yomi": "れきししゅうせいしゅぎ‐しゃ",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E4%BF%AE%E6%AD%A3%E4%B8%BB%E7%BE%A9%E8%80%85/#jn-288294"
+  },
+  {
+    "kotoba": "歴史主義",
+    "yomi": "れきし‐しゅぎ",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E4%B8%BB%E7%BE%A9/#jn-234611"
+  },
+  {
+    "kotoba": "歴史小説",
+    "yomi": "れきし‐しょうせつ",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%B0%8F%E8%AA%AC/#jn-234612"
+  },
+  {
+    "kotoba": "歴史地震",
+    "yomi": "れきし‐じしん",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%9C%B0%E9%9C%87/#jn-267363"
+  },
+  {
+    "kotoba": "歴史時代",
+    "yomi": "れきし‐じだい",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E6%99%82%E4%BB%A3/#jn-234610"
+  },
+  {
+    "kotoba": "歴史地理学",
+    "yomi": "れきし‐ちりがく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%9C%B0%E7%90%86%E5%AD%A6/#jn-234613"
+  },
+  {
+    "kotoba": "歴史的",
+    "yomi": "れきし‐てき",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%9A%84/#jn-234616"
+  },
+  {
+    "kotoba": "歴史的景観権",
+    "yomi": "れきしてきけいかん‐けん",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%9A%84%E6%99%AF%E8%A6%B3%E6%A8%A9/#jn-244829"
+  },
+  {
+    "kotoba": "歴史的風土特別保存地区",
+    "yomi": "れきしてきふうど‐とくべつほぞんちく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%9A%84%E9%A2%A8%E5%9C%9F%E7%89%B9%E5%88%A5%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%8C%BA/#jn-234618"
+  },
+  {
+    "kotoba": "歴史的風土保存区域",
+    "yomi": "れきしてきふうど‐ほぞんくいき",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%9A%84%E9%A2%A8%E5%9C%9F%E4%BF%9D%E5%AD%98%E5%8C%BA%E5%9F%9F/#jn-234619"
+  },
+  {
+    "kotoba": "歴史的風土保存地区",
+    "yomi": "れきしてきふうど‐ほぞんちく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%9A%84%E9%A2%A8%E5%9C%9F%E4%BF%9D%E5%AD%98%E5%9C%B0%E5%8C%BA/#jn-234620"
+  },
+  {
+    "kotoba": "歴史哲学",
+    "yomi": "れきし‐てつがく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E5%93%B2%E5%AD%A6/#jn-234621"
+  },
+  {
+    "kotoba": "歴史派経済学派",
+    "yomi": "れきしはけいざいがく‐は",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E6%B4%BE%E7%B5%8C%E6%B8%88%E5%AD%A6%E6%B4%BE/#jn-234622"
+  },
+  {
+    "kotoba": "歴史文法",
+    "yomi": "れきし‐ぶんぽう",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E6%96%87%E6%B3%95/#jn-234623"
+  },
+  {
+    "kotoba": "歴史法学",
+    "yomi": "れきし‐ほうがく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E6%B3%95%E5%AD%A6/#jn-234624"
+  },
+  {
+    "kotoba": "歴史法則",
+    "yomi": "れきし‐ほうそく",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E6%B3%95%E5%89%87/#jn-234625"
+  },
+  {
+    "kotoba": "歴史物語",
+    "yomi": "れきし‐ものがたり",
+    "link": "/word/%E6%AD%B4%E5%8F%B2%E7%89%A9%E8%AA%9E/#jn-234626"
+  },
+  {
+    "kotoba": "暦書",
+    "yomi": "れき‐しょ",
+    "link": "/word/%E6%9A%A6%E6%9B%B8/#jn-234629"
+  },
+  {
+    "kotoba": "暦象",
+    "yomi": "れき‐しょう",
+    "link": "/word/%E6%9A%A6%E8%B1%A1/#jn-234630"
+  },
+  {
+    "kotoba": "歴事",
+    "yomi": "れき‐じ",
+    "link": "/word/%E6%AD%B4%E4%BA%8B/#jn-234598"
+  },
+  {
+    "kotoba": "暦日",
+    "yomi": "れき‐じつ",
+    "link": "/word/%E6%9A%A6%E6%97%A5/#jn-234614"
+  },
+  {
+    "kotoba": "歴日",
+    "yomi": "れき‐じつ",
+    "link": "/word/%E6%AD%B4%E6%97%A5/#jn-234615"
+  },
+  {
+    "kotoba": "暦術",
+    "yomi": "れき‐じゅつ",
+    "link": "/word/%E6%9A%A6%E8%A1%93/#jn-234627"
+  },
+  {
+    "kotoba": "歴巡",
+    "yomi": "れき‐じゅん",
+    "link": "/word/%E6%AD%B4%E5%B7%A1/#jn-234628"
+  },
+  {
+    "kotoba": "歴女",
+    "yomi": "れき‐じょ",
+    "link": "/word/%E6%AD%B4%E5%A5%B3/#jn-244830"
+  },
+  {
+    "kotoba": "暦数",
+    "yomi": "れき‐すう",
+    "link": "/word/%E6%9A%A6%E6%95%B0/#jn-234632"
+  },
+  {
+    "kotoba": "歴世",
+    "yomi": "れき‐せい",
+    "link": "/word/%E6%AD%B4%E4%B8%96/#jn-234633"
+  },
+  {
+    "kotoba": "瀝青",
+    "yomi": "れき‐せい",
+    "link": "/word/%E7%80%9D%E9%9D%92/#jn-234634"
+  },
+  {
+    "kotoba": "歴世女装考",
+    "yomi": "れきせいじょそうこう",
+    "link": "/word/%E6%AD%B4%E4%B8%96%E5%A5%B3%E8%A3%85%E8%80%83/#jn-276651"
+  },
+  {
+    "kotoba": "瀝青炭",
+    "yomi": "れきせい‐たん",
+    "link": "/word/%E7%80%9D%E9%9D%92%E7%82%AD/#jn-234636"
+  },
+  {
+    "kotoba": "礫石",
+    "yomi": "れき‐せき",
+    "link": "/word/%E7%A4%AB%E7%9F%B3/#jn-234637"
+  },
+  {
+    "kotoba": "歴戦",
+    "yomi": "れき‐せん",
+    "link": "/word/%E6%AD%B4%E6%88%A6/#jn-234638"
+  },
+  {
+    "kotoba": "歴然",
+    "yomi": "れき‐ぜん",
+    "link": "/word/%E6%AD%B4%E7%84%B6/#jn-234639"
+  },
+  {
+    "kotoba": "歴代",
+    "yomi": "れき‐だい",
+    "link": "/word/%E6%AD%B4%E4%BB%A3/#jn-234640"
+  },
+  {
+    "kotoba": "歴代滑稽伝",
+    "yomi": "れきだいこっけいでん",
+    "link": "/word/%E6%AD%B4%E4%BB%A3%E6%BB%91%E7%A8%BD%E4%BC%9D/#jn-276652"
+  },
+  {
+    "kotoba": "轢断",
+    "yomi": "れき‐だん",
+    "link": "/word/%E8%BD%A2%E6%96%AD/#jn-234641"
+  },
+  {
+    "kotoba": "暦注",
+    "yomi": "れき‐ちゅう",
+    "link": "/word/%E6%9A%A6%E6%B3%A8/#jn-234642"
+  },
+  {
+    "kotoba": "歴朝",
+    "yomi": "れき‐ちょう",
+    "link": "/word/%E6%AD%B4%E6%9C%9D/#jn-234643"
+  },
+  {
+    "kotoba": "歴朝詔詞解",
+    "yomi": "れきちょうしょうしかい",
+    "link": "/word/%E6%AD%B4%E6%9C%9D%E8%A9%94%E8%A9%9E%E8%A7%A3/#jn-234644"
+  },
+  {
+    "kotoba": "歴程",
+    "yomi": "れき‐てい",
+    "link": "/word/%E6%AD%B4%E7%A8%8B/#jn-234645"
+  },
+  {
+    "kotoba": "歴程",
+    "yomi": "れきてい",
+    "link": "/word/%E6%AD%B4%E7%A8%8B/#jn-276653"
+  },
+  {
+    "kotoba": "歴伝",
+    "yomi": "れき‐でん",
+    "link": "/word/%E6%AD%B4%E4%BC%9D/#jn-234646"
+  },
+  {
+    "kotoba": "礫土",
+    "yomi": "れき‐ど",
+    "link": "/word/%E7%A4%AB%E5%9C%9F/#jn-234648"
+  },
+  {
+    "kotoba": "暦道",
+    "yomi": "れき‐どう",
+    "link": "/word/%E6%9A%A6%E9%81%93/#jn-234649"
+  },
+  {
+    "kotoba": "歴任",
+    "yomi": "れき‐にん",
+    "link": "/word/%E6%AD%B4%E4%BB%BB/#jn-234650"
+  },
+  {
+    "kotoba": "暦年",
+    "yomi": "れき‐ねん",
+    "link": "/word/%E6%9A%A6%E5%B9%B4/#jn-234651"
+  },
+  {
+    "kotoba": "歴年",
+    "yomi": "れき‐ねん",
+    "link": "/word/%E6%AD%B4%E5%B9%B4/#jn-234652"
+  },
+  {
+    "kotoba": "暦年齢",
+    "yomi": "れき‐ねんれい",
+    "link": "/word/%E6%9A%A6%E5%B9%B4%E9%BD%A2/#jn-234653"
+  },
+  {
+    "kotoba": "歴拝",
+    "yomi": "れき‐はい",
+    "link": "/word/%E6%AD%B4%E6%8B%9D/#jn-234654"
+  },
+  {
+    "kotoba": "暦博士",
+    "yomi": "れき‐はかせ",
+    "link": "/word/%E6%9A%A6%E5%8D%9A%E5%A3%AB/#jn-234655"
+  },
+  {
+    "kotoba": "歴博",
+    "yomi": "れき‐はく",
+    "link": "/word/%E6%AD%B4%E5%8D%9A/#jn-234656"
+  },
+  {
+    "kotoba": "暦表時",
+    "yomi": "れきひょう‐じ",
+    "link": "/word/%E6%9A%A6%E8%A1%A8%E6%99%82/#jn-234657"
+  },
+  {
+    "kotoba": "暦法",
+    "yomi": "れき‐ほう",
+    "link": "/word/%E6%9A%A6%E6%B3%95/#jn-234658"
+  },
+  {
+    "kotoba": "歴訪",
+    "yomi": "れき‐ほう",
+    "link": "/word/%E6%AD%B4%E8%A8%AA/#jn-234659"
+  },
+  {
+    "kotoba": "暦本",
+    "yomi": "れき‐ほん",
+    "link": "/word/%E6%9A%A6%E6%9C%AC/#jn-234660"
+  },
+  {
+    "kotoba": "歴名簿",
+    "yomi": "れきめい‐ぼ",
+    "link": "/word/%E6%AD%B4%E5%90%8D%E7%B0%BF/#jn-234661"
+  },
+  {
+    "kotoba": "歴遊",
+    "yomi": "れき‐ゆう",
+    "link": "/word/%E6%AD%B4%E9%81%8A/#jn-234662"
+  },
+  {
+    "kotoba": "歴葉",
+    "yomi": "れき‐よう",
+    "link": "/word/%E6%AD%B4%E8%91%89/#jn-234673"
+  },
+  {
+    "kotoba": "暦要項",
+    "yomi": "れき‐ようこう",
+    "link": "/word/%E6%9A%A6%E8%A6%81%E9%A0%85/#jn-303513"
+  },
+  {
+    "kotoba": "歴覧",
+    "yomi": "れき‐らん",
+    "link": "/word/%E6%AD%B4%E8%A6%A7/#jn-234674"
+  },
+  {
+    "kotoba": "歴乱",
+    "yomi": "れき‐らん",
+    "link": "/word/%E6%AD%B4%E4%B9%B1/#jn-234675"
+  },
+  {
+    "kotoba": "歴歴",
+    "yomi": "れき‐れき",
+    "link": "/word/%E6%AD%B4%E6%AD%B4/#jn-234676"
+  },
+  {
+    "kotoba": "瀝瀝",
+    "yomi": "れき‐れき",
+    "link": "/word/%E7%80%9D%E7%80%9D/#jn-234677"
+  },
+  {
+    "kotoba": "轣轆",
+    "yomi": "れき‐ろく",
+    "link": "/word/%E8%BD%A3%E8%BD%86/#jn-234678"
+  },
+  {
+    "kotoba": "鎮魂歌",
+    "yomi": "ちんこんか",
+    "link": "/word/%E9%8E%AE%E9%AD%82%E6%AD%8C/#jn-285640"
+  },
+  {
+    "kotoba": "列火",
+    "yomi": "れっ‐か",
+    "link": "/word/%E5%88%97%E7%81%AB/#jn-234841"
+  },
+  {
+    "kotoba": "劣化",
+    "yomi": "れっ‐か",
+    "link": "/word/%E5%8A%A3%E5%8C%96/#jn-234842"
+  },
+  {
+    "kotoba": "烈火",
+    "yomi": "れっ‐か",
+    "link": "/word/%E7%83%88%E7%81%AB/#jn-234843"
+  },
+  {
+    "kotoba": "裂果",
+    "yomi": "れっ‐か",
+    "link": "/word/%E8%A3%82%E6%9E%9C/#jn-234844"
+  },
+  {
+    "kotoba": "裂罅",
+    "yomi": "れっ‐か",
+    "link": "/word/%E8%A3%82%E7%BD%85/#jn-234845"
+  },
+  {
+    "kotoba": "裂開",
+    "yomi": "れっ‐かい",
+    "link": "/word/%E8%A3%82%E9%96%8B/#jn-234849"
+  },
+  {
+    "kotoba": "裂開果",
+    "yomi": "れっかい‐か",
+    "link": "/word/%E8%A3%82%E9%96%8B%E6%9E%9C/#jn-234850"
+  },
+  {
+    "kotoba": "劣角",
+    "yomi": "れっ‐かく",
+    "link": "/word/%E5%8A%A3%E8%A7%92/#jn-234853"
+  },
+  {
+    "kotoba": "裂罅充塡",
+    "yomi": "れっか‐じゅうてん",
+    "link": "/word/%E8%A3%82%E7%BD%85%E5%85%85%E5%A1%A1/#jn-234854"
+  },
+  {
+    "kotoba": "烈寒",
+    "yomi": "れっ‐かん",
+    "link": "/word/%E7%83%88%E5%AF%92/#jn-234855"
+  },
+  {
+    "kotoba": "列記",
+    "yomi": "れっ‐き",
+    "link": "/word/%E5%88%97%E8%A8%98/#jn-234856"
+  },
+  {
+    "kotoba": "礫器",
+    "yomi": "れっ‐き",
+    "link": "/word/%E7%A4%AB%E5%99%A8/#jn-234857"
+  },
+  {
+    "kotoba": "列居",
+    "yomi": "れっ‐きょ",
+    "link": "/word/%E5%88%97%E5%B1%85/#jn-234859"
+  },
+  {
+    "kotoba": "列挙",
+    "yomi": "れっ‐きょ",
+    "link": "/word/%E5%88%97%E6%8C%99/#jn-234860"
+  },
+  {
+    "kotoba": "列強",
+    "yomi": "れっ‐きょう",
+    "link": "/word/%E5%88%97%E5%BC%B7/#jn-234861"
+  },
+  {
+    "kotoba": "列挙責任主義",
+    "yomi": "れっきょ‐せきにんしゅぎ",
+    "link": "/word/%E5%88%97%E6%8C%99%E8%B2%AC%E4%BB%BB%E4%B8%BB%E7%BE%A9/#jn-234862"
+  },
+  {
+    "kotoba": "列見",
+    "yomi": "れっ‐けん",
+    "link": "/word/%E5%88%97%E8%A6%8B/#jn-234869"
+  },
+  {
+    "kotoba": "劣弧",
+    "yomi": "れっ‐こ",
+    "link": "/word/%E5%8A%A3%E5%BC%A7/#jn-234870"
+  },
+  {
+    "kotoba": "列侯",
+    "yomi": "れっ‐こう",
+    "link": "/word/%E5%88%97%E4%BE%AF/#jn-234873"
+  },
+  {
+    "kotoba": "烈公",
+    "yomi": "れっ‐こう",
+    "link": "/word/person/%E7%83%88%E5%85%AC/#jn-234874"
+  },
+  {
+    "kotoba": "裂肛",
+    "yomi": "れっ‐こう",
+    "link": "/word/%E8%A3%82%E8%82%9B/#jn-234875"
+  },
+  {
+    "kotoba": "列国",
+    "yomi": "れっ‐こく",
+    "link": "/word/%E5%88%97%E5%9B%BD/#jn-234877"
+  },
+  {
+    "kotoba": "列国議会同盟",
+    "yomi": "れっこくぎかい‐どうめい",
+    "link": "/word/%E5%88%97%E5%9B%BD%E8%AD%B0%E4%BC%9A%E5%90%8C%E7%9B%9F/#jn-234878"
+  },
+  {
+    "kotoba": "列参",
+    "yomi": "れっ‐さん",
+    "link": "/word/%E5%88%97%E5%8F%82/#jn-234883"
+  },
+  {
+    "kotoba": "列子",
+    "yomi": "れっし",
+    "link": "/word/person/%E5%88%97%E5%AD%90/#jn-234884"
+  },
+  {
+    "kotoba": "列氏",
+    "yomi": "れっ‐し",
+    "link": "/word/%E5%88%97%E6%B0%8F/#jn-234885"
+  },
+  {
+    "kotoba": "烈士",
+    "yomi": "れっ‐し",
+    "link": "/word/%E7%83%88%E5%A3%AB/#jn-234886"
+  },
+  {
+    "kotoba": "列氏温度",
+    "yomi": "れっし‐おんど",
+    "link": "/word/%E5%88%97%E6%B0%8F%E6%B8%A9%E5%BA%A6/#jn-234889"
+  },
+  {
+    "kotoba": "列車",
+    "yomi": "れっ‐しゃ",
+    "link": "/word/%E5%88%97%E8%BB%8A/#jn-234891"
+  },
+  {
+    "kotoba": "列車運行図表",
+    "yomi": "れっしゃ‐うんこうずひょう",
+    "link": "/word/%E5%88%97%E8%BB%8A%E9%81%8B%E8%A1%8C%E5%9B%B3%E8%A1%A8/#jn-234892"
+  },
+  {
+    "kotoba": "列車集中制御",
+    "yomi": "れっしゃ‐しゅうちゅうせいぎょ",
+    "link": "/word/%E5%88%97%E8%BB%8A%E9%9B%86%E4%B8%AD%E5%88%B6%E5%BE%A1/#jn-234894"
+  },
+  {
+    "kotoba": "列車抵抗",
+    "yomi": "れっしゃ‐ていこう",
+    "link": "/word/%E5%88%97%E8%BB%8A%E6%8A%B5%E6%8A%97/#jn-286381"
+  },
+  {
+    "kotoba": "列車防護無線装置",
+    "yomi": "れっしゃぼうご‐むせんそうち",
+    "link": "/word/%E5%88%97%E8%BB%8A%E9%98%B2%E8%AD%B7%E7%84%A1%E7%B7%9A%E8%A3%85%E7%BD%AE/#jn-284432"
+  },
+  {
+    "kotoba": "列宿",
+    "yomi": "れっ‐しゅく",
+    "link": "/word/%E5%88%97%E5%AE%BF/#jn-234896"
+  },
+  {
+    "kotoba": "裂傷",
+    "yomi": "れっ‐しょう",
+    "link": "/word/%E8%A3%82%E5%82%B7/#jn-234899"
+  },
+  {
+    "kotoba": "烈震",
+    "yomi": "れっ‐しん",
+    "link": "/word/%E7%83%88%E9%9C%87/#jn-234904"
+  },
+  {
+    "kotoba": "列世",
+    "yomi": "れっ‐せい",
+    "link": "/word/%E5%88%97%E4%B8%96/#jn-234910"
+  },
+  {
+    "kotoba": "列聖",
+    "yomi": "れっ‐せい",
+    "link": "/word/%E5%88%97%E8%81%96/#jn-234911"
+  },
+  {
+    "kotoba": "劣性",
+    "yomi": "れっ‐せい",
+    "link": "/word/%E5%8A%A3%E6%80%A7/#jn-234912"
+  },
+  {
+    "kotoba": "劣勢",
+    "yomi": "れっ‐せい",
+    "link": "/word/%E5%8A%A3%E5%8B%A2/#jn-234914"
+  },
+  {
+    "kotoba": "劣生",
+    "yomi": "れっ‐せい",
+    "link": "/word/%E5%8A%A3%E7%94%9F/#jn-234913"
+  },
+  {
+    "kotoba": "劣性遺伝",
+    "yomi": "れっせい‐いでん",
+    "link": "/word/%E5%8A%A3%E6%80%A7%E9%81%BA%E4%BC%9D/#jn-234915"
+  },
+  {
+    "kotoba": "劣性遺伝子",
+    "yomi": "れっせい‐いでんし",
+    "link": "/word/%E5%8A%A3%E6%80%A7%E9%81%BA%E4%BC%9D%E5%AD%90/#jn-248735"
+  },
+  {
+    "kotoba": "列席",
+    "yomi": "れっ‐せき",
+    "link": "/word/%E5%88%97%E5%B8%AD/#jn-234916"
+  },
+  {
+    "kotoba": "列祖",
+    "yomi": "れっ‐そ",
+    "link": "/word/%E5%88%97%E7%A5%96/#jn-234918"
+  },
+  {
+    "kotoba": "烈祖",
+    "yomi": "れっ‐そ",
+    "link": "/word/%E7%83%88%E7%A5%96/#jn-234919"
+  },
+  {
+    "kotoba": "裂創",
+    "yomi": "れっ‐そう",
+    "link": "/word/%E8%A3%82%E5%89%B5/#jn-234920"
+  },
+  {
+    "kotoba": "列柱",
+    "yomi": "れっ‐ちゅう",
+    "link": "/word/%E5%88%97%E6%9F%B1/#jn-234924"
+  },
+  {
+    "kotoba": "列帖装",
+    "yomi": "れっちょう‐そう",
+    "link": "/word/%E5%88%97%E5%B8%96%E8%A3%85/#jn-234925"
+  },
+  {
+    "kotoba": "列島",
+    "yomi": "れっ‐とう",
+    "link": "/word/%E5%88%97%E5%B3%B6/#jn-234933"
+  },
+  {
+    "kotoba": "劣等",
+    "yomi": "れっ‐とう",
+    "link": "/word/%E5%8A%A3%E7%AD%89/#jn-234934"
+  },
+  {
+    "kotoba": "劣等感",
+    "yomi": "れっとう‐かん",
+    "link": "/word/%E5%8A%A3%E7%AD%89%E6%84%9F/#jn-234935"
+  },
+  {
+    "kotoba": "裂頭条虫",
+    "yomi": "れっとう‐じょうちゅう",
+    "link": "/word/%E8%A3%82%E9%A0%AD%E6%9D%A1%E8%99%AB/#jn-234936"
+  },
+  {
+    "kotoba": "劣等生",
+    "yomi": "れっとう‐せい",
+    "link": "/word/%E5%8A%A3%E7%AD%89%E7%94%9F/#jn-267366"
+  },
+  {
+    "kotoba": "劣敗",
+    "yomi": "れっ‐ぱい",
+    "link": "/word/%E5%8A%A3%E6%95%97/#jn-234955"
+  },
+  {
+    "kotoba": "裂帛",
+    "yomi": "れっ‐ぱく",
+    "link": "/word/%E8%A3%82%E5%B8%9B/#jn-234956"
+  },
+  {
+    "kotoba": "列藩",
+    "yomi": "れっ‐ぱん",
+    "link": "/word/%E5%88%97%E8%97%A9/#jn-234957"
+  },
+  {
+    "kotoba": "烈夫",
+    "yomi": "れっ‐ぷ",
+    "link": "/word/%E7%83%88%E5%A4%AB/#jn-234959"
+  },
+  {
+    "kotoba": "烈婦",
+    "yomi": "れっ‐ぷ",
+    "link": "/word/%E7%83%88%E5%A9%A6/#jn-234960"
+  },
+  {
+    "kotoba": "烈風",
+    "yomi": "れっ‐ぷう",
+    "link": "/word/%E7%83%88%E9%A2%A8/#jn-234962"
+  },
+  {
+    "kotoba": "列福",
+    "yomi": "れっ‐ぷく",
+    "link": "/word/%E5%88%97%E7%A6%8F/#jn-234963"
+  },
+  {
+    "kotoba": "列福調査",
+    "yomi": "れっぷく‐ちょうさ",
+    "link": "/word/%E5%88%97%E7%A6%8F%E8%AA%BF%E6%9F%BB/#jn-234964"
+  },
+  {
+    "kotoba": "劣悪",
+    "yomi": "れつ‐あく",
+    "link": "/word/%E5%8A%A3%E6%82%AA/#jn-234838"
+  },
+  {
+    "kotoba": "列位",
+    "yomi": "れつ‐い",
+    "link": "/word/%E5%88%97%E4%BD%8D/#jn-234839"
+  },
+  {
+    "kotoba": "劣位",
+    "yomi": "れつ‐い",
+    "link": "/word/%E5%8A%A3%E4%BD%8D/#jn-234840"
+  },
+  {
+    "kotoba": "裂芽",
+    "yomi": "れつ‐が",
+    "link": "/word/%E8%A3%82%E8%8A%BD/#jn-234846"
+  },
+  {
+    "kotoba": "列伍",
+    "yomi": "れつ‐ご",
+    "link": "/word/%E5%88%97%E4%BC%8D/#jn-234871"
+  },
+  {
+    "kotoba": "劣後",
+    "yomi": "れつ‐ご",
+    "link": "/word/%E5%8A%A3%E5%BE%8C/#jn-234872"
+  },
+  {
+    "kotoba": "劣後株",
+    "yomi": "れつご‐かぶ",
+    "link": "/word/%E5%8A%A3%E5%BE%8C%E6%A0%AA/#jn-234876"
+  },
+  {
+    "kotoba": "劣後債",
+    "yomi": "れつご‐さい",
+    "link": "/word/%E5%8A%A3%E5%BE%8C%E5%82%B5/#jn-234879"
+  },
+  {
+    "kotoba": "劣後社債",
+    "yomi": "れつご‐しゃさい",
+    "link": "/word/%E5%8A%A3%E5%BE%8C%E7%A4%BE%E5%82%B5/#jn-302528"
+  },
+  {
+    "kotoba": "列座",
+    "yomi": "れつ‐ざ",
+    "link": "/word/%E5%88%97%E5%BA%A7/#jn-234881"
+  },
+  {
+    "kotoba": "列次",
+    "yomi": "れつ‐じ",
+    "link": "/word/%E5%88%97%E6%AC%A1/#jn-234887"
+  },
+  {
+    "kotoba": "烈日",
+    "yomi": "れつ‐じつ",
+    "link": "/word/%E7%83%88%E6%97%A5/#jn-234890"
+  },
+  {
+    "kotoba": "劣弱",
+    "yomi": "れつ‐じゃく",
+    "link": "/word/%E5%8A%A3%E5%BC%B1/#jn-234893"
+  },
+  {
+    "kotoba": "列叙",
+    "yomi": "れつ‐じょ",
+    "link": "/word/%E5%88%97%E5%8F%99/#jn-234897"
+  },
+  {
+    "kotoba": "烈女",
+    "yomi": "れつ‐じょ",
+    "link": "/word/%E7%83%88%E5%A5%B3/#jn-234898"
+  },
+  {
+    "kotoba": "劣情",
+    "yomi": "れつ‐じょう",
+    "link": "/word/%E5%8A%A3%E6%83%85/#jn-234900"
+  },
+  {
+    "kotoba": "烈丈夫",
+    "yomi": "れつ‐じょうふ",
+    "link": "/word/%E7%83%88%E4%B8%88%E5%A4%AB/#jn-234901"
+  },
+  {
+    "kotoba": "列女伝",
+    "yomi": "れつじょでん",
+    "link": "/word/%E5%88%97%E5%A5%B3%E4%BC%9D/#jn-234903"
+  },
+  {
+    "kotoba": "列代",
+    "yomi": "れつ‐だい",
+    "link": "/word/%E5%88%97%E4%BB%A3/#jn-234921"
+  },
+  {
+    "kotoba": "列伝",
+    "yomi": "れつ‐でん",
+    "link": "/word/%E5%88%97%E4%BC%9D/#jn-234928"
+  },
+  {
+    "kotoba": "列伝体",
+    "yomi": "れつでん‐たい",
+    "link": "/word/%E5%88%97%E4%BC%9D%E4%BD%93/#jn-234929"
+  },
+  {
+    "kotoba": "列立",
+    "yomi": "れつ‐りつ",
+    "link": "/word/%E5%88%97%E7%AB%8B/#jn-234966"
+  },
+  {
+    "kotoba": "烈烈",
+    "yomi": "れつ‐れつ",
+    "link": "/word/%E7%83%88%E7%83%88/#jn-234967"
+  },
+  {
+    "kotoba": "釐等具",
+    "yomi": "れて‐ぐ",
+    "link": "/word/%E9%87%90%E7%AD%89%E5%85%B7/#jn-234980"
+  },
+  {
+    "kotoba": "礼文空港",
+    "yomi": "れぶん‐くうこう",
+    "link": "/word/%E7%A4%BC%E6%96%87%E7%A9%BA%E6%B8%AF/#jn-264861"
+  },
+  {
+    "kotoba": "礼文島",
+    "yomi": "れぶん‐とう",
+    "link": "/word/%E7%A4%BC%E6%96%87%E5%B3%B6/#jn-235069"
+  },
+  {
+    "kotoba": "檸檬",
+    "yomi": "レモン",
+    "link": "/word/%E6%AA%B8%E6%AA%AC/#jn-276660"
+  },
+  {
+    "kotoba": "恋愛",
+    "yomi": "れん‐あい",
+    "link": "/word/%E6%81%8B%E6%84%9B/#jn-235141"
+  },
+  {
+    "kotoba": "恋愛結婚",
+    "yomi": "れんあい‐けっこん",
+    "link": "/word/%E6%81%8B%E6%84%9B%E7%B5%90%E5%A9%9A/#jn-235142"
+  },
+  {
+    "kotoba": "恋愛三代記",
+    "yomi": "れんあいさんだいき",
+    "link": "/word/%E6%81%8B%E6%84%9B%E4%B8%89%E4%BB%A3%E8%A8%98/#jn-292195"
+  },
+  {
+    "kotoba": "恋愛至上主義",
+    "yomi": "れんあいしじょう‐しゅぎ",
+    "link": "/word/%E6%81%8B%E6%84%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9/#jn-235143"
+  },
+  {
+    "kotoba": "恋愛対位法",
+    "yomi": "れんあいたいいほう",
+    "link": "/word/%E6%81%8B%E6%84%9B%E5%AF%BE%E4%BD%8D%E6%B3%95/#jn-280399"
+  },
+  {
+    "kotoba": "恋愛中毒",
+    "yomi": "れんあいちゅうどく",
+    "link": "/word/%E6%81%8B%E6%84%9B%E4%B8%AD%E6%AF%92/#jn-292196"
+  },
+  {
+    "kotoba": "恋愛妄想",
+    "yomi": "れんあい‐もうそう",
+    "link": "/word/%E6%81%8B%E6%84%9B%E5%A6%84%E6%83%B3/#jn-255662"
+  },
+  {
+    "kotoba": "恋愛論",
+    "yomi": "れんあいろん",
+    "link": "/word/%E6%81%8B%E6%84%9B%E8%AB%96/#jn-272407"
+  },
+  {
+    "kotoba": "漣漪",
+    "yomi": "れん‐い",
+    "link": "/word/%E6%BC%A3%E6%BC%AA/#jn-235144"
+  },
+  {
+    "kotoba": "連印",
+    "yomi": "れん‐いん",
+    "link": "/word/%E9%80%A3%E5%8D%B0/#jn-235145"
+  },
+  {
+    "kotoba": "連雨",
+    "yomi": "れん‐う",
+    "link": "/word/%E9%80%A3%E9%9B%A8/#jn-235146"
+  },
+  {
+    "kotoba": "瀲灩",
+    "yomi": "れん‐えん",
+    "link": "/word/%E7%80%B2%E7%81%A9/#jn-235147"
+  },
+  {
+    "kotoba": "連音",
+    "yomi": "れん‐おん",
+    "link": "/word/%E9%80%A3%E9%9F%B3/#jn-235148"
+  },
+  {
+    "kotoba": "漣音",
+    "yomi": "れん‐おん",
+    "link": "/word/%E6%BC%A3%E9%9F%B3/#jn-235149"
+  },
+  {
+    "kotoba": "連音符",
+    "yomi": "れん‐おんぷ",
+    "link": "/word/%E9%80%A3%E9%9F%B3%E7%AC%A6/#jn-235150"
+  },
+  {
+    "kotoba": "恋歌",
+    "yomi": "れん‐か",
+    "link": "/word/%E6%81%8B%E6%AD%8C_%28%E3%82%8C%E3%82%93%E3%81%8B%29/#jn-235151"
+  },
+  {
+    "kotoba": "連枷",
+    "yomi": "れん‐か",
+    "link": "/word/%E9%80%A3%E6%9E%B7/#jn-235152"
+  },
+  {
+    "kotoba": "廉価",
+    "yomi": "れん‐か",
+    "link": "/word/%E5%BB%89%E4%BE%A1/#jn-235154"
+  },
+  {
+    "kotoba": "輦下",
+    "yomi": "れん‐か",
+    "link": "/word/%E8%BC%A6%E4%B8%8B/#jn-235153"
+  },
+  {
+    "kotoba": "蓮角",
+    "yomi": "れん‐かく",
+    "link": "/word/%E8%93%AE%E8%A7%92/#jn-235162"
+  },
+  {
+    "kotoba": "廉価版",
+    "yomi": "れんか‐ばん",
+    "link": "/word/%E5%BB%89%E4%BE%A1%E7%89%88/#jn-284437"
+  },
+  {
+    "kotoba": "連桿",
+    "yomi": "れん‐かん",
+    "link": "/word/%E9%80%A3%E6%A1%BF/#jn-235168"
+  },
+  {
+    "kotoba": "連管",
+    "yomi": "れん‐かん",
+    "link": "/word/%E9%80%A3%E7%AE%A1/#jn-235169"
+  },
+  {
+    "kotoba": "連関",
+    "yomi": "れん‐かん",
+    "link": "/word/%E9%80%A3%E9%96%A2/#jn-235170"
+  },
+  {
+    "kotoba": "連環",
+    "yomi": "れん‐かん",
+    "link": "/word/%E9%80%A3%E7%92%B0/#jn-235171"
+  },
+  {
+    "kotoba": "連環記",
+    "yomi": "れんかんき",
+    "link": "/word/%E9%80%A3%E7%92%B0%E8%A8%98/#jn-278484"
+  },
+  {
+    "kotoba": "連環馬",
+    "yomi": "れんかん‐ば",
+    "link": "/word/%E9%80%A3%E7%92%B0%E9%A6%AC/#jn-235172"
+  },
+  {
+    "kotoba": "連火",
+    "yomi": "れん‐が",
+    "link": "/word/%E9%80%A3%E7%81%AB/#jn-235155"
+  },
+  {
+    "kotoba": "連歌",
+    "yomi": "れん‐が",
+    "link": "/word/%E9%80%A3%E6%AD%8C_%28%E3%82%8C%E3%82%93%E3%81%8C%29/#jn-235156"
+  },
+  {
+    "kotoba": "煉瓦",
+    "yomi": "れん‐が",
+    "link": "/word/%E7%85%89%E7%93%A6/#jn-235158"
+  },
+  {
+    "kotoba": "簾外",
+    "yomi": "れん‐がい",
+    "link": "/word/%E7%B0%BE%E5%A4%96/#jn-235160"
+  },
+  {
+    "kotoba": "煉瓦色",
+    "yomi": "れんが‐いろ",
+    "link": "/word/%E7%85%89%E7%93%A6%E8%89%B2/#jn-235161"
+  },
+  {
+    "kotoba": "連歌師",
+    "yomi": "れんが‐し",
+    "link": "/word/%E9%80%A3%E6%AD%8C%E5%B8%AB/#jn-235163"
+  },
+  {
+    "kotoba": "連歌新式",
+    "yomi": "れんがしんしき",
+    "link": "/word/%E9%80%A3%E6%AD%8C%E6%96%B0%E5%BC%8F/#jn-235164"
+  },
+  {
+    "kotoba": "連歌盗人",
+    "yomi": "れんがぬすびと",
+    "link": "/word/%E9%80%A3%E6%AD%8C%E7%9B%97%E4%BA%BA/#jn-235166"
+  },
+  {
+    "kotoba": "連記",
+    "yomi": "れん‐き",
+    "link": "/word/%E9%80%A3%E8%A8%98/#jn-235173"
+  },
+  {
+    "kotoba": "連記投票",
+    "yomi": "れんき‐とうひょう",
+    "link": "/word/%E9%80%A3%E8%A8%98%E6%8A%95%E7%A5%A8/#jn-235176"
+  },
+  {
+    "kotoba": "連丘",
+    "yomi": "れん‐きゅう",
+    "link": "/word/%E9%80%A3%E4%B8%98/#jn-235177"
+  },
+  {
+    "kotoba": "連休",
+    "yomi": "れん‐きゅう",
+    "link": "/word/%E9%80%A3%E4%BC%91/#jn-235178"
+  },
+  {
+    "kotoba": "錬金術",
+    "yomi": "れんきん‐じゅつ",
+    "link": "/word/%E9%8C%AC%E9%87%91%E8%A1%93/#jn-235182"
+  },
+  {
+    "kotoba": "錬金術師",
+    "yomi": "れんきんじゅつ‐し",
+    "link": "/word/%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB/#jn-276661"
+  },
+  {
+    "kotoba": "錬金術師",
+    "yomi": "れんきんじゅつし",
+    "link": "/word/%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB/#jn-293873"
+  },
+  {
+    "kotoba": "連木",
+    "yomi": "れん‐ぎ",
+    "link": "/word/%E9%80%A3%E6%9C%A8/#jn-235174"
+  },
+  {
+    "kotoba": "鰱魚",
+    "yomi": "れん‐ぎょ",
+    "link": "/word/%E9%B0%B1%E9%AD%9A/#jn-235179"
+  },
+  {
+    "kotoba": "連翹",
+    "yomi": "れん‐ぎょう",
+    "link": "/word/%E9%80%A3%E7%BF%B9/#jn-235180"
+  },
+  {
+    "kotoba": "連翹忌",
+    "yomi": "れんぎょう‐き",
+    "link": "/word/%E9%80%A3%E7%BF%B9%E5%BF%8C/#jn-252997"
+  },
+  {
+    "kotoba": "連吟",
+    "yomi": "れん‐ぎん",
+    "link": "/word/%E9%80%A3%E5%90%9F/#jn-235181"
+  },
+  {
+    "kotoba": "連銀",
+    "yomi": "れん‐ぎん",
+    "link": "/word/%E9%80%A3%E9%8A%80/#jn-242062"
+  },
+  {
+    "kotoba": "連銀河",
+    "yomi": "れん‐ぎんが",
+    "link": "/word/%E9%80%A3%E9%8A%80%E6%B2%B3/#jn-284438"
+  },
+  {
+    "kotoba": "連句",
+    "yomi": "れん‐く",
+    "link": "/word/%E9%80%A3%E5%8F%A5/#jn-235183"
+  },
+  {
+    "kotoba": "連係",
+    "yomi": "れん‐けい",
+    "link": "/word/%E9%80%A3%E4%BF%82/#jn-235188"
+  },
+  {
+    "kotoba": "連携",
+    "yomi": "れん‐けい",
+    "link": "/word/%E9%80%A3%E6%90%BA/#jn-235189"
+  },
+  {
+    "kotoba": "連系線",
+    "yomi": "れんけい‐せん",
+    "link": "/word/%E9%80%A3%E7%B3%BB%E7%B7%9A/#jn-280400"
+  },
+  {
+    "kotoba": "連結",
+    "yomi": "れん‐けつ",
+    "link": "/word/%E9%80%A3%E7%B5%90/#jn-235199"
+  },
+  {
+    "kotoba": "廉潔",
+    "yomi": "れん‐けつ",
+    "link": "/word/%E5%BB%89%E6%BD%94/#jn-235200"
+  },
+  {
+    "kotoba": "連結器",
+    "yomi": "れんけつ‐き",
+    "link": "/word/%E9%80%A3%E7%B5%90%E5%99%A8/#jn-235201"
+  },
+  {
+    "kotoba": "連結決算",
+    "yomi": "れんけつ‐けっさん",
+    "link": "/word/%E9%80%A3%E7%B5%90%E6%B1%BA%E7%AE%97/#jn-235202"
+  },
+  {
+    "kotoba": "連結子会社",
+    "yomi": "れんけつ‐こがいしゃ",
+    "link": "/word/%E9%80%A3%E7%B5%90%E5%AD%90%E4%BC%9A%E7%A4%BE/#jn-235203"
+  },
+  {
+    "kotoba": "連結撮影",
+    "yomi": "れんけつ‐さつえい",
+    "link": "/word/%E9%80%A3%E7%B5%90%E6%92%AE%E5%BD%B1/#jn-292197"
+  },
+  {
+    "kotoba": "連結財務諸表",
+    "yomi": "れんけつ‐ざいむしょひょう",
+    "link": "/word/%E9%80%A3%E7%B5%90%E8%B2%A1%E5%8B%99%E8%AB%B8%E8%A1%A8/#jn-235204"
+  },
+  {
+    "kotoba": "連結納税",
+    "yomi": "れんけつ‐のうぜい",
+    "link": "/word/%E9%80%A3%E7%B5%90%E7%B4%8D%E7%A8%8E/#jn-235207"
+  },
+  {
+    "kotoba": "蓮華",
+    "yomi": "れん‐げ",
+    "link": "/word/%E8%93%AE%E8%8F%AF/#jn-235187"
+  },
+  {
+    "kotoba": "蓮華院",
+    "yomi": "れんげ‐いん",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E9%99%A2/#jn-235190"
+  },
+  {
+    "kotoba": "蓮華会",
+    "yomi": "れんげ‐え",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E4%BC%9A/#jn-235191"
+  },
+  {
+    "kotoba": "蓮華衣",
+    "yomi": "れんげ‐え",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E8%A1%A3/#jn-235192"
+  },
+  {
+    "kotoba": "蓮華王院",
+    "yomi": "れんげおう‐いん",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E7%8E%8B%E9%99%A2/#jn-235193"
+  },
+  {
+    "kotoba": "蓮華往生",
+    "yomi": "れんげ‐おうじょう",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E5%BE%80%E7%94%9F/#jn-235194"
+  },
+  {
+    "kotoba": "蓮華座",
+    "yomi": "れんげ‐ざ",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E5%BA%A7/#jn-235195"
+  },
+  {
+    "kotoba": "蓮華升麻",
+    "yomi": "れんげ‐しょうま",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E5%8D%87%E9%BA%BB/#jn-235196"
+  },
+  {
+    "kotoba": "蓮華草",
+    "yomi": "れんげ‐そう",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E8%8D%89/#jn-235197"
+  },
+  {
+    "kotoba": "蓮華蔵世界",
+    "yomi": "れんげぞう‐せかい",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E8%94%B5%E4%B8%96%E7%95%8C/#jn-235198"
+  },
+  {
+    "kotoba": "蓮華台",
+    "yomi": "れんげ‐だい",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E5%8F%B0/#jn-302535"
+  },
+  {
+    "kotoba": "蓮華躑躅",
+    "yomi": "れんげ‐つつじ",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E8%BA%91%E8%BA%85/#jn-235205"
+  },
+  {
+    "kotoba": "蓮月尼",
+    "yomi": "れんげつ‐に",
+    "link": "/word/person/%E8%93%AE%E6%9C%88%E5%B0%BC/#jn-235206"
+  },
+  {
+    "kotoba": "蓮華文",
+    "yomi": "れんげ‐もん",
+    "link": "/word/%E8%93%AE%E8%8F%AF%E6%96%87/#jn-235208"
+  },
+  {
+    "kotoba": "連子",
+    "yomi": "れん‐こ",
+    "link": "/word/%E9%80%A3%E5%AD%90_%28%E3%82%8C%E3%82%93%E3%81%93%29/#jn-235209"
+  },
+  {
+    "kotoba": "連呼",
+    "yomi": "れん‐こ",
+    "link": "/word/%E9%80%A3%E5%91%BC/#jn-235210"
+  },
+  {
+    "kotoba": "連亘",
+    "yomi": "れん‐こう",
+    "link": "/word/%E9%80%A3%E4%BA%98/#jn-235213"
+  },
+  {
+    "kotoba": "連行",
+    "yomi": "れん‐こう",
+    "link": "/word/%E9%80%A3%E8%A1%8C/#jn-235214"
+  },
+  {
+    "kotoba": "連衡",
+    "yomi": "れん‐こう",
+    "link": "/word/%E9%80%A3%E8%A1%A1/#jn-235215"
+  },
+  {
+    "kotoba": "輦轂",
+    "yomi": "れん‐こく",
+    "link": "/word/%E8%BC%A6%E8%BD%82/#jn-235226"
+  },
+  {
+    "kotoba": "連子鯛",
+    "yomi": "れんこ‐だい",
+    "link": "/word/%E9%80%A3%E5%AD%90%E9%AF%9B/#jn-235229"
+  },
+  {
+    "kotoba": "蓮根",
+    "yomi": "れん‐こん",
+    "link": "/word/%E8%93%AE%E6%A0%B9_%28%E3%82%8C%E3%82%93%E3%81%93%E3%82%93%29/#jn-235230"
+  },
+  {
+    "kotoba": "漣痕",
+    "yomi": "れん‐こん",
+    "link": "/word/%E6%BC%A3%E7%97%95/#jn-272408"
+  },
+  {
+    "kotoba": "連碁",
+    "yomi": "れん‐ご",
+    "link": "/word/%E9%80%A3%E7%A2%81/#jn-235211"
+  },
+  {
+    "kotoba": "連語",
+    "yomi": "れん‐ご",
+    "link": "/word/%E9%80%A3%E8%AA%9E/#jn-235212"
+  },
+  {
+    "kotoba": "連合",
+    "yomi": "れん‐ごう",
+    "link": "/word/%E9%80%A3%E5%90%88/#jn-235216"
+  },
+  {
+    "kotoba": "連合艦隊",
+    "yomi": "れんごう‐かんたい",
+    "link": "/word/%E9%80%A3%E5%90%88%E8%89%A6%E9%9A%8A/#jn-235217"
+  },
+  {
+    "kotoba": "連合軍",
+    "yomi": "れんごう‐ぐん",
+    "link": "/word/%E9%80%A3%E5%90%88%E8%BB%8D/#jn-235218"
+  },
+  {
+    "kotoba": "連合国",
+    "yomi": "れんごう‐こく",
+    "link": "/word/%E9%80%A3%E5%90%88%E5%9B%BD/#jn-235219"
+  },
+  {
+    "kotoba": "連合国軍最高司令官総司令部",
+    "yomi": "れんごうこくぐん‐さいこうしれいかんそうしれいぶ",
+    "link": "/word/%E9%80%A3%E5%90%88%E5%9B%BD%E8%BB%8D%E6%9C%80%E9%AB%98%E5%8F%B8%E4%BB%A4%E5%AE%98%E7%B7%8F%E5%8F%B8%E4%BB%A4%E9%83%A8/#jn-235220"
+  },
+  {
+    "kotoba": "連合国国際通貨金融会議",
+    "yomi": "れんごうこく‐こくさいつうかきんゆうかいぎ",
+    "link": "/word/%E9%80%A3%E5%90%88%E5%9B%BD%E5%9B%BD%E9%9A%9B%E9%80%9A%E8%B2%A8%E9%87%91%E8%9E%8D%E4%BC%9A%E8%AD%B0/#jn-235221"
+  },
+  {
+    "kotoba": "連合国家",
+    "yomi": "れんごう‐こっか",
+    "link": "/word/%E9%80%A3%E5%90%88%E5%9B%BD%E5%AE%B6/#jn-235222"
+  },
+  {
+    "kotoba": "連合審査会",
+    "yomi": "れんごう‐しんさかい",
+    "link": "/word/%E9%80%A3%E5%90%88%E5%AF%A9%E6%9F%BB%E4%BC%9A/#jn-297251"
+  },
+  {
+    "kotoba": "連合心理学",
+    "yomi": "れんごう‐しんりがく",
+    "link": "/word/%E9%80%A3%E5%90%88%E5%BF%83%E7%90%86%E5%AD%A6/#jn-235223"
+  },
+  {
+    "kotoba": "連合政権",
+    "yomi": "れんごう‐せいけん",
+    "link": "/word/%E9%80%A3%E5%90%88%E6%94%BF%E6%A8%A9/#jn-293874"
+  },
+  {
+    "kotoba": "連合赤軍",
+    "yomi": "れんごう‐せきぐん",
+    "link": "/word/%E9%80%A3%E5%90%88%E8%B5%A4%E8%BB%8D/#jn-292198"
+  },
+  {
+    "kotoba": "連合野",
+    "yomi": "れんごう‐や",
+    "link": "/word/%E9%80%A3%E5%90%88%E9%87%8E/#jn-235224"
+  },
+  {
+    "kotoba": "連合領",
+    "yomi": "れんごう‐りょう",
+    "link": "/word/%E9%80%A3%E5%90%88%E9%A0%98/#jn-235225"
+  },
+  {
+    "kotoba": "煉獄",
+    "yomi": "れん‐ごく",
+    "link": "/word/%E7%85%89%E7%8D%84/#jn-235227"
+  },
+  {
+    "kotoba": "連鎖",
+    "yomi": "れん‐さ",
+    "link": "/word/%E9%80%A3%E9%8E%96/#jn-235231"
+  },
+  {
+    "kotoba": "連鎖",
+    "yomi": "れんさ",
+    "link": "/word/%E9%80%A3%E9%8E%96/#jn-280401"
+  },
+  {
+    "kotoba": "連載",
+    "yomi": "れん‐さい",
+    "link": "/word/%E9%80%A3%E8%BC%89/#jn-235234"
+  },
+  {
+    "kotoba": "連鎖球菌",
+    "yomi": "れんさ‐きゅうきん",
+    "link": "/word/%E9%80%A3%E9%8E%96%E7%90%83%E8%8F%8C/#jn-235235"
+  },
+  {
+    "kotoba": "連作",
+    "yomi": "れん‐さく",
+    "link": "/word/%E9%80%A3%E4%BD%9C/#jn-235236"
+  },
+  {
+    "kotoba": "連作障害",
+    "yomi": "れんさく‐しょうがい",
+    "link": "/word/%E9%80%A3%E4%BD%9C%E9%9A%9C%E5%AE%B3/#jn-255663"
+  },
+  {
+    "kotoba": "連鎖劇",
+    "yomi": "れんさ‐げき",
+    "link": "/word/%E9%80%A3%E9%8E%96%E5%8A%87/#jn-235237"
+  },
+  {
+    "kotoba": "連鎖式",
+    "yomi": "れんさ‐しき",
+    "link": "/word/%E9%80%A3%E9%8E%96%E5%BC%8F/#jn-235238"
+  },
+  {
+    "kotoba": "憐察",
+    "yomi": "れん‐さつ",
+    "link": "/word/%E6%86%90%E5%AF%9F/#jn-235240"
+  },
+  {
+    "kotoba": "連鎖店",
+    "yomi": "れんさ‐てん",
+    "link": "/word/%E9%80%A3%E9%8E%96%E5%BA%97/#jn-235241"
+  },
+  {
+    "kotoba": "連鎖反応",
+    "yomi": "れんさ‐はんのう",
+    "link": "/word/%E9%80%A3%E9%8E%96%E5%8F%8D%E5%BF%9C/#jn-235242"
+  },
+  {
+    "kotoba": "連鎖販売取引",
+    "yomi": "れんさはんばい‐とりひき",
+    "link": "/word/%E9%80%A3%E9%8E%96%E8%B2%A9%E5%A3%B2%E5%8F%96%E5%BC%95/#jn-235243"
+  },
+  {
+    "kotoba": "連座",
+    "yomi": "れん‐ざ",
+    "link": "/word/%E9%80%A3%E5%BA%A7/#jn-235232"
+  },
+  {
+    "kotoba": "蓮座",
+    "yomi": "れん‐ざ",
+    "link": "/word/%E8%93%AE%E5%BA%A7/#jn-235233"
+  },
+  {
+    "kotoba": "連座制",
+    "yomi": "れんざ‐せい",
+    "link": "/word/%E9%80%A3%E5%BA%A7%E5%88%B6/#jn-235239"
+  },
+  {
+    "kotoba": "連山",
+    "yomi": "れん‐ざん",
+    "link": "/word/%E9%80%A3%E5%B1%B1/#jn-235244"
+  },
+  {
+    "kotoba": "連枝",
+    "yomi": "れん‐し",
+    "link": "/word/%E9%80%A3%E6%9E%9D/#jn-235246"
+  },
+  {
+    "kotoba": "連詩",
+    "yomi": "れん‐し",
+    "link": "/word/%E9%80%A3%E8%A9%A9/#jn-235247"
+  },
+  {
+    "kotoba": "廉士",
+    "yomi": "れん‐し",
+    "link": "/word/%E5%BB%89%E5%A3%AB/#jn-235248"
+  },
+  {
+    "kotoba": "蓮子",
+    "yomi": "れん‐し",
+    "link": "/word/%E8%93%AE%E5%AD%90/#jn-235250"
+  },
+  {
+    "kotoba": "錬士",
+    "yomi": "れん‐し",
+    "link": "/word/%E9%8C%AC%E5%A3%AB/#jn-235251"
+  },
+  {
+    "kotoba": "恋矢",
+    "yomi": "れん‐し",
+    "link": "/word/%E6%81%8B%E7%9F%A2/#jn-242063"
+  },
+  {
+    "kotoba": "連射",
+    "yomi": "れん‐しゃ",
+    "link": "/word/%E9%80%A3%E5%B0%84/#jn-235262"
+  },
+  {
+    "kotoba": "蓮社",
+    "yomi": "れん‐しゃ",
+    "link": "/word/%E8%93%AE%E7%A4%BE/#jn-235263"
+  },
+  {
+    "kotoba": "輦車",
+    "yomi": "れん‐しゃ",
+    "link": "/word/%E8%BC%A6%E8%BB%8A/#jn-235264"
+  },
+  {
+    "kotoba": "連写",
+    "yomi": "れん‐しゃ",
+    "link": "/word/%E9%80%A3%E5%86%99/#jn-252999"
+  },
+  {
+    "kotoba": "連借",
+    "yomi": "れん‐しゃく",
+    "link": "/word/%E9%80%A3%E5%80%9F/#jn-235266"
+  },
+  {
+    "kotoba": "連取",
+    "yomi": "れん‐しゅ",
+    "link": "/word/%E9%80%A3%E5%8F%96/#jn-235272"
+  },
+  {
+    "kotoba": "練修",
+    "yomi": "れん‐しゅう",
+    "link": "/word/%E7%B7%B4%E4%BF%AE/#jn-235275"
+  },
+  {
+    "kotoba": "練習",
+    "yomi": "れん‐しゅう",
+    "link": "/word/%E7%B7%B4%E7%BF%92/#jn-235276"
+  },
+  {
+    "kotoba": "蓮宗",
+    "yomi": "れん‐しゅう",
+    "link": "/word/%E8%93%AE%E5%AE%97/#jn-235277"
+  },
+  {
+    "kotoba": "練習艦隊",
+    "yomi": "れんしゅう‐かんたい",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E8%89%A6%E9%9A%8A/#jn-235279"
+  },
+  {
+    "kotoba": "練習機",
+    "yomi": "れんしゅう‐き",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E6%A9%9F/#jn-235280"
+  },
+  {
+    "kotoba": "練習曲",
+    "yomi": "れんしゅう‐きょく",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E6%9B%B2/#jn-235281"
+  },
+  {
+    "kotoba": "練習試合",
+    "yomi": "れんしゅう‐じあい",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E8%A9%A6%E5%90%88/#jn-301290"
+  },
+  {
+    "kotoba": "練習船",
+    "yomi": "れんしゅう‐せん",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E8%88%B9/#jn-235282"
+  },
+  {
+    "kotoba": "練習台",
+    "yomi": "れんしゅう‐だい",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E5%8F%B0/#jn-270289"
+  },
+  {
+    "kotoba": "練習帳",
+    "yomi": "れんしゅうちょう",
+    "link": "/word/%E7%B7%B4%E7%BF%92%E5%B8%B3/#jn-286383"
+  },
+  {
+    "kotoba": "攣縮",
+    "yomi": "れん‐しゅく",
+    "link": "/word/%E6%94%A3%E7%B8%AE/#jn-235283"
+  },
+  {
+    "kotoba": "攣縮性斜頸",
+    "yomi": "れんしゅくせい‐しゃけい",
+    "link": "/word/%E6%94%A3%E7%B8%AE%E6%80%A7%E6%96%9C%E9%A0%B8/#jn-262483"
+  },
+  {
+    "kotoba": "連署",
+    "yomi": "れん‐しょ",
+    "link": "/word/%E9%80%A3%E7%BD%B2/#jn-235285"
+  },
+  {
+    "kotoba": "連唱",
+    "yomi": "れん‐しょう",
+    "link": "/word/%E9%80%A3%E5%94%B1/#jn-235286"
+  },
+  {
+    "kotoba": "連勝",
+    "yomi": "れん‐しょう",
+    "link": "/word/%E9%80%A3%E5%8B%9D/#jn-235287"
+  },
+  {
+    "kotoba": "連晶",
+    "yomi": "れん‐しょう",
+    "link": "/word/%E9%80%A3%E6%99%B6/#jn-300162"
+  },
+  {
+    "kotoba": "連勝式",
+    "yomi": "れんしょう‐しき",
+    "link": "/word/%E9%80%A3%E5%8B%9D%E5%BC%8F/#jn-235295"
+  },
+  {
+    "kotoba": "連勝単式",
+    "yomi": "れんしょう‐たんしき",
+    "link": "/word/%E9%80%A3%E5%8B%9D%E5%8D%98%E5%BC%8F/#jn-262484"
+  },
+  {
+    "kotoba": "連勝複式",
+    "yomi": "れんしょう‐ふくしき",
+    "link": "/word/%E9%80%A3%E5%8B%9D%E8%A4%87%E5%BC%8F/#jn-262485"
+  },
+  {
+    "kotoba": "連小惑星",
+    "yomi": "れん‐しょうわくせい",
+    "link": "/word/%E9%80%A3%E5%B0%8F%E6%83%91%E6%98%9F/#jn-298838"
+  },
+  {
+    "kotoba": "連子",
+    "yomi": "れん‐じ",
+    "link": "/word/%E9%80%A3%E5%AD%90_%28%E3%82%8C%E3%82%93%E3%81%98%29/#jn-235252"
+  },
+  {
+    "kotoba": "連字",
+    "yomi": "れん‐じ",
+    "link": "/word/%E9%80%A3%E5%AD%97/#jn-235253"
+  },
+  {
+    "kotoba": "連辞",
+    "yomi": "れん‐じ",
+    "link": "/word/%E9%80%A3%E8%BE%9E/#jn-235254"
+  },
+  {
+    "kotoba": "連獅子",
+    "yomi": "れんじし",
+    "link": "/word/%E9%80%A3%E7%8D%85%E5%AD%90/#jn-235256"
+  },
+  {
+    "kotoba": "連日",
+    "yomi": "れん‐じつ",
+    "link": "/word/%E9%80%A3%E6%97%A5/#jn-235258"
+  },
+  {
+    "kotoba": "連子窓",
+    "yomi": "れんじ‐まど",
+    "link": "/word/%E9%80%A3%E5%AD%90%E7%AA%93/#jn-235261"
+  },
+  {
+    "kotoba": "連尺",
+    "yomi": "れん‐じゃく",
+    "link": "/word/%E9%80%A3%E5%B0%BA/#jn-235267"
+  },
+  {
+    "kotoba": "連雀",
+    "yomi": "れん‐じゃく",
+    "link": "/word/%E9%80%A3%E9%9B%80/#jn-235268"
+  },
+  {
+    "kotoba": "連着",
+    "yomi": "れん‐じゃく",
+    "link": "/word/%E9%80%A3%E7%9D%80/#jn-235269"
+  },
+  {
+    "kotoba": "連珠",
+    "yomi": "れん‐じゅ",
+    "link": "/word/%E9%80%A3%E7%8F%A0/#jn-235273"
+  },
+  {
+    "kotoba": "連衆",
+    "yomi": "れん‐じゅ",
+    "link": "/word/%E9%80%A3%E8%A1%86/#jn-235274"
+  },
+  {
+    "kotoba": "連中",
+    "yomi": "れん‐じゅう",
+    "link": "/word/%E9%80%A3%E4%B8%AD_%28%E3%82%8C%E3%82%93%E3%81%98%E3%82%85%E3%81%86%29/#jn-235278"
+  },
+  {
+    "kotoba": "練熟",
+    "yomi": "れん‐じゅく",
+    "link": "/word/%E7%B7%B4%E7%86%9F/#jn-235284"
+  },
+  {
+    "kotoba": "恋情",
+    "yomi": "れん‐じょう",
+    "link": "/word/%E6%81%8B%E6%83%85/#jn-235288"
+  },
+  {
+    "kotoba": "連声",
+    "yomi": "れん‐じょう",
+    "link": "/word/%E9%80%A3%E5%A3%B0/#jn-235289"
+  },
+  {
+    "kotoba": "連乗",
+    "yomi": "れん‐じょう",
+    "link": "/word/%E9%80%A3%E4%B9%97/#jn-235290"
+  },
+  {
+    "kotoba": "連城",
+    "yomi": "れん‐じょう",
+    "link": "/word/%E9%80%A3%E5%9F%8E/#jn-235291"
+  },
+  {
+    "kotoba": "廉譲",
+    "yomi": "れん‐じょう",
+    "link": "/word/%E5%BB%89%E8%AD%B2/#jn-235293"
+  },
+  {
+    "kotoba": "憐情",
+    "yomi": "れん‐じょう",
+    "link": "/word/%E6%86%90%E6%83%85/#jn-235294"
+  },
+  {
+    "kotoba": "連乗積",
+    "yomi": "れんじょう‐せき",
+    "link": "/word/%E9%80%A3%E4%B9%97%E7%A9%8D/#jn-235296"
+  },
+  {
+    "kotoba": "連城三紀彦",
+    "yomi": "れんじょう‐みきひこ",
+    "link": "/word/person/%E9%80%A3%E5%9F%8E%E4%B8%89%E7%B4%80%E5%BD%A6/#jn-235297"
+  },
+  {
+    "kotoba": "連星",
+    "yomi": "れん‐せい",
+    "link": "/word/%E9%80%A3%E6%98%9F/#jn-235307"
+  },
+  {
+    "kotoba": "廉正",
+    "yomi": "れん‐せい",
+    "link": "/word/%E5%BB%89%E6%AD%A3/#jn-235310"
+  },
+  {
+    "kotoba": "練成",
+    "yomi": "れん‐せい",
+    "link": "/word/%E7%B7%B4%E6%88%90/#jn-235308"
+  },
+  {
+    "kotoba": "簾政",
+    "yomi": "れん‐せい",
+    "link": "/word/%E7%B0%BE%E6%94%BF/#jn-235309"
+  },
+  {
+    "kotoba": "連星小惑星",
+    "yomi": "れんせい‐しょうわくせい",
+    "link": "/word/%E9%80%A3%E6%98%9F%E5%B0%8F%E6%83%91%E6%98%9F/#jn-298839"
+  },
+  {
+    "kotoba": "連成振動",
+    "yomi": "れんせい‐しんどう",
+    "link": "/word/%E9%80%A3%E6%88%90%E6%8C%AF%E5%8B%95/#jn-292199"
+  },
+  {
+    "kotoba": "連星中性子星",
+    "yomi": "れんせい‐ちゅうせいしせい",
+    "link": "/word/%E9%80%A3%E6%98%9F%E4%B8%AD%E6%80%A7%E5%AD%90%E6%98%9F/#jn-293876"
+  },
+  {
+    "kotoba": "憐惜",
+    "yomi": "れん‐せき",
+    "link": "/word/%E6%86%90%E6%83%9C/#jn-235311"
+  },
+  {
+    "kotoba": "連接",
+    "yomi": "れん‐せつ",
+    "link": "/word/%E9%80%A3%E6%8E%A5/#jn-235312"
+  },
+  {
+    "kotoba": "廉節",
+    "yomi": "れん‐せつ",
+    "link": "/word/%E5%BB%89%E7%AF%80/#jn-235313"
+  },
+  {
+    "kotoba": "連接棒",
+    "yomi": "れんせつ‐ぼう",
+    "link": "/word/%E9%80%A3%E6%8E%A5%E6%A3%92/#jn-235314"
+  },
+  {
+    "kotoba": "連戦",
+    "yomi": "れん‐せん",
+    "link": "/word/%E9%80%A3%E6%88%A6/#jn-235315"
+  },
+  {
+    "kotoba": "連銭",
+    "yomi": "れん‐ぜん",
+    "link": "/word/%E9%80%A3%E9%8A%AD/#jn-235316"
+  },
+  {
+    "kotoba": "連戦連勝",
+    "yomi": "れんせん‐れんしょう",
+    "link": "/word/%E9%80%A3%E6%88%A6%E9%80%A3%E5%8B%9D/#jn-235318"
+  },
+  {
+    "kotoba": "連銭葦毛",
+    "yomi": "れんぜん‐あしげ",
+    "link": "/word/%E9%80%A3%E9%8A%AD%E8%91%A6%E6%AF%9B/#jn-235317"
+  },
+  {
+    "kotoba": "連奏",
+    "yomi": "れん‐そう",
+    "link": "/word/%E9%80%A3%E5%A5%8F/#jn-235319"
+  },
+  {
+    "kotoba": "連装",
+    "yomi": "れん‐そう",
+    "link": "/word/%E9%80%A3%E8%A3%85/#jn-235320"
+  },
+  {
+    "kotoba": "連想",
+    "yomi": "れん‐そう",
+    "link": "/word/%E9%80%A3%E6%83%B3/#jn-235321"
+  },
+  {
+    "kotoba": "斂葬",
+    "yomi": "れん‐そう",
+    "link": "/word/%E6%96%82%E8%91%AC/#jn-235322"
+  },
+  {
+    "kotoba": "連想検査",
+    "yomi": "れんそう‐けんさ",
+    "link": "/word/%E9%80%A3%E6%83%B3%E6%A4%9C%E6%9F%BB/#jn-235323"
+  },
+  {
+    "kotoba": "聯想集団",
+    "yomi": "れんそう‐しゅうだん",
+    "link": "/word/%E8%81%AF%E6%83%B3%E9%9B%86%E5%9B%A3/#jn-248751"
+  },
+  {
+    "kotoba": "連双窓",
+    "yomi": "れんそう‐まど",
+    "link": "/word/%E9%80%A3%E5%8F%8C%E7%AA%93/#jn-235324"
+  },
+  {
+    "kotoba": "連続",
+    "yomi": "れん‐ぞく",
+    "link": "/word/%E9%80%A3%E7%B6%9A/#jn-235325"
+  },
+  {
+    "kotoba": "連続関数",
+    "yomi": "れんぞく‐かんすう",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E9%96%A2%E6%95%B0/#jn-235326"
+  },
+  {
+    "kotoba": "連続起業家",
+    "yomi": "れんぞく‐きぎょうか",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E8%B5%B7%E6%A5%AD%E5%AE%B6/#jn-274668"
+  },
+  {
+    "kotoba": "連続紙",
+    "yomi": "れんぞく‐し",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E7%B4%99/#jn-288301"
+  },
+  {
+    "kotoba": "連続写真",
+    "yomi": "れんぞく‐しゃしん",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E5%86%99%E7%9C%9F/#jn-284439"
+  },
+  {
+    "kotoba": "連続通話時間",
+    "yomi": "れんぞく‐つうわじかん",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E9%80%9A%E8%A9%B1%E6%99%82%E9%96%93/#jn-276662"
+  },
+  {
+    "kotoba": "連続犯",
+    "yomi": "れんぞく‐はん",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E7%8A%AF/#jn-235329"
+  },
+  {
+    "kotoba": "連続反応",
+    "yomi": "れんぞく‐はんのう",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E5%8F%8D%E5%BF%9C/#jn-255665"
+  },
+  {
+    "kotoba": "連続用紙",
+    "yomi": "れんぞく‐ようし",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E7%94%A8%E7%B4%99/#jn-235330"
+  },
+  {
+    "kotoba": "連続立体交差事業",
+    "yomi": "れんぞくりったいこうさ‐じぎょう",
+    "link": "/word/%E9%80%A3%E7%B6%9A%E7%AB%8B%E4%BD%93%E4%BA%A4%E5%B7%AE%E4%BA%8B%E6%A5%AD/#jn-278485"
+  },
+  {
+    "kotoba": "連体",
+    "yomi": "れん‐たい",
+    "link": "/word/%E9%80%A3%E4%BD%93/#jn-235333"
+  },
+  {
+    "kotoba": "連帯",
+    "yomi": "れん‐たい",
+    "link": "/word/%E9%80%A3%E5%B8%AF/#jn-235334"
+  },
+  {
+    "kotoba": "連隊",
+    "yomi": "れん‐たい",
+    "link": "/word/%E9%80%A3%E9%9A%8A/#jn-235335"
+  },
+  {
+    "kotoba": "連帯感",
+    "yomi": "れんたい‐かん",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E6%84%9F/#jn-304129"
+  },
+  {
+    "kotoba": "連隊旗",
+    "yomi": "れんたい‐き",
+    "link": "/word/%E9%80%A3%E9%9A%8A%E6%97%97/#jn-235339"
+  },
+  {
+    "kotoba": "連体形",
+    "yomi": "れんたい‐けい",
+    "link": "/word/%E9%80%A3%E4%BD%93%E5%BD%A2/#jn-235340"
+  },
+  {
+    "kotoba": "連体言",
+    "yomi": "れんたい‐げん",
+    "link": "/word/%E9%80%A3%E4%BD%93%E8%A8%80/#jn-235341"
+  },
+  {
+    "kotoba": "連帯債務",
+    "yomi": "れんたい‐さいむ",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E5%82%B5%E5%8B%99/#jn-235342"
+  },
+  {
+    "kotoba": "連体詞",
+    "yomi": "れんたい‐し",
+    "link": "/word/%E9%80%A3%E4%BD%93%E8%A9%9E/#jn-235343"
+  },
+  {
+    "kotoba": "連帯市民協約",
+    "yomi": "れんたいしみん‐きょうやく",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E5%B8%82%E6%B0%91%E5%8D%94%E7%B4%84/#jn-242065"
+  },
+  {
+    "kotoba": "連帯借",
+    "yomi": "れんたい‐しゃく",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E5%80%9F/#jn-235345"
+  },
+  {
+    "kotoba": "連体修飾語",
+    "yomi": "れんたい‐しゅうしょくご",
+    "link": "/word/%E9%80%A3%E4%BD%93%E4%BF%AE%E9%A3%BE%E8%AA%9E/#jn-235346"
+  },
+  {
+    "kotoba": "連帯責任",
+    "yomi": "れんたい‐せきにん",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E8%B2%AC%E4%BB%BB/#jn-235347"
+  },
+  {
+    "kotoba": "連帯税",
+    "yomi": "れんたい‐ぜい",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E7%A8%8E/#jn-297252"
+  },
+  {
+    "kotoba": "連隊長",
+    "yomi": "れんたい‐ちょう",
+    "link": "/word/%E9%80%A3%E9%9A%8A%E9%95%B7/#jn-235348"
+  },
+  {
+    "kotoba": "連帯付加税",
+    "yomi": "れんたい‐ふかぜい",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E4%BB%98%E5%8A%A0%E7%A8%8E/#jn-297253"
+  },
+  {
+    "kotoba": "連帯保証",
+    "yomi": "れんたい‐ほしょう",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E4%BF%9D%E8%A8%BC/#jn-235350"
+  },
+  {
+    "kotoba": "連帯保証人",
+    "yomi": "れんたいほしょう‐にん",
+    "link": "/word/%E9%80%A3%E5%B8%AF%E4%BF%9D%E8%A8%BC%E4%BA%BA/#jn-235351"
+  },
+  {
+    "kotoba": "練達",
+    "yomi": "れん‐たつ",
+    "link": "/word/%E7%B7%B4%E9%81%94/#jn-235356"
+  },
+  {
+    "kotoba": "連単",
+    "yomi": "れん‐たん",
+    "link": "/word/%E9%80%A3%E5%8D%98/#jn-235365"
+  },
+  {
+    "kotoba": "練丹",
+    "yomi": "れん‐たん",
+    "link": "/word/%E7%B7%B4%E4%B8%B9/#jn-235366"
+  },
+  {
+    "kotoba": "練炭",
+    "yomi": "れん‐たん",
+    "link": "/word/%E7%B7%B4%E7%82%AD/#jn-235367"
+  },
+  {
+    "kotoba": "連打",
+    "yomi": "れん‐だ",
+    "link": "/word/%E9%80%A3%E6%89%93/#jn-235332"
+  },
+  {
+    "kotoba": "蓮台",
+    "yomi": "れん‐だい",
+    "link": "/word/%E8%93%AE%E5%8F%B0/#jn-235336"
+  },
+  {
+    "kotoba": "輦台",
+    "yomi": "れん‐だい",
+    "link": "/word/%E8%BC%A6%E5%8F%B0/#jn-235337"
+  },
+  {
+    "kotoba": "簾台",
+    "yomi": "れん‐だい",
+    "link": "/word/%E7%B0%BE%E5%8F%B0/#jn-235338"
+  },
+  {
+    "kotoba": "蓮台寺温泉",
+    "yomi": "れんだいじ‐おんせん",
+    "link": "/word/%E8%93%AE%E5%8F%B0%E5%AF%BA%E6%B8%A9%E6%B3%89/#jn-235344"
+  },
+  {
+    "kotoba": "蓮台野",
+    "yomi": "れんだい‐の",
+    "link": "/word/%E8%93%AE%E5%8F%B0%E9%87%8E/#jn-235349"
+  },
+  {
+    "kotoba": "連濁",
+    "yomi": "れん‐だく",
+    "link": "/word/%E9%80%A3%E6%BF%81/#jn-235354"
+  },
+  {
+    "kotoba": "連弾",
+    "yomi": "れん‐だん",
+    "link": "/word/%E9%80%A3%E5%BC%BE/#jn-235368"
+  },
+  {
+    "kotoba": "廉恥",
+    "yomi": "れん‐ち",
+    "link": "/word/%E5%BB%89%E6%81%A5/#jn-235369"
+  },
+  {
+    "kotoba": "蓮池",
+    "yomi": "れん‐ち",
+    "link": "/word/%E8%93%AE%E6%B1%A0_%28%E3%82%8C%E3%82%93%E3%81%A1%29/#jn-235370"
+  },
+  {
+    "kotoba": "廉恥心",
+    "yomi": "れんち‐しん",
+    "link": "/word/%E5%BB%89%E6%81%A5%E5%BF%83/#jn-235372"
+  },
+  {
+    "kotoba": "恋着",
+    "yomi": "れん‐ちゃく",
+    "link": "/word/%E6%81%8B%E7%9D%80/#jn-235373"
+  },
+  {
+    "kotoba": "連荘",
+    "yomi": "レンチャン",
+    "link": "/word/%E9%80%A3%E8%8D%98/#jn-235374"
+  },
+  {
+    "kotoba": "連中",
+    "yomi": "れん‐ちゅう",
+    "link": "/word/%E9%80%A3%E4%B8%AD_%28%E3%82%8C%E3%82%93%E3%81%A1%E3%82%85%E3%81%86%29/#jn-235375"
+  },
+  {
+    "kotoba": "簾中",
+    "yomi": "れん‐ちゅう",
+    "link": "/word/%E7%B0%BE%E4%B8%AD/#jn-235376"
+  },
+  {
+    "kotoba": "連長圧縮",
+    "yomi": "れんちょう‐あっしゅく",
+    "link": "/word/%E9%80%A3%E9%95%B7%E5%9C%A7%E7%B8%AE/#jn-267372"
+  },
+  {
+    "kotoba": "連長符号化",
+    "yomi": "れんちょう‐ふごうか",
+    "link": "/word/%E9%80%A3%E9%95%B7%E7%AC%A6%E5%8F%B7%E5%8C%96/#jn-267373"
+  },
+  {
+    "kotoba": "廉直",
+    "yomi": "れん‐ちょく",
+    "link": "/word/%E5%BB%89%E7%9B%B4/#jn-235378"
+  },
+  {
+    "kotoba": "連通管",
+    "yomi": "れんつう‐かん",
+    "link": "/word/%E9%80%A3%E9%80%9A%E7%AE%A1/#jn-235382"
+  },
+  {
+    "kotoba": "錬鉄",
+    "yomi": "れん‐てつ",
+    "link": "/word/%E9%8C%AC%E9%89%84/#jn-235385"
+  },
+  {
+    "kotoba": "連投",
+    "yomi": "れん‐とう",
+    "link": "/word/%E9%80%A3%E6%8A%95/#jn-235390"
+  },
+  {
+    "kotoba": "連動",
+    "yomi": "れん‐どう",
+    "link": "/word/%E9%80%A3%E5%8B%95/#jn-235391"
+  },
+  {
+    "kotoba": "輦道",
+    "yomi": "れん‐どう",
+    "link": "/word/%E8%BC%A6%E9%81%93/#jn-235392"
+  },
+  {
+    "kotoba": "連動型地震",
+    "yomi": "れんどうがた‐じしん",
+    "link": "/word/%E9%80%A3%E5%8B%95%E5%9E%8B%E5%9C%B0%E9%9C%87/#jn-253001"
+  },
+  {
+    "kotoba": "連動機",
+    "yomi": "れんどう‐き",
+    "link": "/word/%E9%80%A3%E5%8B%95%E6%A9%9F/#jn-235393"
+  },
+  {
+    "kotoba": "連動地震",
+    "yomi": "れんどう‐じしん",
+    "link": "/word/%E9%80%A3%E5%8B%95%E5%9C%B0%E9%9C%87/#jn-253002"
+  },
+  {
+    "kotoba": "連読",
+    "yomi": "れん‐どく",
+    "link": "/word/%E9%80%A3%E8%AA%AD/#jn-235394"
+  },
+  {
+    "kotoba": "簾内",
+    "yomi": "れん‐ない",
+    "link": "/word/%E7%B0%BE%E5%86%85/#jn-235404"
+  },
+  {
+    "kotoba": "練若",
+    "yomi": "れんにゃ",
+    "link": "/word/%E7%B7%B4%E8%8B%A5/#jn-235405"
+  },
+  {
+    "kotoba": "練乳",
+    "yomi": "れん‐にゅう",
+    "link": "/word/%E7%B7%B4%E4%B9%B3/#jn-235406"
+  },
+  {
+    "kotoba": "蓮如",
+    "yomi": "れんにょ",
+    "link": "/word/person/%E8%93%AE%E5%A6%82/#jn-235407"
+  },
+  {
+    "kotoba": "連年",
+    "yomi": "れん‐ねん",
+    "link": "/word/%E9%80%A3%E5%B9%B4/#jn-235411"
+  },
+  {
+    "kotoba": "廉売",
+    "yomi": "れん‐ばい",
+    "link": "/word/%E5%BB%89%E5%A3%B2/#jn-235415"
+  },
+  {
+    "kotoba": "連番",
+    "yomi": "れん‐ばん",
+    "link": "/word/%E9%80%A3%E7%95%AA/#jn-235420"
+  },
+  {
+    "kotoba": "連判",
+    "yomi": "れん‐ぱん",
+    "link": "/word/%E9%80%A3%E5%88%A4/#jn-235421"
+  },
+  {
+    "kotoba": "連破",
+    "yomi": "れん‐ぱ",
+    "link": "/word/%E9%80%A3%E7%A0%B4/#jn-235412"
+  },
+  {
+    "kotoba": "連覇",
+    "yomi": "れん‐ぱ",
+    "link": "/word/%E9%80%A3%E8%A6%87/#jn-235413"
+  },
+  {
+    "kotoba": "廉頗",
+    "yomi": "れん‐ぱ",
+    "link": "/word/person/%E5%BB%89%E9%A0%97/#jn-235414"
+  },
+  {
+    "kotoba": "連俳",
+    "yomi": "れん‐ぱい",
+    "link": "/word/%E9%80%A3%E4%BF%B3/#jn-235416"
+  },
+  {
+    "kotoba": "連敗",
+    "yomi": "れん‐ぱい",
+    "link": "/word/%E9%80%A3%E6%95%97/#jn-235417"
+  },
+  {
+    "kotoba": "連俳小史",
+    "yomi": "れんぱいしょうし",
+    "link": "/word/%E9%80%A3%E4%BF%B3%E5%B0%8F%E5%8F%B2/#jn-280403"
+  },
+  {
+    "kotoba": "連泊",
+    "yomi": "れん‐ぱく",
+    "link": "/word/%E9%80%A3%E6%B3%8A/#jn-253003"
+  },
+  {
+    "kotoba": "連発",
+    "yomi": "れん‐ぱつ",
+    "link": "/word/%E9%80%A3%E7%99%BA/#jn-235418"
+  },
+  {
+    "kotoba": "連発銃",
+    "yomi": "れんぱつ‐じゅう",
+    "link": "/word/%E9%80%A3%E7%99%BA%E9%8A%83/#jn-235419"
+  },
+  {
+    "kotoba": "連発反応",
+    "yomi": "れんぱつ‐はんのう",
+    "link": "/word/%E9%80%A3%E7%99%BA%E5%8F%8D%E5%BF%9C/#jn-255667"
+  },
+  {
+    "kotoba": "連判銀",
+    "yomi": "れんぱん‐がね",
+    "link": "/word/%E9%80%A3%E5%88%A4%E9%8A%80/#jn-235422"
+  },
+  {
+    "kotoba": "連判状",
+    "yomi": "れんぱん‐じょう",
+    "link": "/word/%E9%80%A3%E5%88%A4%E7%8A%B6/#jn-235423"
+  },
+  {
+    "kotoba": "憐憫",
+    "yomi": "れん‐びん",
+    "link": "/word/%E6%86%90%E6%86%AB/#jn-235425"
+  },
+  {
+    "kotoba": "連比",
+    "yomi": "れん‐ぴ",
+    "link": "/word/%E9%80%A3%E6%AF%94/#jn-235424"
+  },
+  {
+    "kotoba": "練武",
+    "yomi": "れん‐ぶ",
+    "link": "/word/%E7%B7%B4%E6%AD%A6/#jn-235426"
+  },
+  {
+    "kotoba": "蓮霧",
+    "yomi": "れん‐ぶ",
+    "link": "/word/%E8%93%AE%E9%9C%A7/#jn-295549"
+  },
+  {
+    "kotoba": "連文節",
+    "yomi": "れん‐ぶんせつ",
+    "link": "/word/%E9%80%A3%E6%96%87%E7%AF%80/#jn-235433"
+  },
+  {
+    "kotoba": "連文節変換",
+    "yomi": "れんぶんせつ‐へんかん",
+    "link": "/word/%E9%80%A3%E6%96%87%E7%AF%80%E5%A4%89%E6%8F%9B/#jn-235434"
+  },
+  {
+    "kotoba": "蓮府",
+    "yomi": "れん‐ぷ",
+    "link": "/word/%E8%93%AE%E5%BA%9C/#jn-235427"
+  },
+  {
+    "kotoba": "臉譜",
+    "yomi": "れん‐ぷ",
+    "link": "/word/%E8%87%89%E8%AD%9C/#jn-235428"
+  },
+  {
+    "kotoba": "連複",
+    "yomi": "れん‐ぷく",
+    "link": "/word/%E9%80%A3%E8%A4%87/#jn-235429"
+  },
+  {
+    "kotoba": "連福草",
+    "yomi": "れんぷく‐そう",
+    "link": "/word/%E9%80%A3%E7%A6%8F%E8%8D%89/#jn-235430"
+  },
+  {
+    "kotoba": "連袂",
+    "yomi": "れん‐べい",
+    "link": "/word/%E9%80%A3%E8%A2%82/#jn-235435"
+  },
+  {
+    "kotoba": "練兵",
+    "yomi": "れん‐ぺい",
+    "link": "/word/%E7%B7%B4%E5%85%B5/#jn-235436"
+  },
+  {
+    "kotoba": "練兵場",
+    "yomi": "れんぺい‐じょう",
+    "link": "/word/%E7%B7%B4%E5%85%B5%E5%A0%B4/#jn-235437"
+  },
+  {
+    "kotoba": "恋慕",
+    "yomi": "れん‐ぼ",
+    "link": "/word/%E6%81%8B%E6%85%95/#jn-235438"
+  },
+  {
+    "kotoba": "練歩",
+    "yomi": "れん‐ぽ",
+    "link": "/word/%E7%B7%B4%E6%AD%A9/#jn-235439"
+  },
+  {
+    "kotoba": "蓮歩",
+    "yomi": "れん‐ぽ",
+    "link": "/word/%E8%93%AE%E6%AD%A9/#jn-235440"
+  },
+  {
+    "kotoba": "連邦",
+    "yomi": "れん‐ぽう",
+    "link": "/word/%E9%80%A3%E9%82%A6/#jn-235441"
+  },
+  {
+    "kotoba": "連峰",
+    "yomi": "れん‐ぽう",
+    "link": "/word/%E9%80%A3%E5%B3%B0/#jn-235442"
+  },
+  {
+    "kotoba": "連邦環境保護庁",
+    "yomi": "れんぽう‐かんきょうほごちょう",
+    "link": "/word/%E9%80%A3%E9%82%A6%E7%92%B0%E5%A2%83%E4%BF%9D%E8%AD%B7%E5%BA%81/#jn-235443"
+  },
+  {
+    "kotoba": "連邦緊急事態管理庁",
+    "yomi": "れんぽう‐きんきゅうじたいかんりちょう",
+    "link": "/word/%E9%80%A3%E9%82%A6%E7%B7%8A%E6%80%A5%E4%BA%8B%E6%85%8B%E7%AE%A1%E7%90%86%E5%BA%81/#jn-235444"
+  },
+  {
+    "kotoba": "連邦公開市場委員会",
+    "yomi": "れんぽう‐こうかいしじょういいんかい",
+    "link": "/word/%E9%80%A3%E9%82%A6%E5%85%AC%E9%96%8B%E5%B8%82%E5%A0%B4%E5%A7%94%E5%93%A1%E4%BC%9A/#jn-235445"
+  },
+  {
+    "kotoba": "連邦公会堂",
+    "yomi": "れんぽう‐こうかいどう",
+    "link": "/word/%E9%80%A3%E9%82%A6%E5%85%AC%E4%BC%9A%E5%A0%82/#jn-303518"
+  },
+  {
+    "kotoba": "連邦準備銀行",
+    "yomi": "れんぽう‐じゅんびぎんこう",
+    "link": "/word/%E9%80%A3%E9%82%A6%E6%BA%96%E5%82%99%E9%8A%80%E8%A1%8C/#jn-235446"
+  },
+  {
+    "kotoba": "連邦準備制度",
+    "yomi": "れんぽう‐じゅんびせいど",
+    "link": "/word/%E9%80%A3%E9%82%A6%E6%BA%96%E5%82%99%E5%88%B6%E5%BA%A6/#jn-235447"
+  },
+  {
+    "kotoba": "連邦準備制度理事会",
+    "yomi": "れんぽう‐じゅんびせいどりじかい",
+    "link": "/word/%E9%80%A3%E9%82%A6%E6%BA%96%E5%82%99%E5%88%B6%E5%BA%A6%E7%90%86%E4%BA%8B%E4%BC%9A/#jn-235448"
+  },
+  {
+    "kotoba": "連邦貯蓄金融機関",
+    "yomi": "れんぽう‐ちょちくきんゆうきかん",
+    "link": "/word/%E9%80%A3%E9%82%A6%E8%B2%AF%E8%93%84%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2/#jn-302537"
+  },
+  {
+    "kotoba": "連邦通信委員会",
+    "yomi": "れんぽう‐つうしんいいんかい",
+    "link": "/word/%E9%80%A3%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%93%A1%E4%BC%9A/#jn-235449"
+  },
+  {
+    "kotoba": "連邦破産法",
+    "yomi": "れんぽう‐はさんほう",
+    "link": "/word/%E9%80%A3%E9%82%A6%E7%A0%B4%E7%94%A3%E6%B3%95/#jn-235450"
+  },
+  {
+    "kotoba": "連邦法",
+    "yomi": "れんぽう‐ほう",
+    "link": "/word/%E9%80%A3%E9%82%A6%E6%B3%95/#jn-267374"
+  },
+  {
+    "kotoba": "連邦預金保険公社",
+    "yomi": "れんぽう‐よきんほけんこうしゃ",
+    "link": "/word/%E9%80%A3%E9%82%A6%E9%A0%90%E9%87%91%E4%BF%9D%E9%99%BA%E5%85%AC%E7%A4%BE/#jn-235451"
+  },
+  {
+    "kotoba": "練磨",
+    "yomi": "れん‐ま",
+    "link": "/word/%E7%B7%B4%E7%A3%A8/#jn-235453"
+  },
+  {
+    "kotoba": "連名",
+    "yomi": "れん‐みょう",
+    "link": "/word/%E9%80%A3%E5%90%8D/#jn-235455"
+  },
+  {
+    "kotoba": "憐憫",
+    "yomi": "れん‐みん",
+    "link": "/word/%E6%86%90%E6%86%AB/#jn-235456"
+  },
+  {
+    "kotoba": "連名",
+    "yomi": "れん‐めい",
+    "link": "/word/%E9%80%A3%E5%90%8D/#jn-235457"
+  },
+  {
+    "kotoba": "連盟",
+    "yomi": "れん‐めい",
+    "link": "/word/%E9%80%A3%E7%9B%9F/#jn-235458"
+  },
+  {
+    "kotoba": "連綿",
+    "yomi": "れん‐めん",
+    "link": "/word/%E9%80%A3%E7%B6%BF/#jn-235459"
+  },
+  {
+    "kotoba": "連綿体",
+    "yomi": "れんめん‐たい",
+    "link": "/word/%E9%80%A3%E7%B6%BF%E4%BD%93/#jn-235460"
+  },
+  {
+    "kotoba": "蓮門",
+    "yomi": "れん‐もん",
+    "link": "/word/%E8%93%AE%E9%96%80/#jn-235461"
+  },
+  {
+    "kotoba": "蓮門教",
+    "yomi": "れんもん‐きょう",
+    "link": "/word/%E8%93%AE%E9%96%80%E6%95%99/#jn-235462"
+  },
+  {
+    "kotoba": "連夜",
+    "yomi": "れん‐や",
+    "link": "/word/%E9%80%A3%E5%A4%9C/#jn-235463"
+  },
+  {
+    "kotoba": "練薬",
+    "yomi": "れん‐やく",
+    "link": "/word/%E7%B7%B4%E8%96%AC_%28%E3%82%8C%E3%82%93%E3%82%84%E3%81%8F%29/#jn-235464"
+  },
+  {
+    "kotoba": "輦輿",
+    "yomi": "れん‐よ",
+    "link": "/word/%E8%BC%A6%E8%BC%BF/#jn-235465"
+  },
+  {
+    "kotoba": "連用",
+    "yomi": "れん‐よう",
+    "link": "/word/%E9%80%A3%E7%94%A8/#jn-235466"
+  },
+  {
+    "kotoba": "連用形",
+    "yomi": "れんよう‐けい",
+    "link": "/word/%E9%80%A3%E7%94%A8%E5%BD%A2/#jn-235467"
+  },
+  {
+    "kotoba": "連用言",
+    "yomi": "れんよう‐げん",
+    "link": "/word/%E9%80%A3%E7%94%A8%E8%A8%80/#jn-235468"
+  },
+  {
+    "kotoba": "連用修飾語",
+    "yomi": "れんよう‐しゅうしょくご",
+    "link": "/word/%E9%80%A3%E7%94%A8%E4%BF%AE%E9%A3%BE%E8%AA%9E/#jn-235469"
+  },
+  {
+    "kotoba": "連用日記",
+    "yomi": "れんよう‐にっき",
+    "link": "/word/%E9%80%A3%E7%94%A8%E6%97%A5%E8%A8%98/#jn-248752"
+  },
+  {
+    "kotoba": "連絡",
+    "yomi": "れん‐らく",
+    "link": "/word/%E9%80%A3%E7%B5%A1/#jn-235470"
+  },
+  {
+    "kotoba": "連絡員",
+    "yomi": "れんらくいん",
+    "link": "/word/%E9%80%A3%E7%B5%A1%E5%93%A1/#jn-267375"
+  },
+  {
+    "kotoba": "連絡橋",
+    "yomi": "れんらく‐きょう",
+    "link": "/word/%E9%80%A3%E7%B5%A1%E6%A9%8B/#jn-302538"
+  },
+  {
+    "kotoba": "連絡先",
+    "yomi": "れんらく‐さき",
+    "link": "/word/%E9%80%A3%E7%B5%A1%E5%85%88/#jn-270294"
+  },
+  {
+    "kotoba": "連絡船",
+    "yomi": "れんらく‐せん",
+    "link": "/word/%E9%80%A3%E7%B5%A1%E8%88%B9/#jn-235472"
+  },
+  {
+    "kotoba": "連絡帳",
+    "yomi": "れんらく‐ちょう",
+    "link": "/word/%E9%80%A3%E7%B5%A1%E5%B8%B3/#jn-267376"
+  },
+  {
+    "kotoba": "連絡網",
+    "yomi": "れんらく‐もう",
+    "link": "/word/%E9%80%A3%E7%B5%A1%E7%B6%B2/#jn-248753"
+  },
+  {
+    "kotoba": "連理",
+    "yomi": "れん‐り",
+    "link": "/word/%E9%80%A3%E7%90%86/#jn-235473"
+  },
+  {
+    "kotoba": "廉吏",
+    "yomi": "れん‐り",
+    "link": "/word/%E5%BB%89%E5%90%8F/#jn-235474"
+  },
+  {
+    "kotoba": "連理草",
+    "yomi": "れんり‐そう",
+    "link": "/word/%E9%80%A3%E7%90%86%E8%8D%89/#jn-235475"
+  },
+  {
+    "kotoba": "連立",
+    "yomi": "れん‐りつ",
+    "link": "/word/%E9%80%A3%E7%AB%8B/#jn-235476"
+  },
+  {
+    "kotoba": "連立政権",
+    "yomi": "れんりつ‐せいけん",
+    "link": "/word/%E9%80%A3%E7%AB%8B%E6%94%BF%E6%A8%A9/#jn-235477"
+  },
+  {
+    "kotoba": "連立内閣",
+    "yomi": "れんりつ‐ないかく",
+    "link": "/word/%E9%80%A3%E7%AB%8B%E5%86%85%E9%96%A3/#jn-235478"
+  },
+  {
+    "kotoba": "連立方程式",
+    "yomi": "れんりつ‐ほうていしき",
+    "link": "/word/%E9%80%A3%E7%AB%8B%E6%96%B9%E7%A8%8B%E5%BC%8F/#jn-235479"
+  },
+  {
+    "kotoba": "連立与党",
+    "yomi": "れんりつ‐よとう",
+    "link": "/word/%E9%80%A3%E7%AB%8B%E4%B8%8E%E5%85%9A/#jn-293877"
+  },
+  {
+    "kotoba": "連理秘抄",
+    "yomi": "れんりひしょう",
+    "link": "/word/%E9%80%A3%E7%90%86%E7%A7%98%E6%8A%84/#jn-235483"
+  },
+  {
+    "kotoba": "連累",
+    "yomi": "れん‐るい",
+    "link": "/word/%E9%80%A3%E7%B4%AF/#jn-235484"
+  },
+  {
+    "kotoba": "連類",
+    "yomi": "れん‐るい",
+    "link": "/word/%E9%80%A3%E9%A1%9E/#jn-235485"
+  },
+  {
+    "kotoba": "恋恋",
+    "yomi": "れん‐れん",
+    "link": "/word/%E6%81%8B%E6%81%8B/#jn-235486"
+  },
+  {
+    "kotoba": "連連",
+    "yomi": "れん‐れん",
+    "link": "/word/%E9%80%A3%E9%80%A3/#jn-235487"
+  },
+  {
+    "kotoba": "漣漣",
+    "yomi": "れん‐れん",
+    "link": "/word/%E6%BC%A3%E6%BC%A3/#jn-235488"
+  },
+  {
+    "kotoba": "人人網",
+    "yomi": "レンレンワン",
+    "link": "/word/%E4%BA%BA%E4%BA%BA%E7%B6%B2/#jn-260065"
+  },
+  {
+    "kotoba": "輦路",
+    "yomi": "れん‐ろ",
+    "link": "/word/%E8%BC%A6%E8%B7%AF/#jn-235489"
+  }
+]

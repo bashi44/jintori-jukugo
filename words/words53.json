@@ -1,0 +1,937 @@
+[
+  {
+    "kotoba": "図合船",
+    "yomi": "ずあい‐ぶね",
+    "link": "/word/%E5%9B%B3%E5%90%88%E8%88%B9/#jn-116077"
+  },
+  {
+    "kotoba": "図案",
+    "yomi": "ず‐あん",
+    "link": "/word/%E5%9B%B3%E6%A1%88/#jn-116085"
+  },
+  {
+    "kotoba": "随意",
+    "yomi": "ずい‐い",
+    "link": "/word/%E9%9A%8F%E6%84%8F/#jn-116148"
+  },
+  {
+    "kotoba": "随意運動",
+    "yomi": "ずいい‐うんどう",
+    "link": "/word/%E9%9A%8F%E6%84%8F%E9%81%8B%E5%8B%95/#jn-116149"
+  },
+  {
+    "kotoba": "随意筋",
+    "yomi": "ずいい‐きん",
+    "link": "/word/%E9%9A%8F%E6%84%8F%E7%AD%8B/#jn-116151"
+  },
+  {
+    "kotoba": "随意契約",
+    "yomi": "ずいい‐けいやく",
+    "link": "/word/%E9%9A%8F%E6%84%8F%E5%A5%91%E7%B4%84/#jn-116153"
+  },
+  {
+    "kotoba": "随一",
+    "yomi": "ずい‐いち",
+    "link": "/word/%E9%9A%8F%E4%B8%80/#jn-116155"
+  },
+  {
+    "kotoba": "随意念誦",
+    "yomi": "ずいい‐ねんじゅ",
+    "link": "/word/%E9%9A%8F%E6%84%8F%E5%BF%B5%E8%AA%A6/#jn-116170"
+  },
+  {
+    "kotoba": "随員",
+    "yomi": "ずい‐いん",
+    "link": "/word/%E9%9A%8F%E5%93%A1/#jn-116177"
+  },
+  {
+    "kotoba": "瑞雨",
+    "yomi": "ずい‐う",
+    "link": "/word/%E7%91%9E%E9%9B%A8/#jn-116179"
+  },
+  {
+    "kotoba": "瑞雲",
+    "yomi": "ずい‐うん",
+    "link": "/word/%E7%91%9E%E9%9B%B2/#jn-116183"
+  },
+  {
+    "kotoba": "髄液",
+    "yomi": "ずい‐えき",
+    "link": "/word/%E9%AB%84%E6%B6%B2/#jn-116189"
+  },
+  {
+    "kotoba": "髄液排除試験",
+    "yomi": "ずいえきはいじょ‐しけん",
+    "link": "/word/%E9%AB%84%E6%B6%B2%E6%8E%92%E9%99%A4%E8%A9%A6%E9%A8%93/#jn-281191"
+  },
+  {
+    "kotoba": "随縁",
+    "yomi": "ずい‐えん",
+    "link": "/word/%E9%9A%8F%E7%B8%81/#jn-116196"
+  },
+  {
+    "kotoba": "随縁真如",
+    "yomi": "ずいえん‐しんにょ",
+    "link": "/word/%E9%9A%8F%E7%B8%81%E7%9C%9F%E5%A6%82/#jn-116198"
+  },
+  {
+    "kotoba": "随縁放曠",
+    "yomi": "ずいえん‐ほうこう",
+    "link": "/word/%E9%9A%8F%E7%B8%81%E6%94%BE%E6%9B%A0/#jn-116199"
+  },
+  {
+    "kotoba": "瑞応",
+    "yomi": "ずい‐おう",
+    "link": "/word/%E7%91%9E%E5%BF%9C/#jn-116200"
+  },
+  {
+    "kotoba": "瑞花",
+    "yomi": "ずい‐か",
+    "link": "/word/%E7%91%9E%E8%8A%B1/#jn-116218"
+  },
+  {
+    "kotoba": "髄核",
+    "yomi": "ずい‐かく",
+    "link": "/word/%E9%AB%84%E6%A0%B8/#jn-261204"
+  },
+  {
+    "kotoba": "随感",
+    "yomi": "ずい‐かん",
+    "link": "/word/%E9%9A%8F%E6%84%9F/#jn-116251"
+  },
+  {
+    "kotoba": "瑞巌寺",
+    "yomi": "ずいがん‐じ",
+    "link": "/word/%E7%91%9E%E5%B7%8C%E5%AF%BA/#jn-116255"
+  },
+  {
+    "kotoba": "芋茎",
+    "yomi": "ずいき",
+    "link": "/word/%E8%8A%8B%E8%8C%8E_%28%E3%81%9A%E3%81%84%E3%81%8D%29/#jn-116263"
+  },
+  {
+    "kotoba": "随喜",
+    "yomi": "ずい‐き",
+    "link": "/word/%E9%9A%8F%E5%96%9C/#jn-116264"
+  },
+  {
+    "kotoba": "瑞気",
+    "yomi": "ずい‐き",
+    "link": "/word/%E7%91%9E%E6%B0%97/#jn-116265"
+  },
+  {
+    "kotoba": "芋茎祭",
+    "yomi": "ずいき‐まつり",
+    "link": "/word/%E8%8A%8B%E8%8C%8E%E7%A5%AD/#jn-116267"
+  },
+  {
+    "kotoba": "瑞金",
+    "yomi": "ずいきん",
+    "link": "/word/%E7%91%9E%E9%87%91/#jn-116292"
+  },
+  {
+    "kotoba": "随形好",
+    "yomi": "ずいぎょう‐こう",
+    "link": "/word/%E9%9A%8F%E5%BD%A2%E5%A5%BD/#jn-116285"
+  },
+  {
+    "kotoba": "随契",
+    "yomi": "ずい‐けい",
+    "link": "/word/%E9%9A%8F%E5%A5%91/#jn-116314"
+  },
+  {
+    "kotoba": "瑞渓周鳳",
+    "yomi": "ずいけい‐しゅうほう",
+    "link": "/word/person/%E7%91%9E%E6%B8%93%E5%91%A8%E9%B3%B3/#jn-116317"
+  },
+  {
+    "kotoba": "瑞験",
+    "yomi": "ずい‐げん",
+    "link": "/word/%E7%91%9E%E9%A8%93/#jn-116325"
+  },
+  {
+    "kotoba": "随行",
+    "yomi": "ずい‐こう",
+    "link": "/word/%E9%9A%8F%E8%A1%8C/#jn-116343"
+  },
+  {
+    "kotoba": "瑞光",
+    "yomi": "ずい‐こう",
+    "link": "/word/%E7%91%9E%E5%85%89/#jn-116344"
+  },
+  {
+    "kotoba": "瑞香",
+    "yomi": "ずい‐こう",
+    "link": "/word/%E7%91%9E%E9%A6%99/#jn-116345"
+  },
+  {
+    "kotoba": "瑞光",
+    "yomi": "ずいこう",
+    "link": "/word/%E7%91%9E%E5%85%89/#jn-296366"
+  },
+  {
+    "kotoba": "随斎諧話",
+    "yomi": "ずいさいかいわ",
+    "link": "/word/%E9%9A%8F%E6%96%8E%E8%AB%A7%E8%A9%B1/#jn-275581"
+  },
+  {
+    "kotoba": "酔蟹",
+    "yomi": "スイシエ",
+    "link": "/word/%E9%85%94%E8%9F%B9/#jn-250651"
+  },
+  {
+    "kotoba": "髄質",
+    "yomi": "ずい‐しつ",
+    "link": "/word/%E9%AB%84%E8%B3%AA/#jn-116414"
+  },
+  {
+    "kotoba": "隋書",
+    "yomi": "ずいしょ",
+    "link": "/word/%E9%9A%8B%E6%9B%B8/#jn-116442"
+  },
+  {
+    "kotoba": "随所",
+    "yomi": "ずい‐しょ",
+    "link": "/word/%E9%9A%8F%E6%89%80/#jn-116443"
+  },
+  {
+    "kotoba": "随性",
+    "yomi": "ずい‐しょう",
+    "link": "/word/%E9%9A%8F%E6%80%A7/#jn-116457"
+  },
+  {
+    "kotoba": "瑞祥",
+    "yomi": "ずい‐しょう",
+    "link": "/word/%E7%91%9E%E7%A5%A5/#jn-116458"
+  },
+  {
+    "kotoba": "髄鞘",
+    "yomi": "ずい‐しょう",
+    "link": "/word/%E9%AB%84%E9%9E%98/#jn-116459"
+  },
+  {
+    "kotoba": "随身",
+    "yomi": "ずい‐じん",
+    "link": "/word/%E9%9A%8F%E8%BA%AB/#jn-116494"
+  },
+  {
+    "kotoba": "随心院",
+    "yomi": "ずいしん‐いん",
+    "link": "/word/%E9%9A%8F%E5%BF%83%E9%99%A2/#jn-116495"
+  },
+  {
+    "kotoba": "随身庭騎絵巻",
+    "yomi": "ずいじんていきえまき",
+    "link": "/word/%E9%9A%8F%E8%BA%AB%E5%BA%AD%E9%A8%8E%E7%B5%B5%E5%B7%BB/#jn-116499"
+  },
+  {
+    "kotoba": "随身所",
+    "yomi": "ずいじん‐どころ",
+    "link": "/word/%E9%9A%8F%E8%BA%AB%E6%89%80/#jn-116500"
+  },
+  {
+    "kotoba": "随身門",
+    "yomi": "ずいじん‐もん",
+    "link": "/word/%E9%9A%8F%E8%BA%AB%E9%96%80/#jn-116501"
+  },
+  {
+    "kotoba": "随時",
+    "yomi": "ずい‐じ",
+    "link": "/word/%E9%9A%8F%E6%99%82/#jn-116408"
+  },
+  {
+    "kotoba": "随時調整契約",
+    "yomi": "ずいじちょうせい‐けいやく",
+    "link": "/word/%E9%9A%8F%E6%99%82%E8%AA%BF%E6%95%B4%E5%A5%91%E7%B4%84/#jn-116411"
+  },
+  {
+    "kotoba": "随従",
+    "yomi": "ずい‐じゅう",
+    "link": "/word/%E9%9A%8F%E5%BE%93/#jn-116431"
+  },
+  {
+    "kotoba": "随順",
+    "yomi": "ずい‐じゅん",
+    "link": "/word/%E9%9A%8F%E9%A0%86/#jn-116433"
+  },
+  {
+    "kotoba": "瑞星",
+    "yomi": "ずい‐せい",
+    "link": "/word/%E7%91%9E%E6%98%9F/#jn-116522"
+  },
+  {
+    "kotoba": "瑞泉寺",
+    "yomi": "ずいせん‐じ",
+    "link": "/word/%E7%91%9E%E6%B3%89%E5%AF%BA/#jn-116549"
+  },
+  {
+    "kotoba": "随想",
+    "yomi": "ずい‐そう",
+    "link": "/word/%E9%9A%8F%E6%83%B3/#jn-116567"
+  },
+  {
+    "kotoba": "瑞相",
+    "yomi": "ずい‐そう",
+    "link": "/word/%E7%91%9E%E7%9B%B8/#jn-116568"
+  },
+  {
+    "kotoba": "随想録",
+    "yomi": "ずいそうろく",
+    "link": "/word/%E9%9A%8F%E6%83%B3%E9%8C%B2/#jn-116577"
+  },
+  {
+    "kotoba": "図板",
+    "yomi": "ず‐いた",
+    "link": "/word/%E5%9B%B3%E6%9D%BF/#jn-116595"
+  },
+  {
+    "kotoba": "随逐",
+    "yomi": "ずい‐ちく",
+    "link": "/word/%E9%9A%8F%E9%80%90/#jn-116617"
+  },
+  {
+    "kotoba": "瑞兆",
+    "yomi": "ずい‐ちょう",
+    "link": "/word/%E7%91%9E%E5%85%86/#jn-116634"
+  },
+  {
+    "kotoba": "瑞鳥",
+    "yomi": "ずい‐ちょう",
+    "link": "/word/%E7%91%9E%E9%B3%A5/#jn-116635"
+  },
+  {
+    "kotoba": "随徳寺",
+    "yomi": "ずいとく‐じ",
+    "link": "/word/%E9%9A%8F%E5%BE%B3%E5%AF%BA/#jn-116719"
+  },
+  {
+    "kotoba": "隧道",
+    "yomi": "すい‐どう",
+    "link": "/word/%E9%9A%A7%E9%81%93/#jn-116701"
+  },
+  {
+    "kotoba": "髄脳",
+    "yomi": "ずい‐のう",
+    "link": "/word/%E9%AB%84%E8%84%B3/#jn-116731"
+  },
+  {
+    "kotoba": "随伴",
+    "yomi": "ずい‐はん",
+    "link": "/word/%E9%9A%8F%E4%BC%B4/#jn-116752"
+  },
+  {
+    "kotoba": "随伴症状",
+    "yomi": "ずいはん‐しょうじょう",
+    "link": "/word/%E9%9A%8F%E4%BC%B4%E7%97%87%E7%8A%B6/#jn-277548"
+  },
+  {
+    "kotoba": "随伴植物",
+    "yomi": "ずいはん‐しょくぶつ",
+    "link": "/word/%E9%9A%8F%E4%BC%B4%E6%A4%8D%E7%89%A9/#jn-298019"
+  },
+  {
+    "kotoba": "随筆",
+    "yomi": "ずい‐ひつ",
+    "link": "/word/%E9%9A%8F%E7%AD%86/#jn-116764"
+  },
+  {
+    "kotoba": "随筆家",
+    "yomi": "ずいひつ‐か",
+    "link": "/word/%E9%9A%8F%E7%AD%86%E5%AE%B6/#jn-301901"
+  },
+  {
+    "kotoba": "随兵",
+    "yomi": "ずい‐ひょう",
+    "link": "/word/%E9%9A%8F%E5%85%B5/#jn-116767"
+  },
+  {
+    "kotoba": "瑞風",
+    "yomi": "ずい‐ふう",
+    "link": "/word/%E7%91%9E%E9%A2%A8/#jn-116775"
+  },
+  {
+    "kotoba": "綏撫",
+    "yomi": "すい‐ぶ",
+    "link": "/word/%E7%B6%8F%E6%92%AB/#jn-116774"
+  },
+  {
+    "kotoba": "瑞物",
+    "yomi": "ずい‐ぶつ",
+    "link": "/word/%E7%91%9E%E7%89%A9/#jn-116778"
+  },
+  {
+    "kotoba": "随分",
+    "yomi": "ずい‐ぶん",
+    "link": "/word/%E9%9A%8F%E5%88%86/#jn-116784"
+  },
+  {
+    "kotoba": "瑞宝章",
+    "yomi": "ずいほう‐しょう",
+    "link": "/word/%E7%91%9E%E5%AE%9D%E7%AB%A0/#jn-116828"
+  },
+  {
+    "kotoba": "瑞鳳寺",
+    "yomi": "ずいほう‐じ",
+    "link": "/word/%E7%91%9E%E9%B3%B3%E5%AF%BA/#jn-116827"
+  },
+  {
+    "kotoba": "瑞鳳殿",
+    "yomi": "ずいほう‐でん",
+    "link": "/word/%E7%91%9E%E9%B3%B3%E6%AE%BF/#jn-250660"
+  },
+  {
+    "kotoba": "髄膜",
+    "yomi": "ずい‐まく",
+    "link": "/word/%E9%AB%84%E8%86%9C/#jn-116840"
+  },
+  {
+    "kotoba": "髄膜炎",
+    "yomi": "ずいまく‐えん",
+    "link": "/word/%E9%AB%84%E8%86%9C%E7%82%8E/#jn-116841"
+  },
+  {
+    "kotoba": "髄膜炎菌性髄膜炎",
+    "yomi": "ずいまくえんきんせい‐ずいまくえん",
+    "link": "/word/%E9%AB%84%E8%86%9C%E7%82%8E%E8%8F%8C%E6%80%A7%E9%AB%84%E8%86%9C%E7%82%8E/#jn-116842"
+  },
+  {
+    "kotoba": "髄膜腫",
+    "yomi": "ずいまく‐しゅ",
+    "link": "/word/%E9%AB%84%E8%86%9C%E8%85%AB/#jn-268708"
+  },
+  {
+    "kotoba": "瑞夢",
+    "yomi": "ずい‐む",
+    "link": "/word/%E7%91%9E%E5%A4%A2/#jn-116866"
+  },
+  {
+    "kotoba": "髄虫",
+    "yomi": "ずい‐むし",
+    "link": "/word/%E9%AB%84%E8%99%AB/#jn-116869"
+  },
+  {
+    "kotoba": "髄虫赤卵蜂",
+    "yomi": "ずいむし‐あかたまごばち",
+    "link": "/word/%E9%AB%84%E8%99%AB%E8%B5%A4%E5%8D%B5%E8%9C%82/#jn-116870"
+  },
+  {
+    "kotoba": "瑞竜山",
+    "yomi": "ずいりゅう‐ざん",
+    "link": "/word/%E7%91%9E%E7%AB%9C%E5%B1%B1/#jn-116930"
+  },
+  {
+    "kotoba": "瑞竜寺",
+    "yomi": "ずいりゅう‐じ",
+    "link": "/word/%E7%91%9E%E7%AB%9C%E5%AF%BA/#jn-116931"
+  },
+  {
+    "kotoba": "図体",
+    "yomi": "ずう‐たい",
+    "link": "/word/%E5%9B%B3%E4%BD%93/#jn-117079"
+  },
+  {
+    "kotoba": "図会",
+    "yomi": "ず‐え",
+    "link": "/word/%E5%9B%B3%E4%BC%9A/#jn-117222"
+  },
+  {
+    "kotoba": "図絵",
+    "yomi": "ず‐え",
+    "link": "/word/%E5%9B%B3%E7%B5%B5/#jn-117223"
+  },
+  {
+    "kotoba": "頭重",
+    "yomi": "ず‐おも",
+    "link": "/word/%E9%A0%AD%E9%87%8D/#jn-117317"
+  },
+  {
+    "kotoba": "図解",
+    "yomi": "ず‐かい",
+    "link": "/word/%E5%9B%B3%E8%A7%A3/#jn-117334"
+  },
+  {
+    "kotoba": "図鑑",
+    "yomi": "ず‐かん",
+    "link": "/word/%E5%9B%B3%E9%91%91/#jn-117511"
+  },
+  {
+    "kotoba": "頭寒足熱",
+    "yomi": "ずかん‐そくねつ",
+    "link": "/word/%E9%A0%AD%E5%AF%92%E8%B6%B3%E7%86%B1/#jn-117518"
+  },
+  {
+    "kotoba": "図画",
+    "yomi": "ず‐が",
+    "link": "/word/%E5%9B%B3%E7%94%BB/#jn-117323"
+  },
+  {
+    "kotoba": "頭蓋",
+    "yomi": "ず‐がい",
+    "link": "/word/%E9%A0%AD%E8%93%8B/#jn-117335"
+  },
+  {
+    "kotoba": "頭蓋冠",
+    "yomi": "とうがい‐かん",
+    "link": "/word/%E9%A0%AD%E8%93%8B%E5%86%A0/#jn-291540"
+  },
+  {
+    "kotoba": "頭蓋骨",
+    "yomi": "ずがい‐こつ",
+    "link": "/word/%E9%A0%AD%E8%93%8B%E9%AA%A8/#jn-117338"
+  },
+  {
+    "kotoba": "頭蓋内圧",
+    "yomi": "ずがい‐ないあつ",
+    "link": "/word/%E9%A0%AD%E8%93%8B%E5%86%85%E5%9C%A7/#jn-281199"
+  },
+  {
+    "kotoba": "頭蓋内石灰化",
+    "yomi": "ずがいない‐せっかいか",
+    "link": "/word/%E9%A0%AD%E8%93%8B%E5%86%85%E7%9F%B3%E7%81%B0%E5%8C%96/#jn-302699"
+  },
+  {
+    "kotoba": "頭蓋表筋",
+    "yomi": "とうがいひょう‐きん",
+    "link": "/word/%E9%A0%AD%E8%93%8B%E8%A1%A8%E7%AD%8B/#jn-291541"
+  },
+  {
+    "kotoba": "図画工作",
+    "yomi": "ずが‐こうさく",
+    "link": "/word/%E5%9B%B3%E7%94%BB%E5%B7%A5%E4%BD%9C/#jn-117375"
+  },
+  {
+    "kotoba": "図柄",
+    "yomi": "ず‐がら",
+    "link": "/word/%E5%9B%B3%E6%9F%84/#jn-117462"
+  },
+  {
+    "kotoba": "誦経",
+    "yomi": "ず‐きょう",
+    "link": "/word/%E8%AA%A6%E7%B5%8C_%28%E3%81%9A%E3%81%8D%E3%82%87%E3%81%86%29/#jn-117755"
+  },
+  {
+    "kotoba": "頭巾",
+    "yomi": "ず‐きん",
+    "link": "/word/%E9%A0%AD%E5%B7%BE_%28%E3%81%9A%E3%81%8D%E3%82%93%29/#jn-117772"
+  },
+  {
+    "kotoba": "木菟",
+    "yomi": "ずく",
+    "link": "/word/%E6%9C%A8%E8%8F%9F_%28%E3%81%9A%E3%81%8F%29/#jn-117797"
+  },
+  {
+    "kotoba": "銑銭",
+    "yomi": "ずく‐せん",
+    "link": "/word/%E9%8A%91%E9%8A%AD/#jn-117862"
+  },
+  {
+    "kotoba": "銑鉄",
+    "yomi": "ずく‐てつ",
+    "link": "/word/%E9%8A%91%E9%89%84_%28%E3%81%9A%E3%81%8F%E3%81%A6%E3%81%A4%29/#jn-117866"
+  },
+  {
+    "kotoba": "木菟入",
+    "yomi": "ずく‐にゅう",
+    "link": "/word/%E6%9C%A8%E8%8F%9F%E5%85%A5/#jn-117882"
+  },
+  {
+    "kotoba": "頭黒鴎",
+    "yomi": "ずぐろ‐かもめ",
+    "link": "/word/%E9%A0%AD%E9%BB%92%E9%B4%8E/#jn-275597"
+  },
+  {
+    "kotoba": "図形",
+    "yomi": "ず‐けい",
+    "link": "/word/%E5%9B%B3%E5%BD%A2/#jn-117986"
+  },
+  {
+    "kotoba": "徒刑",
+    "yomi": "ず‐けい",
+    "link": "/word/%E5%BE%92%E5%88%91_%28%E3%81%9A%E3%81%91%E3%81%84%29/#jn-117987"
+  },
+  {
+    "kotoba": "図工",
+    "yomi": "ず‐こう",
+    "link": "/word/%E5%9B%B3%E5%B7%A5/#jn-118078"
+  },
+  {
+    "kotoba": "塗香",
+    "yomi": "ず‐こう",
+    "link": "/word/%E5%A1%97%E9%A6%99/#jn-118079"
+  },
+  {
+    "kotoba": "頭甲",
+    "yomi": "ず‐こう",
+    "link": "/word/%E9%A0%AD%E7%94%B2/#jn-118080"
+  },
+  {
+    "kotoba": "頭光",
+    "yomi": "ず‐こう",
+    "link": "/word/%E9%A0%AD%E5%85%89/#jn-118081"
+  },
+  {
+    "kotoba": "頭香",
+    "yomi": "ず‐こう",
+    "link": "/word/%E9%A0%AD%E9%A6%99/#jn-118082"
+  },
+  {
+    "kotoba": "従者",
+    "yomi": "ず‐さ",
+    "link": "/word/%E5%BE%93%E8%80%85_%28%E3%81%9A%E3%81%95%29/#jn-118150"
+  },
+  {
+    "kotoba": "儒者",
+    "yomi": "ず‐さ",
+    "link": "/word/%E5%84%92%E8%80%85/#jn-118151"
+  },
+  {
+    "kotoba": "杜撰",
+    "yomi": "ず‐さん",
+    "link": "/word/%E6%9D%9C%E6%92%B0/#jn-118181"
+  },
+  {
+    "kotoba": "徒罪",
+    "yomi": "ず‐ざい",
+    "link": "/word/%E5%BE%92%E7%BD%AA_%28%E3%81%9A%E3%81%96%E3%81%84%29/#jn-118153"
+  },
+  {
+    "kotoba": "逗子",
+    "yomi": "ずし",
+    "link": "/word/%E9%80%97%E5%AD%90/#jn-118192"
+  },
+  {
+    "kotoba": "図示",
+    "yomi": "ず‐し",
+    "link": "/word/%E5%9B%B3%E7%A4%BA/#jn-118189"
+  },
+  {
+    "kotoba": "図師",
+    "yomi": "ず‐し",
+    "link": "/word/%E5%9B%B3%E5%B8%AB/#jn-118190"
+  },
+  {
+    "kotoba": "呪師",
+    "yomi": "ず‐し",
+    "link": "/word/%E5%91%AA%E5%B8%AB_%28%E3%81%9A%E3%81%97%29/#jn-118191"
+  },
+  {
+    "kotoba": "厨子",
+    "yomi": "ず‐し",
+    "link": "/word/%E5%8E%A8%E5%AD%90/#jn-118193"
+  },
+  {
+    "kotoba": "厨子王",
+    "yomi": "ずし‐おう",
+    "link": "/word/%E5%8E%A8%E5%AD%90%E7%8E%8B/#jn-118198"
+  },
+  {
+    "kotoba": "図式",
+    "yomi": "ず‐しき",
+    "link": "/word/%E5%9B%B3%E5%BC%8F/#jn-118209"
+  },
+  {
+    "kotoba": "逗子市",
+    "yomi": "ずし‐し",
+    "link": "/word/%E9%80%97%E5%AD%90%E5%B8%82/#jn-118216"
+  },
+  {
+    "kotoba": "図示出力",
+    "yomi": "ずし‐しゅつりょく",
+    "link": "/word/%E5%9B%B3%E7%A4%BA%E5%87%BA%E5%8A%9B/#jn-118217"
+  },
+  {
+    "kotoba": "厨子棚",
+    "yomi": "ずし‐だな",
+    "link": "/word/%E5%8E%A8%E5%AD%90%E6%A3%9A/#jn-118222"
+  },
+  {
+    "kotoba": "図示馬力",
+    "yomi": "ずし‐ばりき",
+    "link": "/word/%E5%9B%B3%E7%A4%BA%E9%A6%AC%E5%8A%9B/#jn-118232"
+  },
+  {
+    "kotoba": "豆州",
+    "yomi": "ず‐しゅう",
+    "link": "/word/%E8%B1%86%E5%B7%9E/#jn-118253"
+  },
+  {
+    "kotoba": "図書",
+    "yomi": "ず‐しょ",
+    "link": "/word/%E5%9B%B3%E6%9B%B8/#jn-118256"
+  },
+  {
+    "kotoba": "図書頭",
+    "yomi": "ずしょ‐の‐かみ",
+    "link": "/word/%E5%9B%B3%E6%9B%B8%E9%A0%AD/#jn-118261"
+  },
+  {
+    "kotoba": "調所広郷",
+    "yomi": "ずしょ‐ひろさと",
+    "link": "/word/person/%E8%AA%BF%E6%89%80%E5%BA%83%E9%83%B7/#jn-118262"
+  },
+  {
+    "kotoba": "図書寮",
+    "yomi": "ずしょ‐りょう",
+    "link": "/word/%E5%9B%B3%E6%9B%B8%E5%AF%AE_%28%E3%81%9A%E3%81%97%E3%82%87%E3%82%8A%E3%82%87%E3%81%86%29/#jn-118263"
+  },
+  {
+    "kotoba": "図心",
+    "yomi": "ず‐しん",
+    "link": "/word/%E5%9B%B3%E5%BF%83/#jn-118269"
+  },
+  {
+    "kotoba": "頭上",
+    "yomi": "ず‐じょう",
+    "link": "/word/%E9%A0%AD%E4%B8%8A/#jn-118259"
+  },
+  {
+    "kotoba": "数珠",
+    "yomi": "ず‐ず",
+    "link": "/word/%E6%95%B0%E7%8F%A0_%28%E3%81%9A%E3%81%9A%29/#jn-118282"
+  },
+  {
+    "kotoba": "数珠掛鳩",
+    "yomi": "ずずかけ‐ばと",
+    "link": "/word/%E6%95%B0%E7%8F%A0%E6%8E%9B%E9%B3%A9_%28%E3%81%9A%E3%81%9A%E3%81%8B%E3%81%91%E3%81%B0%E3%81%A8%29/#jn-118293"
+  },
+  {
+    "kotoba": "数珠子",
+    "yomi": "ずず‐こ",
+    "link": "/word/%E6%95%B0%E7%8F%A0%E5%AD%90/#jn-118354"
+  },
+  {
+    "kotoba": "数珠玉",
+    "yomi": "ずず‐だま",
+    "link": "/word/%E6%95%B0%E7%8F%A0%E7%8E%89_%28%E3%81%9A%E3%81%9A%E3%81%A0%E3%81%BE%29/#jn-118377"
+  },
+  {
+    "kotoba": "図籍",
+    "yomi": "ず‐せき",
+    "link": "/word/%E5%9B%B3%E7%B1%8D/#jn-118484"
+  },
+  {
+    "kotoba": "図説",
+    "yomi": "ず‐せつ",
+    "link": "/word/%E5%9B%B3%E8%AA%AC/#jn-118485"
+  },
+  {
+    "kotoba": "呪詛",
+    "yomi": "ず‐そ",
+    "link": "/word/%E5%91%AA%E8%A9%9B_%28%E3%81%9A%E3%81%9D%29/#jn-118489"
+  },
+  {
+    "kotoba": "従僧",
+    "yomi": "ず‐そう",
+    "link": "/word/%E5%BE%93%E5%83%A7/#jn-118491"
+  },
+  {
+    "kotoba": "図像",
+    "yomi": "ず‐ぞう",
+    "link": "/word/%E5%9B%B3%E5%83%8F/#jn-118492"
+  },
+  {
+    "kotoba": "図像学",
+    "yomi": "ずぞう‐がく",
+    "link": "/word/%E5%9B%B3%E5%83%8F%E5%AD%A6/#jn-118493"
+  },
+  {
+    "kotoba": "寸寸",
+    "yomi": "ずた‐ずた",
+    "link": "/word/%E5%AF%B8%E5%AF%B8_%28%E3%81%9A%E3%81%9F%E3%81%9A%E3%81%9F%29/#jn-118620"
+  },
+  {
+    "kotoba": "頭陀",
+    "yomi": "ずだ",
+    "link": "/word/%E9%A0%AD%E9%99%80/#jn-118531"
+  },
+  {
+    "kotoba": "図題",
+    "yomi": "ず‐だい",
+    "link": "/word/%E5%9B%B3%E9%A1%8C/#jn-118583"
+  },
+  {
+    "kotoba": "頭陀行",
+    "yomi": "ずだ‐ぎょう",
+    "link": "/word/%E9%A0%AD%E9%99%80%E8%A1%8C/#jn-118605"
+  },
+  {
+    "kotoba": "頭陀袋",
+    "yomi": "ずだ‐ぶくろ",
+    "link": "/word/%E9%A0%AD%E9%99%80%E8%A2%8B/#jn-118666"
+  },
+  {
+    "kotoba": "喘息薬種",
+    "yomi": "ずだ‐やくしゅ",
+    "link": "/word/%E5%96%98%E6%81%AF%E8%96%AC%E7%A8%AE/#jn-118674"
+  },
+  {
+    "kotoba": "図帳",
+    "yomi": "ず‐ちょう",
+    "link": "/word/%E5%9B%B3%E5%B8%B3/#jn-118766"
+  },
+  {
+    "kotoba": "頭頂",
+    "yomi": "ず‐ちょう",
+    "link": "/word/%E9%A0%AD%E9%A0%82_%28%E3%81%9A%E3%81%A1%E3%82%87%E3%81%86%29/#jn-118767"
+  },
+  {
+    "kotoba": "頭痛",
+    "yomi": "ず‐つう",
+    "link": "/word/%E9%A0%AD%E7%97%9B/#jn-118781"
+  },
+  {
+    "kotoba": "徒人",
+    "yomi": "ず‐にん",
+    "link": "/word/%E5%BE%92%E4%BA%BA_%28%E3%81%9A%E3%81%AB%E3%82%93%29/#jn-119362"
+  },
+  {
+    "kotoba": "頭熱",
+    "yomi": "ず‐ねつ",
+    "link": "/word/%E9%A0%AD%E7%86%B1/#jn-119384"
+  },
+  {
+    "kotoba": "頭燃",
+    "yomi": "ず‐ねん",
+    "link": "/word/%E9%A0%AD%E7%87%83/#jn-119391"
+  },
+  {
+    "kotoba": "図嚢",
+    "yomi": "ず‐のう",
+    "link": "/word/%E5%9B%B3%E5%9A%A2/#jn-119394"
+  },
+  {
+    "kotoba": "頭脳",
+    "yomi": "ず‐のう",
+    "link": "/word/%E9%A0%AD%E8%84%B3/#jn-119395"
+  },
+  {
+    "kotoba": "頭脳集団",
+    "yomi": "ずのう‐しゅうだん",
+    "link": "/word/%E9%A0%AD%E8%84%B3%E9%9B%86%E5%9B%A3/#jn-119396"
+  },
+  {
+    "kotoba": "頭脳流出",
+    "yomi": "ずのう‐りゅうしゅつ",
+    "link": "/word/%E9%A0%AD%E8%84%B3%E6%B5%81%E5%87%BA/#jn-119397"
+  },
+  {
+    "kotoba": "頭脳労働",
+    "yomi": "ずのう‐ろうどう",
+    "link": "/word/%E9%A0%AD%E8%84%B3%E5%8A%B4%E5%83%8D/#jn-119398"
+  },
+  {
+    "kotoba": "図版",
+    "yomi": "ず‐はん",
+    "link": "/word/%E5%9B%B3%E7%89%88/#jn-119543"
+  },
+  {
+    "kotoba": "図表",
+    "yomi": "ず‐ひょう",
+    "link": "/word/%E5%9B%B3%E8%A1%A8/#jn-119596"
+  },
+  {
+    "kotoba": "図譜",
+    "yomi": "ず‐ふ",
+    "link": "/word/%E5%9B%B3%E8%AD%9C/#jn-119624"
+  },
+  {
+    "kotoba": "図法",
+    "yomi": "ず‐ほう",
+    "link": "/word/%E5%9B%B3%E6%B3%95/#jn-119826"
+  },
+  {
+    "kotoba": "修法",
+    "yomi": "ず‐ほう",
+    "link": "/word/%E4%BF%AE%E6%B3%95_%28%E3%81%9A%E3%81%BB%E3%81%86%29/#jn-119827"
+  },
+  {
+    "kotoba": "頭北面西右脇臥",
+    "yomi": "ずほくめんさい‐うきょうが",
+    "link": "/word/%E9%A0%AD%E5%8C%97%E9%9D%A2%E8%A5%BF%E5%8F%B3%E8%84%87%E8%87%A5/#jn-119861"
+  },
+  {
+    "kotoba": "図星",
+    "yomi": "ず‐ぼし",
+    "link": "/word/%E5%9B%B3%E6%98%9F/#jn-119866"
+  },
+  {
+    "kotoba": "豆満江",
+    "yomi": "ずまん‐こう",
+    "link": "/word/%E8%B1%86%E6%BA%80%E6%B1%9F/#jn-119976"
+  },
+  {
+    "kotoba": "図面",
+    "yomi": "ず‐めん",
+    "link": "/word/%E5%9B%B3%E9%9D%A2/#jn-120190"
+  },
+  {
+    "kotoba": "誦文",
+    "yomi": "ず‐もん",
+    "link": "/word/%E8%AA%A6%E6%96%87/#jn-120240"
+  },
+  {
+    "kotoba": "図葉",
+    "yomi": "ず‐よう",
+    "link": "/word/%E5%9B%B3%E8%91%89/#jn-120259"
+  },
+  {
+    "kotoba": "図様",
+    "yomi": "ず‐よう",
+    "link": "/word/%E5%9B%B3%E6%A7%98/#jn-120260"
+  },
+  {
+    "kotoba": "受領",
+    "yomi": "ず‐りょう",
+    "link": "/word/%E5%8F%97%E9%A0%98_%28%E3%81%9A%E3%82%8A%E3%82%87%E3%81%86%29/#jn-120501"
+  },
+  {
+    "kotoba": "受領職",
+    "yomi": "ずりょう‐しょく",
+    "link": "/word/%E5%8F%97%E9%A0%98%E8%81%B7/#jn-120503"
+  },
+  {
+    "kotoba": "受領銘",
+    "yomi": "ずりょう‐めい",
+    "link": "/word/%E5%8F%97%E9%A0%98%E9%8A%98/#jn-120504"
+  },
+  {
+    "kotoba": "杜漏",
+    "yomi": "ず‐ろう",
+    "link": "/word/%E6%9D%9C%E6%BC%8F/#jn-120604"
+  },
+  {
+    "kotoba": "受領",
+    "yomi": "ず‐ろう",
+    "link": "/word/%E5%8F%97%E9%A0%98_%28%E3%81%9A%E3%82%8D%E3%81%86%29/#jn-120603"
+  },
+  {
+    "kotoba": "図録",
+    "yomi": "ず‐ろく",
+    "link": "/word/%E5%9B%B3%E9%8C%B2/#jn-120634"
+  },
+  {
+    "kotoba": "寸寸",
+    "yomi": "すん‐ずん",
+    "link": "/word/%E5%AF%B8%E5%AF%B8_%28%E3%81%99%E3%82%93%E3%81%9A%E3%82%93%29/#jn-120752"
+  },
+  {
+    "kotoba": "寸胴",
+    "yomi": "ずん‐ど",
+    "link": "/word/%E5%AF%B8%E8%83%B4_%28%E3%81%9A%E3%82%93%E3%81%A9%29/#jn-120776"
+  },
+  {
+    "kotoba": "寸胴",
+    "yomi": "ずん‐どう",
+    "link": "/word/%E5%AF%B8%E8%83%B4_%28%E3%81%9A%E3%82%93%E3%81%A9%E3%81%86%29/#jn-120778"
+  },
+  {
+    "kotoba": "飄石",
+    "yomi": "ずん‐ばい",
+    "link": "/word/%E9%A3%84%E7%9F%B3/#jn-120789"
+  },
+  {
+    "kotoba": "道富波留麻",
+    "yomi": "ズーフハルマ",
+    "link": "/word/%E9%81%93%E5%AF%8C%E6%B3%A2%E7%95%99%E9%BA%BB/#jn-117182"
+  }
+]
